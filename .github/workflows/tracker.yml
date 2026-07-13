@@ -40,7 +40,18 @@ jobs:
           git add seen_ids.json report.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "Update tracker state [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "Update tracker state [skip ci]"
+
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Push succeeded"
+              exit 0
+            fi
+            echo "Push rejected, pulling and retrying ($i/5)..."
+            git pull --rebase origin main
+            sleep $((RANDOM % 10 + 1))
+          done
+          echo "Push failed after retries"
+          exit 1
