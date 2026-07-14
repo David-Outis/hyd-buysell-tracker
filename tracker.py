@@ -30,11 +30,19 @@ from datetime import datetime, timedelta, timezone
 
 SUBREDDITS = ["HyderabadBuySell", "HyderabadUsedItems"]
 
-# Multiple fallback endpoints per subreddit (tried in order until one works)
+# Multiple fallback endpoints per subreddit (tried in order until one works).
+# .json endpoints are tried first since they're structured and easy to parse.
+# The .rss endpoint is included as a fallback since it's an older, simpler
+# endpoint that has sometimes remained accessible when .json gets blocked.
 ENDPOINT_TEMPLATES = [
     "https://www.reddit.com/r/{sub}/new.json?limit=100",
     "https://old.reddit.com/r/{sub}/new.json?limit=100",
     "https://reddit.com/r/{sub}/new.json?limit=100",
+]
+
+RSS_ENDPOINT_TEMPLATES = [
+    "https://www.reddit.com/r/{sub}/new/.rss",
+    "https://old.reddit.com/r/{sub}/new/.rss",
 ]
 
 USER_AGENT = "HyderabadBuySellTracker/2.0 (by u/anonymous; contact via repo issues)"
@@ -261,6 +269,16 @@ def fetch_json(url):
                 time.sleep(wait)
                 continue
 
+            if e.code == 403:
+                # 403 means blocked/forbidden, not "try again shortly" like
+                # 429. Retrying the *same* endpoint repeatedly almost never
+                # helps here (it's usually an IP or User-Agent block), so
+                # fail fast and let the caller move on to the next fallback
+                # endpoint instead of burning minutes on backoff.
+                log(f"HTTP 403 (forbidden/blocked) on this endpoint, "
+                    f"not retrying it further.")
+                return None
+
             wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
             log(f"HTTP error ({e.code}) attempt {attempt}/{MAX_RETRIES}, retrying in {wait:.1f}s")
             time.sleep(wait)
@@ -273,8 +291,109 @@ def fetch_json(url):
     return None
 
 
+def fetch_raw(url):
+    """Like fetch_json but returns raw bytes instead of parsed JSON, with the
+    same retry/backoff/403-fail-fast behavior. Used for the RSS fallback."""
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                return resp.read()
+
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                retry_after = e.headers.get("Retry-After") if e.headers else None
+                if retry_after:
+                    try:
+                        wait = float(retry_after)
+                    except ValueError:
+                        wait = RATE_LIMIT_BASE_SECONDS * attempt
+                else:
+                    wait = min(RATE_LIMIT_BASE_SECONDS * attempt, RATE_LIMIT_MAX_SECONDS)
+                wait += random.uniform(0, 5)
+                log(f"Rate limited (429) attempt {attempt}/{MAX_RETRIES}, "
+                    f"backing off {wait:.1f}s")
+                time.sleep(wait)
+                continue
+
+            if e.code == 403:
+                log(f"HTTP 403 (forbidden/blocked) on this endpoint, "
+                    f"not retrying it further.")
+                return None
+
+            wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
+            log(f"HTTP error ({e.code}) attempt {attempt}/{MAX_RETRIES}, retrying in {wait:.1f}s")
+            time.sleep(wait)
+
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
+            log(f"Fetch failed ({e}) attempt {attempt}/{MAX_RETRIES}, retrying in {wait:.1f}s")
+            time.sleep(wait)
+    return None
+
+
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
+
+
+def parse_rss_feed(raw_bytes):
+    """
+    Parse Reddit's Atom-format RSS feed into the same shape the rest of the
+    script expects from the .json endpoint: a list of {"data": {...}} dicts
+    with id, title, created_utc, permalink.
+    """
+    import xml.etree.ElementTree as ET
+
+    try:
+        root = ET.fromstring(raw_bytes)
+    except ET.ParseError as e:
+        log(f"Failed to parse RSS/Atom feed: {e}")
+        return []
+
+    posts = []
+    for entry in root.findall(f"{ATOM_NS}entry"):
+        try:
+            entry_id_raw = entry.findtext(f"{ATOM_NS}id", default="")
+            # Reddit's Atom id looks like: t3_abc123
+            m = re.search(r"t3_([a-z0-9]+)", entry_id_raw)
+            post_id = m.group(1) if m else entry_id_raw
+
+            title = (entry.findtext(f"{ATOM_NS}title", default="") or "").strip()
+
+            link_el = entry.find(f"{ATOM_NS}link")
+            permalink = link_el.get("href") if link_el is not None else ""
+
+            time_str = (entry.findtext(f"{ATOM_NS}published")
+                        or entry.findtext(f"{ATOM_NS}updated"))
+            if time_str:
+                # e.g. 2026-07-14T18:40:00+00:00
+                dt = datetime.fromisoformat(time_str.replace("Z", "+00:00"))
+                created_utc = dt.timestamp()
+            else:
+                created_utc = datetime.now(timezone.utc).timestamp()
+
+            if not post_id or not title:
+                continue
+
+            posts.append({
+                "data": {
+                    "id": post_id,
+                    "title": title,
+                    "created_utc": created_utc,
+                    "permalink": permalink.replace("https://reddit.com", "")
+                                            .replace("https://www.reddit.com", "")
+                                            .replace("https://old.reddit.com", ""),
+                }
+            })
+        except Exception as e:
+            log(f"Skipping malformed RSS entry: {e}")
+            continue
+
+    return posts
+
+
 def fetch_subreddit_posts(sub):
-    """Try each fallback endpoint until one succeeds."""
+    """Try each .json fallback endpoint first, then fall back to the RSS/Atom
+    feed if every .json endpoint fails (e.g. all blocked with 403)."""
     for template in ENDPOINT_TEMPLATES:
         url = template.format(sub=sub)
         data = fetch_json(url)
@@ -283,7 +402,18 @@ def fetch_subreddit_posts(sub):
                 return data["data"]["children"]
             except (KeyError, TypeError):
                 continue
-    log(f"All endpoints failed for r/{sub}; skipping this subreddit for this run.")
+
+    log(f"All .json endpoints failed for r/{sub}; trying RSS fallback.")
+    for template in RSS_ENDPOINT_TEMPLATES:
+        url = template.format(sub=sub)
+        raw = fetch_raw(url)
+        if raw:
+            posts = parse_rss_feed(raw)
+            if posts:
+                log(f"RSS fallback succeeded for r/{sub} ({len(posts)} entries).")
+                return posts
+
+    log(f"All endpoints (json + rss) failed for r/{sub}; skipping this subreddit for this run.")
     return []
 
 
