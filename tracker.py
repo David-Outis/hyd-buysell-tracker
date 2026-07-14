@@ -746,6 +746,7 @@ def main():
                         "price": price,
                         "score": score,
                         "selftext": selftext,
+                        "sub": sub,
                     })
                 # New posts are never notified same-run (yet) - they go
                 # through the fast recheck below before falling back to
@@ -785,7 +786,8 @@ def main():
         time.sleep(FAST_RECHECK_DELAY_SECONDS)
 
         still_present_ids = set()
-        for sub in SUBREDDITS:
+        subs_to_recheck = sorted({item["sub"] for item in new_pending})
+        for sub in subs_to_recheck:
             recheck_posts = fetch_subreddit_posts(sub)
             for post in recheck_posts:
                 try:
