@@ -711,11 +711,11 @@ def main():
         posts = fetch_subreddit_posts(sub)
         total_fetched += len(posts)
 
-        # Small pause between subreddits to reduce the chance of tripping
-        # a rate limit back-to-back, since .rss is now the primary working
+        # Pause between subreddits to reduce the chance of tripping a rate
+        # limit in the first place, since .rss is now the primary working
         # path (not just an occasional fallback) after .json got blocked.
         if sub != SUBREDDITS[-1]:
-            time.sleep(3)
+            time.sleep(30)
 
         for post in posts:
             try:
