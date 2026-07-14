@@ -74,14 +74,8 @@ REPOST_WINDOW_DAYS = 7
 # Minimum score for a listing to be reported (Part 11)
 SCORE_THRESHOLD = 50
 
-# Fast recheck: instead of waiting for the next scheduled (30-min) run to
-# verify a brand-new post still exists, wait this many seconds within the
-# same run and recheck immediately. Keeps false-positive protection while
-# cutting notification latency drastically for items that sell fast.
-FAST_RECHECK_DELAY_SECONDS = 45
-
 # Network retry/backoff
-MAX_RETRIES = 4
+MAX_RETRIES = 2
 BASE_BACKOFF_SECONDS = 2
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
@@ -267,8 +261,8 @@ def prune_state(state):
 # Rate-limit (429) specific backoff config - deliberately longer/slower than
 # the generic error backoff, since hammering Reddit while rate-limited risks
 # a longer or harsher block.
-RATE_LIMIT_BASE_SECONDS = 30
-RATE_LIMIT_MAX_SECONDS = 90
+RATE_LIMIT_BASE_SECONDS = 15
+RATE_LIMIT_MAX_SECONDS = 45
 
 
 def fetch_json(url):
@@ -473,24 +467,48 @@ def fetch_subreddit_posts(sub):
     return []
 
 
+NTFY_MAX_RETRIES = 2
+NTFY_RETRY_BACKOFF_SECONDS = 5
+
+
+def _ascii_safe_title(title):
+    """HTTP headers must be Latin-1 encodable. Titles can contain characters
+    like en-dashes (\u2013), curly quotes, etc. that crash urllib if sent
+    raw in a header. Strip/replace anything outside Latin-1 rather than
+    letting the whole notification fail."""
+    return title.encode("latin-1", errors="replace").decode("latin-1")
+
+
 def send_ntfy(title, message):
     if not NTFY_URL:
         return
-    try:
-        req = urllib.request.Request(
-            NTFY_URL,
-            data=message.encode("utf-8"),
-            headers={
-                "Title": title,
-                "Priority": "default",
-                "User-Agent": USER_AGENT,
-            },
-            method="POST",
-        )
-        urllib.request.urlopen(req, timeout=10)
-    except Exception as e:
-        # Part 13: ntfy failing must never stop the run
-        log(f"ntfy notification failed: {e}")
+
+    safe_title = _ascii_safe_title(title)
+
+    for attempt in range(1, NTFY_MAX_RETRIES + 1):
+        try:
+            req = urllib.request.Request(
+                NTFY_URL,
+                data=message.encode("utf-8"),
+                headers={
+                    "Title": safe_title,
+                    "Priority": "default",
+                    "User-Agent": USER_AGENT,
+                },
+                method="POST",
+            )
+            urllib.request.urlopen(req, timeout=10)
+            return
+        except Exception as e:
+            # Network is unreachable / transient errors get one quick retry;
+            # anything still failing after that must never stop the run
+            # (Part 13).
+            if attempt < NTFY_MAX_RETRIES:
+                log(f"ntfy notification failed ({e}), retrying "
+                    f"({attempt}/{NTFY_MAX_RETRIES})...")
+                time.sleep(NTFY_RETRY_BACKOFF_SECONDS)
+            else:
+                log(f"ntfy notification failed: {e}")
 
 
 # ----------------------------------------------------------------------------
@@ -655,7 +673,6 @@ def main():
 
     report_sections = {cat: [] for cat in ["Mobiles", "Laptops", "Tablets", "Consoles"]}
     to_notify = []  # (title, permalink, category, price, score, selftext)
-    new_pending = []  # freshly-seen posts this run, awaiting fast recheck
 
     total_fetched = 0
     total_matched = 0
@@ -724,7 +741,7 @@ def main():
                 # Check repost against fingerprint history first
                 repost_of = find_repost(fingerprint, state, post_id)
                 state[post_id] = {
-                    "state": "pending",
+                    "state": "notified",
                     "first_seen": now_iso,
                     "last_seen": now_iso,
                     "fingerprint": fingerprint,
@@ -734,23 +751,10 @@ def main():
                 }
                 if repost_of:
                     # Treat as repost: skip notifying again, just track it.
-                    state[post_id]["state"] = "notified"
                     total_updated += 1
                 else:
                     total_new += 1
-                    new_pending.append({
-                        "id": post_id,
-                        "title": title,
-                        "permalink": permalink,
-                        "category": category,
-                        "price": price,
-                        "score": score,
-                        "selftext": selftext,
-                        "sub": sub,
-                    })
-                # New posts are never notified same-run (yet) - they go
-                # through the fast recheck below before falling back to
-                # waiting for the next scheduled run.
+                    to_notify.append((title, permalink, category, price, score, selftext))
                 continue
 
             # Post already known.
@@ -770,44 +774,6 @@ def main():
             else:
                 # Already notified before; nothing to do.
                 total_skipped += 1
-
-    # ------------------------------------------------------------------
-    # Fast recheck (shortened verification window)
-    # ------------------------------------------------------------------
-    # Waiting a full 30-min schedule cycle to verify a post still exists
-    # is too slow for items that can sell within minutes. Instead, after
-    # a short pause, we refetch and check the same run: if a "new" post
-    # is still present, notify immediately. If it disappeared (deleted/
-    # glitch), it's left in "pending" state and simply never promoted -
-    # protecting against the false positives Part 8 was designed to avoid.
-    if new_pending:
-        log(f"Fast recheck: waiting {FAST_RECHECK_DELAY_SECONDS}s before "
-            f"re-verifying {len(new_pending)} new listing(s)...")
-        time.sleep(FAST_RECHECK_DELAY_SECONDS)
-
-        still_present_ids = set()
-        subs_to_recheck = sorted({item["sub"] for item in new_pending})
-        for sub in subs_to_recheck:
-            recheck_posts = fetch_subreddit_posts(sub)
-            for post in recheck_posts:
-                try:
-                    still_present_ids.add(post["data"]["id"])
-                except (KeyError, TypeError):
-                    continue
-
-        for item in new_pending:
-            if item["id"] in still_present_ids:
-                state[item["id"]]["state"] = "notified"
-                state[item["id"]]["last_seen"] = now_iso
-                to_notify.append((
-                    item["title"], item["permalink"], item["category"],
-                    item["price"], item["score"], item["selftext"],
-                ))
-                total_updated += 1
-                total_new -= 1  # it's now counted as updated/notified, not just "new"
-            else:
-                log(f"Post {item['id']} disappeared before recheck; "
-                    f"leaving as pending for next scheduled run.")
 
     # Build report + notifications from verified (to_notify) listings.
     for title, permalink, category, price, score, selftext in to_notify:
