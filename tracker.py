@@ -75,7 +75,12 @@ REPOST_WINDOW_DAYS = 7
 SCORE_THRESHOLD = 50
 
 # Network retry/backoff
-MAX_RETRIES = 2
+# Earlier fallback endpoints fail fast (1 attempt) since www.reddit.com is
+# reliably blocked and there's always another endpoint to try next. The
+# *last* fallback endpoint gets more attempts since there's nowhere further
+# to fall back to if it also gets rate-limited.
+MAX_RETRIES = 1
+LAST_FALLBACK_MAX_RETRIES = 2
 BASE_BACKOFF_SECONDS = 2
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
@@ -265,9 +270,11 @@ RATE_LIMIT_BASE_SECONDS = 15
 RATE_LIMIT_MAX_SECONDS = 45
 
 
-def fetch_json(url):
+def fetch_json(url, max_retries=None):
+    if max_retries is None:
+        max_retries = MAX_RETRIES
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    for attempt in range(1, MAX_RETRIES + 1):
+    for attempt in range(1, max_retries + 1):
         try:
             with urllib.request.urlopen(req, timeout=15) as resp:
                 raw = resp.read()
@@ -275,6 +282,13 @@ def fetch_json(url):
 
         except urllib.error.HTTPError as e:
             if e.code == 429:
+                if attempt >= max_retries:
+                    # No point sleeping if this was the last attempt on this
+                    # endpoint - fail now and let the caller fall back to the
+                    # next endpoint immediately.
+                    log(f"Rate limited (429), no attempts left on this "
+                        f"endpoint, failing fast to try the next fallback.")
+                    return None
                 # Respect Retry-After if Reddit sends one, else use a longer
                 # dedicated rate-limit backoff (not the generic curve).
                 retry_after = e.headers.get("Retry-After") if e.headers else None
@@ -286,7 +300,7 @@ def fetch_json(url):
                 else:
                     wait = min(RATE_LIMIT_BASE_SECONDS * attempt, RATE_LIMIT_MAX_SECONDS)
                 wait += random.uniform(0, 5)
-                log(f"Rate limited (429) attempt {attempt}/{MAX_RETRIES}, "
+                log(f"Rate limited (429) attempt {attempt}/{max_retries}, "
                     f"backing off {wait:.1f}s")
                 time.sleep(wait)
                 continue
@@ -302,28 +316,34 @@ def fetch_json(url):
                 return None
 
             wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
-            log(f"HTTP error ({e.code}) attempt {attempt}/{MAX_RETRIES}, retrying in {wait:.1f}s")
+            log(f"HTTP error ({e.code}) attempt {attempt}/{max_retries}, retrying in {wait:.1f}s")
             time.sleep(wait)
 
         except (urllib.error.URLError, TimeoutError,
                 json.JSONDecodeError, ConnectionError) as e:
             wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
-            log(f"Fetch failed ({e}) attempt {attempt}/{MAX_RETRIES}, retrying in {wait:.1f}s")
+            log(f"Fetch failed ({e}) attempt {attempt}/{max_retries}, retrying in {wait:.1f}s")
             time.sleep(wait)
     return None
 
 
-def fetch_raw(url):
+def fetch_raw(url, max_retries=None):
     """Like fetch_json but returns raw bytes instead of parsed JSON, with the
     same retry/backoff/403-fail-fast behavior. Used for the RSS fallback."""
+    if max_retries is None:
+        max_retries = MAX_RETRIES
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    for attempt in range(1, MAX_RETRIES + 1):
+    for attempt in range(1, max_retries + 1):
         try:
             with urllib.request.urlopen(req, timeout=15) as resp:
                 return resp.read()
 
         except urllib.error.HTTPError as e:
             if e.code == 429:
+                if attempt >= max_retries:
+                    log(f"Rate limited (429), no attempts left on this "
+                        f"endpoint, failing fast to try the next fallback.")
+                    return None
                 retry_after = e.headers.get("Retry-After") if e.headers else None
                 if retry_after:
                     try:
@@ -333,7 +353,7 @@ def fetch_raw(url):
                 else:
                     wait = min(RATE_LIMIT_BASE_SECONDS * attempt, RATE_LIMIT_MAX_SECONDS)
                 wait += random.uniform(0, 5)
-                log(f"Rate limited (429) attempt {attempt}/{MAX_RETRIES}, "
+                log(f"Rate limited (429) attempt {attempt}/{max_retries}, "
                     f"backing off {wait:.1f}s")
                 time.sleep(wait)
                 continue
@@ -344,8 +364,9 @@ def fetch_raw(url):
                 return None
 
             wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
-            log(f"HTTP error ({e.code}) attempt {attempt}/{MAX_RETRIES}, retrying in {wait:.1f}s")
+            log(f"HTTP error ({e.code}) attempt {attempt}/{max_retries}, retrying in {wait:.1f}s")
             time.sleep(wait)
+
 
         except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
             wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
@@ -454,9 +475,15 @@ def fetch_subreddit_posts(sub):
                     continue
         log(f"All .json endpoints failed for r/{sub}; trying RSS fallback.")
 
-    for template in RSS_ENDPOINT_TEMPLATES:
+    for i, template in enumerate(RSS_ENDPOINT_TEMPLATES):
         url = template.format(sub=sub)
-        raw = fetch_raw(url)
+        is_last = (i == len(RSS_ENDPOINT_TEMPLATES) - 1)
+        # Fail fast (1 attempt) on earlier endpoints and move to the next
+        # fallback quickly. On the *last* fallback there's nowhere else to
+        # go, so give it a real retry instead of giving up on the subreddit
+        # entirely after a single 429.
+        retries = LAST_FALLBACK_MAX_RETRIES if is_last else MAX_RETRIES
+        raw = fetch_raw(url, max_retries=retries)
         if raw:
             posts = parse_rss_feed(raw)
             if posts:
