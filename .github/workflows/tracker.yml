@@ -63,7 +63,7 @@ jobs:
 
             echo "Push rejected, syncing with remote and retrying ($i/5)..."
 
-            # Abandon any in-progress rebase/merge from a previous failed 
+            # Abandon any in-progress rebase/merge from a previous failed
             # attempt so this stays a clean, repeatable loop.
             git rebase --abort 2>/dev/null || true
             git merge --abort 2>/dev/null || true
