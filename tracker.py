@@ -2,12 +2,18 @@
 """
 Hyderabad Buy/Sell Tracker
 --------------------------
-Polls r/HyderabadBuySell and r/HyderabadUsedItems (unauthenticated .json
-endpoints), finds new mobile/laptop/tablet/console listings from today,
-scores them, verifies they still exist before notifying (to avoid false
-positives from deleted/glitched posts), detects reposts/edits, parses
-Indian-style prices, self-heals from corrupt state, prunes old state,
-writes report.md, logs run statistics, and pushes ntfy notifications.
+Polls r/HyderabadBuySell, r/HyderabadUsedItems, r/ChennaiBuyAndSell,
+r/bangloremarketplace, and r/BangaloreMarketplace, finds new mobile/laptop/
+tablet/console listings from today, scores them, verifies they still exist
+before notifying (to avoid false positives from deleted/glitched posts),
+detects reposts/edits, parses Indian-style prices, self-heals from corrupt
+state, prunes old state, writes report.md, logs run statistics, and pushes
+ntfy notifications (including the post body).
+
+Fetch strategy: Reddit's unauthenticated .json endpoints are confirmed
+blocked (403) as of July 2026, so this fetches from the RSS/Atom feed
+(.rss) by default. See TRY_JSON_ENDPOINTS below to re-enable .json if
+Reddit ever unblocks it.
 
 Stdlib only. No dependencies to install.
 """
@@ -432,19 +438,28 @@ def parse_rss_feed(raw_bytes):
     return posts
 
 
-def fetch_subreddit_posts(sub):
-    """Try each .json fallback endpoint first, then fall back to the RSS/Atom
-    feed if every .json endpoint fails (e.g. all blocked with 403)."""
-    for template in ENDPOINT_TEMPLATES:
-        url = template.format(sub=sub)
-        data = fetch_json(url)
-        if data:
-            try:
-                return data["data"]["children"]
-            except (KeyError, TypeError):
-                continue
+# .json has been confirmed permanently blocked (403) as of July 2026.
+# Trying it every run wastes 3 requests/subreddit for nothing and adds no
+# value - flip this to True only if you want to periodically re-test
+# whether Reddit has unblocked it (e.g. manually, once in a while).
+TRY_JSON_ENDPOINTS = False
 
-    log(f"All .json endpoints failed for r/{sub}; trying RSS fallback.")
+
+def fetch_subreddit_posts(sub):
+    """Try each .json fallback endpoint first (if enabled), then fall back
+    to the RSS/Atom feed. .json is disabled by default since it's confirmed
+    blocked - skipping it cuts request volume roughly in half/third."""
+    if TRY_JSON_ENDPOINTS:
+        for template in ENDPOINT_TEMPLATES:
+            url = template.format(sub=sub)
+            data = fetch_json(url)
+            if data:
+                try:
+                    return data["data"]["children"]
+                except (KeyError, TypeError):
+                    continue
+        log(f"All .json endpoints failed for r/{sub}; trying RSS fallback.")
+
     for template in RSS_ENDPOINT_TEMPLATES:
         url = template.format(sub=sub)
         raw = fetch_raw(url)
@@ -454,7 +469,7 @@ def fetch_subreddit_posts(sub):
                 log(f"RSS fallback succeeded for r/{sub} ({len(posts)} entries).")
                 return posts
 
-    log(f"All endpoints (json + rss) failed for r/{sub}; skipping this subreddit for this run.")
+    log(f"All endpoints failed for r/{sub}; skipping this subreddit for this run.")
     return []
 
 
@@ -605,9 +620,9 @@ def score_listing(title, category, price):
         score += 30
         reasons.append("+30 Price found")
 
-    if any(hint in text for hint in HYDERABAD_HINTS):
+    if any(hint in text for hint in CITY_HINTS):
         score += 20
-        reasons.append("+20 Hyderabad")
+        reasons.append("+20 City match")
 
     if any(hint in text for hint in GOOD_TITLE_HINTS):
         score += 15
