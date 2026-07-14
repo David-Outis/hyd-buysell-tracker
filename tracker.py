@@ -2,34 +2,14 @@
 """
 Hyderabad Buy/Sell Tracker
 --------------------------
-Polls r/HyderabadBuySell and r/HyderabadUsedItems using Reddit's public,
-unauthenticated JSON endpoints (no API key needed). Classifies fresh posts
-into:
+Polls r/HyderabadBuySell and r/HyderabadUsedItems (unauthenticated .json
+endpoints), finds new mobile/laptop/tablet/console listings from today,
+scores them, verifies they still exist before notifying (to avoid false
+positives from deleted/glitched posts), detects reposts/edits, parses
+Indian-style prices, self-heals from corrupt state, prunes old state,
+writes report.md, logs run statistics, and pushes ntfy notifications.
 
-  1. Mobiles        - any brand/model, any price, price flagged if missing
-  2. Laptops        - only <= LAPTOP_MAX_PRICE, or flagged "needs follow-up"
-                      if no price is mentioned
-  3. Tablets        - only iPad 10th-gen+/Air/Pro/Mini(newer) and
-                      Xiaomi Mi Pad 6/7/8
-  4. Game Consoles  - PS4/PS5, Xbox One/Series S/X, Nintendo Switch/Switch 2,
-                      Steam Deck - any price, price flagged if missing
-
-Dedup state (seen post IDs) is stored in seen_ids.json and committed back to
-the repo by the GitHub Actions workflow so re-runs only report NEW posts.
-
-ONLY-TODAY FILTER:
-Even if a post is "new" (not yet in seen_ids.json), it is skipped if it was
-created before today (UTC). This prevents old backlog posts from surfacing
-just because they hadn't been seen yet (e.g. the very first run, or a gap
-in scheduling). Controlled by ONLY_TODAY / MAX_AGE_HOURS below.
-
-NOTE ON RELIABILITY:
-This uses the unauthenticated old.reddit.com/.json endpoints. Reddit can
-rate-limit or block requests that look automated. Keep the polling
-interval reasonable (every 30-60 min) and always send a descriptive
-User-Agent. If/when official Reddit API (OAuth) access is approved, swap
-`fetch_new_posts()` to use PRAW instead - the rest of the pipeline
-(classification, dedup, reporting) does not need to change.
+Stdlib only. No dependencies to install.
 """
 
 import json
@@ -37,398 +17,625 @@ import os
 import re
 import sys
 import time
+import hashlib
+import random
+import shutil
 import urllib.request
 import urllib.error
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
-# --------------------------------------------------------------------------
-# CONFIG
-# --------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
+# Config
+# ----------------------------------------------------------------------------
 
 SUBREDDITS = ["HyderabadBuySell", "HyderabadUsedItems"]
-POSTS_PER_SUB = 50          # how many recent posts to pull per sub, per sort
-SORTS = ["new", "hot"]      # per your notes: check both, "new" gets buried
-LAPTOP_MAX_PRICE = 30000    # rupees
 
-# --- Only-today filter -----------------------------------------------------
-# If True, any post created before "today" (UTC calendar day) is skipped,
-# regardless of whether it's already in seen_ids.json. This is what keeps
-# the tracker from reporting yesterday's (or older) listings.
+# Multiple fallback endpoints per subreddit (tried in order until one works)
+ENDPOINT_TEMPLATES = [
+    "https://www.reddit.com/r/{sub}/new.json?limit=100",
+    "https://old.reddit.com/r/{sub}/new.json?limit=100",
+    "https://reddit.com/r/{sub}/new.json?limit=100",
+]
+
+USER_AGENT = "HyderabadBuySellTracker/2.0 (by u/anonymous; contact via repo issues)"
+
+SEEN_IDS_FILE = "seen_ids.json"
+REPORT_FILE = "report.md"
+
 ONLY_TODAY = True
-# Belt-and-suspenders cap: also skip anything older than this many hours,
-# in case a post is timestamped just after midnight UTC but is effectively
-# an old listing that got bumped. Set to None to disable and rely purely
-# on the calendar-day check above.
 MAX_AGE_HOURS = 24
 
-SEEN_IDS_FILE = os.path.join(os.path.dirname(__file__), "seen_ids.json")
-REPORT_FILE = os.path.join(os.path.dirname(__file__), "report.md")
-USER_AGENT = "python:hyd-buysell-tracker:v1.0 (by /u/jgoja)"
+# How long to keep an ID around in seen_ids.json after last activity (Part 14)
+MEMORY_LIMIT_DAYS = 30
 
-# NTFY_TOPIC must be provided via environment / GitHub Actions secret.
-# If it's not set, push notifications are simply skipped (report.md/stdout
-# still work fine).
-NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
-NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}" if NTFY_TOPIC else ""
+# How long a repost fingerprint stays valid (Part 9)
+REPOST_WINDOW_DAYS = 7
 
-# --------------------------------------------------------------------------
-# CLASSIFICATION RULES
-# --------------------------------------------------------------------------
+# Minimum score for a listing to be reported (Part 11)
+SCORE_THRESHOLD = 50
 
-MOBILE_KEYWORDS = [
-    "iphone", "samsung", "galaxy", "oneplus", "one plus", "redmi", "mi note",
-    "poco", "realme", "vivo", "oppo", "pixel", "nothing phone", "motorola",
-    "moto g", "moto edge", "asus rog phone", "iqoo", "infinix", "lava",
-    "mobile phone", "smartphone",
+# Network retry/backoff
+MAX_RETRIES = 4
+BASE_BACKOFF_SECONDS = 2
+
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
+NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}" if NTFY_TOPIC else None
+
+# ----------------------------------------------------------------------------
+# Category / scoring rules
+# ----------------------------------------------------------------------------
+
+CATEGORY_KEYWORDS = {
+    "Mobiles": [
+        "iphone", "samsung", "galaxy", "oneplus", "redmi", "poco", "realme",
+        "vivo", "oppo", "pixel", "nothing phone", "motorola", "moto ",
+        "mobile", "smartphone",
+    ],
+    "Laptops": [
+        "laptop", "macbook", "thinkpad", "ideapad", "notebook", "ultrabook",
+        "dell xps", "hp pavilion", "asus vivobook", "acer aspire", "zenbook",
+        "legion",
+    ],
+    "Tablets": [
+        "ipad", "mi pad 6", "mi pad 7", "mi pad 8", "xiaomi pad 6",
+        "xiaomi pad 7", "xiaomi pad 8",
+    ],
+    "Consoles": [
+        "ps5", "ps4", "playstation", "xbox", "nintendo switch", "switch oled",
+        "steam deck",
+    ],
+}
+
+# Only these tablet models are allowed (per README: iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8)
+TABLET_ALLOWLIST_PATTERNS = [
+    r"ipad\s*(10th|11th|12th)", r"ipad\s*air", r"ipad\s*pro", r"ipad\s*mini",
+    r"mi\s*pad\s*[678]", r"xiaomi\s*pad\s*[678]",
 ]
 
-LAPTOP_KEYWORDS = [
-    "laptop", "macbook", "thinkpad", "ideapad", "pavilion", "inspiron",
-    "vostro", "latitude", "zenbook", "vivobook", "legion", "predator",
-    "aspire", "chromebook", "notebook pc", "gaming laptop", "ultrabook",
-]
+HYDERABAD_HINTS = ["hyderabad", "hyd", "secunderabad", "kukatpally", "gachibowli",
+                    "madhapur", "kondapur", "miyapur", "ameerpet", "dilsukhnagar"]
 
-# Only these tablet models count - everything else is ignored per spec
-TABLET_PATTERNS = [
-    re.compile(r"\bipad\s*(10th|11th|air|pro|mini)\b", re.I),
-    re.compile(r"\bipad\s*(gen(eration)?\s*1[01])\b", re.I),
-    re.compile(r"\bmi\s*pad\s*[678]\b", re.I),
-    re.compile(r"\bmipad\s*[678]\b", re.I),
-    re.compile(r"\bxiaomi\s*pad\s*[678]\b", re.I),
-]
-# Explicitly excluded / ignored tablet mentions (older iPad, other brands)
-TABLET_EXCLUDE_PATTERNS = [
-    re.compile(r"\bipad\s*(1st|2nd|3rd|4th|5th|6th|7th|8th|9th)\b", re.I),
-    re.compile(r"\bmi\s*pad\s*[1-5]\b", re.I),
-]
+GOOD_TITLE_HINTS = ["excellent condition", "like new", "sealed", "brand new",
+                     "warranty", "bill available", "urgent sale"]
 
-CONSOLE_KEYWORDS = [
-    "ps4", "ps5", "playstation 4", "playstation 5", "playstation5",
-    "playstation4", "xbox one", "xbox series", "xbox 360",
-    "nintendo switch", "switch 2", "steam deck", "steamdeck",
-]
-
-PRICE_PATTERNS = [
-    re.compile(r"(?:rs\.?|inr|₹)\s*([\d,]+(?:\.\d+)?)\s*(k)?", re.I),
-    re.compile(r"\b([\d,]{3,7})\s*(?:rs|rupees|/-)\b", re.I),
-    re.compile(r"\bprice\s*[:\-]?\s*([\d,]{3,7})\b", re.I),
-    re.compile(r"\basking\s*(?:price)?\s*[:\-]?\s*([\d,]{3,7})\b", re.I),
-    re.compile(r"\b(\d{1,3})\s*k\b", re.I),  # e.g. "15k"
-]
-
-# Text patterns that indicate the listing is a tablet, not a phone - used to
-# suppress false-positive "mobile" matches from brand names like "Samsung"
-# appearing in "Samsung Galaxy Tab" or similar tablet-only listings.
-TABLET_INDICATOR_PATTERNS = [
-    re.compile(r"\bipad\b", re.I),
-    re.compile(r"\bgalaxy\s*tab\b", re.I),
-    re.compile(r"\bmi\s*pad\b", re.I),
-    re.compile(r"\bmipad\b", re.I),
-    re.compile(r"\btablet\b", re.I),
+# Part 15 - Negative keywords: "want to buy" posts, not actual listings.
+# If a title matches any of these, it's excluded entirely regardless of score.
+WTB_PATTERNS = [
+    r"\bwtb\b",
+    r"\bwant(ed)?\s*to\s*buy\b",
+    r"\bwanted\b",
+    r"\blooking\s*for\b",
+    r"\biso\b",
+    r"\bin\s*search\s*of\b",
+    r"\bneed\s+(a|an|any)\b",
+    r"\bany(one)?\s+(selling|have)\b",
+    r"\bwilling\s*to\s*buy\b",
+    r"\bin\s*need\s*of\b",
 ]
 
 
-def extract_price(text):
-    """Best-effort price extraction from title+body text. Returns int rupees or None."""
-    if not text:
-        return None
-    for pattern in PRICE_PATTERNS:
-        m = pattern.search(text)
-        if m:
-            num = m.group(1).replace(",", "")
-            try:
-                value = float(num)
-            except ValueError:
+def is_wtb(title):
+    """Return True if the title looks like a 'want to buy' post rather than
+    an actual for-sale listing."""
+    text = title.lower()
+    return any(re.search(p, text) for p in WTB_PATTERNS)
+
+NOISE_PATTERNS = [
+    r"\b\d{2,4}\s*gb\s*ram\b",
+    r"\brtx\s*\d{3,4}\b",
+    r"\bgtx\s*\d{3,4}\b",
+    r"\b\d{2,4}\s*gb\b(?!\s*(storage|variant))",
+]
+
+
+# ----------------------------------------------------------------------------
+# Logging
+# ----------------------------------------------------------------------------
+
+def log(msg):
+    print(f"[{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')}] {msg}")
+
+
+# ----------------------------------------------------------------------------
+# Part 13 - Automatic recovery: state loading/saving
+# ----------------------------------------------------------------------------
+
+def load_state():
+    """
+    Load seen_ids.json. Self-heals if missing or corrupted.
+    New format:
+    {
+        "<post_id>": {
+            "state": "pending" | "notified",
+            "first_seen": iso timestamp,
+            "last_seen": iso timestamp,
+            "fingerprint": "sha1...",
+            "title": "...",
+            "permalink": "..."
+        },
+        ...
+    }
+    """
+    if not os.path.exists(SEEN_IDS_FILE):
+        log(f"{SEEN_IDS_FILE} missing, creating fresh state.")
+        return {}
+
+    try:
+        with open(SEEN_IDS_FILE, "r", encoding="utf-8") as f:
+            raw = f.read().strip()
+        if not raw:
+            return {}
+        data = json.loads(raw)
+
+        # Migrate from old list-based format if needed
+        if isinstance(data, list):
+            log("Old list-based seen_ids.json format detected, migrating.")
+            migrated = {}
+            now_iso = datetime.now(timezone.utc).isoformat()
+            for pid in data:
+                migrated[pid] = {
+                    "state": "notified",
+                    "first_seen": now_iso,
+                    "last_seen": now_iso,
+                    "fingerprint": None,
+                    "title": None,
+                    "permalink": None,
+                }
+            return migrated
+
+        if not isinstance(data, dict):
+            raise ValueError("seen_ids.json is not a dict")
+        return data
+
+    except (json.JSONDecodeError, ValueError, OSError) as e:
+        backup_name = f"{SEEN_IDS_FILE}.corrupt.{int(time.time())}.bak"
+        try:
+            shutil.copy(SEEN_IDS_FILE, backup_name)
+            log(f"Corrupted {SEEN_IDS_FILE} ({e}); backed up to {backup_name}, starting fresh.")
+        except OSError:
+            log(f"Corrupted {SEEN_IDS_FILE} ({e}); could not back up, starting fresh.")
+        return {}
+
+
+def save_state(state):
+    tmp_path = SEEN_IDS_FILE + ".tmp"
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=2, sort_keys=True)
+    os.replace(tmp_path, SEEN_IDS_FILE)
+
+
+def prune_state(state):
+    """Part 14 - Memory limit: drop entries not seen in MEMORY_LIMIT_DAYS."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MEMORY_LIMIT_DAYS)
+    pruned = {}
+    removed = 0
+    for pid, entry in state.items():
+        last_seen_str = entry.get("last_seen") or entry.get("first_seen")
+        try:
+            last_seen = datetime.fromisoformat(last_seen_str)
+        except (TypeError, ValueError):
+            last_seen = datetime.now(timezone.utc)
+        if last_seen >= cutoff:
+            pruned[pid] = entry
+        else:
+            removed += 1
+    if removed:
+        log(f"Pruned {removed} entries older than {MEMORY_LIMIT_DAYS} days.")
+    return pruned
+
+
+# ----------------------------------------------------------------------------
+# Networking with retries (Part 13)
+# ----------------------------------------------------------------------------
+
+# Rate-limit (429) specific backoff config - deliberately longer/slower than
+# the generic error backoff, since hammering Reddit while rate-limited risks
+# a longer or harsher block.
+RATE_LIMIT_BASE_SECONDS = 30
+RATE_LIMIT_MAX_SECONDS = 90
+
+
+def fetch_json(url):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                raw = resp.read()
+            return json.loads(raw)
+
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                # Respect Retry-After if Reddit sends one, else use a longer
+                # dedicated rate-limit backoff (not the generic curve).
+                retry_after = e.headers.get("Retry-After") if e.headers else None
+                if retry_after:
+                    try:
+                        wait = float(retry_after)
+                    except ValueError:
+                        wait = RATE_LIMIT_BASE_SECONDS * attempt
+                else:
+                    wait = min(RATE_LIMIT_BASE_SECONDS * attempt, RATE_LIMIT_MAX_SECONDS)
+                wait += random.uniform(0, 5)
+                log(f"Rate limited (429) attempt {attempt}/{MAX_RETRIES}, "
+                    f"backing off {wait:.1f}s")
+                time.sleep(wait)
                 continue
-            # handle "k" suffix -> thousands
-            if len(m.groups()) > 1 and m.group(2) and m.group(2).lower() == "k":
-                value *= 1000
-            elif value < 1000 and "k" in text[max(0, m.start() - 2):m.end() + 2].lower():
-                value *= 1000
-            return int(value)
+
+            wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
+            log(f"HTTP error ({e.code}) attempt {attempt}/{MAX_RETRIES}, retrying in {wait:.1f}s")
+            time.sleep(wait)
+
+        except (urllib.error.URLError, TimeoutError,
+                json.JSONDecodeError, ConnectionError) as e:
+            wait = BASE_BACKOFF_SECONDS * (2 ** (attempt - 1)) + random.uniform(0, 1)
+            log(f"Fetch failed ({e}) attempt {attempt}/{MAX_RETRIES}, retrying in {wait:.1f}s")
+            time.sleep(wait)
     return None
 
 
-def classify_post(title, body):
-    """Return a dict of category -> bool for a given post's combined text."""
-    text = f"{title} {body}".lower()
-
-    looks_like_tablet_listing = any(p.search(text) for p in TABLET_INDICATOR_PATTERNS)
-    # Generic brand words (samsung, mi, xiaomi via "mi note" etc.) shouldn't
-    # tag a listing as "mobile" if it's actually a tablet (e.g. "Galaxy Tab",
-    # "iPad", "Mi Pad"). Phone-specific keywords (iphone, oneplus, redmi,
-    # poco, etc.) still count even if the word "tablet" appears elsewhere.
-    GENERIC_BRAND_ONLY = {"samsung", "galaxy", "mi note", "xiaomi"}
-    matched_mobile_kws = [kw for kw in MOBILE_KEYWORDS if kw in text]
-    if looks_like_tablet_listing:
-        matched_mobile_kws = [kw for kw in matched_mobile_kws if kw not in GENERIC_BRAND_ONLY]
-    is_mobile = len(matched_mobile_kws) > 0
-
-    is_laptop = any(kw in text for kw in LAPTOP_KEYWORDS)
-
-    is_tablet = False
-    if any(p.search(text) for p in TABLET_PATTERNS):
-        # make sure it's not an explicitly excluded older model mentioned instead
-        if not any(p.search(text) for p in TABLET_EXCLUDE_PATTERNS) or any(
-            p.search(text) for p in TABLET_PATTERNS
-        ):
-            is_tablet = True
-
-    is_console = any(kw in text for kw in CONSOLE_KEYWORDS)
-
-    return {
-        "mobile": is_mobile,
-        "laptop": is_laptop,
-        "tablet": is_tablet,
-        "console": is_console,
-    }
-
-
-# --------------------------------------------------------------------------
-# FETCHING (unauthenticated public JSON endpoint)
-# --------------------------------------------------------------------------
-
-def fetch_new_posts(subreddit, sort="new", limit=50, retries=3):
-    """
-    Fetch posts from a subreddit's public JSON feed - no OAuth required.
-    e.g. https://www.reddit.com/r/HyderabadBuySell/new.json?limit=50
-    """
-    url = f"https://www.reddit.com/r/{subreddit}/{sort}.json?limit={limit}&raw_json=1"
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-
-    for attempt in range(1, retries + 1):
-        try:
-            with urllib.request.urlopen(req, timeout=15) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
-            children = data.get("data", {}).get("children", [])
-            return [c["data"] for c in children]
-        except urllib.error.HTTPError as e:
-            print(f"[warn] HTTP {e.code} fetching r/{subreddit}/{sort} "
-                  f"(attempt {attempt}/{retries})", file=sys.stderr)
-            if e.code == 429:
-                time.sleep(5 * attempt)
-            else:
-                break
-        except Exception as e:
-            print(f"[warn] error fetching r/{subreddit}/{sort}: {e} "
-                  f"(attempt {attempt}/{retries})", file=sys.stderr)
-            time.sleep(3 * attempt)
+def fetch_subreddit_posts(sub):
+    """Try each fallback endpoint until one succeeds."""
+    for template in ENDPOINT_TEMPLATES:
+        url = template.format(sub=sub)
+        data = fetch_json(url)
+        if data:
+            try:
+                return data["data"]["children"]
+            except (KeyError, TypeError):
+                continue
+    log(f"All endpoints failed for r/{sub}; skipping this subreddit for this run.")
     return []
 
 
-# --------------------------------------------------------------------------
-# STATE (dedup)
-# --------------------------------------------------------------------------
-
-def load_seen_ids():
-    if os.path.exists(SEEN_IDS_FILE):
-        with open(SEEN_IDS_FILE, "r") as f:
-            return set(json.load(f))
-    return set()
-
-
-def save_seen_ids(seen_ids, cap=5000):
-    # keep the file from growing forever - trim oldest by just capping size
-    ids_list = list(seen_ids)[-cap:]
-    with open(SEEN_IDS_FILE, "w") as f:
-        json.dump(ids_list, f)
-
-
-# --------------------------------------------------------------------------
-# TODAY-ONLY FILTER
-# --------------------------------------------------------------------------
-
-def is_from_today(created_utc):
-    """True if the UTC-timestamp falls on today's UTC calendar date."""
-    created = datetime.fromtimestamp(created_utc, tz=timezone.utc)
-    now = datetime.now(timezone.utc)
-    return created.date() == now.date()
-
-
-def passes_age_filter(created_utc):
-    """Combines the calendar-day check with the optional max-age cap."""
-    now = datetime.now(timezone.utc)
-    created = datetime.fromtimestamp(created_utc, tz=timezone.utc)
-
-    if ONLY_TODAY and created.date() != now.date():
-        return False
-
-    if MAX_AGE_HOURS is not None:
-        age_hours = (now - created).total_seconds() / 3600
-        if age_hours > MAX_AGE_HOURS:
-            return False
-
-    return True
-
-
-# --------------------------------------------------------------------------
-# REPORTING
-# --------------------------------------------------------------------------
-
-def build_post_entry(post):
-    permalink = f"https://www.reddit.com{post.get('permalink', '')}"
-    title = post.get("title", "(no title)")
-    body = post.get("selftext", "") or ""
-    created = datetime.fromtimestamp(post.get("created_utc", 0), tz=timezone.utc)
-    age_hours = (datetime.now(timezone.utc) - created).total_seconds() / 3600
-    price = extract_price(f"{title} {body}")
-    return {
-        "title": title,
-        "url": permalink,
-        "subreddit": post.get("subreddit", ""),
-        "price": price,
-        "age_hours": round(age_hours, 1),
-        "created_str": created.strftime("%Y-%m-%d %H:%M UTC"),
-        "body_snippet": body[:200],
-    }
-
-
-def format_price(price):
-    return f"₹{price:,}" if price is not None else "price not mentioned"
-
-
-def render_report(mobiles, laptops, laptops_no_price, tablets, consoles):
-    lines = []
-    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines.append(f"# Hyderabad Buy/Sell Report - {ts}\n")
-
-    lines.append("## Mobiles")
-    if not mobiles:
-        lines.append("_No new mobile listings found in this run._\n")
-    for p in mobiles:
-        lines.append(
-            f"- **{p['title']}** - {format_price(p['price'])} - "
-            f"[link]({p['url']}) - r/{p['subreddit']} - {p['age_hours']}h ago"
-        )
-    lines.append("")
-
-    lines.append(f"## Laptops (<= Rs.{LAPTOP_MAX_PRICE:,})")
-    if not laptops and not laptops_no_price:
-        lines.append("_No new laptop listings within budget found in this run._\n")
-    for p in laptops:
-        lines.append(
-            f"- **{p['title']}** - {format_price(p['price'])} - "
-            f"[link]({p['url']}) - r/{p['subreddit']} - {p['age_hours']}h ago"
-        )
-    if laptops_no_price:
-        lines.append("\n**Price not mentioned - needs follow-up:**")
-        for p in laptops_no_price:
-            lines.append(
-                f"- **{p['title']}** - [link]({p['url']}) - "
-                f"r/{p['subreddit']} - {p['age_hours']}h ago"
-            )
-    lines.append("")
-
-    lines.append("## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)")
-    if not tablets:
-        lines.append("_No new matching tablet listings found in this run._\n")
-    for p in tablets:
-        lines.append(
-            f"- **{p['title']}** - {format_price(p['price'])} - "
-            f"[link]({p['url']}) - r/{p['subreddit']} - {p['age_hours']}h ago"
-        )
-    lines.append("")
-
-    lines.append("## Game Consoles")
-    if not consoles:
-        lines.append("_No new game console listings found in this run._\n")
-    for p in consoles:
-        lines.append(
-            f"- **{p['title']}** - {format_price(p['price'])} - "
-            f"[link]({p['url']}) - r/{p['subreddit']} - {p['age_hours']}h ago"
-        )
-    lines.append("")
-
-    return "\n".join(lines)
-
-
-def send_ntfy_alert(content):
-    if not NTFY_TOPIC:
-        print("[info] NTFY_TOPIC not set - skipping push notification", file=sys.stderr)
+def send_ntfy(title, message):
+    if not NTFY_URL:
         return
-    body = content[:3800]  # keep the push notification body reasonable
-    req = urllib.request.Request(
-        NTFY_URL,
-        data=body.encode("utf-8"),
-        headers={
-            "Title": "Hyderabad Buy/Sell - New Listings",
-            "Priority": "default",
-            "Tags": "bell",
-            "Content-Type": "text/plain; charset=utf-8",
-        },
-        method="POST",
-    )
     try:
+        req = urllib.request.Request(
+            NTFY_URL,
+            data=message.encode("utf-8"),
+            headers={
+                "Title": title,
+                "Priority": "default",
+                "User-Agent": USER_AGENT,
+            },
+            method="POST",
+        )
         urllib.request.urlopen(req, timeout=10)
     except Exception as e:
-        print(f"[warn] failed to send ntfy alert: {e}", file=sys.stderr)
+        # Part 13: ntfy failing must never stop the run
+        log(f"ntfy notification failed: {e}")
 
 
-# --------------------------------------------------------------------------
-# MAIN
-# --------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
+# Part 10 - Indian price parsing
+# ----------------------------------------------------------------------------
+
+PRICE_PATTERNS = [
+    # ₹23,500  or  ₹ 23500
+    r"₹\s*([\d,]+(?:\.\d+)?)",
+    # Rs.23500 / Rs 23,000 / rs. 23000
+    r"\brs\.?\s*([\d,]+(?:\.\d+)?)",
+    # 23500/-
+    r"\b([\d,]+)\s*/-",
+    # 23k final / 23 k / 23.5k / 30K
+    r"\b(\d+(?:\.\d+)?)\s*k\b",
+    # 25 thousand
+    r"\b(\d+(?:\.\d+)?)\s*thousand\b",
+    # plain number with 4-6 digits followed by "negotiable"/"fixed"/"final"
+    r"\b([\d,]{4,7})\s*(?:negotiable|fixed|final|only)\b",
+]
+
+NOISE_CONTEXT_PATTERNS = [
+    r"\d{2,4}\s*gb\s*ram",
+    r"\d{2,4}\s*gb(?!\s*(variant|storage))",
+    r"rtx\s*\d{3,4}",
+    r"gtx\s*\d{3,4}",
+    r"iphone\s*\d{1,2}",
+]
+
+
+def _strip_noise(text):
+    cleaned = text
+    for pat in NOISE_CONTEXT_PATTERNS:
+        cleaned = re.sub(pat, " ", cleaned, flags=re.IGNORECASE)
+    return cleaned
+
+
+def extract_price(title):
+    """
+    Returns an int price in rupees, or None.
+    Handles: ₹23,500 | Rs.23500 | 23500/- | 23k | 23 K | 23.5k |
+             25 thousand | 35 negotiable | 25,500 fixed | Rs 23000 | 23k final
+    Ignores: 128GB, 16GB RAM, RTX 3060, iPhone 15 (plain model numbers).
+    """
+    text = title.lower()
+    cleaned = _strip_noise(text)
+
+    for pat in PRICE_PATTERNS:
+        m = re.search(pat, cleaned, flags=re.IGNORECASE)
+        if not m:
+            continue
+        raw_num = m.group(1).replace(",", "")
+        try:
+            value = float(raw_num)
+        except ValueError:
+            continue
+
+        if "k" in pat or "thousand" in pat:
+            value *= 1000
+
+        value = int(round(value))
+
+        # Sanity check: ignore absurd values (likely false positive)
+        if 500 <= value <= 500000:
+            return value
+
+    return None
+
+
+# ----------------------------------------------------------------------------
+# Part 9 - Repost / edit fingerprinting
+# ----------------------------------------------------------------------------
+
+def make_fingerprint(title, price):
+    basis = f"{title.lower().strip()}|{price if price is not None else ''}"
+    return hashlib.sha1(basis.encode("utf-8")).hexdigest()
+
+
+def find_repost(fingerprint, state, current_id):
+    """Look for another (different) id with the same fingerprint within the
+    repost window. Returns the old id if found, else None."""
+    if not fingerprint:
+        return None
+    cutoff = datetime.now(timezone.utc) - timedelta(days=REPOST_WINDOW_DAYS)
+    for pid, entry in state.items():
+        if pid == current_id:
+            continue
+        if entry.get("fingerprint") != fingerprint:
+            continue
+        last_seen_str = entry.get("last_seen") or entry.get("first_seen")
+        try:
+            last_seen = datetime.fromisoformat(last_seen_str)
+        except (TypeError, ValueError):
+            continue
+        if last_seen >= cutoff:
+            return pid
+    return None
+
+
+# ----------------------------------------------------------------------------
+# Categorization + scoring (Part 11)
+# ----------------------------------------------------------------------------
+
+def categorize(title):
+    text = title.lower()
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        for kw in keywords:
+            if kw in text:
+                if category == "Tablets":
+                    if not any(re.search(p, text) for p in TABLET_ALLOWLIST_PATTERNS):
+                        continue
+                return category
+    return None
+
+
+def score_listing(title, category, price):
+    text = title.lower()
+    score = 0
+    reasons = []
+
+    category_points = {"Mobiles": 40, "Laptops": 40, "Tablets": 40, "Consoles": 35}
+    if category in category_points:
+        score += category_points[category]
+        reasons.append(f"+{category_points[category]} {category}")
+
+    if price is not None:
+        score += 30
+        reasons.append("+30 Price found")
+
+    if any(hint in text for hint in HYDERABAD_HINTS):
+        score += 20
+        reasons.append("+20 Hyderabad")
+
+    if any(hint in text for hint in GOOD_TITLE_HINTS):
+        score += 15
+        reasons.append("+15 Excellent title")
+
+    return score, reasons
+
+
+# ----------------------------------------------------------------------------
+# Time helpers
+# ----------------------------------------------------------------------------
+
+def is_today_utc(created_utc):
+    post_dt = datetime.fromtimestamp(created_utc, tz=timezone.utc)
+    now = datetime.now(timezone.utc)
+    if ONLY_TODAY:
+        return post_dt.date() == now.date()
+    return (now - post_dt) <= timedelta(hours=MAX_AGE_HOURS)
+
+
+# ----------------------------------------------------------------------------
+# Main run
+# ----------------------------------------------------------------------------
 
 def main():
-    seen_ids = load_seen_ids()
-    new_seen_ids = set(seen_ids)
+    run_start = time.time()
+    started_at = datetime.now(timezone.utc)
+    state = load_state()
+    now_iso = started_at.isoformat()
 
-    mobiles, laptops, laptops_no_price, tablets, consoles = [], [], [], [], []
+    report_sections = {cat: [] for cat in ["Mobiles", "Laptops", "Tablets", "Consoles"]}
+    to_notify = []  # (title, permalink, category, price, score)
 
-    for subreddit in SUBREDDITS:
-        for sort in SORTS:
-            posts = fetch_new_posts(subreddit, sort=sort, limit=POSTS_PER_SUB)
-            time.sleep(2)  # be polite between requests
+    total_fetched = 0
+    total_matched = 0
+    total_new = 0
+    total_updated = 0
+    total_skipped = 0
 
-            for post in posts:
-                post_id = post.get("name") or post.get("id")
-                if not post_id or post_id in seen_ids:
-                    continue
+    for sub in SUBREDDITS:
+        posts = fetch_subreddit_posts(sub)
+        total_fetched += len(posts)
 
-                created_utc = post.get("created_utc", 0)
-                if not passes_age_filter(created_utc):
-                    # Still mark as seen so we don't re-evaluate it forever,
-                    # but never report it since it's not from today.
-                    new_seen_ids.add(post_id)
-                    continue
+        for post in posts:
+            try:
+                p = post["data"]
+                post_id = p["id"]
+                title = p.get("title", "").strip()
+                created_utc = p.get("created_utc", 0)
+                permalink = "https://reddit.com" + p.get("permalink", "")
+            except (KeyError, TypeError):
+                total_skipped += 1
+                continue
 
-                new_seen_ids.add(post_id)
+            if not is_today_utc(created_utc):
+                # Still record it so it's never reconsidered, but don't report.
+                if post_id not in state:
+                    state[post_id] = {
+                        "state": "notified",
+                        "first_seen": now_iso,
+                        "last_seen": now_iso,
+                        "fingerprint": None,
+                        "title": title,
+                        "permalink": permalink,
+                    }
+                total_skipped += 1
+                continue
 
-                title = post.get("title", "")
-                body = post.get("selftext", "") or ""
-                flags = classify_post(title, body)
+            if is_wtb(title):
+                total_skipped += 1
+                continue
 
-                if not any(flags.values()):
-                    continue  # not a match for any category, skip
+            category = categorize(title)
+            if not category:
+                total_skipped += 1
+                continue
 
-                entry = build_post_entry(post)
+            price = extract_price(title)
 
-                if flags["mobile"]:
-                    mobiles.append(entry)
-                if flags["laptop"]:
-                    price = entry["price"]
-                    if price is None:
-                        laptops_no_price.append(entry)
-                    elif price <= LAPTOP_MAX_PRICE:
-                        laptops.append(entry)
-                    # else: over budget, skip per spec
-                if flags["tablet"]:
-                    tablets.append(entry)
-                if flags["console"]:
-                    consoles.append(entry)
+            score, _reasons = score_listing(title, category, price)
+            if score < SCORE_THRESHOLD:
+                total_skipped += 1
+                continue
 
-    report = render_report(mobiles, laptops, laptops_no_price, tablets, consoles)
+            total_matched += 1
+            fingerprint = make_fingerprint(title, price)
 
-    with open(REPORT_FILE, "w") as f:
-        f.write(report)
+            existing = state.get(post_id)
 
-    print(report)
+            if existing is None:
+                # Check repost against fingerprint history first
+                repost_of = find_repost(fingerprint, state, post_id)
+                state[post_id] = {
+                    "state": "pending",
+                    "first_seen": now_iso,
+                    "last_seen": now_iso,
+                    "fingerprint": fingerprint,
+                    "title": title,
+                    "permalink": permalink,
+                }
+                if repost_of:
+                    # Treat as repost: skip notifying again, just track it.
+                    state[post_id]["state"] = "notified"
+                    total_updated += 1
+                else:
+                    total_new += 1
+                # New posts are never notified same-run; wait for verification.
+                continue
 
-    total_new = len(mobiles) + len(laptops) + len(laptops_no_price) + len(tablets) + len(consoles)
-    if total_new > 0:
-        send_ntfy_alert(report)
+            # Post already known.
+            existing["last_seen"] = now_iso
+            existing["title"] = title
+            existing["permalink"] = permalink
 
-    save_seen_ids(new_seen_ids)
+            if existing.get("state") == "pending":
+                # Verified still exists on this second run -> notify now.
+                existing["state"] = "notified"
+                existing["fingerprint"] = fingerprint
+                to_notify.append((title, permalink, category, price, score))
+                total_updated += 1
+            else:
+                # Already notified before; nothing to do.
+                total_skipped += 1
+
+    # Build report + notifications from verified (to_notify) listings.
+    for title, permalink, category, price, score in to_notify:
+        price_str = f"Rs.{price:,}" if price is not None else "Price not found"
+        line = f"- [{title}]({permalink}) — {price_str} (score {score})"
+        report_sections.setdefault(category, []).append(line)
+
+    for category, lines in report_sections.items():
+        for title, permalink, cat, price, score in to_notify:
+            pass  # no-op, lines already built above
+
+    # ntfy notifications
+    for title, permalink, category, price, score in to_notify:
+        price_str = f"Rs.{price:,}" if price is not None else "price n/a"
+        send_ntfy(f"New {category}: {title[:60]}", f"{price_str}\n{permalink}")
+
+    # Prune + save state (Part 14)
+    state = prune_state(state)
+    save_state(state)
+
+    # Write report.md
+    write_report(report_sections)
+
+    elapsed = time.time() - run_start
+
+    # Part 12 - structured logging
+    log("=" * 48)
+    log(f"Started: {started_at.strftime('%Y-%m-%d %H:%M')}")
+    for sub in SUBREDDITS:
+        log(sub)
+    log(f"Fetched: {total_fetched}")
+    log(f"Matched: {total_matched}")
+    log(f"New: {total_new}")
+    log(f"Updated (notified): {total_updated}")
+    log(f"Skipped: {total_skipped}")
+    log(f"Time: {elapsed:.1f} sec")
+    log("=" * 48)
+
+
+def write_report(report_sections):
+    now = datetime.now(timezone.utc)
+    lines = [f"# Hyderabad Buy/Sell Report - {now.strftime('%Y-%m-%d %H:%M')} UTC\n"]
+
+    section_titles = {
+        "Mobiles": "## Mobiles",
+        "Laptops": "## Laptops",
+        "Tablets": "## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)",
+        "Consoles": "## Game Consoles",
+    }
+    empty_msgs = {
+        "Mobiles": "_No new mobile listings found in this run._",
+        "Laptops": "_No new laptop listings found in this run._",
+        "Tablets": "_No new matching tablet listings found in this run._",
+        "Consoles": "_No new game console listings found in this run._",
+    }
+
+    for category in ["Mobiles", "Laptops", "Tablets", "Consoles"]:
+        lines.append(section_titles[category])
+        lines.append("")
+        entries = report_sections.get(category, [])
+        if entries:
+            lines.extend(entries)
+        else:
+            lines.append(empty_msgs[category])
+        lines.append("")
+        lines.append("")
+
+    with open(REPORT_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines).rstrip() + "\n")
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        # Last-resort catch so GitHub Actions logs the failure clearly
+        # instead of a bare traceback with no context.
+        log(f"FATAL: unhandled error: {e}")
+        raise
