@@ -37,6 +37,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # seen_ids.json and report.md are fully regenerated every run, so
+          # there is nothing meaningful to line-by-line merge if two runs
+          # land close together. On a push rejection, we don't rebase/merge:
+          # we just fetch the latest remote state and re-apply our freshly
+          # generated files on top of it, then commit and push again.
+
+          mkdir -p /tmp/tracker-output
+          cp seen_ids.json /tmp/tracker-output/seen_ids.json
+          cp report.md /tmp/tracker-output/report.md
+
           git add seen_ids.json report.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
@@ -49,9 +60,31 @@ jobs:
               echo "Push succeeded"
               exit 0
             fi
-            echo "Push rejected, pulling and retrying ($i/5)..."
-            git pull --rebase origin main
+
+            echo "Push rejected, syncing with remote and retrying ($i/5)..."
+
+            # Abandon any in-progress rebase/merge from a previous failed
+            # attempt so this stays a clean, repeatable loop.
+            git rebase --abort 2>/dev/null || true
+            git merge --abort 2>/dev/null || true
+
+            git fetch origin main
+            git reset --hard origin/main
+
+            # Re-apply our own generated output on top of the latest remote
+            # state instead of merging diffs.
+            cp /tmp/tracker-output/seen_ids.json seen_ids.json
+            cp /tmp/tracker-output/report.md report.md
+
+            git add seen_ids.json report.md
+            if git diff --cached --quiet; then
+              echo "Remote already has equivalent/newer state; nothing to commit"
+              exit 0
+            fi
+            git commit -m "Update tracker state [skip ci]"
+
             sleep $((RANDOM % 10 + 1))
           done
+
           echo "Push failed after retries"
           exit 1
