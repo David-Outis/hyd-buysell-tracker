@@ -1,13 +1,11 @@
 name: Hyderabad Buy/Sell Tracker
 
 on:
-  schedule:
-    # Every 30 minutes, all day, every day.
-    # GitHub Actions cron is UTC. The script itself restricts results to
-    # "today" (UTC calendar day) via ONLY_TODAY in tracker.py, so posts from
-    # previous days are never reported even if a run is late or missed.
-    - cron: "*/30 * * * *"
-  workflow_dispatch: {}   # lets you manually trigger a run from the Actions tab
+  # Triggered externally every 30 minutes via cron-job.org hitting the
+  # workflow_dispatch API endpoint, since GitHub's own `schedule:` cron can
+  # be delayed by several minutes (especially on free-tier repos). See:
+  # https://api.github.com/repos/David-Outis/hyd-buysell-tracker/actions/workflows/tracker.yml/dispatches
+  workflow_dispatch: {}   # also lets you manually trigger a run from the Actions tab
 
 permissions:
   contents: write   # needed so the workflow can commit seen_ids.json back
