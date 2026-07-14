@@ -28,7 +28,13 @@ from datetime import datetime, timedelta, timezone
 # Config
 # ----------------------------------------------------------------------------
 
-SUBREDDITS = ["HyderabadBuySell", "HyderabadUsedItems"]
+SUBREDDITS = [
+    "HyderabadBuySell",
+    "HyderabadUsedItems",
+    "ChennaiBuyAndSell",
+    "bangloremarketplace",     # note: "banglore" spelling (missing second "a")
+    "BangaloreMarketplace",    # note: "bangalore" spelling - a different, separate subreddit
+]
 
 # Multiple fallback endpoints per subreddit (tried in order until one works).
 # .json endpoints are tried first since they're structured and easy to parse.
@@ -61,6 +67,12 @@ REPOST_WINDOW_DAYS = 7
 
 # Minimum score for a listing to be reported (Part 11)
 SCORE_THRESHOLD = 50
+
+# Fast recheck: instead of waiting for the next scheduled (30-min) run to
+# verify a brand-new post still exists, wait this many seconds within the
+# same run and recheck immediately. Keeps false-positive protection while
+# cutting notification latency drastically for items that sell fast.
+FAST_RECHECK_DELAY_SECONDS = 45
 
 # Network retry/backoff
 MAX_RETRIES = 4
@@ -100,8 +112,18 @@ TABLET_ALLOWLIST_PATTERNS = [
     r"mi\s*pad\s*[678]", r"xiaomi\s*pad\s*[678]",
 ]
 
-HYDERABAD_HINTS = ["hyderabad", "hyd", "secunderabad", "kukatpally", "gachibowli",
-                    "madhapur", "kondapur", "miyapur", "ameerpet", "dilsukhnagar"]
+CITY_HINTS = [
+    # Hyderabad
+    "hyderabad", "hyd", "secunderabad", "kukatpally", "gachibowli",
+    "madhapur", "kondapur", "miyapur", "ameerpet", "dilsukhnagar",
+    # Chennai
+    "chennai", "madras", "tambaram", "velachery", "adyar", "anna nagar",
+    "porur", "omr", "tnagar", "t nagar",
+    # Bangalore
+    "bangalore", "bengaluru", "blr", "koramangala", "indiranagar",
+    "whitefield", "electronic city", "hsr layout", "marathahalli",
+    "jayanagar",
+]
 
 GOOD_TITLE_HINTS = ["excellent condition", "like new", "sealed", "brand new",
                      "warranty", "bill available", "urgent sale"]
@@ -335,11 +357,26 @@ def fetch_raw(url):
 ATOM_NS = "{http://www.w3.org/2005/Atom}"
 
 
+def _html_to_text(html_str):
+    """Strip HTML tags down to plain text for use in notifications."""
+    import html as html_module
+    if not html_str:
+        return ""
+    # Reddit's RSS content field also includes a "submitted by / comments"
+    # footer link block we don't want in the notification body.
+    text = re.sub(r"<a[^>]*>\s*\[link\]\s*</a>|<a[^>]*>\s*\[comments\]\s*</a>",
+                  "", html_str, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html_module.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
 def parse_rss_feed(raw_bytes):
     """
     Parse Reddit's Atom-format RSS feed into the same shape the rest of the
     script expects from the .json endpoint: a list of {"data": {...}} dicts
-    with id, title, created_utc, permalink.
+    with id, title, created_utc, permalink, selftext.
     """
     import xml.etree.ElementTree as ET
 
@@ -362,6 +399,9 @@ def parse_rss_feed(raw_bytes):
             link_el = entry.find(f"{ATOM_NS}link")
             permalink = link_el.get("href") if link_el is not None else ""
 
+            content_raw = entry.findtext(f"{ATOM_NS}content", default="")
+            selftext = _html_to_text(content_raw)
+
             time_str = (entry.findtext(f"{ATOM_NS}published")
                         or entry.findtext(f"{ATOM_NS}updated"))
             if time_str:
@@ -378,6 +418,7 @@ def parse_rss_feed(raw_bytes):
                 "data": {
                     "id": post_id,
                     "title": title,
+                    "selftext": selftext,
                     "created_utc": created_utc,
                     "permalink": permalink.replace("https://reddit.com", "")
                                             .replace("https://www.reddit.com", "")
@@ -598,7 +639,8 @@ def main():
     now_iso = started_at.isoformat()
 
     report_sections = {cat: [] for cat in ["Mobiles", "Laptops", "Tablets", "Consoles"]}
-    to_notify = []  # (title, permalink, category, price, score)
+    to_notify = []  # (title, permalink, category, price, score, selftext)
+    new_pending = []  # freshly-seen posts this run, awaiting fast recheck
 
     total_fetched = 0
     total_matched = 0
@@ -610,11 +652,18 @@ def main():
         posts = fetch_subreddit_posts(sub)
         total_fetched += len(posts)
 
+        # Small pause between subreddits to reduce the chance of tripping
+        # a rate limit back-to-back, since .rss is now the primary working
+        # path (not just an occasional fallback) after .json got blocked.
+        if sub != SUBREDDITS[-1]:
+            time.sleep(3)
+
         for post in posts:
             try:
                 p = post["data"]
                 post_id = p["id"]
                 title = p.get("title", "").strip()
+                selftext = (p.get("selftext") or "").strip()
                 created_utc = p.get("created_utc", 0)
                 permalink = "https://reddit.com" + p.get("permalink", "")
             except (KeyError, TypeError):
@@ -666,6 +715,7 @@ def main():
                     "fingerprint": fingerprint,
                     "title": title,
                     "permalink": permalink,
+                    "selftext": selftext,
                 }
                 if repost_of:
                     # Treat as repost: skip notifying again, just track it.
@@ -673,38 +723,87 @@ def main():
                     total_updated += 1
                 else:
                     total_new += 1
-                # New posts are never notified same-run; wait for verification.
+                    new_pending.append({
+                        "id": post_id,
+                        "title": title,
+                        "permalink": permalink,
+                        "category": category,
+                        "price": price,
+                        "score": score,
+                        "selftext": selftext,
+                    })
+                # New posts are never notified same-run (yet) - they go
+                # through the fast recheck below before falling back to
+                # waiting for the next scheduled run.
                 continue
 
             # Post already known.
             existing["last_seen"] = now_iso
             existing["title"] = title
             existing["permalink"] = permalink
+            if selftext:
+                existing["selftext"] = selftext
 
             if existing.get("state") == "pending":
                 # Verified still exists on this second run -> notify now.
                 existing["state"] = "notified"
                 existing["fingerprint"] = fingerprint
-                to_notify.append((title, permalink, category, price, score))
+                to_notify.append((title, permalink, category, price, score,
+                                   selftext or existing.get("selftext", "")))
                 total_updated += 1
             else:
                 # Already notified before; nothing to do.
                 total_skipped += 1
 
+    # ------------------------------------------------------------------
+    # Fast recheck (shortened verification window)
+    # ------------------------------------------------------------------
+    # Waiting a full 30-min schedule cycle to verify a post still exists
+    # is too slow for items that can sell within minutes. Instead, after
+    # a short pause, we refetch and check the same run: if a "new" post
+    # is still present, notify immediately. If it disappeared (deleted/
+    # glitch), it's left in "pending" state and simply never promoted -
+    # protecting against the false positives Part 8 was designed to avoid.
+    if new_pending:
+        log(f"Fast recheck: waiting {FAST_RECHECK_DELAY_SECONDS}s before "
+            f"re-verifying {len(new_pending)} new listing(s)...")
+        time.sleep(FAST_RECHECK_DELAY_SECONDS)
+
+        still_present_ids = set()
+        for sub in SUBREDDITS:
+            recheck_posts = fetch_subreddit_posts(sub)
+            for post in recheck_posts:
+                try:
+                    still_present_ids.add(post["data"]["id"])
+                except (KeyError, TypeError):
+                    continue
+
+        for item in new_pending:
+            if item["id"] in still_present_ids:
+                state[item["id"]]["state"] = "notified"
+                state[item["id"]]["last_seen"] = now_iso
+                to_notify.append((
+                    item["title"], item["permalink"], item["category"],
+                    item["price"], item["score"], item["selftext"],
+                ))
+                total_updated += 1
+                total_new -= 1  # it's now counted as updated/notified, not just "new"
+            else:
+                log(f"Post {item['id']} disappeared before recheck; "
+                    f"leaving as pending for next scheduled run.")
+
     # Build report + notifications from verified (to_notify) listings.
-    for title, permalink, category, price, score in to_notify:
+    for title, permalink, category, price, score, selftext in to_notify:
         price_str = f"Rs.{price:,}" if price is not None else "Price not found"
         line = f"- [{title}]({permalink}) — {price_str} (score {score})"
         report_sections.setdefault(category, []).append(line)
 
-    for category, lines in report_sections.items():
-        for title, permalink, cat, price, score in to_notify:
-            pass  # no-op, lines already built above
-
-    # ntfy notifications
-    for title, permalink, category, price, score in to_notify:
+    # ntfy notifications (include post body alongside title)
+    for title, permalink, category, price, score, selftext in to_notify:
         price_str = f"Rs.{price:,}" if price is not None else "price n/a"
-        send_ntfy(f"New {category}: {title[:60]}", f"{price_str}\n{permalink}")
+        body_preview = selftext[:400] if selftext else "(no post body)"
+        message = f"{price_str}\n{permalink}\n\n{body_preview}"
+        send_ntfy(f"New {category}: {title[:60]}", message)
 
     # Prune + save state (Part 14)
     state = prune_state(state)
