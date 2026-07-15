@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-15 12:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-15 12:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] Samsung Galaxy Tab S9 FE Wi-Fi (6GB/128GB) with S Pen – Excellent Condition – ₹22,000 (Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1ux4d2k/wts_samsung_galaxy_tab_s9_fe_wifi_6gb128gb_with_s/) — Rs.22,000 (score 85)
 
 
 ## Laptops
