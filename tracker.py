@@ -584,6 +584,10 @@ def send_ntfy(title, message):
 PRICE_PATTERNS = [
     # ₹23,500  or  ₹ 23500
     r"₹\s*([\d,]+(?:\.\d+)?)",
+    # 73500₹  or  73,500 ₹  (symbol trailing the number - Part 18 fix;
+    # previously only leading-₹ was matched, so titles like
+    # "...phone 73500₹" scored no price at all)
+    r"\b([\d,]+(?:\.\d+)?)\s*₹",
     # Rs.23500 / Rs 23,000 / rs. 23000
     r"\brs\.?\s*([\d,]+(?:\.\d+)?)",
     # 23500/-
@@ -698,8 +702,17 @@ def categorize(title):
     return None
 
 
-def score_listing(title, category, price):
-    text = title.lower()
+def score_listing(title, category, price, selftext=""):
+    """Score a listing. `title` drives the "Excellent title" phrase check
+    (kept title-only on purpose - that's specifically about how the listing
+    is *titled*), while price and city-match are checked against the
+    combined title+body text, since sellers very often put the price and
+    location only in the post body rather than the title (Part 17 fix -
+    previously price/city were title-only and this silently dropped a lot
+    of well-formed listings, e.g. genuine laptop posts with no price/city
+    in the title, under SCORE_THRESHOLD)."""
+    title_text = title.lower()
+    full_text = f"{title} {selftext}".lower()
     score = 0
     reasons = []
 
@@ -712,11 +725,11 @@ def score_listing(title, category, price):
         score += 30
         reasons.append("+30 Price found")
 
-    if any(hint in text for hint in CITY_HINTS):
+    if any(hint in full_text for hint in CITY_HINTS):
         score += 20
         reasons.append("+20 City match")
 
-    if any(hint in text for hint in GOOD_TITLE_HINTS):
+    if any(hint in title_text for hint in GOOD_TITLE_HINTS):
         score += 15
         reasons.append("+15 Excellent title")
 
@@ -803,9 +816,15 @@ def main():
                 total_skipped += 1
                 continue
 
+            # Part 17 - price is frequently only in the post body, not the
+            # title (e.g. "Selling my HP Pavilion laptop" with "Price:
+            # Rs.25000" down in selftext), so check the title first and
+            # fall back to the body if nothing was found there.
             price = extract_price(title)
+            if price is None and selftext:
+                price = extract_price(selftext)
 
-            score, _reasons = score_listing(title, category, price)
+            score, _reasons = score_listing(title, category, price, selftext)
             if score < SCORE_THRESHOLD:
                 total_skipped += 1
                 continue
