@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-15 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-15 04:06 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[WTS] Planning to sell 1.5 year old Macbook air M3 for 60k to 70k in Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1uwtg3m/wts_planning_to_sell_15_year_old_macbook_air_m3/) — Rs.60,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
