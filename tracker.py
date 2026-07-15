@@ -62,6 +62,13 @@ USER_AGENT = "HyderabadBuySellTracker/2.0 (by u/anonymous; contact via repo issu
 SEEN_IDS_FILE = "seen_ids.json"
 REPORT_FILE = "report.md"
 
+# Part 21 - consecutive-failure tracking. If a subreddit fails every
+# endpoint for this many runs in a row, send an ntfy alert so it's noticed
+# without having to read the Actions log (previously silent - only visible
+# by manually checking logs).
+FETCH_FAILURE_STATE_FILE = "fetch_failures.json"
+FAILURE_ALERT_THRESHOLD = 4  # 4 consecutive failed runs (~2 hours at 30 min/run)
+
 ONLY_TODAY = True
 MAX_AGE_HOURS = 24
 
@@ -134,17 +141,54 @@ CITY_HINTS = [
     # Hyderabad
     "hyderabad", "hyd", "secunderabad", "kukatpally", "gachibowli",
     "madhapur", "kondapur", "miyapur", "ameerpet", "dilsukhnagar",
+    "nagole", "uppal", "lb nagar", "l b nagar", "kompally", "banjara hills",
+    "jubilee hills", "begumpet", "malakpet", "attapur", "manikonda",
+    "narsingi", "shamshabad", "lingampally", "bachupally",
     # Chennai
     "chennai", "madras", "tambaram", "velachery", "adyar", "anna nagar",
-    "porur", "omr", "tnagar", "t nagar",
+    "porur", "omr", "tnagar", "t nagar", "guindy", "sholinganallur",
+    "chromepet", "pallavaram", "perungudi", "ecr",
     # Bangalore
     "bangalore", "bengaluru", "blr", "koramangala", "indiranagar",
     "whitefield", "electronic city", "hsr layout", "marathahalli",
-    "jayanagar",
+    "jayanagar", "sarjapur", "sarjapur road", "btm layout", "btm",
+    "yelahanka", "bellandur", "rajajinagar", "malleswaram", "hebbal",
 ]
 
-GOOD_TITLE_HINTS = ["excellent condition", "like new", "sealed", "brand new",
-                     "warranty", "bill available", "urgent sale"]
+# Part 19 - PIN codes. Hyderabad (5000xx/5010xx), Chennai (6000xx), and
+# Bangalore (5600xx) postal codes, matched as a fallback when a listing
+# gives only a PIN and no named area/city (word-boundary so this doesn't
+# false-match inside a longer number like a phone number fragment or price).
+PINCODE_PATTERNS = [
+    r"\b500\d{3}\b",  # Hyderabad
+    r"\b501\d{3}\b",  # Hyderabad (Ranga Reddy / outer)
+    r"\b600\d{3}\b",  # Chennai
+    r"\b560\d{3}\b",  # Bangalore
+]
+
+
+def has_city_match(text):
+    """True if the text mentions a known area/city name or a plausible
+    Hyderabad/Chennai/Bangalore PIN code."""
+    if any(hint in text for hint in CITY_HINTS):
+        return True
+    return any(re.search(p, text) for p in PINCODE_PATTERNS)
+
+
+# Part 19 - condition/quality hints. Checked against title+body combined
+# (previously title-only, so body phrases like "excellent condition" or
+# "barely used" in a long post scored nothing even though that's exactly
+# where sellers usually write this).
+CONDITION_HINTS = [
+    "excellent condition", "like new", "sealed", "brand new",
+    "warranty", "bill available", "urgent sale", "barely used",
+    "mint condition", "well maintained", "lightly used", "single owner",
+    "no scratches", "no issues", "box available", "all accessories",
+]
+
+# Kept as an alias for backwards compatibility with anything referencing
+# the old name.
+GOOD_TITLE_HINTS = CONDITION_HINTS
 
 # Part 15 - Negative keywords: "want to buy" posts, not actual listings.
 # If a title matches any of these, it's excluded entirely regardless of score.
@@ -183,6 +227,16 @@ EXCLUDE_PATTERNS = [
     r"\bshow\b",
     r"\bwatch(es)?\b",
     r"\bsmart\s*watch\b",
+    # Part 22 - large appliances. These can slip through via brand-keyword
+    # collisions (e.g. "Samsung fridge" matches "samsung" -> Mobiles,
+    # "LG washing machine" could match other keywords), so exclude
+    # outright regardless of category/score, same as tickets/watches above.
+    r"\bfridge\b", r"\brefrigerator\b",
+    r"\bwashing\s*machine\b", r"\bwasher\b", r"\bdryer\b",
+    r"\bmicrowave\b", r"\bdishwasher\b",
+    r"\bac\b", r"\bair\s*conditioner\b",
+    r"\bgeyser\b", r"\bwater\s*heater\b",
+    r"\bchimney\b",
 ]
 
 
@@ -276,6 +330,68 @@ def save_state(state):
     with open(tmp_path, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2, sort_keys=True)
     os.replace(tmp_path, SEEN_IDS_FILE)
+
+
+# ----------------------------------------------------------------------------
+# Part 21 - Consecutive fetch-failure tracking / alerting
+# ----------------------------------------------------------------------------
+
+def load_failure_state():
+    """Load fetch_failures.json: {"<subreddit>": <consecutive_failure_count>}.
+    Self-heals if missing/corrupted, same approach as load_state()."""
+    if not os.path.exists(FETCH_FAILURE_STATE_FILE):
+        return {}
+    try:
+        with open(FETCH_FAILURE_STATE_FILE, "r", encoding="utf-8") as f:
+            raw = f.read().strip()
+        if not raw:
+            return {}
+        data = json.loads(raw)
+        if not isinstance(data, dict):
+            raise ValueError("fetch_failures.json is not a dict")
+        return data
+    except (json.JSONDecodeError, ValueError, OSError) as e:
+        log(f"Corrupted {FETCH_FAILURE_STATE_FILE} ({e}); starting fresh.")
+        return {}
+
+
+def save_failure_state(failure_state):
+    tmp_path = FETCH_FAILURE_STATE_FILE + ".tmp"
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(failure_state, f, indent=2, sort_keys=True)
+    os.replace(tmp_path, FETCH_FAILURE_STATE_FILE)
+
+
+def update_failure_state_and_alert(failure_state, sub, fetch_succeeded):
+    """Update the consecutive-failure count for `sub` and send an ntfy
+    alert once it crosses FAILURE_ALERT_THRESHOLD. Resets to 0 (and sends
+    a recovery notice) as soon as a fetch succeeds again, so this doesn't
+    alert repeatedly every run once it's already fired."""
+    prev_count = failure_state.get(sub, 0)
+
+    if fetch_succeeded:
+        if prev_count >= FAILURE_ALERT_THRESHOLD:
+            send_ntfy(f"Recovered: r/{sub}",
+                      f"r/{sub} fetched successfully again after "
+                      f"{prev_count} consecutive failed runs.")
+        failure_state[sub] = 0
+        return
+
+    new_count = prev_count + 1
+    failure_state[sub] = new_count
+
+    if new_count == FAILURE_ALERT_THRESHOLD:
+        send_ntfy(f"ALERT: r/{sub} fetch failing",
+                  f"r/{sub} has failed to fetch (all endpoints exhausted) "
+                  f"for {new_count} consecutive runs. Check the Actions "
+                  f"log - this subreddit may be blocked, renamed, or "
+                  f"private.")
+    elif new_count > FAILURE_ALERT_THRESHOLD and new_count % FAILURE_ALERT_THRESHOLD == 0:
+        # Re-alert periodically (every FAILURE_ALERT_THRESHOLD runs) if it's
+        # still failing, so a long outage doesn't go completely silent
+        # after the first alert.
+        send_ntfy(f"STILL FAILING: r/{sub}",
+                  f"r/{sub} has now failed {new_count} consecutive runs.")
 
 
 def prune_state(state):
@@ -592,12 +708,23 @@ PRICE_PATTERNS = [
     r"\brs\.?\s*([\d,]+(?:\.\d+)?)",
     # 23500/-
     r"\b([\d,]+)\s*/-",
+    # Part 20 - ranges: "25k-28k", "25k to 28k", "20-25 k", "20000-25000".
+    # Takes the LOWER bound deliberately - conservative, avoids overstating
+    # the price, and still gives the post a "price found" signal it was
+    # missing before (these previously matched nothing at all, since a lone
+    # "k" pattern doesn't span across a "-"/"to").
+    r"\b(\d+(?:\.\d+)?)\s*k?\s*(?:-|to)\s*\d+(?:\.\d+)?\s*k\b",
+    r"\b([\d,]{4,7})\s*(?:-|to)\s*[\d,]{4,7}\b",
     # 23k final / 23 k / 23.5k / 30K
     r"\b(\d+(?:\.\d+)?)\s*k\b",
     # 25 thousand
     r"\b(\d+(?:\.\d+)?)\s*thousand\b",
     # plain number with 4-6 digits followed by "negotiable"/"fixed"/"final"
     r"\b([\d,]{4,7})\s*(?:negotiable|fixed|final|only)\b",
+    # Part 20 - OBO / best offer: "25000 obo", "best offer 25k",
+    # "25k or best offer". Number can come before or after the phrase.
+    r"\b([\d,]{4,7})\s*(?:obo|or\s*best\s*offer)\b",
+    r"\bbest\s*offer[:\s]*([\d,]{4,7})\b",
 ]
 
 NOISE_CONTEXT_PATTERNS = [
@@ -620,8 +747,10 @@ def extract_price(title):
     """
     Returns an int price in rupees, or None.
     Handles: ₹23,500 | Rs.23500 | 23500/- | 23k | 23 K | 23.5k |
-             25 thousand | 35 negotiable | 25,500 fixed | Rs 23000 | 23k final
+             25 thousand | 35 negotiable | 25,500 fixed | Rs 23000 | 23k final |
+             25k-28k | 20 to 25k | 25000 obo | best offer 25000
     Ignores: 128GB, 16GB RAM, RTX 3060, iPhone 15 (plain model numbers).
+    For ranges, returns the lower bound.
     """
     text = title.lower()
     cleaned = _strip_noise(text)
@@ -636,7 +765,14 @@ def extract_price(title):
         except ValueError:
             continue
 
-        if "k" in pat or "thousand" in pat:
+        # Multiply by 1000 if this is a "k"/"thousand" style match. For the
+        # range pattern (e.g. "25-28k"), the first number often has no "k"
+        # of its own but shares the second number's unit, so check the
+        # whole matched span for a trailing "k", not just the captured digits.
+        matched_text = m.group(0)
+        if "thousand" in pat:
+            value *= 1000
+        elif re.search(r"k\b", matched_text, re.IGNORECASE):
             value *= 1000
 
         value = int(round(value))
@@ -703,15 +839,15 @@ def categorize(title):
 
 
 def score_listing(title, category, price, selftext=""):
-    """Score a listing. `title` drives the "Excellent title" phrase check
-    (kept title-only on purpose - that's specifically about how the listing
-    is *titled*), while price and city-match are checked against the
+    """Score a listing. Price and city-match are checked against the
     combined title+body text, since sellers very often put the price and
     location only in the post body rather than the title (Part 17 fix -
     previously price/city were title-only and this silently dropped a lot
     of well-formed listings, e.g. genuine laptop posts with no price/city
-    in the title, under SCORE_THRESHOLD)."""
-    title_text = title.lower()
+    in the title, under SCORE_THRESHOLD). Condition hints ("excellent
+    condition", "barely used", etc.) are also now checked against the full
+    text rather than title-only (Part 19), for the same reason.
+    """
     full_text = f"{title} {selftext}".lower()
     score = 0
     reasons = []
@@ -725,15 +861,43 @@ def score_listing(title, category, price, selftext=""):
         score += 30
         reasons.append("+30 Price found")
 
-    if any(hint in full_text for hint in CITY_HINTS):
+    if has_city_match(full_text):
         score += 20
         reasons.append("+20 City match")
 
-    if any(hint in title_text for hint in GOOD_TITLE_HINTS):
+    if any(hint in full_text for hint in CONDITION_HINTS):
         score += 15
-        reasons.append("+15 Excellent title")
+        reasons.append("+15 Condition/quality hint")
+
+    # Part 19 - "detailed listing" signal: a post with no price and no city
+    # can still be a genuine, high-quality listing (e.g. a seller who lists
+    # full specs but forgets to add a price/location, or puts them in a
+    # comment instead). Give a modest +15 if the body is substantial and
+    # spec-heavy, so a well-written listing isn't dropped purely for
+    # missing price/city while an empty one-line post still is. This is
+    # intentionally smaller than the +30/+20 signals above so a listing
+    # with an actual price/city is still scored higher.
+    if len(selftext) >= 150 and _looks_spec_heavy(full_text):
+        score += 15
+        reasons.append("+15 Detailed listing")
 
     return score, reasons
+
+
+SPEC_HEAVY_PATTERNS = [
+    r"\bcondition\b", r"\bram\b", r"\bssd\b", r"\bhdd\b", r"\bstorage\b",
+    r"\bwarranty\b", r"\bprocessor\b", r"\bgeneration\b", r"\bgen\b",
+    r"\bbattery\b", r"\bcharger\b", r"\bspecification", r"\baccessories\b",
+]
+
+
+def _looks_spec_heavy(text):
+    """Heuristic: does this post read like a real, detailed listing (specs,
+    condition notes) rather than a one-line throwaway post? Requires at
+    least 3 distinct spec-related terms to avoid false positives on short
+    posts that happen to mention e.g. just "warranty" once."""
+    hits = sum(1 for p in SPEC_HEAVY_PATTERNS if re.search(p, text))
+    return hits >= 3
 
 
 # ----------------------------------------------------------------------------
@@ -756,6 +920,7 @@ def main():
     run_start = time.time()
     started_at = datetime.now(timezone.utc)
     state = load_state()
+    failure_state = load_failure_state()
     now_iso = started_at.isoformat()
 
     report_sections = {cat: [] for cat in ["Mobiles", "Laptops", "Tablets", "Consoles", "PCs"]}
@@ -770,6 +935,13 @@ def main():
     for sub in SUBREDDITS:
         posts = fetch_subreddit_posts(sub)
         total_fetched += len(posts)
+
+        # Part 21 - track consecutive total-failures per subreddit and
+        # alert if it's been failing for a while (see FAILURE_ALERT_THRESHOLD).
+        # An empty `posts` list means every endpoint failed for this sub -
+        # fetch_subreddit_posts() already logs that, this just adds
+        # persistence + alerting on top so it's not silent.
+        update_failure_state_and_alert(failure_state, sub, fetch_succeeded=bool(posts))
 
         # Pause between subreddits to reduce the chance of tripping a rate
         # limit in the first place, since .rss is now the primary working
@@ -888,6 +1060,7 @@ def main():
     # Prune + save state (Part 14)
     state = prune_state(state)
     save_state(state)
+    save_failure_state(failure_state)
 
     # Write report.md
     write_report(report_sections)
