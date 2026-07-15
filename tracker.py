@@ -109,6 +109,19 @@ CATEGORY_KEYWORDS = {
         "ps5", "ps4", "playstation", "xbox", "nintendo switch", "switch oled",
         "steam deck",
     ],
+    "PCs": [
+        # "pc" / "cpu" are dangerous as plain substrings (they'd match inside
+        # "upcoming", "PCX" scooter, "occupied", etc.), so these are matched
+        # with word-boundary regex instead of the loose substring check used
+        # for the other categories above. See categorize() below.
+        r"regex:\bpc\b", r"regex:\bcpu\b", r"regex:\bdesktop\b",
+        r"regex:\bgaming\s*pc\b", r"regex:\bcustom\s*pc\b",
+        r"regex:\bprebuilt\b", r"regex:\bpre-built\b",
+        r"regex:\bmotherboard\b", r"regex:\bcabinet\b", r"regex:\bsmps\b",
+        r"regex:\bfull\s*tower\b", r"regex:\bmid\s*tower\b",
+        r"regex:\bryzen\s*[3579]\b", r"regex:\bcore\s*i[3579]\b",
+        r"regex:\bgraphics\s*card\b",
+    ],
 }
 
 # Only these tablet models are allowed (per README: iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8)
@@ -154,6 +167,32 @@ def is_wtb(title):
     an actual for-sale listing."""
     text = title.lower()
     return any(re.search(p, text) for p in WTB_PATTERNS)
+
+
+# Part 16 - Category exclusions: movie tickets and watches/smartwatches are
+# not desired categories (only Mobiles/Laptops/Tablets/Consoles), but they
+# can slip through via keyword collisions - e.g. "galaxy" (meant for Samsung
+# Galaxy phones) also matches "Galaxy Watch", and some cinema/venue names
+# can coincidentally match a category keyword. Exclude them outright,
+# regardless of score, before categorization ever runs.
+EXCLUDE_PATTERNS = [
+    r"\bticket(s)?\b",
+    r"\bimax\b",
+    r"\bmovie\b",
+    r"\b(pvr|inox|cinepolis|multiplex|cinema)\b",
+    r"\bshow\b",
+    r"\bwatch(es)?\b",
+    r"\bsmart\s*watch\b",
+]
+
+
+def is_excluded(title):
+    """Return True if the title matches an excluded category (movie
+    tickets, watches, etc.) that should never be reported even if it
+    otherwise matches a category keyword like 'galaxy'."""
+    text = title.lower()
+    return any(re.search(p, text) for p in EXCLUDE_PATTERNS)
+
 
 NOISE_PATTERNS = [
     r"\b\d{2,4}\s*gb\s*ram\b",
@@ -643,7 +682,15 @@ def categorize(title):
     text = title.lower()
     for category, keywords in CATEGORY_KEYWORDS.items():
         for kw in keywords:
-            if kw in text:
+            # Keywords prefixed "regex:" are matched with word-boundary
+            # regex instead of a loose substring check (used for short,
+            # collision-prone tokens like "pc"/"cpu" - see PCs category).
+            if kw.startswith("regex:"):
+                matched = bool(re.search(kw[len("regex:"):], text))
+            else:
+                matched = kw in text
+
+            if matched:
                 if category == "Tablets":
                     if not any(re.search(p, text) for p in TABLET_ALLOWLIST_PATTERNS):
                         continue
@@ -656,7 +703,7 @@ def score_listing(title, category, price):
     score = 0
     reasons = []
 
-    category_points = {"Mobiles": 40, "Laptops": 40, "Tablets": 40, "Consoles": 35}
+    category_points = {"Mobiles": 40, "Laptops": 40, "Tablets": 40, "Consoles": 35, "PCs": 40}
     if category in category_points:
         score += category_points[category]
         reasons.append(f"+{category_points[category]} {category}")
@@ -698,7 +745,7 @@ def main():
     state = load_state()
     now_iso = started_at.isoformat()
 
-    report_sections = {cat: [] for cat in ["Mobiles", "Laptops", "Tablets", "Consoles"]}
+    report_sections = {cat: [] for cat in ["Mobiles", "Laptops", "Tablets", "Consoles", "PCs"]}
     to_notify = []  # (title, permalink, category, price, score, selftext)
 
     total_fetched = 0
@@ -744,6 +791,10 @@ def main():
                 continue
 
             if is_wtb(title):
+                total_skipped += 1
+                continue
+
+            if is_excluded(title):
                 total_skipped += 1
                 continue
 
@@ -847,15 +898,17 @@ def write_report(report_sections):
         "Laptops": "## Laptops",
         "Tablets": "## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)",
         "Consoles": "## Game Consoles",
+        "PCs": "## Desktop PCs",
     }
     empty_msgs = {
         "Mobiles": "_No new mobile listings found in this run._",
         "Laptops": "_No new laptop listings found in this run._",
         "Tablets": "_No new matching tablet listings found in this run._",
         "Consoles": "_No new game console listings found in this run._",
+        "PCs": "_No new desktop PC listings found in this run._",
     }
 
-    for category in ["Mobiles", "Laptops", "Tablets", "Consoles"]:
+    for category in ["Mobiles", "Laptops", "Tablets", "Consoles", "PCs"]:
         lines.append(section_titles[category])
         lines.append("")
         entries = report_sections.get(category, [])
