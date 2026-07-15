@@ -36,11 +36,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # seen_ids.json and report.md are fully regenerated every run, so
-          # there is nothing meaningful to line-by-line merge if two runs
-          # land close together. On a push rejection, we don't rebase/merge:
-          # we just fetch the latest remote state and re-apply our freshly
-          # generated files on top of it, then commit and push again.
+          # report.md is just a display artifact regenerated fresh each run,
+          # so on conflict it's safe to always take our local copy.
+          # seen_ids.json is authoritative STATE though: if another run
+          # pushed in between our commit and our push, blindly overwriting
+          # it with our own (now-stale) copy would revert post IDs that run
+          # just marked "notified" - making them look new again next run
+          # and causing the exact same URL to be re-notified. So on
+          # conflict we MERGE seen_ids.json instead of clobbering it.
 
           mkdir -p /tmp/tracker-output
           cp seen_ids.json /tmp/tracker-output/seen_ids.json
@@ -67,12 +70,57 @@ jobs:
             git merge --abort 2>/dev/null || true
 
             git fetch origin main
+
+            # Grab the remote's current seen_ids.json before resetting our
+            # working tree, so we have both sides available to merge.
+            git show origin/main:seen_ids.json > /tmp/tracker-output/remote_seen_ids.json || echo "{}" > /tmp/tracker-output/remote_seen_ids.json
+
             git reset --hard origin/main
 
-            # Re-apply our own generated output on top of the latest remote
-            # state instead of merging diffs.
-            cp /tmp/tracker-output/seen_ids.json seen_ids.json
+            # report.md has no state semantics - just take our freshly
+            # generated local copy.
             cp /tmp/tracker-output/report.md report.md
+
+            # Merge seen_ids.json: union of post IDs from both files. An ID
+            # present on both sides keeps whichever entry is "notified"
+            # (never downgrade an already-notified entry back to unseen),
+            # otherwise whichever has the later timestamp wins.
+          python3 <<'PYEOF'
+          import json
+
+          def load(path):
+              try:
+                  with open(path, "r", encoding="utf-8") as f:
+                      return json.load(f)
+              except (OSError, json.JSONDecodeError):
+                  return {}
+
+          def ts(entry):
+              return entry.get("last_seen") or entry.get("first_seen") or ""
+
+          local = load("/tmp/tracker-output/seen_ids.json")
+          remote = load("/tmp/tracker-output/remote_seen_ids.json")
+
+          merged = dict(remote)
+          for pid, entry in local.items():
+              existing = merged.get(pid)
+              if existing is None:
+                  merged[pid] = entry
+                  continue
+              existing_notified = existing.get("state") == "notified"
+              entry_notified = entry.get("state") == "notified"
+              if existing_notified and not entry_notified:
+                  continue
+              if entry_notified and not existing_notified:
+                  merged[pid] = entry
+              elif ts(entry) >= ts(existing):
+                  merged[pid] = entry
+
+          with open("seen_ids.json", "w", encoding="utf-8") as f:
+              json.dump(merged, f, indent=2, sort_keys=True)
+
+          print(f"Merged {len(local)} local + {len(remote)} remote -> {len(merged)} entries")
+          PYEOF
 
             git add seen_ids.json report.md
             if git diff --cached --quiet; then
