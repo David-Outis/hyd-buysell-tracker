@@ -80,7 +80,7 @@ SCORE_THRESHOLD = 50
 # *last* fallback endpoint gets more attempts since there's nowhere further
 # to fall back to if it also gets rate-limited.
 MAX_RETRIES = 1
-LAST_FALLBACK_MAX_RETRIES = 2
+LAST_FALLBACK_MAX_RETRIES = 3
 BASE_BACKOFF_SECONDS = 2
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
@@ -305,8 +305,8 @@ def prune_state(state):
 # Rate-limit (429) specific backoff config - deliberately longer/slower than
 # the generic error backoff, since hammering Reddit while rate-limited risks
 # a longer or harsher block.
-RATE_LIMIT_BASE_SECONDS = 15
-RATE_LIMIT_MAX_SECONDS = 45
+RATE_LIMIT_BASE_SECONDS = 20
+RATE_LIMIT_MAX_SECONDS = 60
 
 
 def fetch_json(url, max_retries=None):
@@ -762,7 +762,7 @@ def main():
         # limit in the first place, since .rss is now the primary working
         # path (not just an occasional fallback) after .json got blocked.
         if sub != SUBREDDITS[-1]:
-            time.sleep(30)
+            time.sleep(45)
 
         for post in posts:
             try:
