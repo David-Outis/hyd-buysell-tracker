@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-15 09:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-15 10:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Selling Dell Precision Tower 5810 CPU – Xeon E5-2680 v4 | 32GB RAM | 512GB SSD | ₹40,000](https://reddit.com/r/HyderabadBuySell/comments/1ux14vf/selling_dell_precision_tower_5810_cpu_xeon_e52680/) — Rs.40,000 (score 70)
