@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 15:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 16:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[WTS] MacBook Air M5 16GB/1TB - Midnight - Sealed - Bangalore (F2F)](https://reddit.com/r/BangaloreMarketplace/comments/1uy63jl/wts_macbook_air_m5_16gb1tb_midnight_sealed/) — Price not found (score 90)
+- [HP Pavilion [i5 11th Gen + Nvidia MX450]](https://reddit.com/r/BangaloreMarketplace/comments/1uy7259/hp_pavilion_i5_11th_gen_nvidia_mx450/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
