@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 11:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 12:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Selling Spigen 15’ MacBook Air cover. Brand new.](https://reddit.com/r/BangaloreMarketplace/comments/1uy0pck/selling_spigen_15_macbook_air_cover_brand_new/) — Rs.3,500 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
