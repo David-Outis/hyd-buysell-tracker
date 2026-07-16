@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 07:34 UTC
 
 ## Mobiles
 
-- [Exclusive RCB Edition - Nothing Phone 4b - Brand new and sealed box 📱](https://reddit.com/r/BangaloreMarketplace/comments/1uxvbn1/exclusive_rcb_edition_nothing_phone_4b_brand_new/) — Price not found (score 75)
+- [Offering my iPhone 12 for ₹2,500 to someone who genuinely needs it](https://reddit.com/r/BangaloreMarketplace/comments/1uxvkjv/offering_my_iphone_12_for_2500_to_someone_who/) — Rs.2,500 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [NINTENDO SWITCH 2 BELKIN TRAVEL CASE](https://reddit.com/r/HyderabadBuySell/comments/1uxv1i5/nintendo_switch_2_belkin_travel_case/) — Rs.3,500 (score 85)
 
 
 ## Desktop PCs
