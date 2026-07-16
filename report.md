@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 04:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 04:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Exchange of macbook air with mac mini in bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1uxs7q4/exchange_of_macbook_air_with_mac_mini_in_bangalore/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
