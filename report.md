@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 14:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 14:34 UTC
 
 ## Mobiles
 
-- [Want to sell my 15 days old Motorola Edge 70](https://reddit.com/r/BangaloreMarketplace/comments/1uy33i5/want_to_sell_my_15_days_old_motorola_edge_70/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
