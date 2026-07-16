@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 16:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 16:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [HP Pavilion [i5 11th Gen + Nvidia MX450]](https://reddit.com/r/BangaloreMarketplace/comments/1uy7259/hp_pavilion_i5_11th_gen_nvidia_mx450/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
