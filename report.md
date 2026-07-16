@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 15:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 15:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MacBook Air 2017 128GB for sale (DM your offer) f2f near e-city](https://reddit.com/r/BangaloreMarketplace/comments/1uy4v8k/macbook_air_2017_128gb_for_sale_dm_your_offer_f2f/) — Price not found (score 75)
+- [[WTS] MacBook Air M5 16GB/1TB - Midnight - Sealed - Bangalore (F2F)](https://reddit.com/r/BangaloreMarketplace/comments/1uy63jl/wts_macbook_air_m5_16gb1tb_midnight_sealed/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
