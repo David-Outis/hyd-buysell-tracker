@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 08:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 09:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming/Editing PC CPU for sale for 35,000](https://reddit.com/r/BangaloreMarketplace/comments/1uxxa4s/gamingediting_pc_cpu_for_sale_for_35000/) — Price not found (score 55)
