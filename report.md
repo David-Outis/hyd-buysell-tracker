@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 06:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 07:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Exclusive RCB Edition - Nothing Phone 4b - Brand new and sealed box 📱](https://reddit.com/r/BangaloreMarketplace/comments/1uxvbn1/exclusive_rcb_edition_nothing_phone_4b_brand_new/) — Price not found (score 75)
 
 
 ## Laptops
