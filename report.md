@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 09:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 10:04 UTC
 
 ## Mobiles
 
-- [Samsung S22 plus for sale 8gb ram 128gb storage](https://reddit.com/r/BangaloreMarketplace/comments/1uxxtwg/samsung_s22_plus_for_sale_8gb_ram_128gb_storage/) — Rs.28,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
