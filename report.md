@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 07:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 08:04 UTC
 
 ## Mobiles
 
-- [Offering my iPhone 12 for ₹2,500 to someone who genuinely needs it](https://reddit.com/r/BangaloreMarketplace/comments/1uxvkjv/offering_my_iphone_12_for_2500_to_someone_who/) — Rs.2,500 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [NINTENDO SWITCH 2 BELKIN TRAVEL CASE](https://reddit.com/r/HyderabadBuySell/comments/1uxv1i5/nintendo_switch_2_belkin_travel_case/) — Rs.3,500 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
