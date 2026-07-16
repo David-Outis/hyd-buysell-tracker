@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-16 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-16 09:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung S22 plus for sale 8gb ram 128gb storage](https://reddit.com/r/BangaloreMarketplace/comments/1uxxtwg/samsung_s22_plus_for_sale_8gb_ram_128gb_storage/) — Rs.28,000 (score 70)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming/Editing PC CPU for sale for 35,000](https://reddit.com/r/BangaloreMarketplace/comments/1uxxa4s/gamingediting_pc_cpu_for_sale_for_35000/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
