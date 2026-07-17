@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-17 05:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-17 06:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13 for sale](https://reddit.com/r/HyderabadBuySell/comments/1uyqo7m/iphone_13_for_sale/) — Rs.27,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [M1 Macbook Air for sale](https://reddit.com/r/HyderabadBuySell/comments/1uyq6hs/m1_macbook_air_for_sale/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
