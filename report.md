@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-17 09:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-17 10:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MacBook Pro 13’ 2019 for SALE! ₹32,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1uyulng/macbook_pro_13_2019_for_sale_32000/) — Rs.32,000 (score 120)
+- [Lenovo LOQ 15IRX9 (i7-13650HX + RTX 4060) – Looking to Exchange for MacBook Air M4/M5](https://reddit.com/r/BangaloreMarketplace/comments/1uyv8eq/lenovo_loq_15irx9_i713650hx_rtx_4060_looking_to/) — Rs.85,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
