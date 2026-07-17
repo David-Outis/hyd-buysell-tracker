@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-17 08:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-17 08:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [2 Pixel 4A 4G without Display for Sale..](https://reddit.com/r/BangaloreMarketplace/comments/1uytnmz/2_pixel_4a_4g_without_display_for_sale/) — Rs.3,000 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Selling high end Alienware X16 R2 Gaming laptop](https://reddit.com/r/BangaloreMarketplace/comments/1uytrms/selling_high_end_alienware_x16_r2_gaming_laptop/) — Rs.280,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Selling brand new unused ANC PC headphones](https://reddit.com/r/BangaloreMarketplace/comments/1uyt36y/selling_brand_new_unused_anc_pc_headphones/) — Rs.5,000 (score 85)
+_No new desktop PC listings found in this run._
