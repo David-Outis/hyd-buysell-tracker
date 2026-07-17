@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-17 11:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-17 11:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Selling NEW Lenovo Legion 5 Gen 10 Laptop](https://reddit.com/r/bangloremarketplace/comments/1uywczr/selling_new_lenovo_legion_5_gen_10_laptop/) — Price not found (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
