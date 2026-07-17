@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-17 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-17 09:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Pro 13’ 2019 for SALE! ₹32,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1uyulng/macbook_pro_13_2019_for_sale_32000/) — Rs.32,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
