@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-17 07:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-17 08:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Selling brand new unused ANC PC headphones](https://reddit.com/r/BangaloreMarketplace/comments/1uyt36y/selling_brand_new_unused_anc_pc_headphones/) — Rs.5,000 (score 85)
