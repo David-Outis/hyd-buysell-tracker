@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-17 17:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-17 17:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [📢 Looking to Buy a MacBook Air M2 in good condition.](https://reddit.com/r/BangaloreMarketplace/comments/1uz56qk/looking_to_buy_a_macbook_air_m2_in_good_condition/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
