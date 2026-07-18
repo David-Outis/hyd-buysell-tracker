@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 08:35 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 09:06 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [ESR Armorite Screen Protector for iPhone 17 pro max](https://reddit.com/r/HyderabadBuySell/comments/1uzpftf/esr_armorite_screen_protector_for_iphone_17_pro/) — Rs.1,994 (score 90)
+- [[WTS] iPhone 14 Pro Cases (UAG, Casence, Totem + 1 Extra) - Pay Whatever You Think Is Fair](https://reddit.com/r/BangaloreMarketplace/comments/1uzqtui/wts_iphone_14_pro_cases_uag_casence_totem_1_extra/) — Price not found (score 90)
 
 
 ## Laptops
