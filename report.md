@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 11:06 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 11:35 UTC
 
 ## Mobiles
 
-- [Selling Samsung GalaxyBook 4 i7 13th Gen 16GB](https://reddit.com/r/BangaloreMarketplace/comments/1uzsyl6/selling_samsung_galaxybook_4_i7_13th_gen_16gb/) — Rs.60,000 (score 105)
-- [Dlsr camera New Moza air 2 gimbal also works with iPhone](https://reddit.com/r/BangaloreMarketplace/comments/1uzslzg/dlsr_camera_new_moza_air_2_gimbal_also_works_with/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Looking to Buy a Used Laptop around <= 30K](https://reddit.com/r/BangaloreMarketplace/comments/1uzt452/looking_to_buy_a_used_laptop_around_30k/) — Rs.30,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
