@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 17:05 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 17:35 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Google Pixel buds pro with active noise cancellation](https://reddit.com/r/BangaloreMarketplace/comments/1v01jfa/google_pixel_buds_pro_with_active_noise/) — Rs.5,500 (score 105)
 
 
 ## Laptops
