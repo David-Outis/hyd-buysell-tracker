@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 15:35 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 16:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy S20 - 8/128gb [WTS]](https://reddit.com/r/ChennaiBuyAndSell/comments/1uzzgfj/samsung_galaxy_s20_8128gb_wts/) — Rs.11,000 (score 90)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [How much for this pc second hand](https://reddit.com/r/ChennaiBuyAndSell/comments/1uzz0ww/how_much_for_this_pc_second_hand/) — Price not found (score 55)
