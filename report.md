@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 12:36 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 13:05 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [WTS - Steam Deck Oled 512GB - 50k, f2f preffered](https://reddit.com/r/BangaloreMarketplace/comments/1uzudyl/wts_steam_deck_oled_512gb_50k_f2f_preffered/) — Rs.50,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
