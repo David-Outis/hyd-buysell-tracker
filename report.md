@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 08:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 08:35 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Selling ps5 disc of expedition 33 mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1uzpib5/selling_ps5_disc_of_expedition_33_mint_condition/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
