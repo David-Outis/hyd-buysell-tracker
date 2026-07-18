@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 16:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 16:35 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S20 - 8/128gb [WTS]](https://reddit.com/r/ChennaiBuyAndSell/comments/1uzzgfj/samsung_galaxy_s20_8128gb_wts/) — Rs.11,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[Selling Brand New] Macbook pro 140W charger+cable](https://reddit.com/r/HyderabadBuySell/comments/1uzr9ui/selling_brand_new_macbook_pro_140w_chargercable/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [How much for this pc second hand](https://reddit.com/r/ChennaiBuyAndSell/comments/1uzz0ww/how_much_for_this_pc_second_hand/) — Price not found (score 55)
+- [[FS] [HYD] LG 24QP750 (QHD IPS) - Broken Panel - Selling for Spares/Parts (Working Motherboard, Power Adapter, and Ergo Stand)](https://reddit.com/r/HyderabadBuySell/comments/1uztc2r/fs_hyd_lg_24qp750_qhd_ips_broken_panel_selling/) — Rs.3,000 (score 90)
