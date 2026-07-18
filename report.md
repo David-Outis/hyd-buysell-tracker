@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 14:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 15:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] iPhone 6 and iPhone XR for sale | ~1k each | F2F](https://reddit.com/r/ChennaiBuyAndSell/comments/1uzy32z/wts_iphone_6_and_iphone_xr_for_sale_1k_each_f2f/) — Rs.1,000 (score 70)
 
 
 ## Laptops
