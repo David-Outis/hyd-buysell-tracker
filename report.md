@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 05:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 05:34 UTC
 
 ## Mobiles
 
-- [Selling Samsung 43 inch M7 smart monitor-New unused](https://reddit.com/r/BangaloreMarketplace/comments/1uzmbfl/selling_samsung_43_inch_m7_smart_monitornew_unused/) — Rs.4,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
