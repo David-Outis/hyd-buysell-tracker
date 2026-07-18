@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 09:06 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 09:34 UTC
 
 ## Mobiles
 
-- [ESR Armorite Screen Protector for iPhone 17 pro max](https://reddit.com/r/HyderabadBuySell/comments/1uzpftf/esr_armorite_screen_protector_for_iphone_17_pro/) — Rs.1,994 (score 90)
-- [[WTS] iPhone 14 Pro Cases (UAG, Casence, Totem + 1 Extra) - Pay Whatever You Think Is Fair](https://reddit.com/r/BangaloreMarketplace/comments/1uzqtui/wts_iphone_14_pro_cases_uag_casence_totem_1_extra/) — Price not found (score 90)
+- [Samsung S23 Ultra for Sale](https://reddit.com/r/HyderabadUsedItems/comments/1uzrami/samsung_s23_ultra_for_sale/) — Rs.899 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [2 MacBook Air M5’s available at an old MRP of 1.2L](https://reddit.com/r/BangaloreMarketplace/comments/1uzr94e/2_macbook_air_m5s_available_at_an_old_mrp_of_12l/) — Rs.119,900 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
