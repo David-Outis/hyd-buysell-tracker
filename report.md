@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-18 11:35 UTC
+# Hyderabad Buy/Sell Report - 2026-07-18 12:05 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Looking to Buy a Used Laptop around <= 30K](https://reddit.com/r/BangaloreMarketplace/comments/1uzt452/looking_to_buy_a_used_laptop_around_30k/) — Rs.30,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
