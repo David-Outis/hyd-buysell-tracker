@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-19 16:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-19 17:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling/Exchanging my Nothing Phone 2 (8/128)](https://reddit.com/r/BangaloreMarketplace/comments/1v0vur6/sellingexchanging_my_nothing_phone_2_8128/) — Price not found (score 55)
 
 
 ## Laptops
