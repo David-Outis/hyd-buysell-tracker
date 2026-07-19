@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-19 06:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-19 07:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 16 pro 128gb duel esim varient](https://reddit.com/r/HyderabadBuySell/comments/1v0i3y4/iphone_16_pro_128gb_duel_esim_varient/) — Rs.70,000 (score 90)
 
 
 ## Laptops
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [[LTB]Apple iPad Air 4th/5th Gen (A14/M1)](https://reddit.com/r/BangaloreMarketplace/comments/1v0in2o/ltbapple_ipad_air_4th5th_gen_a14m1/) — Rs.23,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Selling the disk games for ps5 pickup location to be Jalahalli, Bangalore.](https://reddit.com/r/BangaloreMarketplace/comments/1v0j63t/selling_the_disk_games_for_ps5_pickup_location_to/) — Price not found (score 55)
 
 
 ## Desktop PCs
