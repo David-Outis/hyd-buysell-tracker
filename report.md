@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-19 03:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-19 03:35 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 Pro Max](https://reddit.com/r/HyderabadBuySell/comments/1v0bqaf/iphone_16_pro_max/) — Rs.82,000 (score 70)
 
 
 ## Laptops
