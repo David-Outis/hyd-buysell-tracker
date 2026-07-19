@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-19 04:36 UTC
+# Hyderabad Buy/Sell Report - 2026-07-19 05:06 UTC
 
 ## Mobiles
 
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PLAYSTATION 5 (ps5) SLIM DISK EDITION 1TB variant wid original box in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1v0gn84/playstation_5_ps5_slim_disk_edition_1tb_variant/) — Price not found (score 50)
+- [Selling Call of Duty Black Ops 4 PS4 CD(interested buyers only)](https://reddit.com/r/BangaloreMarketplace/comments/1v0h7xu/selling_call_of_duty_black_ops_4_ps4_cdinterested/) — Rs.1,500 (score 80)
+- [[WTS] Pragmata PlayStation 5 disc. Mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1v0h6wf/wts_pragmata_playstation_5_disc_mint_condition/) — Price not found (score 70)
 
 
 ## Desktop PCs
