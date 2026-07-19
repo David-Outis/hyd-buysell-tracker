@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-19 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-19 07:34 UTC
 
 ## Mobiles
 
-- [Iphone 16 pro 128gb duel esim varient](https://reddit.com/r/HyderabadBuySell/comments/1v0i3y4/iphone_16_pro_128gb_duel_esim_varient/) — Rs.70,000 (score 90)
+- [DDR4 32GB 3200 mhz laptop Samsung Brand for laptop (selling), Serious buyers Dm](https://reddit.com/r/BangaloreMarketplace/comments/1v0jm1i/ddr4_32gb_3200_mhz_laptop_samsung_brand_for/) — Rs.12,500 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Selling the disk games for ps5 pickup location to be Jalahalli, Bangalore.](https://reddit.com/r/BangaloreMarketplace/comments/1v0j63t/selling_the_disk_games_for_ps5_pickup_location_to/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
