@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-19 13:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-19 14:06 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[WTS] Apple earphones, HDMI & DP cables, Thinkpad new backpack](https://reddit.com/r/BangaloreMarketplace/comments/1v0qa81/wts_apple_earphones_hdmi_dp_cables_thinkpad_new/) — Rs.8,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
