@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-19 08:06 UTC
+# Hyderabad Buy/Sell Report - 2026-07-19 08:35 UTC
 
 ## Mobiles
 
@@ -7,8 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[WTS] 32GB Kingston Fury Impact DDR4 Laptop Ram 3200Mhz with Bill](https://reddit.com/r/ChennaiBuyAndSell/comments/1v0kg9t/wts_32gb_kingston_fury_impact_ddr4_laptop_ram/) — Rs.26,000 (score 85)
-- [(WTS) 32GB Kingston Fury Impact DDR4 Laptop Ram 3200Mhz with Bill](https://reddit.com/r/BangaloreMarketplace/comments/1v0kiie/wts_32gb_kingston_fury_impact_ddr4_laptop_ram/) — Rs.26,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
