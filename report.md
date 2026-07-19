@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-19 04:06 UTC
+# Hyderabad Buy/Sell Report - 2026-07-19 04:36 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PLAYSTATION 5 (ps5) SLIM DISK EDITION 1TB variant wid original box in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1v0gn84/playstation_5_ps5_slim_disk_edition_1tb_variant/) — Price not found (score 50)
 
 
 ## Desktop PCs
