@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-20 01:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-20 02:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17pro max 256gb with box 📦 97% battery health good condition warranty till December 2026 only at 119k](https://reddit.com/r/HyderabadUsedItems/comments/1v186vc/iphone_17pro_max_256gb_with_box_97_battery_health/) — Rs.119,000 (score 85)
 
 
 ## Laptops
