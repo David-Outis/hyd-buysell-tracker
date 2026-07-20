@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-20 13:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-20 13:34 UTC
 
 ## Mobiles
 
-- [Selling my used OnePlus Bullets Wireless Z2 Neckbands](https://reddit.com/r/BangaloreMarketplace/comments/1v1kefk/selling_my_used_oneplus_bullets_wireless_z2/) — Price not found (score 75)
+- [Looking to buy iphone 11/12/13 - 128GB (any of them) under 12-13k max as a secondary device](https://reddit.com/r/BangaloreMarketplace/comments/1v1lii2/looking_to_buy_iphone_111213_128gb_any_of_them/) — Rs.12,000 (score 70)
 
 
 ## Laptops
