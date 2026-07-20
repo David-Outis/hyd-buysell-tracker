@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-20 11:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-20 12:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[WTS]Selling Aokzoe a1 6800u gaming handheld PC](https://reddit.com/r/BangaloreMarketplace/comments/1v1j0g1/wtsselling_aokzoe_a1_6800u_gaming_handheld_pc/) — Rs.22,000 (score 100)
