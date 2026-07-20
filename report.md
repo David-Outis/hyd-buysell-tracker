@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-20 12:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-20 12:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[Selling] Lenovo Laptop| i3-1005G1| 8GB RAM| 128GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1v1jqi6/selling_lenovo_laptop_i31005g1_8gb_ram_128gb_ssd/) — Rs.12,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [[WTS]Selling Aokzoe a1 6800u gaming handheld PC](https://reddit.com/r/BangaloreMarketplace/comments/1v1j0g1/wtsselling_aokzoe_a1_6800u_gaming_handheld_pc/) — Rs.22,000 (score 100)
+_No new desktop PC listings found in this run._
