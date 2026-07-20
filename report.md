@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-20 14:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-20 14:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Playstation 4 Slim 500gb mint condition for 18k](https://reddit.com/r/BangaloreMarketplace/comments/1v1n6fb/playstation_4_slim_500gb_mint_condition_for_18k/) — Rs.18,000 (score 100)
 
 
 ## Desktop PCs
