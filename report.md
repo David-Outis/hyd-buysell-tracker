@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-20 04:37 UTC
+# Hyderabad Buy/Sell Report - 2026-07-20 05:05 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [8gb ram stick(laptop)Location- Sarjapur road](https://reddit.com/r/BangaloreMarketplace/comments/1v1boq8/8gb_ram_sticklaptoplocation_sarjapur_road/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
