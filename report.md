@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-20 05:37 UTC
+# Hyderabad Buy/Sell Report - 2026-07-20 06:05 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 14 pro 256 gb desert gold miny condition](https://reddit.com/r/BangaloreMarketplace/comments/1v1d2xe/iphone_14_pro_256_gb_desert_gold_miny_condition/) — Rs.55,000 (score 85)
 
 
 ## Laptops
