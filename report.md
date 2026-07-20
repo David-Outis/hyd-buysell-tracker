@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-20 03:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-20 03:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[Sell] Oneplus 13R original sandstone case at 500Rs](https://reddit.com/r/HyderabadUsedItems/comments/1v19x6n/sell_oneplus_13r_original_sandstone_case_at_500rs/) — Price not found (score 75)
 
 
 ## Laptops
