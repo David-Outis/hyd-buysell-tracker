@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-21 08:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-21 08:34 UTC
 
 ## Mobiles
 
-- [Selling GE 12.2Megapixel retro compact digital camera](https://reddit.com/r/BangaloreMarketplace/comments/1v2br5o/selling_ge_122megapixel_retro_compact_digital/) — Rs.6,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[FS] [HYD] LG 24QP750 (QHD IPS) - Broken Panel - Selling for Spares/Parts (Working Motherboard, Power Adapter, and Ergo Stand)](https://reddit.com/r/HyderabadUsedItems/comments/1v2c0jt/fs_hyd_lg_24qp750_qhd_ips_broken_panel_selling/) — Price not found (score 60)
