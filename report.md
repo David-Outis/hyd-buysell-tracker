@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-21 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-21 15:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[WTS] SK hynix 8GB DDR4 3200MHz Laptop RAM (PC4-3200AA) - Excellent Condition](https://reddit.com/r/HyderabadBuySell/comments/1v2jfgm/wts_sk_hynix_8gb_ddr4_3200mhz_laptop_ram/) — Price not found (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
