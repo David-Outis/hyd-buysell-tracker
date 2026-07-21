@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-21 05:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-21 05:33 UTC
 
 ## Mobiles
 
-- [Samsung 7kg Washing Maching for Sale - Whitefield - 10k](https://reddit.com/r/BangaloreMarketplace/comments/1v28csc/samsung_7kg_washing_maching_for_sale_whitefield/) — Rs.10,000 (score 90)
+- [WTT: Samsung Galaxy S25 Ultra 512GB (US Unlocked) → iPhone Pro Max](https://reddit.com/r/BangaloreMarketplace/comments/1v29048/wtt_samsung_galaxy_s25_ultra_512gb_us_unlocked/) — Price not found (score 55)
 
 
 ## Laptops
