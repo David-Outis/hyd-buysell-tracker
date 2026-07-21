@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-21 08:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-21 09:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [[FS] [HYD] LG 24QP750 (QHD IPS) - Broken Panel - Selling for Spares/Parts (Working Motherboard, Power Adapter, and Ergo Stand)](https://reddit.com/r/HyderabadUsedItems/comments/1v2c0jt/fs_hyd_lg_24qp750_qhd_ips_broken_panel_selling/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
