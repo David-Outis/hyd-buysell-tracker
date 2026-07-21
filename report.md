@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-21 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-21 12:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [WTS Nintendo Switch Lite with Custom Shell and Modded](https://reddit.com/r/BangaloreMarketplace/comments/1v2ga7p/wts_nintendo_switch_lite_with_custom_shell_and/) — Rs.21,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
