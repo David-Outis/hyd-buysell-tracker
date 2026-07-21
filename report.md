@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-21 04:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-21 05:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 7kg Washing Maching for Sale - Whitefield - 10k](https://reddit.com/r/BangaloreMarketplace/comments/1v28csc/samsung_7kg_washing_maching_for_sale_whitefield/) — Rs.10,000 (score 90)
 
 
 ## Laptops
