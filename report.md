@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-21 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-21 03:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Looking to Buy an Aii-Focused PC (CPU) – Budget Under ₹50K](https://reddit.com/r/BangaloreMarketplace/comments/1v2671f/looking_to_buy_an_aiifocused_pc_cpu_budget_under/) — Rs.50,000 (score 70)
+_No new desktop PC listings found in this run._
