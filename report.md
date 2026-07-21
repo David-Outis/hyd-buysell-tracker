@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-21 16:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-21 16:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [SMATREE HARDSHELL EVA LAPTOP CASE with YKK Zippers](https://reddit.com/r/BangaloreMarketplace/comments/1v2lvj2/smatree_hardshell_eva_laptop_case_with_ykk_zippers/) — Rs.3,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
