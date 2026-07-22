@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 11:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 11:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Looking to buy macbook pro with m4 pro/m2 pro chips](https://reddit.com/r/BangaloreMarketplace/comments/1v3cju9/looking_to_buy_macbook_pro_with_m4_prom2_pro_chips/) — Rs.70,000 (score 85)
+- [Macbook pro m3 pro 14 inch in pristine condition - 140k](https://reddit.com/r/BangaloreMarketplace/comments/1v3d0f2/macbook_pro_m3_pro_14_inch_in_pristine_condition/) — Rs.140,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
