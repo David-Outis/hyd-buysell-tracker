@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 12:33 UTC
 
 ## Mobiles
 
-- [Samsung 32T4350 Smart TV for sale in Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1v3dses/samsung_32t4350_smart_tv_for_sale_in_bangalore/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Looking to buy PS4 and PS5 game discs f2f Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1v3eoau/looking_to_buy_ps4_and_ps5_game_discs_f2f/) — Price not found (score 55)
 
 
 ## Desktop PCs
