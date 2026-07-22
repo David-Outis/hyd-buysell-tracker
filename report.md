@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 06:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 06:33 UTC
 
 ## Mobiles
 
-- [OP15 Brand new interested in exchange with iPhone 17](https://reddit.com/r/BangaloreMarketplace/comments/1v36wj8/op15_brand_new_interested_in_exchange_with_iphone/) — Rs.65,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M5 13" Sealed pack 16GB RAM 512 GB SSD with bill at 1.21L F2F](https://reddit.com/r/BangaloreMarketplace/comments/1v37j4k/macbook_air_m5_13_sealed_pack_16gb_ram_512_gb_ssd/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [[WTS] Spider-Man: Miles Morales (PS5) – ₹1,100](https://reddit.com/r/BangaloreMarketplace/comments/1v37tvu/wts_spiderman_miles_morales_ps5_1100/) — Rs.1,100 (score 80)
 
 
 ## Desktop PCs
 
-- [[WTS] Selling PC / Desktop](https://reddit.com/r/ChennaiBuyAndSell/comments/1v373ly/wts_selling_pc_desktop/) — Rs.20,000 (score 90)
+- [[WTS] Artis 1500VA UPS - Maintained, Used with a Gaming PC](https://reddit.com/r/BangaloreMarketplace/comments/1v37lhr/wts_artis_1500va_ups_maintained_used_with_a/) — Price not found (score 55)
