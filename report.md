@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 13:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Looking to buy PS4 and PS5 game discs f2f Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1v3eoau/looking_to_buy_ps4_and_ps5_game_discs_f2f/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
