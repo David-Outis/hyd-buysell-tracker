@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 15:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy s25 12/256 Gb with bill box and cable](https://reddit.com/r/BangaloreMarketplace/comments/1v3hxuj/samsung_galaxy_s25_12256_gb_with_bill_box_and/) — Rs.44,000 (score 120)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Selling bran new unused cosmic byte ares wireless controller pc](https://reddit.com/r/BangaloreMarketplace/comments/1v3hts3/selling_bran_new_unused_cosmic_byte_ares_wireless/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
