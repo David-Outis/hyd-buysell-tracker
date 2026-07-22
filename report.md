@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 03:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 04:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,5 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming pc](https://reddit.com/r/ChennaiBuyAndSell/comments/1v350id/gaming_pc/) — Rs.120,000 (score 100)
+- [Gaming pc for sale in brand new condition](https://reddit.com/r/BangaloreMarketplace/comments/1v350tc/gaming_pc_for_sale_in_brand_new_condition/) — Rs.120,000 (score 100)
