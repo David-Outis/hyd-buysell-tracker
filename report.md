@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 14:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Looking to buy a laptop](https://reddit.com/r/HyderabadBuySell/comments/1v3gmek/looking_to_buy_a_laptop/) — Rs.35,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [[WTS] Selling GOW Ragnorok ps5 disc - 1 month old](https://reddit.com/r/BangaloreMarketplace/comments/1v3g9g5/wts_selling_gow_ragnorok_ps5_disc_1_month_old/) — Rs.1,700 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
