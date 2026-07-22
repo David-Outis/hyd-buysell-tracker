@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 15:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 15:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy s25 12/256 Gb with bill box and cable](https://reddit.com/r/BangaloreMarketplace/comments/1v3hxuj/samsung_galaxy_s25_12256_gb_with_bill_box_and/) — Rs.44,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
