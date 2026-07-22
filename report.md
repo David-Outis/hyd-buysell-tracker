@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-22 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-22 13:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [[WTS] Selling GOW Ragnorok ps5 disc - 1 month old](https://reddit.com/r/BangaloreMarketplace/comments/1v3g9g5/wts_selling_gow_ragnorok_ps5_disc_1_month_old/) — Rs.1,700 (score 85)
 
 
 ## Desktop PCs
