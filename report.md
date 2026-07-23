@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 12:03 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Selling iPad Pro M2 - 256GB WIFI SILVER](https://reddit.com/r/HyderabadBuySell/comments/1v4a9x8/selling_ipad_pro_m2_256gb_wifi_silver/) — Rs.65,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
