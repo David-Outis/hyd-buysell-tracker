@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 06:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 (Disc Edition) — 1TB + 2 Controllers + Games for Sale 📍 Near HSR](https://reddit.com/r/BangaloreMarketplace/comments/1v44qyl/ps5_disc_edition_1tb_2_controllers_games_for_sale/) — Rs.58,000 (score 80)
 
 
 ## Desktop PCs
