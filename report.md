@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 09:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[Brand New] Samsung S26 12+256GB Black for sale](https://reddit.com/r/BangaloreMarketplace/comments/1v48ct1/brand_new_samsung_s26_12256gb_black_for_sale/) — Rs.69,000 (score 120)
 
 
 ## Laptops
