@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 16:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony Playstation 5 slim disc along with XPG GAMMIX S70 BLADE 1TB for 65k](https://reddit.com/r/BangaloreMarketplace/comments/1v4hgz5/sony_playstation_5_slim_disc_along_with_xpg/) — Rs.65,000 (score 85)
 
 
 ## Desktop PCs
 
-- [GAMING PC FOR SALE AT VERY GOOD PRICE URGENT SALE!!](https://reddit.com/r/BangaloreMarketplace/comments/1v4havm/gaming_pc_for_sale_at_very_good_price_urgent_sale/) — Rs.22,000 (score 105)
+_No new desktop PC listings found in this run._
