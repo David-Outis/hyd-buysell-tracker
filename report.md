@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 17:34 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [[WTS] Sony PlayStation 4 (Fat / Original) [500GB / 1TB] — Bengaluru Only (F2F / Porter)](https://reddit.com/r/BangaloreMarketplace/comments/1v4j7m8/wts_sony_playstation_4_fat_original_500gb_1tb/) — Rs.14,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [[WTS] - 5600x with rtx 3060 gaming PC](https://reddit.com/r/ChennaiBuyAndSell/comments/1v4jooo/wts_5600x_with_rtx_3060_gaming_pc/) — Rs.53,999 (score 105)
+_No new desktop PC listings found in this run._
