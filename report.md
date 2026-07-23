@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 17:03 UTC
 
 ## Mobiles
 
-- [Realme buds 5 pro buds only 1500/- [ Negotiable]](https://reddit.com/r/HyderabadBuySell/comments/1v48s2i/realme_buds_5_pro_buds_only_1500_negotiable/) — Rs.1,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Seagate Horizon Forbidden West Limited Edition Game Drive for Playstation Consoles 5TB External Hard Drive - USB 3.2 Gen1, Officially-Licensed for 15k](https://reddit.com/r/BangaloreMarketplace/comments/1v4irhg/seagate_horizon_forbidden_west_limited_edition/) — Rs.15,000 (score 100)
+- [[WTS] Sony PlayStation 4 (Fat / Original) [500GB / 1TB] — Bengaluru Only (F2F / Porter)](https://reddit.com/r/BangaloreMarketplace/comments/1v4j7m8/wts_sony_playstation_4_fat_original_500gb_1tb/) — Rs.14,000 (score 100)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[WTS] - 5600x with rtx 3060 gaming PC](https://reddit.com/r/ChennaiBuyAndSell/comments/1v4jooo/wts_5600x_with_rtx_3060_gaming_pc/) — Rs.53,999 (score 105)
