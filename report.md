@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 09:33 UTC
 
 ## Mobiles
 
-- [[Brand New] Samsung S26 12+256GB Black for sale](https://reddit.com/r/BangaloreMarketplace/comments/1v48ct1/brand_new_samsung_s26_12256gb_black_for_sale/) — Rs.69,000 (score 120)
+- [iPhone 14 pro For sale!](https://reddit.com/r/HyderabadUsedItems/comments/1v48vd4/iphone_14_pro_for_sale/) — Rs.56,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 FAT White Edition JB for Sale Hit me up with offers](https://reddit.com/r/BangaloreMarketplace/comments/1v48paz/ps4_fat_white_edition_jb_for_sale_hit_me_up_with/) — Rs.22,000 (score 65)
 
 
 ## Desktop PCs
