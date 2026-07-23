@@ -1,10 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 08:33 UTC
 
 ## Mobiles
 
-- [[WTS]Wacom CTL-472/KO-CX, oneplus bullets wireless z2 anc, TP Link AX1500, WD blue SSD 500 GB.](https://reddit.com/r/ChennaiBuyAndSell/comments/1v47bwu/wtswacom_ctl472kocx_oneplus_bullets_wireless_z2/) — Rs.3,200 (score 85)
-- [[Brand New] Samsung S26 12+256GB Black for sale](https://reddit.com/r/BangaloreMarketplace/comments/1v475ci/brand_new_samsung_s26_12256gb_black_for_sale/) — Rs.73,000 (score 120)
-- [Iphone 16 pro for sale 256GB Warranty till 8 August (near to end)](https://reddit.com/r/BangaloreMarketplace/comments/1v470cn/iphone_16_pro_for_sale_256gb_warranty_till_8/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
