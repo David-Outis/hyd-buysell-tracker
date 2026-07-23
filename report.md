@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Willing to purchase iPhone 15 and higher models](https://reddit.com/r/BangaloreMarketplace/comments/1v4dcky/willing_to_purchase_iphone_15_and_higher_models/) — Rs.1,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony Playstation 4 Slim 500GB 16,000 fixed](https://reddit.com/r/BangaloreMarketplace/comments/1v4d6xk/sony_playstation_4_slim_500gb_16000_fixed/) — Rs.16,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
