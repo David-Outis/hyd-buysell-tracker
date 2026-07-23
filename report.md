@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 13:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony Playstation 4 Slim 500GB 16,000 fixed](https://reddit.com/r/BangaloreMarketplace/comments/1v4d6xk/sony_playstation_4_slim_500gb_16000_fixed/) — Rs.16,000 (score 80)
 
 
 ## Desktop PCs
