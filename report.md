@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 15:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [GAMING PC FOR SALE AT VERY GOOD PRICE URGENT SALE!!](https://reddit.com/r/BangaloreMarketplace/comments/1v4havm/gaming_pc_for_sale_at_very_good_price_urgent_sale/) — Rs.22,000 (score 105)
