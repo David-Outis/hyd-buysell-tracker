@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-23 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-23 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling iPhone 16 Pro at 75k…………………………..](https://reddit.com/r/BangaloreMarketplace/comments/1v42uhz/selling_iphone_16_pro_at_75k/) — Rs.75,000 (score 70)
 
 
 ## Laptops
