@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 11:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[SELL] Samsung 1TB Portable SSD (T7 Shield) — ₹19,000 — Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1v58cft/sell_samsung_1tb_portable_ssd_t7_shield_19000/) — Rs.19,000 (score 120)
 
 
 ## Laptops
