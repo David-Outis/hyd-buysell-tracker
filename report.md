@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 03:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 04:03 UTC
 
 ## Mobiles
 
-- [Worst iPhone buying experience at Croma. How croma scammed me , Croma store vivacity mall jaipur](https://reddit.com/r/BangaloreMarketplace/comments/1v4zhl6/worst_iphone_buying_experience_at_croma_how_croma/) — Rs.68,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
