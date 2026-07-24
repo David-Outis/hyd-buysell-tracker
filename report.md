@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 12:03 UTC
 
 ## Mobiles
 
-- [[SELL] Samsung 1TB Portable SSD (T7 Shield) — ₹19,000 — Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1v58cft/sell_samsung_1tb_portable_ssd_t7_shield_19000/) — Rs.19,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Selling xbox 360e with kinect and a bunch of games](https://reddit.com/r/BangaloreMarketplace/comments/1v591k6/selling_xbox_360e_with_kinect_and_a_bunch_of_games/) — Rs.11,000 (score 85)
 
 
 ## Desktop PCs
