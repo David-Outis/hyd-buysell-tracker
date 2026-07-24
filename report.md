@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 12:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Selling xbox 360e with kinect and a bunch of games](https://reddit.com/r/BangaloreMarketplace/comments/1v591k6/selling_xbox_360e_with_kinect_and_a_bunch_of_games/) — Rs.11,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
