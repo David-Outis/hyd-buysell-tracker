@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 16:39 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 17:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling OnePlus Pad Go 8GB/128 GB coz of less usage](https://reddit.com/r/BangaloreMarketplace/comments/1v5gqfd/selling_oneplus_pad_go_8gb128_gb_coz_of_less_usage/) — Rs.8,500 (score 85)
 
 
 ## Laptops
