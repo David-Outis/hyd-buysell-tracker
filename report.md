@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 07:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MacBook Air M4 24GB / MacBook Pro M4 24GB in Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1v53sgp/macbook_air_m4_24gb_macbook_pro_m4_24gb_in/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
