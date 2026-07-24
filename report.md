@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 02:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 03:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Selling Xbox 360 games. F2F near Electronic city.](https://reddit.com/r/BangaloreMarketplace/comments/1v4z4be/selling_xbox_360_games_f2f_near_electronic_city/) — Price not found (score 55)
 
 
 ## Desktop PCs
