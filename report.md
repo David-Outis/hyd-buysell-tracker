@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 14:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 15:03 UTC
 
 ## Mobiles
 
-- [[SELL] Samsung 1TB Portable SSD (T7 Shield) — Only 25 Days Old — ₹17,000 — Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1v5d12b/sell_samsung_1tb_portable_ssd_t7_shield_only_25/) — Rs.17,000 (score 120)
+- [Looking to buy a good smartphone under ₹15,000 -Immediate buyer](https://reddit.com/r/BangaloreMarketplace/comments/1v5d6or/looking_to_buy_a_good_smartphone_under_15000/) — Rs.15,000 (score 70)
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [[WTS] 2x PS5 DualSense Controllers (Starlight Blue & White)](https://reddit.com/r/BangaloreMarketplace/comments/1v5du09/wts_2x_ps5_dualsense_controllers_starlight_blue/) — Rs.2,800 (score 85)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Selling my pc as parts](https://reddit.com/r/ChennaiBuyAndSell/comments/1v5d34a/selling_my_pc_as_parts/) — Rs.40,000 (score 100)
