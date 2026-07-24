@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 03:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Worst iPhone buying experience at Croma. How croma scammed me , Croma store vivacity mall jaipur](https://reddit.com/r/BangaloreMarketplace/comments/1v4zhl6/worst_iphone_buying_experience_at_croma_how_croma/) — Rs.68,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Selling Xbox 360 games. F2F near Electronic city.](https://reddit.com/r/BangaloreMarketplace/comments/1v4z4be/selling_xbox_360_games_f2f_near_electronic_city/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
