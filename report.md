@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-24 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-24 16:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS][Hyderabad] Apple, Sony, Samsung, Sonos, Bose - Great Prices | Gachibowli Meetup](https://reddit.com/r/HyderabadUsedItems/comments/1v5exf4/wtshyderabad_apple_sony_samsung_sonos_bose_great/) — Rs.10,000 (score 120)
 
 
 ## Laptops
