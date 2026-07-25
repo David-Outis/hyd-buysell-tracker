@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-25 13:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-25 14:03 UTC
 
 ## Mobiles
 
-- [[WTS] Pixel 7 128GB Excellent condition, No scratches with Spigen case](https://reddit.com/r/BangaloreMarketplace/comments/1v68ei7/wts_pixel_7_128gb_excellent_condition_no/) — Rs.1,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
