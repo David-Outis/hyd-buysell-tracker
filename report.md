@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-25 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-25 14:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 8GB DDR3 Desktop RAM module for sale at its great condition](https://reddit.com/r/bangloremarketplace/comments/1v69gqp/samsung_8gb_ddr3_desktop_ram_module_for_sale_at/) — Rs.6,500 (score 70)
 
 
 ## Laptops
@@ -22,4 +22,5 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [SK Hynix 8GB DDR3L Desktop RAM module for sale](https://reddit.com/r/bangloremarketplace/comments/1v6949x/sk_hynix_8gb_ddr3l_desktop_ram_module_for_sale/) — Rs.1,450 (score 70)
+- [Kingston RAM 2GB DDR2 Desktop RAM. For sale](https://reddit.com/r/bangloremarketplace/comments/1v690hm/kingston_ram_2gb_ddr2_desktop_ram_for_sale/) — Rs.700 (score 70)
