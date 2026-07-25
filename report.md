@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-25 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-25 11:05 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 15 Pro Bullstrap case for Rs.700 .](https://reddit.com/r/BangaloreMarketplace/comments/1v6507x/iphone_15_pro_bullstrap_case_for_rs700/) — Rs.700 (score 90)
 
 
 ## Laptops
