@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-25 11:05 UTC
+# Hyderabad Buy/Sell Report - 2026-07-25 11:33 UTC
 
 ## Mobiles
 
-- [iPhone 15 Pro Bullstrap case for Rs.700 .](https://reddit.com/r/BangaloreMarketplace/comments/1v6507x/iphone_15_pro_bullstrap_case_for_rs700/) — Rs.700 (score 90)
+- [Samsung Odyssey Neo G8 Monitor + Imported & customized controller with additional accessories for Sale.](https://reddit.com/r/HyderabadBuySell/comments/1v64fb4/samsung_odyssey_neo_g8_monitor_imported/) — Price not found (score 55)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps5 firmware 8.0](https://reddit.com/r/HyderabadBuySell/comments/1v63gxs/ps5_firmware_80/) — Rs.85,000 (score 85)
 
 
 ## Desktop PCs
