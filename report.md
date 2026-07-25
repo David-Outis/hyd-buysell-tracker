@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-25 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-25 03:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Need laptop under Rs15,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1v5vq29/need_laptop_under_rs15000/) — Rs.15,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
