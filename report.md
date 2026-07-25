@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-25 14:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-25 15:06 UTC
 
 ## Mobiles
 
-- [Samsung 8GB DDR3 Desktop RAM module for sale at its great condition](https://reddit.com/r/bangloremarketplace/comments/1v69gqp/samsung_8gb_ddr3_desktop_ram_module_for_sale_at/) — Rs.6,500 (score 70)
+- [Apple iPhone 16 Pro Max 256GB | Original Bill + Box + Original Cable | Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1v67g90/apple_iphone_16_pro_max_256gb_original_bill_box/) — Price not found (score 90)
 
 
 ## Laptops
@@ -12,15 +12,14 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [WTS Ipad air 4th gen(A2316) and Apple Pencil 2nd gen(A2051)](https://reddit.com/r/HyderabadBuySell/comments/1v66kon/wts_ipad_air_4th_gena2316_and_apple_pencil_2nd/) — Price not found (score 75)
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [🚨 Microsoft Xbox Series S – 512 GB | Flawless Condition | For Sale 🎮](https://reddit.com/r/HyderabadBuySell/comments/1v67s3e/microsoft_xbox_series_s_512_gb_flawless_condition/) — Rs.25,000 (score 85)
 
 
 ## Desktop PCs
 
-- [SK Hynix 8GB DDR3L Desktop RAM module for sale](https://reddit.com/r/bangloremarketplace/comments/1v6949x/sk_hynix_8gb_ddr3l_desktop_ram_module_for_sale/) — Rs.1,450 (score 70)
-- [Kingston RAM 2GB DDR2 Desktop RAM. For sale](https://reddit.com/r/bangloremarketplace/comments/1v690hm/kingston_ram_2gb_ddr2_desktop_ram_for_sale/) — Rs.700 (score 70)
+_No new desktop PC listings found in this run._
