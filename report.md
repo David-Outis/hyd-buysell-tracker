@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 03:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[WTS] Selling PC parts](https://reddit.com/r/ChennaiBuyAndSell/comments/1v6r63v/wts_selling_pc_parts/) — Rs.13,000 (score 105)
