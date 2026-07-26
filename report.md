@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 13:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 14:05 UTC
 
 ## Mobiles
 
-- [Samsung 8GB DDR3 Desktop RAM module for sale at its great condition](https://reddit.com/r/BangaloreMarketplace/comments/1v73r26/samsung_8gb_ddr3_desktop_ram_module_for_sale_at/) — Rs.4,000 (score 70)
+- [[WTS] HAMMER 100W 5A USB to Type-C for OnePlus with WARP/VOOC/FLASH support, Super Fast Charging Cable,1.2M Nylon Braided,Tangle free,480Mbps Data Transfer, supports OPPO (Brown) in Chennai at 150rs plus shipping charges its unused and boxed can share proofs via dm if interested](https://reddit.com/r/ChennaiBuyAndSell/comments/1v74dvk/wts_hammer_100w_5a_usb_to_typec_for_oneplus_with/) — Price not found (score 60)
+- [Realme Buds T200x, opened box brand new.](https://reddit.com/r/BangaloreMarketplace/comments/1v747n1/realme_buds_t200x_opened_box_brand_new/) — Price not found (score 75)
 
 
 ## Laptops
 
-- [Clearance Sale – Tv, Laptop, Music system & Table-Chairs](https://reddit.com/r/BangaloreMarketplace/comments/1v73gaa/clearance_sale_tv_laptop_music_system_tablechairs/) — Rs.17,500 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
