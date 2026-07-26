@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 13:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 8GB DDR3 Desktop RAM module for sale at its great condition](https://reddit.com/r/BangaloreMarketplace/comments/1v73r26/samsung_8gb_ddr3_desktop_ram_module_for_sale_at/) — Rs.4,000 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Clearance Sale – Tv, Laptop, Music system & Table-Chairs](https://reddit.com/r/BangaloreMarketplace/comments/1v73gaa/clearance_sale_tv_laptop_music_system_tablechairs/) — Rs.17,500 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
