@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 04:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 05:04 UTC
 
 ## Mobiles
 
-- [FOR SALE - iPhone 16 Pro – Black Titanium – 256GB](https://reddit.com/r/HyderabadBuySell/comments/1v6s66m/for_sale_iphone_16_pro_black_titanium_256gb/) — Rs.75,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
