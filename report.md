@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 09:36 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 10:07 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Want to Sell Dell Laptop Inspiron 15-3567](https://reddit.com/r/BangaloreMarketplace/comments/1v6zgqu/want_to_sell_dell_laptop_inspiron_153567/) — Rs.4,500 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
