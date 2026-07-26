@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 07:33 UTC
 
 ## Mobiles
 
-- [[WTS] Samsung Galaxy Z fold 4 (REPOST)](https://reddit.com/r/ChennaiBuyAndSell/comments/1v6vleb/wts_samsung_galaxy_z_fold_4_repost/) — Rs.30,000 (score 85)
+- [[WTS] Google pixel buds pro with active noise cancellation](https://reddit.com/r/BangaloreMarketplace/comments/1v6w5uq/wts_google_pixel_buds_pro_with_active_noise/) — Price not found (score 75)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [brand new foldable desktop laptop table .](https://reddit.com/r/BangaloreMarketplace/comments/1v6w72e/brand_new_foldable_desktop_laptop_table/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox series s for sale](https://reddit.com/r/ChennaiBuyAndSell/comments/1v6vhie/xbox_series_s_for_sale/) — Rs.22,000 (score 65)
+- [Selling Xbox controller - good condition (with box and bill)](https://reddit.com/r/BangaloreMarketplace/comments/1v6w5de/selling_xbox_controller_good_condition_with_box/) — Rs.3,200 (score 65)
 
 
 ## Desktop PCs
