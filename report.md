@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 08:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy S25 12/256GB Black Color For Sale!](https://reddit.com/r/BangaloreMarketplace/comments/1v6xj9e/samsung_galaxy_s25_12256gb_black_color_for_sale/) — Rs.40,000 (score 105)
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 Slim 1TB for Sale](https://reddit.com/r/bangloremarketplace/comments/1v6xd1p/ps4_slim_1tb_for_sale/) — Rs.22,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [Wooden cabinet sale](https://reddit.com/r/bangloremarketplace/comments/1v6xbh1/wooden_cabinet_sale/) — Rs.5,000 (score 90)
+_No new desktop PC listings found in this run._
