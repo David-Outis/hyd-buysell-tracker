@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 14:05 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 14:33 UTC
 
 ## Mobiles
 
-- [[WTS] HAMMER 100W 5A USB to Type-C for OnePlus with WARP/VOOC/FLASH support, Super Fast Charging Cable,1.2M Nylon Braided,Tangle free,480Mbps Data Transfer, supports OPPO (Brown) in Chennai at 150rs plus shipping charges its unused and boxed can share proofs via dm if interested](https://reddit.com/r/ChennaiBuyAndSell/comments/1v74dvk/wts_hammer_100w_5a_usb_to_typec_for_oneplus_with/) — Price not found (score 60)
-- [Realme Buds T200x, opened box brand new.](https://reddit.com/r/BangaloreMarketplace/comments/1v747n1/realme_buds_t200x_opened_box_brand_new/) — Price not found (score 75)
+- [Selling my Raspberry Pi 4 4GB ram with case and Samsung Evo plus 128gb](https://reddit.com/r/HyderabadUsedItems/comments/1v742y4/selling_my_raspberry_pi_4_4gb_ram_with_case_and/) — Price not found (score 60)
 
 
 ## Laptops
