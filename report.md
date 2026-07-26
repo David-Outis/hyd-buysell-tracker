@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-26 15:35 UTC
+# Hyderabad Buy/Sell Report - 2026-07-26 16:04 UTC
 
 ## Mobiles
 
-- [Want to sell to sell my iphone 15. DM/Comment if interested](https://reddit.com/r/BangaloreMarketplace/comments/1v774o0/want_to_sell_to_sell_my_iphone_15_dmcomment_if/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Seagate Horizon Forbidden West Limited Edition Game Drive for PlayStation Consoles 5TB External Hard Drive - USB 3.2 Gen1, Officially-Licensed 15k Used](https://reddit.com/r/BangaloreMarketplace/comments/1v77rhk/seagate_horizon_forbidden_west_limited_edition/) — Rs.15,000 (score 65)
 
 
 ## Desktop PCs
