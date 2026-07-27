@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 07:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Legion Go Z1 Extreme, 9 Months Old, Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1v7sjno/legion_go_z1_extreme_9_months_old_mint_condition/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
