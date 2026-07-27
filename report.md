@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 12:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PLAYSTATION 5 FAT DISC EDITION](https://reddit.com/r/HyderabadUsedItems/comments/1v7x72f/playstation_5_fat_disc_edition/) — Rs.5,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
