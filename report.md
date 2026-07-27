@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 08:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 08:33 UTC
 
 ## Mobiles
 
-- [Iphone16pro no dent no scratch 11months old black titanium with bill and box 66k asking but can negotiate on that](https://reddit.com/r/BangaloreMarketplace/comments/1v7tibx/iphone16pro_no_dent_no_scratch_11months_old_black/) — Rs.66,000 (score 85)
+- [Sealed older iphone](https://reddit.com/r/HyderabadBuySell/comments/1v7t7pi/sealed_older_iphone/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [HP Laptop 15g-br1 2tb storage 8gb ram and i5 8th gen processor](https://reddit.com/r/BangaloreMarketplace/comments/1v7ttv8/hp_laptop_15gbr1_2tb_storage_8gb_ram_and_i5_8th/) — Rs.15,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
