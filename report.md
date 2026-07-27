@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Sealed Official iPhone 17 pro clear case - MegSafe/Camera Control](https://reddit.com/r/HyderabadUsedItems/comments/1v7p8v3/sealed_official_iphone_17_pro_clear_case/) — Price not found (score 75)
 
 
 ## Laptops
