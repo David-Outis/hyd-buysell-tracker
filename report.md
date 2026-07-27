@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 18:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Planning to buy an iphone 15 pro](https://reddit.com/r/HyderabadBuySell/comments/1v87jla/planning_to_buy_an_iphone_15_pro/) — Price not found (score 75)
+- [Selling Samsung Galaxy Book 4 Pro 16 inch 16/512 | Intel core Ultra 5](https://reddit.com/r/BangaloreMarketplace/comments/1v877fk/selling_samsung_galaxy_book_4_pro_16_inch_16512/) — Price not found (score 55)
 
 
 ## Laptops
