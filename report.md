@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 10:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 11:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [WTS HAMMER 100W 5A USB to Type-C for OnePlus with WARP/VOOC/FLASH support, Super Fast Charging Cable,1.2M Nylon Braided,Tangle free,480Mbps Data Transfer, supports OPPO (Brown) in Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1v7x4gs/wts_hammer_100w_5a_usb_to_typec_for_oneplus_with/) — Price not found (score 60)
 
 
 ## Laptops
