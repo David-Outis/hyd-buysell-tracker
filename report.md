@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 02:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13 Back Case - Caseology by Spigen](https://reddit.com/r/BangaloreMarketplace/comments/1v7ni9m/iphone_13_back_case_caseology_by_spigen/) — Rs.699 (score 90)
 
 
 ## Laptops
