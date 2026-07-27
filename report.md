@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 09:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [HP Pavilion Laptop | Graphic card issue | HSR](https://reddit.com/r/BangaloreMarketplace/comments/1v7ul1i/hp_pavilion_laptop_graphic_card_issue_hsr/) — Rs.36,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
