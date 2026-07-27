@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-27 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-27 09:03 UTC
 
 ## Mobiles
 
-- [Sealed older iphone](https://reddit.com/r/HyderabadBuySell/comments/1v7t7pi/sealed_older_iphone/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [HP Pavilion Laptop | Graphic card issue | HSR](https://reddit.com/r/BangaloreMarketplace/comments/1v7ul1i/hp_pavilion_laptop_graphic_card_issue_hsr/) — Rs.36,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
