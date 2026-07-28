@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-28 07:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 8GB DDR3 Desktop RAM module for sale at its great condition](https://reddit.com/r/BangaloreMarketplace/comments/1v8qrks/samsung_8gb_ddr3_desktop_ram_module_for_sale_at/) — Rs.2,500 (score 70)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Selling my RTX-3060 Gaming PC](https://reddit.com/r/ChennaiBuyAndSell/comments/1v8pjc6/selling_my_rtx3060_gaming_pc/) — Rs.105,000 (score 120)
+- [SK Hynix 8GB DDR3L Desktop RAM module for sale](https://reddit.com/r/BangaloreMarketplace/comments/1v8qtp2/sk_hynix_8gb_ddr3l_desktop_ram_module_for_sale/) — Rs.1,000 (score 70)
