@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-28 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] Cashify Refurb iphone 13 pro Max 256gb 88% BH](https://reddit.com/r/ChennaiBuyAndSell/comments/1v8stwa/wts_cashify_refurb_iphone_13_pro_max_256gb_88_bh/) — Price not found (score 55)
 
 
 ## Laptops
