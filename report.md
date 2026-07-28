@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-28 05:03 UTC
 
 ## Mobiles
 
-- [Selling Redmi Note 10 (4gb RAM, 64 GB storage) ₹4000](https://reddit.com/r/BangaloreMarketplace/comments/1v8npls/selling_redmi_note_10_4gb_ram_64_gb_storage_4000/) — Rs.4,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
