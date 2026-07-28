@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-28 11:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MacBook Air 2021](https://reddit.com/r/HyderabadUsedItems/comments/1v8twgt/macbook_air_2021/) — Rs.43,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
