@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-28 15:03 UTC
 
 ## Mobiles
 
-- [Samsung galaxy s10 plus needed](https://reddit.com/r/HyderabadUsedItems/comments/1v900ga/samsung_galaxy_s10_plus_needed/) — Rs.7,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 WWE 2k25 new condition disc available for sell](https://reddit.com/r/BangaloreMarketplace/comments/1v90drl/ps5_wwe_2k25_new_condition_disc_available_for_sell/) — Rs.2,400 (score 65)
 
 
 ## Desktop PCs
