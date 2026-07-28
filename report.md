@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-28 10:03 UTC
 
 ## Mobiles
 
-- [[WTS] Cashify Refurb iphone 13 pro Max 256gb 88% BH](https://reddit.com/r/ChennaiBuyAndSell/comments/1v8stwa/wts_cashify_refurb_iphone_13_pro_max_256gb_88_bh/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Asus ROG Strix B650E-F gaming wifi Motherboard [WTS](https://reddit.com/r/BangaloreMarketplace/comments/1v8ttjn/asus_rog_strix_b650ef_gaming_wifi_motherboard_wts/) — Price not found (score 55)
