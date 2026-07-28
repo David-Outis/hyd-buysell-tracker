@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 14:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-28 14:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung galaxy s10 plus needed](https://reddit.com/r/HyderabadUsedItems/comments/1v900ga/samsung_galaxy_s10_plus_needed/) — Rs.7,000 (score 70)
 
 
 ## Laptops
