@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-28 07:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Selling my RTX-3060 Gaming PC](https://reddit.com/r/ChennaiBuyAndSell/comments/1v8pjc6/selling_my_rtx3060_gaming_pc/) — Rs.105,000 (score 120)
