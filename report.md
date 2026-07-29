@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 17:03 UTC
 
 ## Mobiles
 
-- [32 inch smart Redmi fire TV with fire tv remote, F2F Marathahalli or shipping in Blr](https://reddit.com/r/BangaloreMarketplace/comments/1va19uy/32_inch_smart_redmi_fire_tv_with_fire_tv_remote/) — Rs.12,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[wts] MacBook Air (11-inch, Early 2015) Doesnt turn on probably issue with charger](https://reddit.com/r/ChennaiBuyAndSell/comments/1va1eqs/wts_macbook_air_11inch_early_2015_doesnt_turn_on/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
