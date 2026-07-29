@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 17:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[wts] MacBook Air (11-inch, Early 2015) Doesnt turn on probably issue with charger](https://reddit.com/r/ChennaiBuyAndSell/comments/1va1eqs/wts_macbook_air_11inch_early_2015_doesnt_turn_on/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
