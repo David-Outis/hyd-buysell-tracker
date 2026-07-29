@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 12:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 12:34 UTC
 
 ## Mobiles
 
-- [iPhone 15 256gb Black](https://reddit.com/r/ChennaiBuyAndSell/comments/1v9tzfb/iphone_15_256gb_black/) — Rs.15,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
