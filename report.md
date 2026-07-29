@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [32 inch smart Redmi fire TV with fire tv remote, F2F Marathahalli or shipping in Blr](https://reddit.com/r/BangaloreMarketplace/comments/1va19uy/32_inch_smart_redmi_fire_tv_with_fire_tv_remote/) — Rs.12,000 (score 105)
 
 
 ## Laptops
 
-- [MacBook pro 2019 i9 intel processor with 16/512gb 168 cycle count 5k flat dm](https://reddit.com/r/HyderabadUsedItems/comments/1va0dhw/macbook_pro_2019_i9_intel_processor_with_16512gb/) — Rs.5,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
