@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 16:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 pro max for sale!! With AirPods Pro 3 and other accessories!!](https://reddit.com/r/HyderabadBuySell/comments/1v9r45e/iphone_17_pro_max_for_sale_with_airpods_pro_3_and/) — Rs.150,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Brand new 15 inch MacBook Air for sale! 2 weeks old](https://reddit.com/r/BangaloreMarketplace/comments/1v9yumf/brand_new_15_inch_macbook_air_for_sale_2_weeks_old/) — Price not found (score 55)
+- [MacBook pro 2019 i9 intel processor with 16/512gb 168 cycle count 5k flat dm](https://reddit.com/r/HyderabadUsedItems/comments/1va0dhw/macbook_pro_2019_i9_intel_processor_with_16512gb/) — Rs.5,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ghost of Yotei PS5 Disc](https://reddit.com/r/HyderabadBuySell/comments/1v9y9np/ghost_of_yotei_ps5_disc/) — Rs.3,500 (score 85)
-- [Selling Xbox Series S](https://reddit.com/r/HyderabadBuySell/comments/1v9oje8/selling_xbox_series_s/) — Rs.30,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
