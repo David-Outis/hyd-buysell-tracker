@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-28 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 01:33 UTC
 
 ## Mobiles
 
-- [Apple iPhone 17 & iPhone 17 Pro Max 256GB – Indian Units – Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1v9620o/apple_iphone_17_iphone_17_pro_max_256gb_indian/) — Rs.75,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Brand new Macbook charger [140W] on Sale](https://reddit.com/r/BangaloreMarketplace/comments/1v963a5/brand_new_macbook_charger_140w_on_sale/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
