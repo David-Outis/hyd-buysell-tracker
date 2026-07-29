@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [2.5 month old barely used Realme Air 7 | Ivory](https://reddit.com/r/BangaloreMarketplace/comments/1v9q893/25_month_old_barely_used_realme_air_7_ivory/) — Rs.3,200 (score 85)
+- [iPhone 17 Pro Max 256GB Cosmic Orange | Mint Condition | 98% Battery Health | Bill & Box](https://reddit.com/r/BangaloreMarketplace/comments/1v9q7rl/iphone_17_pro_max_256gb_cosmic_orange_mint/) — Rs.115,000 (score 100)
 
 
 ## Laptops
