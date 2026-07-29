@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 09:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 10:04 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [[SELLING] Great condition PS5 Disc edition](https://reddit.com/r/BangaloreMarketplace/comments/1v9r2r1/selling_great_condition_ps5_disc_edition/) — Rs.55,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
