@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [(Urgent) Selling 3 PS4 games as a bundle(Detroit Become Human, Days gone, Assassins creed syndicate)](https://reddit.com/r/BangaloreMarketplace/comments/1v9pmpk/urgent_selling_3_ps4_games_as_a_bundledetroit/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
