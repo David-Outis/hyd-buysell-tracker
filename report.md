@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 12:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to buy a used Poco/iQOO or similar phone (6GB RAM) – Budget ₹15k–₹20k](https://reddit.com/r/BangaloreMarketplace/comments/1v9vesj/looking_to_buy_a_used_pocoiqoo_or_similar_phone/) — Rs.15,000 (score 85)
 
 
 ## Laptops
