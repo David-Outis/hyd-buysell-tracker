@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-29 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-29 08:03 UTC
 
 ## Mobiles
 
-- [Want a Iphone 13 pro for 25k](https://reddit.com/r/HyderabadUsedItems/comments/1v9ou26/want_a_iphone_13_pro_for_25k/) — Rs.25,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [(Urgent) Selling 3 PS4 games as a bundle(Detroit Become Human, Days gone, Assassins creed syndicate)](https://reddit.com/r/BangaloreMarketplace/comments/1v9pmpk/urgent_selling_3_ps4_games_as_a_bundledetroit/) — Price not found (score 50)
 
 
 ## Desktop PCs
