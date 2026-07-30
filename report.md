@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-30 11:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-30 11:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Intel Core i3 3rd Gen Desktop PC + Samsung Monitor + Keyboard | 240GB SSD | Windows 10 Pro](https://reddit.com/r/BangaloreMarketplace/comments/1vaqtxy/intel_core_i3_3rd_gen_desktop_pc_samsung_monitor/) — Rs.8,999 (score 120)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Looking to buy PS5 or Xbox Series X in good condition](https://reddit.com/r/BangaloreMarketplace/comments/1vapzpa/looking_to_buy_ps5_or_xbox_series_x_in_good/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
