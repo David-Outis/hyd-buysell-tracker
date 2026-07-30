@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-30 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-30 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Football Lovers! Check Out These iPhone Cases ⚽️](https://reddit.com/r/BangaloreMarketplace/comments/1vapjgk/football_lovers_check_out_these_iphone_cases/) — Rs.650 (score 90)
 
 
 ## Laptops
