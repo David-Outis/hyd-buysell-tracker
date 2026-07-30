@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-30 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-30 11:04 UTC
 
 ## Mobiles
 
-- [Football Lovers! Check Out These iPhone Cases ⚽️](https://reddit.com/r/BangaloreMarketplace/comments/1vapjgk/football_lovers_check_out_these_iphone_cases/) — Rs.650 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Looking to buy PS5 or Xbox Series X in good condition](https://reddit.com/r/BangaloreMarketplace/comments/1vapzpa/looking_to_buy_ps5_or_xbox_series_x_in_good/) — Price not found (score 55)
 
 
 ## Desktop PCs
