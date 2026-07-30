@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-07-30 06:04 UTC
+# Hyderabad Buy/Sell Report - 2026-07-30 06:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus 15 12/256 Brand new condition 4 months old](https://reddit.com/r/BangaloreMarketplace/comments/1valnn8/oneplus_15_12256_brand_new_condition_4_months_old/) — Rs.63,000 (score 105)
 
 
 ## Laptops
 
-- [Original HP 65W Laptop Charger – Brand New & Unused | 4.5mm Blue Pin | With Box](https://reddit.com/r/HyderabadUsedItems/comments/1vakqd7/original_hp_65w_laptop_charger_brand_new_unused/) — Rs.899 (score 120)
-- [[WTS] HP pavilion laptop Selling for an Emergency](https://reddit.com/r/ChennaiBuyAndSell/comments/1vakxeq/wts_hp_pavilion_laptop_selling_for_an_emergency/) — Rs.45,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -23,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Selling a Gmktec nucbox g10 mini pc 16/512 - under warranty till Nov](https://reddit.com/r/BangaloreMarketplace/comments/1valnpi/selling_a_gmktec_nucbox_g10_mini_pc_16512_under/) — Rs.25,000 (score 100)
