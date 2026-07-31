@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 15:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [The Samsung 8GB DDR3 RAM is a 1600MHz standard for sale](https://reddit.com/r/BangaloreMarketplace/comments/1vbt712/the_samsung_8gb_ddr3_ram_is_a_1600mhz_standard/) — Rs.1,000 (score 90)
+- [Samsung 8GB DDR4 Desktop RAM stick running at 2400 MHz for sale](https://reddit.com/r/BangaloreMarketplace/comments/1vbt13g/samsung_8gb_ddr4_desktop_ram_stick_running_at/) — Rs.1,100 (score 90)
 
 
 ## Laptops
