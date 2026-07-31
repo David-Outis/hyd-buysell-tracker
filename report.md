@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 12:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] Samsung Galaxy Z fold 4 for sale - 256Gb](https://reddit.com/r/BangaloreMarketplace/comments/1vbpg4u/wts_samsung_galaxy_z_fold_4_for_sale_256gb/) — Rs.33,000 (score 85)
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Selling Ipad 11th generation 128GB WIFI only](https://reddit.com/r/BangaloreMarketplace/comments/1vbpjza/selling_ipad_11th_generation_128gb_wifi_only/) — Rs.35,000 (score 70)
 
 
 ## Game Consoles
