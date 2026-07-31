@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 01:34 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 02:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Anybody selling macbook m1 in hyderabad ?](https://reddit.com/r/HyderabadUsedItems/comments/1vbd71m/anybody_selling_macbook_m1_in_hyderabad/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
