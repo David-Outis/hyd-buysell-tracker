@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 18:03 UTC
 
 ## Mobiles
 
-- [OnePlus 10R Company Case @999](https://reddit.com/r/HyderabadBuySell/comments/1vbwv2t/oneplus_10r_company_case_999/) — Rs.1,999 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
