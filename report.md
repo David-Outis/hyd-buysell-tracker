@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 14:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Evo Select 256GB & Samsung Evo Plus 512GB](https://reddit.com/r/BangaloreMarketplace/comments/1vbrf5k/samsung_evo_select_256gb_samsung_evo_plus_512gb/) — Rs.5,500 (score 70)
 
 
 ## Laptops
