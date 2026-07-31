@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 10:03 UTC
 
 ## Mobiles
 
@@ -7,17 +7,17 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Selling MacBook M3 (13)” - 16GB / 512GB Silver](https://reddit.com/r/BangaloreMarketplace/comments/1vblyyf/selling_macbook_m3_13_16gb_512gb_silver/) — Rs.80,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Pro 12.9” M1 (5th Gen) • 256GB • Complete Premium Bundle • Mint Condition](https://reddit.com/r/HyderabadUsedItems/comments/1vblveb/ipad_pro_129_m1_5th_gen_256gb_complete_premium/) — Rs.8,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Selling PS5 Slim Disc Version (BO6 EDITION)](https://reddit.com/r/BangaloreMarketplace/comments/1vbm7lx/selling_ps5_slim_disc_version_bo6_edition/) — Price not found (score 55)
 
 
 ## Desktop PCs
