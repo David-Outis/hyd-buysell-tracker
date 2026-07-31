@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Any refurbished apple iphone b/w 25k to 30K.](https://reddit.com/r/BangaloreMarketplace/comments/1vbleb7/any_refurbished_apple_iphone_bw_25k_to_30k/) — Rs.25,000 (score 70)
 
 
 ## Laptops
