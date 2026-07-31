@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 07:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Looking to rent a Windows 11 laptop for one day in Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vbj31t/looking_to_rent_a_windows_11_laptop_for_one_day/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
