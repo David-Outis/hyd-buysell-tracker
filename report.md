@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 11:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MACBOOK M4 Air Brand New Sale - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vbmthr/macbook_m4_air_brand_new_sale_bangalore/) — Rs.85,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
