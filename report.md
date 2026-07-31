@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 06:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Govt acer laptop 2025 for sale](https://reddit.com/r/ChennaiBuyAndSell/comments/1vbhn7s/govt_acer_laptop_2025_for_sale/) — Rs.20,000 (score 120)
+- [Selling macbook M1 pro with 16 GB RAM AND 512 SSD](https://reddit.com/r/BangaloreMarketplace/comments/1vbijz3/selling_macbook_m1_pro_with_16_gb_ram_and_512_ssd/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
