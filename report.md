@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 13:33 UTC
 
 ## Mobiles
 
-- [WTS iPhone 15 Pro 128gb 58k slightly negotiable](https://reddit.com/r/BangaloreMarketplace/comments/1vbq9cg/wts_iphone_15_pro_128gb_58k_slightly_negotiable/) — Rs.58,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
