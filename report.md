@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-07-31 08:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Wanna buy an old Iphone 12 or 13 (to try ios before committing)](https://reddit.com/r/BangaloreMarketplace/comments/1vbkead/wanna_buy_an_old_iphone_12_or_13_to_try_ios/) — Rs.25,000 (score 70)
 
 
 ## Laptops
