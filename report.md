@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-07-31 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-01 01:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Where can I buy a Nothing Phone (3a) offline in Bangalore or Hosur? Budget ₹30k](https://reddit.com/r/BangaloreMarketplace/comments/1vc9dxs/where_can_i_buy_a_nothing_phone_3a_offline_in/) — Rs.30,000 (score 90)
 
 
 ## Laptops
