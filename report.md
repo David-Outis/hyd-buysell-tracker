@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-01 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-01 05:06 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] Iphone 13 PM 256GB cashify Refurbished | ₹46000 | Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1vcdrja/wts_iphone_13_pm_256gb_cashify_refurbished_46000/) — Rs.46,000 (score 90)
 
 
 ## Laptops
