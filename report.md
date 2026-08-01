@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-01 17:35 UTC
+# Hyderabad Buy/Sell Report - 2026-08-01 18:05 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Need Mobile phone | Budget 10k (can increase lil) Android 15/16 minimum](https://reddit.com/r/BangaloreMarketplace/comments/1vcti07/need_mobile_phone_budget_10k_can_increase_lil/) — Rs.10,000 (score 70)
 
 
 ## Laptops
