@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-01 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-01 16:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 demo unit - 128GB TEAL Urgent selling](https://reddit.com/r/BangaloreMarketplace/comments/1vcrbeq/iphone_16_demo_unit_128gb_teal_urgent_selling/) — Rs.46,000 (score 85)
 
 
 ## Laptops
