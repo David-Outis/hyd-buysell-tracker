@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-01 06:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-01 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [samsung galaxy fit 3 i day old](https://reddit.com/r/HyderabadBuySell/comments/1vcejzp/samsung_galaxy_fit_3_i_day_old/) — Rs.3,000 (score 105)
 
 
 ## Laptops
