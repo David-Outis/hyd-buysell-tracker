@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 16:05 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 16:34 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy A36, mint condition, 10 months old for sale.](https://reddit.com/r/HyderabadBuySell/comments/1vd9y2i/samsung_galaxy_a36_mint_condition_10_months_old/) — Rs.20,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
