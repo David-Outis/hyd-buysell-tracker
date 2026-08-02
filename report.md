@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 08:33 UTC
 
 ## Mobiles
 
-- [iPhone 16pro max 256gb esim 80k 90% battery](https://reddit.com/r/HyderabadUsedItems/comments/1vdbtyn/iphone_16pro_max_256gb_esim_80k_90_battery/) — Rs.80,000 (score 70)
+- [Samsung Galaxy A36 for sale, mint condition, only 10 months used](https://reddit.com/r/HyderabadUsedItems/comments/1vdc96r/samsung_galaxy_a36_for_sale_mint_condition_only/) — Rs.20,000 (score 105)
 
 
 ## Laptops
