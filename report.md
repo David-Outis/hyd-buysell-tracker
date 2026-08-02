@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 15:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus 15r 512gb](https://reddit.com/r/ChennaiBuyAndSell/comments/1vdkblj/oneplus_15r_512gb/) — Rs.2,000 (score 105)
 
 
 ## Laptops
