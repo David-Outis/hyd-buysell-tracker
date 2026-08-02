@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 15:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 15:35 UTC
 
 ## Mobiles
 
-- [Oneplus 15r 512gb](https://reddit.com/r/ChennaiBuyAndSell/comments/1vdkblj/oneplus_15r_512gb/) — Rs.2,000 (score 105)
+- [Buying 2nd iphone budget 30-40k need help](https://reddit.com/r/BangaloreMarketplace/comments/1vdl51l/buying_2nd_iphone_budget_3040k_need_help/) — Rs.30,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 Standard (+ Games ) for Sale in Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vdjviy/ps4_standard_games_for_sale_in_bangalore/) — Rs.17,000 (score 100)
 
 
 ## Desktop PCs
