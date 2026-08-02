@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 07:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 08:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16pro max 256gb esim 80k 90% battery](https://reddit.com/r/HyderabadUsedItems/comments/1vdbtyn/iphone_16pro_max_256gb_esim_80k_90_battery/) — Rs.80,000 (score 70)
 
 
 ## Laptops
