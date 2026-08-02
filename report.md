@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling brand new iPhone 17 Pro 256GB Deep Blue](https://reddit.com/r/BangaloreMarketplace/comments/1vddf74/selling_brand_new_iphone_17_pro_256gb_deep_blue/) — Rs.112,500 (score 105)
 
 
 ## Laptops
