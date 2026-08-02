@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 13:33 UTC
 
 ## Mobiles
 
-- [Repost: Selling some used covers for iphone 15 Pro Max Bulk/Single/Cheap [WTS]](https://reddit.com/r/BangaloreMarketplace/comments/1vdhgzq/repost_selling_some_used_covers_for_iphone_15_pro/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Cabinet, Office Chair - Available Individually – Kukatpally](https://reddit.com/r/HyderabadUsedItems/comments/1vdhyd4/cabinet_office_chair_available_individually/) — Rs.3,000 (score 90)
