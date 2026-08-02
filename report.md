@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 15:35 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 16:05 UTC
 
 ## Mobiles
 
-- [Buying 2nd iphone budget 30-40k need help](https://reddit.com/r/BangaloreMarketplace/comments/1vdl51l/buying_2nd_iphone_budget_3040k_need_help/) — Rs.30,000 (score 70)
+- [Samsung Galaxy A36, mint condition, 10 months old for sale.](https://reddit.com/r/HyderabadBuySell/comments/1vd9y2i/samsung_galaxy_a36_mint_condition_10_months_old/) — Rs.20,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 Standard (+ Games ) for Sale in Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vdjviy/ps4_standard_games_for_sale_in_bangalore/) — Rs.17,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
