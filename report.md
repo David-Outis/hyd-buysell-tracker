@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-08-02 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-02 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [IPHONE 15 128GB BLACK](https://reddit.com/r/HyderabadBuySell/comments/1vdhxq7/iphone_15_128gb_black/) — Rs.40,000 (score 105)
+- [Iphone 12 pro 256GB](https://reddit.com/r/HyderabadBuySell/comments/1vdeoy9/iphone_12_pro_256gb/) — Rs.22,000 (score 90)
+- [Zebra TC21 Mobile Computer/barcode scanner](https://reddit.com/r/HyderabadBuySell/comments/1vdb6lw/zebra_tc21_mobile_computerbarcode_scanner/) — Rs.16,000 (score 100)
 
 
 ## Laptops
@@ -17,9 +19,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Microsoft Xbox Series S (512 GB) – Flawless Condition (OC)](https://reddit.com/r/HyderabadBuySell/comments/1vdfpi1/microsoft_xbox_series_s_512_gb_flawless_condition/) — Rs.25,000 (score 85)
 
 
 ## Desktop PCs
 
-- [Cabinet, Office Chair - Available Individually – Kukatpally](https://reddit.com/r/HyderabadUsedItems/comments/1vdhyd4/cabinet_office_chair_available_individually/) — Rs.3,000 (score 90)
+_No new desktop PC listings found in this run._
