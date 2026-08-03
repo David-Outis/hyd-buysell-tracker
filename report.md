@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 13:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [I’m selling my ps5 , if anyone’s interested dm me .](https://reddit.com/r/BangaloreMarketplace/comments/1vecwbs/im_selling_my_ps5_if_anyones_interested_dm_me/) — Rs.50,000 (score 65)
 
 
 ## Desktop PCs
