@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 17:35 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 18:03 UTC
 
 ## Mobiles
 
-- [HP monitor-keyboard-wireless mouse with pad, CPU and speakers for sale. All in working condition. Location- Bangalore, Mobile-9686611152, Selling price: Rs 15,000/-(Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1vejhzl/hp_monitorkeyboardwireless_mouse_with_pad_cpu_and/) — Rs.15,000 (score 90)
+- [Selling my 2 Samsung Monitors](https://reddit.com/r/HyderabadUsedItems/comments/1vekwu4/selling_my_2_samsung_monitors/) — Rs.7,500 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Laptop for sale](https://reddit.com/r/HyderabadUsedItems/comments/1vekjhu/laptop_for_sale/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
