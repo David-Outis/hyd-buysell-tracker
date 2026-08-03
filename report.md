@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 06:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus 13s for sale. 3 months warranty remaining](https://reddit.com/r/BangaloreMarketplace/comments/1ve4rhs/oneplus_13s_for_sale_3_months_warranty_remaining/) — Rs.38,000 (score 85)
 
 
 ## Laptops
