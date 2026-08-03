@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 05:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 06:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gigabyte Aorus Master 3070 8GB Graphics Card](https://reddit.com/r/BangaloreMarketplace/comments/1ve3za1/gigabyte_aorus_master_3070_8gb_graphics_card/) — Rs.23,000 (score 85)
+_No new desktop PC listings found in this run._
