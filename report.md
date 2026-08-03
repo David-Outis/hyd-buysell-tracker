@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 11:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus 15 Case and Tempered Glass](https://reddit.com/r/HyderabadUsedItems/comments/1veavo8/oneplus_15_case_and_tempered_glass/) — Rs.2,200 (score 85)
 
 
 ## Laptops
 
-- [Lenovo IdeaPad 530 (15.6") Laptop for sale – ₹24,999](https://reddit.com/r/bangloremarketplace/comments/1veajf1/lenovo_ideapad_530_156_laptop_for_sale_24999/) — Rs.24,999 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
