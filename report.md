@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 17:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 17:35 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [HP monitor-keyboard-wireless mouse with pad, CPU and speakers for sale. All in working condition. Location- Bangalore, Mobile-9686611152, Selling price: Rs 15,000/-(Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1vejhzl/hp_monitorkeyboardwireless_mouse_with_pad_cpu_and/) — Rs.15,000 (score 90)
 
 
 ## Laptops
