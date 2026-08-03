@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 14:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 15:04 UTC
 
 ## Mobiles
 
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sold my Switch OLED for 13.5k last year. What is current price for a used OLED ?](https://reddit.com/r/BangaloreMarketplace/comments/1veeqvu/sold_my_switch_oled_for_135k_last_year_what_is/) — Rs.13,500 (score 65)
-- [Planning to sell my Ps5 digital edition , located in Bangalore btw](https://reddit.com/r/BangaloreMarketplace/comments/1veeeyx/planning_to_sell_my_ps5_digital_edition_located/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
