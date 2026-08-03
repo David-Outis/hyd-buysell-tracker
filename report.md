@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 08:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Selling my PS5 Digital Version 1.5.years old](https://reddit.com/r/BangaloreMarketplace/comments/1ve6ts4/selling_my_ps5_digital_version_15years_old/) — Rs.53,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
