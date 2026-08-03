@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 09:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] 2x8 Samsung DDR4 RAM and 512gb SK Hynix m.2 Sata SSD. All in good condition, lightly used.](https://reddit.com/r/ChennaiBuyAndSell/comments/1ve7wg9/wts_2x8_samsung_ddr4_ram_and_512gb_sk_hynix_m2/) — Price not found (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps5 slim disk 1tb edition in excellent condition with original box](https://reddit.com/r/BangaloreMarketplace/comments/1ve7zkt/ps5_slim_disk_1tb_edition_in_excellent_condition/) — Rs.58,000 (score 80)
 
 
 ## Desktop PCs
