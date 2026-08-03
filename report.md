@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-03 17:04 UTC
 
 ## Mobiles
 
-- [FOR SALE: Samsung Galaxy Book 6 16GB RAM 512GB SSD Intel Core Ultra 5| 85-95K | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1veht49/for_sale_samsung_galaxy_book_6_16gb_ram_512gb_ssd/) — Rs.85,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
