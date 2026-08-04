@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-04 14:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-04 14:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Motorola Edge 50 Fusion For Sale 8/128 Gb With Box & Charger](https://reddit.com/r/BangaloreMarketplace/comments/1vfbk29/motorola_edge_50_fusion_for_sale_8128_gb_with_box/) — Price not found (score 75)
 
 
 ## Laptops
 
-- [Govt acer laptop 2025 for sale [WTS]](https://reddit.com/r/ChennaiBuyAndSell/comments/1vfakrq/govt_acer_laptop_2025_for_sale_wts/) — Rs.14,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Selling Ghost of Yotei PS5 disc (pre owned)](https://reddit.com/r/BangaloreMarketplace/comments/1vfby95/selling_ghost_of_yotei_ps5_disc_pre_owned/) — Rs.3,000 (score 85)
 
 
 ## Desktop PCs
