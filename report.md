@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-08-04 14:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-04 15:03 UTC
 
 ## Mobiles
 
-- [Motorola Edge 50 Fusion For Sale 8/128 Gb With Box & Charger](https://reddit.com/r/BangaloreMarketplace/comments/1vfbk29/motorola_edge_50_fusion_for_sale_8128_gb_with_box/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Reliable place to sell old laptop? Not sure if hellofi is legit or not.](https://reddit.com/r/BangaloreMarketplace/comments/1vfcwgy/reliable_place_to_sell_old_laptop_not_sure_if/) — Price not found (score 55)
+- [Apple says my 2019 MacBook Pro needs an ₹80k logic board replacement – worth repairing or selling for parts?](https://reddit.com/r/BangaloreMarketplace/comments/1vfccur/apple_says_my_2019_macbook_pro_needs_an_80k_logic/) — Rs.80,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Selling Ghost of Yotei PS5 disc (pre owned)](https://reddit.com/r/BangaloreMarketplace/comments/1vfby95/selling_ghost_of_yotei_ps5_disc_pre_owned/) — Rs.3,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
