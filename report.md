@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-04 08:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-04 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 | slim digital | firmware 8.0 | HYDERABAD | F2F preferred |](https://reddit.com/r/HyderabadUsedItems/comments/1vf3v4z/ps5_slim_digital_firmware_80_hyderabad_f2f/) — Rs.85,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
