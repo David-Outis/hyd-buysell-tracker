@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-04 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-04 16:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Where can I find Used gaming laptops in Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1vfesr0/where_can_i_find_used_gaming_laptops_in_bengaluru/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
