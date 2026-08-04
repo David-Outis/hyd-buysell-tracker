@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-03 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-04 01:34 UTC
 
 ## Mobiles
 
-- [Selling my 2 Samsung Monitors](https://reddit.com/r/HyderabadUsedItems/comments/1vekwu4/selling_my_2_samsung_monitors/) — Rs.7,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Laptop for sale](https://reddit.com/r/HyderabadUsedItems/comments/1vekjhu/laptop_for_sale/) — Price not found (score 75)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
