@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-04 13:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-04 14:04 UTC
 
 ## Mobiles
 
-- [[Selling] Pixel 9 PRO XL | 256GB | 13 Months Old | Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1vf8u2m/selling_pixel_9_pro_xl_256gb_13_months_old/) — Rs.3,499 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Selling My Laptop – Sitting Unused, Great Condition](https://reddit.com/r/HyderabadBuySell/comments/1vf9b5p/selling_my_laptop_sitting_unused_great_condition/) — Rs.15,000 (score 90)
+- [Govt acer laptop 2025 for sale [WTS]](https://reddit.com/r/ChennaiBuyAndSell/comments/1vfakrq/govt_acer_laptop_2025_for_sale_wts/) — Rs.14,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
