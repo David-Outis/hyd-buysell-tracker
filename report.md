@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-08-05 15:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-05 15:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] Pixel 9 Pro XL](https://reddit.com/r/ChennaiBuyAndSell/comments/1vg9wo2/wts_pixel_9_pro_xl/) — Rs.5,000 (score 105)
+- [Original Oneplus 27w cooler for sale in sealed condition](https://reddit.com/r/BangaloreMarketplace/comments/1vgalgg/original_oneplus_27w_cooler_for_sale_in_sealed/) — Rs.2,300 (score 105)
 
 
 ## Laptops
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [[ selling ] Gaming PC . Intel i7 14700F 20 Core | AMD 9060XT 16GB | 32GB DDR5 RAM](https://reddit.com/r/BangaloreMarketplace/comments/1vg9682/selling_gaming_pc_intel_i7_14700f_20_core_amd/) — Rs.122,000 (score 120)
+_No new desktop PC listings found in this run._
