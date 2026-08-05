@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-05 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-05 08:33 UTC
 
 ## Mobiles
 
-- [Selling iPhone 14 256gb, purple, good condition Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1vg0r1b/selling_iphone_14_256gb_purple_good_condition/) — Rs.35,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
