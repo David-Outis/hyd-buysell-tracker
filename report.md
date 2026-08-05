@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-05 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-05 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Pixel 9a](https://reddit.com/r/ChennaiBuyAndSell/comments/1vgc3wr/pixel_9a/) — Rs.30,000 (score 85)
 
 
 ## Laptops
