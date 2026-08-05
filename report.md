@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-05 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-05 14:33 UTC
 
 ## Mobiles
 
-- [For Sale: Samsung Galaxy S23 5G – Pearl White (256GB)](https://reddit.com/r/BangaloreMarketplace/comments/1vg86j3/for_sale_samsung_galaxy_s23_5g_pearl_white_256gb/) — Rs.26,500 (score 105)
-- [Selling Iphone 16Pro 256GB Desert Titanium Colour](https://reddit.com/r/BangaloreMarketplace/comments/1vg7n9p/selling_iphone_16pro_256gb_desert_titanium_colour/) — Rs.65,000 (score 90)
+- [[SELLING] OPPO Find X9s - 256GB Midnight Grey | Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1vg8anz/selling_oppo_find_x9s_256gb_midnight_grey_mint/) — Rs.67,000 (score 120)
 
 
 ## Laptops
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Selling Pragmata used PS5 disc (no coupon)](https://reddit.com/r/BangaloreMarketplace/comments/1vg8j1e/selling_pragmata_used_ps5_disc_no_coupon/) — Rs.4,100 (score 85)
 
 
 ## Desktop PCs
