@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-05 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-05 15:04 UTC
 
 ## Mobiles
 
-- [[SELLING] OPPO Find X9s - 256GB Midnight Grey | Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1vg8anz/selling_oppo_find_x9s_256gb_midnight_grey_mint/) — Rs.67,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Selling Pragmata used PS5 disc (no coupon)](https://reddit.com/r/BangaloreMarketplace/comments/1vg8j1e/selling_pragmata_used_ps5_disc_no_coupon/) — Rs.4,100 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[ selling ] Gaming PC . Intel i7 14700F 20 Core | AMD 9060XT 16GB | 32GB DDR5 RAM](https://reddit.com/r/BangaloreMarketplace/comments/1vg9682/selling_gaming_pc_intel_i7_14700f_20_core_amd/) — Rs.122,000 (score 120)
