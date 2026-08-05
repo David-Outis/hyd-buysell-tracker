@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-04 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-05 01:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] Samsung S24 Ultra (12GB RAM / 256GB) - Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1vfsvmq/wts_samsung_s24_ultra_12gb_ram_256gb_excellent/) — Rs.60,000 (score 120)
 
 
 ## Laptops
