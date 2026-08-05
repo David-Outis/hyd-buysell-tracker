@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-05 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-05 05:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox Series S | Want to Purchase in Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vfxfoq/xbox_series_s_want_to_purchase_in_bangalore/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
