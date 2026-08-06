@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 07:33 UTC
 
 ## Mobiles
 
-- [OnePlus 9 Pro 5G, 8/128GB, Bengaluru - faulty, network not working](https://reddit.com/r/BangaloreMarketplace/comments/1vgwk77/oneplus_9_pro_5g_8128gb_bengaluru_faulty_network/) — Rs.12,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Selling my ps5 Disc Edition 1tb along with 2 game discs](https://reddit.com/r/BangaloreMarketplace/comments/1vgx16g/selling_my_ps5_disc_edition_1tb_along_with_2_game/) — Rs.65,000 (score 80)
 
 
 ## Desktop PCs
