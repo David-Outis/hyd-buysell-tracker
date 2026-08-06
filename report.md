@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 06:04 UTC
 
 ## Mobiles
 
-- [[WTS] Samsung Galaxy Buds 2 Pro & Nothing Ear 2 UPI (F2F Deal)](https://reddit.com/r/BangaloreMarketplace/comments/1vgv843/wts_samsung_galaxy_buds_2_pro_nothing_ear_2_upi/) — Rs.4,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
