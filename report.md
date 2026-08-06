@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 10:33 UTC
 
 ## Mobiles
 
-- [Samsung fold 6 12/256gb Indian only phone 69999/- fixed](https://reddit.com/r/HyderabadUsedItems/comments/1vgzrm6/samsung_fold_6_12256gb_indian_only_phone_69999/) — Rs.69,999 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
