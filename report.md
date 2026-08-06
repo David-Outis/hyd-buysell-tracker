@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 02:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 03:04 UTC
 
 ## Mobiles
 
-- [MagSafe card wallet for iPhone and android devices](https://reddit.com/r/BangaloreMarketplace/comments/1vgrg2x/magsafe_card_wallet_for_iphone_and_android_devices/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Where can I buy MacBook?](https://reddit.com/r/bangloremarketplace/comments/1vgs8ah/where_can_i_buy_macbook/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
