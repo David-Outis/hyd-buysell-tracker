@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 10:03 UTC
 
 ## Mobiles
 
-- [Apple iPhone 12 64GB White](https://reddit.com/r/HyderabadBuySell/comments/1vgyhv1/apple_iphone_12_64gb_white/) — Price not found (score 60)
+- [Samsung fold 6 12/256gb Indian only phone 69999/- fixed](https://reddit.com/r/HyderabadUsedItems/comments/1vgzrm6/samsung_fold_6_12256gb_indian_only_phone_69999/) — Rs.69,999 (score 70)
 
 
 ## Laptops
