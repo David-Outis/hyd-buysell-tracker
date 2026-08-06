@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 08:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 09:04 UTC
 
 ## Mobiles
 
-- [Samsung tab s11ultra 5g 12/256gb under warranty 110k with Samsung keyboard worth 20k !](https://reddit.com/r/HyderabadUsedItems/comments/1vgydvx/samsung_tab_s11ultra_5g_12256gb_under_warranty/) — Rs.110,000 (score 85)
+- [[WTS] Samsung Galaxy S25 Ultra 12GB/256GB Titanium Gray | Only 2 Months Old | Mint Condition | Box + Bill | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vgyw7s/wts_samsung_galaxy_s25_ultra_12gb256gb_titanium/) — Rs.79,990 (score 120)
 
 
 ## Laptops
