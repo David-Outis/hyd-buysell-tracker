@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 14:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Looking to buy a Steam Deck OLED (512 GB or 1TB)](https://reddit.com/r/BangaloreMarketplace/comments/1vh4xuw/looking_to_buy_a_steam_deck_oled_512_gb_or_1tb/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
