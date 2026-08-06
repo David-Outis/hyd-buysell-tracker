@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 08:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung tab s11ultra 5g 12/256gb under warranty 110k with Samsung keyboard worth 20k !](https://reddit.com/r/HyderabadUsedItems/comments/1vgydvx/samsung_tab_s11ultra_5g_12256gb_under_warranty/) — Rs.110,000 (score 85)
 
 
 ## Laptops
