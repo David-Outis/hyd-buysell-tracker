@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 13:03 UTC
 
 ## Mobiles
 
-- [Selling iPhone 15 pro - 128 GB Silver with 92% health - rarely used](https://reddit.com/r/BangaloreMarketplace/comments/1vh2e1d/selling_iphone_15_pro_128_gb_silver_with_92/) — Rs.65,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Steam deck lcd (256gb) battery health 97%](https://reddit.com/r/BangaloreMarketplace/comments/1vh2ljd/steam_deck_lcd_256gb_battery_health_97/) — Rs.34,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
