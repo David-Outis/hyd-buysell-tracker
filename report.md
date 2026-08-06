@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 09:33 UTC
 
 ## Mobiles
 
-- [[WTS] Samsung Galaxy S25 Ultra 12GB/256GB Titanium Gray | Only 2 Months Old | Mint Condition | Box + Bill | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vgyw7s/wts_samsung_galaxy_s25_ultra_12gb256gb_titanium/) — Rs.79,990 (score 120)
+- [Apple iPhone 12 64GB White](https://reddit.com/r/HyderabadBuySell/comments/1vgyhv1/apple_iphone_12_64gb_white/) — Price not found (score 60)
 
 
 ## Laptops
