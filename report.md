@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 12 64gb](https://reddit.com/r/HyderabadBuySell/comments/1vh1gog/iphone_12_64gb/) — Rs.14,000 (score 90)
+- [iPhone 13 for sale - Mint condition](https://reddit.com/r/HyderabadBuySell/comments/1vgzi2c/iphone_13_for_sale_mint_condition/) — Price not found (score 55)
 
 
 ## Laptops
