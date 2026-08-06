@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-06 06:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-06 07:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus 9 Pro 5G, 8/128GB, Bengaluru - faulty, network not working](https://reddit.com/r/BangaloreMarketplace/comments/1vgwk77/oneplus_9_pro_5g_8128gb_bengaluru_faulty_network/) — Rs.12,000 (score 105)
 
 
 ## Laptops
