@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 11:33 UTC
 
 ## Mobiles
 
@@ -12,12 +12,13 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Someone sell me iPad Air M2 with Pencil Pro 🫠](https://reddit.com/r/HyderabadBuySell/comments/1vhvh1p/someone_sell_me_ipad_air_m2_with_pencil_pro/) — Rs.40,000 (score 90)
+- [iPad 11th gen (2 months old)](https://reddit.com/r/HyderabadBuySell/comments/1vhvdph/ipad_11th_gen_2_months_old/) — Rs.26,000 (score 90)
 
 
 ## Game Consoles
 
-- [[WTS] Saros PS5 disc in brand new condition.](https://reddit.com/r/BangaloreMarketplace/comments/1vhxgm9/wts_saros_ps5_disc_in_brand_new_condition/) — Rs.4,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
