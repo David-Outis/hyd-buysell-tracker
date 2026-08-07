@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 12:34 UTC
 
 ## Mobiles
 
-- [Selling Google Pixel 1 ( OG ) - 32 gb white](https://reddit.com/r/BangaloreMarketplace/comments/1vhypyy/selling_google_pixel_1_og_32_gb_white/) — Rs.7,000 (score 70)
+- [For Sale : Samsung Galaxy S23 5G (Pearl White, 256GB)](https://reddit.com/r/BangaloreMarketplace/comments/1vhyrp7/for_sale_samsung_galaxy_s23_5g_pearl_white_256gb/) — Rs.26,500 (score 105)
 
 
 ## Laptops
