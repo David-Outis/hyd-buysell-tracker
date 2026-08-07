@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling Google Pixel 1 ( OG ) - 32 gb white](https://reddit.com/r/BangaloreMarketplace/comments/1vhypyy/selling_google_pixel_1_og_32_gb_white/) — Rs.7,000 (score 70)
 
 
 ## Laptops
@@ -12,8 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Someone sell me iPad Air M2 with Pencil Pro 🫠](https://reddit.com/r/HyderabadBuySell/comments/1vhvh1p/someone_sell_me_ipad_air_m2_with_pencil_pro/) — Rs.40,000 (score 90)
-- [iPad 11th gen (2 months old)](https://reddit.com/r/HyderabadBuySell/comments/1vhvdph/ipad_11th_gen_2_months_old/) — Rs.26,000 (score 90)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
