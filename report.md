@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 16:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 16:34 UTC
 
 ## Mobiles
 
-- [IphoneXs 64gb 75%BH , Face ID stopped working recently](https://reddit.com/r/BangaloreMarketplace/comments/1vi4ed8/iphonexs_64gb_75bh_face_id_stopped_working/) — Rs.8,000 (score 70)
-- [WTS IPhone 7 128gb no scratches, the crack seen is temper glass (7k negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1vi4a5r/wts_iphone_7_128gb_no_scratches_the_crack_seen_is/) — Rs.7,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[Urgent Sale] Lenovo ThinkPad T470 | i5 7th Gen | 16GB RAM | 256GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1vi56b1/urgent_sale_lenovo_thinkpad_t470_i5_7th_gen_16gb/) — Rs.18,500 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
