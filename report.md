@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 01:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 02:03 UTC
 
 ## Mobiles
 
-- [Motorola edge 30 pro exchange](https://reddit.com/r/bangloremarketplace/comments/1vhl2ht/motorola_edge_30_pro_exchange/) — Rs.8,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
