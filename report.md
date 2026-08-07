@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 16:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [IphoneXs 64gb 75%BH , Face ID stopped working recently](https://reddit.com/r/BangaloreMarketplace/comments/1vi4ed8/iphonexs_64gb_75bh_face_id_stopped_working/) — Rs.8,000 (score 70)
+- [WTS IPhone 7 128gb no scratches, the crack seen is temper glass (7k negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1vi4a5r/wts_iphone_7_128gb_no_scratches_the_crack_seen_is/) — Rs.7,000 (score 85)
 
 
 ## Laptops
