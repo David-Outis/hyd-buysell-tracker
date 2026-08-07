@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 09:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [I wanna give my ps5 for rent in Bangalore but not sure how](https://reddit.com/r/BangaloreMarketplace/comments/1vhuiw4/i_wanna_give_my_ps5_for_rent_in_bangalore_but_not/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
