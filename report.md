@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 05:03 UTC
 
 ## Mobiles
 
-- [MagSafe card wallet for iPhone and android devices Brand supcase Price 2500 Btm](https://reddit.com/r/BangaloreMarketplace/comments/1vhqo4d/magsafe_card_wallet_for_iphone_and_android/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M5 Old Price](https://reddit.com/r/HyderabadBuySell/comments/1vhmkno/macbook_air_m5_old_price/) — Rs.113,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
