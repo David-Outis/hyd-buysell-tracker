@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 10:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 11:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [[WTS] Saros PS5 disc in brand new condition.](https://reddit.com/r/BangaloreMarketplace/comments/1vhxgm9/wts_saros_ps5_disc_in_brand_new_condition/) — Rs.4,000 (score 80)
 
 
 ## Desktop PCs
 
-- [[WTS]- Ryzen 7 5800x with 4070Ti super(16GB vram) Gaming/Editing PC](https://reddit.com/r/ChennaiBuyAndSell/comments/1vhwt3v/wts_ryzen_7_5800x_with_4070ti_super16gb_vram/) — Rs.134,999 (score 120)
+_No new desktop PC listings found in this run._
