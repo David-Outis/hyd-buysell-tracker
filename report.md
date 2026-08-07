@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 04:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [HP Victus | Ryzen 7 7735HS | RTX 3050 6GB | 16GB RAM | 512GB SSD](https://reddit.com/r/ChennaiBuyAndSell/comments/1vhpjt5/hp_victus_ryzen_7_7735hs_rtx_3050_6gb_16gb_ram/) — Rs.90,000 (score 85)
