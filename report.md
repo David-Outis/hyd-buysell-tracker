@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 04:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 04:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [MagSafe card wallet for iPhone and android devices Brand supcase Price 2500 Btm](https://reddit.com/r/BangaloreMarketplace/comments/1vhqo4d/magsafe_card_wallet_for_iphone_and_android/) — Price not found (score 60)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [HP Victus | Ryzen 7 7735HS | RTX 3050 6GB | 16GB RAM | 512GB SSD](https://reddit.com/r/ChennaiBuyAndSell/comments/1vhpjt5/hp_victus_ryzen_7_7735hs_rtx_3050_6gb_16gb_ram/) — Rs.90,000 (score 85)
+_No new desktop PC listings found in this run._
