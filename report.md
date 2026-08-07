@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-07 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-07 08:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air Early 2015 | i5 | 8GB RAM | 128GB SSD | Haralur | ₹17,500](https://reddit.com/r/BangaloreMarketplace/comments/1vhubnx/macbook_air_early_2015_i5_8gb_ram_128gb_ssd/) — Rs.17,500 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
