@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 07:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox Series S 512GB — GTA 6 Ready — Best Price in Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1vinfhw/xbox_series_s_512gb_gta_6_ready_best_price_in/) — Rs.28,000 (score 100)
 
 
 ## Desktop PCs
