@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 15:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 16:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling Samsung S21 FE + iPhone X 64GB .](https://reddit.com/r/BangaloreMarketplace/comments/1vizo4z/selling_samsung_s21_fe_iphone_x_64gb/) — Rs.2,500 (score 105)
 
 
 ## Laptops
