@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 04:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 04:34 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC Setup for Sale – ₹1,00,000 Negotiable](https://reddit.com/r/BangaloreMarketplace/comments/1vimcv4/gaming_pc_setup_for_sale_100000_negotiable/) — Rs.100,000 (score 85)
