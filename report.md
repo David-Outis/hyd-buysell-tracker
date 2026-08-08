@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 14:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 pro max for sale!!](https://reddit.com/r/HyderabadBuySell/comments/1visrrr/iphone_17_pro_max_for_sale/) — Rs.115,000 (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [WTS - Split Fiction ps5 for 3300 & GoW Ragnarok PS4 for 1700 - Bengaluru (can ship)](https://reddit.com/r/BangaloreMarketplace/comments/1vix5y7/wts_split_fiction_ps5_for_3300_gow_ragnarok_ps4/) — Price not found (score 55)
 
 
 ## Desktop PCs
