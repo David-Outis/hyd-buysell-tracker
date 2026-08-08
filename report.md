@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 02:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling iPhone 13 sky blue color. F2f deals](https://reddit.com/r/BangaloreMarketplace/comments/1vijcke/selling_iphone_13_sky_blue_color_f2f_deals/) — Rs.29,000 (score 85)
 
 
 ## Laptops
