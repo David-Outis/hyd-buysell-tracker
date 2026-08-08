@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 17:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 18:03 UTC
 
 ## Mobiles
 
-- [Iphone 16 pro max](https://reddit.com/r/HyderabadBuySell/comments/1viyivh/iphone_16_pro_max/) — Rs.95,000 (score 105)
-- [Iphone 17 Pro Max for sell](https://reddit.com/r/HyderabadBuySell/comments/1vixrom/iphone_17_pro_max_for_sell/) — Rs.120,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Selling: HP Victus Gaming Laptop (Ryzen 5 5600H, GTX 1650) - ₹37,000 (Bangalore) - Upgrading to MacBook!](https://reddit.com/r/BangaloreMarketplace/comments/1vj2en7/selling_hp_victus_gaming_laptop_ryzen_5_5600h_gtx/) — Rs.37,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
