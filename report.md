@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 09:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Intel i5 13400 and b760 motherboard for sale](https://reddit.com/r/HyderabadUsedItems/comments/1viqu1d/intel_i5_13400_and_b760_motherboard_for_sale/) — Rs.21,000 (score 85)
+_No new desktop PC listings found in this run._
