@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 13:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] - Samsung Monitor - 3.5k](https://reddit.com/r/ChennaiBuyAndSell/comments/1viw2ka/wts_samsung_monitor_35k/) — Rs.3,500 (score 70)
 
 
 ## Laptops
