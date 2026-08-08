@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 12:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-08 12:33 UTC
 
 ## Mobiles
 
-- [90W Motorola Original Charger for sale - Motorola Signature charger](https://reddit.com/r/BangaloreMarketplace/comments/1vitnti/90w_motorola_original_charger_for_sale_motorola/) — Rs.1,800 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
