@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 16:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to buy iphone 12](https://reddit.com/r/HyderabadBuySell/comments/1vjoqw4/looking_to_buy_iphone_12/) — Rs.15,000 (score 90)
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [[Selling] IPad Air M4, 2026, 256GB + Apple Pencil Pro + Spigen cover & Spigen Screen guard](https://reddit.com/r/BangaloreMarketplace/comments/1vjsco0/selling_ipad_air_m4_2026_256gb_apple_pencil_pro/) — Rs.85,000 (score 105)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
