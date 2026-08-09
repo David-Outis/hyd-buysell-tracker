@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 12:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 13:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS] Iphone 13 Pro Max 256GB 88% BH Cashify Refurbished | Rs.44000](https://reddit.com/r/ChennaiBuyAndSell/comments/1vjotlb/wts_iphone_13_pro_max_256gb_88_bh_cashify/) — Rs.44,000 (score 85)
+- [[WTS] Iphone 13 Pro Max 256GB 88% BH Cashify Refurbished | Rs.44000 | Chennai](https://reddit.com/r/BangaloreMarketplace/comments/1vjp2o1/wts_iphone_13_pro_max_256gb_88_bh_cashify/) — Rs.44,000 (score 90)
 
 
 ## Laptops
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [MSI Mag B550 Tomahawk Motherboard & MSI Mag Gungnir 100M gaming Cabinet For sale](https://reddit.com/r/HyderabadUsedItems/comments/1vjolnd/msi_mag_b550_tomahawk_motherboard_msi_mag_gungnir/) — Rs.13,000 (score 105)
+_No new desktop PC listings found in this run._
