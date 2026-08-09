@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 16:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 16:33 UTC
 
 ## Mobiles
 
-- [Looking to buy iphone 12](https://reddit.com/r/HyderabadBuySell/comments/1vjoqw4/looking_to_buy_iphone_12/) — Rs.15,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
