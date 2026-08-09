@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 12:34 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [MSI Mag B550 Tomahawk Motherboard & MSI Mag Gungnir 100M gaming Cabinet For sale](https://reddit.com/r/HyderabadUsedItems/comments/1vjolnd/msi_mag_b550_tomahawk_motherboard_msi_mag_gungnir/) — Rs.13,000 (score 105)
