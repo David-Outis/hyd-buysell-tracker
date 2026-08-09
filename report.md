@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 06:33 UTC
 
 ## Mobiles
 
-- [Samsung Odyssey CRG5 24-inch curved gaming monitor Full HD](https://reddit.com/r/BangaloreMarketplace/comments/1vjh1xo/samsung_odyssey_crg5_24inch_curved_gaming_monitor/) — Rs.6,000 (score 70)
+- [Samsung Galaxy Buds 2 pro for sale (Good condition)](https://reddit.com/r/BangaloreMarketplace/comments/1vjhk25/samsung_galaxy_buds_2_pro_for_sale_good_condition/) — Rs.5,500 (score 70)
 
 
 ## Laptops
@@ -17,9 +17,13 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 slim disk console edition with 4 games for sale](https://reddit.com/r/HyderabadBuySell/comments/1vjgz4d/ps5_slim_disk_console_edition_with_4_games_for/) — Price not found (score 55)
+- [Playstation 5 Slim Disc Edition](https://reddit.com/r/HyderabadBuySell/comments/1vji13h/playstation_5_slim_disc_edition/) — Rs.62,000 (score 100)
+- [Selling or trading my Nintendo switch and assassins creed 3 game](https://reddit.com/r/HyderabadBuySell/comments/1vji092/selling_or_trading_my_nintendo_switch_and/) — Rs.13,000 (score 65)
+- [Selling Xbox 360 500GB with Kinect in very good condition. KPHB/Moosapet)](https://reddit.com/r/HyderabadBuySell/comments/1vjhotq/selling_xbox_360_500gb_with_kinect_in_very_good/) — Rs.7,000 (score 65)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[WTS] PC Games CDS.](https://reddit.com/r/bangloremarketplace/comments/1vjhr9v/wts_pc_games_cds/) — Rs.1,400 (score 70)
+- [[FS] Thanisandra / Hebbal — Moving out, prices dropped on everything left: furniture, appliances, standing desk, desk & PC setup](https://reddit.com/r/BangaloreMarketplace/comments/1vji290/fs_thanisandra_hebbal_moving_out_prices_dropped/) — Price not found (score 75)
+- [[Want to Sell] PC CD Roms Games (To Decorate the Shelf).](https://reddit.com/r/BangaloreMarketplace/comments/1vjhux7/want_to_sell_pc_cd_roms_games_to_decorate_the/) — Rs.1,400 (score 70)
