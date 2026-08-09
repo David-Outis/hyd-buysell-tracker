@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 11:35 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[SELL] ASUS ROG Zephyrus G14 Laptop (2022) - Ryzen 7 5800HS, GTX 1650 4GB, 16GB RAM Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vjmrcl/sell_asus_rog_zephyrus_g14_laptop_2022_ryzen_7/) — Rs.25,000 (score 105)
+- [Where should I buy laptops im bangalore offline?](https://reddit.com/r/BangaloreMarketplace/comments/1vjn6ay/where_should_i_buy_laptops_im_bangalore_offline/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
