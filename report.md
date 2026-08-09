@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-08 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 01:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling Samsung Galaxy Watch8 (40mm, LTE) (White Strap)](https://reddit.com/r/BangaloreMarketplace/comments/1vjcged/selling_samsung_galaxy_watch8_40mm_lte_white_strap/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [Selling: HP Victus Gaming Laptop (Ryzen 5 5600H, GTX 1650) - ₹37,000 (Bangalore) - Upgrading to MacBook!](https://reddit.com/r/BangaloreMarketplace/comments/1vj2en7/selling_hp_victus_gaming_laptop_ryzen_5_5600h_gtx/) — Rs.37,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
