@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling my oneplus nord buds 2](https://reddit.com/r/HyderabadBuySell/comments/1vjr1kk/selling_my_oneplus_nord_buds_2/) — Price not found (score 60)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Selling this Xbox 360 with new (third party) controller and a few game discs](https://reddit.com/r/BangaloreMarketplace/comments/1vjrptp/selling_this_xbox_360_with_new_third_party/) — Rs.7,000 (score 65)
 
 
 ## Desktop PCs
