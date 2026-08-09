@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 13:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 13:33 UTC
 
 ## Mobiles
 
-- [[WTS] Iphone 13 Pro Max 256GB 88% BH Cashify Refurbished | Rs.44000](https://reddit.com/r/ChennaiBuyAndSell/comments/1vjotlb/wts_iphone_13_pro_max_256gb_88_bh_cashify/) — Rs.44,000 (score 85)
-- [[WTS] Iphone 13 Pro Max 256GB 88% BH Cashify Refurbished | Rs.44000 | Chennai](https://reddit.com/r/BangaloreMarketplace/comments/1vjp2o1/wts_iphone_13_pro_max_256gb_88_bh_cashify/) — Rs.44,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
