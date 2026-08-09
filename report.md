@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 11:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Selling induction, laptop charger and USB hub.](https://reddit.com/r/BangaloreMarketplace/comments/1vjm6fu/selling_induction_laptop_charger_and_usb_hub/) — Rs.3,000 (score 105)
+- [[SELL] ASUS ROG Zephyrus G14 Laptop (2022) - Ryzen 7 5800HS, GTX 1650 4GB, 16GB RAM Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vjmrcl/sell_asus_rog_zephyrus_g14_laptop_2022_ryzen_7/) — Rs.25,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [WTS Desktop used for gaming w/o GPU, HDD](https://reddit.com/r/BangaloreMarketplace/comments/1vjm8rv/wts_desktop_used_for_gaming_wo_gpu_hdd/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
