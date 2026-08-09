@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-09 11:35 UTC
+# Hyderabad Buy/Sell Report - 2026-08-09 12:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Where should I buy laptops im bangalore offline?](https://reddit.com/r/BangaloreMarketplace/comments/1vjn6ay/where_should_i_buy_laptops_im_bangalore_offline/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
