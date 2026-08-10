@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-10 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-10 14:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Apple MacBook Pro 16" (original box), ₹35,000](https://reddit.com/r/BangaloreMarketplace/comments/1vkm9jg/apple_macbook_pro_16_original_box_35000/) — Rs.35,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
