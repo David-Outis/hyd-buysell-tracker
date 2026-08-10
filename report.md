@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-08-10 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-10 10:34 UTC
 
 ## Mobiles
 
-- [Asus VIVOBOOK S16 OLED. 1 week old...Bangalore..](https://reddit.com/r/BangaloreMarketplace/comments/1vkgbll/asus_vivobook_s16_oled_1_week_oldbangalore/) — Rs.65,000 (score 105)
+- [Iphone 14 pro max for sell](https://reddit.com/r/HyderabadUsedItems/comments/1vkgq9n/iphone_14_pro_max_for_sell/) — Price not found (score 55)
+- [[WTS] Poco M4 Pro (6GB/64GB) | AECS Layout, Brookfield](https://reddit.com/r/BangaloreMarketplace/comments/1vkgqu4/wts_poco_m4_pro_6gb64gb_aecs_layout_brookfield/) — Rs.4,500 (score 85)
 
 
 ## Laptops
