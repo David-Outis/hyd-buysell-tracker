@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-10 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-10 17:04 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony ps5](https://reddit.com/r/HyderabadUsedItems/comments/1vkqbh9/sony_ps5_for_sale/) — Price not found (score 50)
 
 
 ## Desktop PCs
