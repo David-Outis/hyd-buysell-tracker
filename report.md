@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-10 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-10 07:34 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Budget Gaming PC with Ryzen 3600 & 1660 Super](https://reddit.com/r/BangaloreMarketplace/comments/1vkd4sv/budget_gaming_pc_with_ryzen_3600_1660_super/) — Rs.27,000 (score 105)
+_No new desktop PC listings found in this run._
