@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-10 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-10 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Asus VIVOBOOK S16 OLED. 1 week old...Bangalore..](https://reddit.com/r/BangaloreMarketplace/comments/1vkgbll/asus_vivobook_s16_oled_1_week_oldbangalore/) — Rs.65,000 (score 105)
 
 
 ## Laptops
