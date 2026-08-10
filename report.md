@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-10 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-10 12:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Selling Iphone 16 pro 128gb Black Titanium](https://reddit.com/r/BangaloreMarketplace/comments/1vkisu9/selling_iphone_16_pro_128gb_black_titanium/) — Rs.75,000 (score 120)
 
 
 ## Laptops
