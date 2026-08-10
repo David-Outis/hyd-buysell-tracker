@@ -100,13 +100,23 @@ NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}" if NTFY_TOPIC else None
 CATEGORY_KEYWORDS = {
     "Mobiles": [
         "iphone", "samsung", "galaxy", "oneplus", "redmi", "poco", "realme",
-        "vivo", "oppo", "pixel", "nothing phone", "motorola", "moto ",
+        # Part 23 - "vivo" was a loose substring match, so it matched
+        # "Vivobook" (an Asus *laptop* line) and mis-categorized those
+        # posts as Mobiles. Anchored to a word boundary so "vivo" (the
+        # phone brand) still matches but "vivobook" doesn't.
+        r"regex:\bvivo\b",
+        "oppo", "pixel", "nothing phone", "motorola", "moto ",
         "mobile", "smartphone",
     ],
     "Laptops": [
         "laptop", "macbook", "thinkpad", "ideapad", "notebook", "ultrabook",
         "dell xps", "hp pavilion", "asus vivobook", "acer aspire", "zenbook",
         "legion",
+        # Part 23 - Samsung's "Galaxy Book" laptop line was being caught by
+        # the "samsung"/"galaxy" keywords under Mobiles (checked first,
+        # since dict order runs Mobiles before Laptops). Listed here too,
+        # and excluded from Mobiles below, so it lands in Laptops instead.
+        "galaxy book",
     ],
     "Tablets": [
         "ipad", "mi pad 6", "mi pad 7", "mi pad 8", "xiaomi pad 6",
@@ -211,6 +221,30 @@ def is_wtb(title):
     an actual for-sale listing."""
     text = title.lower()
     return any(re.search(p, text) for p in WTB_PATTERNS)
+
+
+# Part 23 - strip "selling"/"WTS"/etc. tags from the title before it's ever
+# shown (report + ntfy). These carry no info once we already know it's a
+# for-sale post, and clutter the notification title. Handles bracketed forms
+# ("[WTS]", "[Selling]", "(WTS)"), leading/trailing word forms ("WTS:",
+# "Selling -", "- For Sale"), and standalone "WTS"/"Selling" anywhere in the
+# title. Case-insensitive; leaves the rest of the title untouched.
+SELLING_TAG_PATTERNS = [
+    # Bracketed/parenthesized tags anywhere: [WTS], (Selling), [For Sale]
+    r"[\[\(]\s*(?:wts|w\.t\.s\.?|selling|for\s*sale|sale)\s*[\]\)]",
+    # Leading/trailing "WTS" or "Selling" with an optional separator
+    r"^\s*(?:wts|selling)\s*[:\-–—]?\s*",
+    r"\s*[:\-–—]?\s*(?:wts|for\s*sale)\s*$",
+]
+
+
+def strip_selling_tags(title):
+    """Remove WTS/Selling/For Sale style tags from a listing title."""
+    cleaned = title
+    for pat in SELLING_TAG_PATTERNS:
+        cleaned = re.sub(pat, " ", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\s{2,}", " ", cleaned).strip(" -:–—")
+    return cleaned.strip() or title  # never return an empty title
 
 
 # Part 16 - Category exclusions: movie tickets and watches/smartwatches are
@@ -733,6 +767,13 @@ NOISE_CONTEXT_PATTERNS = [
     r"rtx\s*\d{3,4}",
     r"gtx\s*\d{3,4}",
     r"iphone\s*\d{1,2}",
+    # Part 23 - display-resolution shorthand ("2K display", "4K screen",
+    # "1440p/2k monitor", "3.2k" panels don't really exist but treat any
+    # "Nk" immediately followed by a display-ish word the same way) was
+    # being misread as a price, e.g. "2k display" -> Rs.2,000. Strip these
+    # before price extraction so the *actual* price elsewhere in the title
+    # gets picked up instead.
+    r"\d(?:\.\d+)?\s*k\s*(?:display|screen|resolution|monitor|panel|oled|amoled|led|qhd|uhd)\b",
 ]
 
 
@@ -749,39 +790,54 @@ def extract_price(title):
     Handles: ₹23,500 | Rs.23500 | 23500/- | 23k | 23 K | 23.5k |
              25 thousand | 35 negotiable | 25,500 fixed | Rs 23000 | 23k final |
              25k-28k | 20 to 25k | 25000 obo | best offer 25000
-    Ignores: 128GB, 16GB RAM, RTX 3060, iPhone 15 (plain model numbers).
+    Ignores: 128GB, 16GB RAM, RTX 3060, iPhone 15 (plain model numbers),
+             "2K/4K display"-style resolution mentions.
     For ranges, returns the lower bound.
+
+    Part 23 - when a title mentions more than one price-shaped number (e.g.
+    "bought for 25k, selling 12k urgent" or a post that also lists an old
+    MRP), this used to return whichever PRICE_PATTERNS entry happened to be
+    tried first in the list - not whichever price actually appears first in
+    the title - so the "wrong" one of the two could win depending on which
+    pattern matched. Now every pattern is tried against the whole text, all
+    matches are collected with their position, and the one that occurs
+    *earliest in the title* is used (sellers overwhelmingly state the actual
+    asking price first, with any "originally bought for" context after).
     """
     text = title.lower()
     cleaned = _strip_noise(text)
 
+    candidates = []  # (start_pos, value)
     for pat in PRICE_PATTERNS:
-        m = re.search(pat, cleaned, flags=re.IGNORECASE)
-        if not m:
-            continue
-        raw_num = m.group(1).replace(",", "")
-        try:
-            value = float(raw_num)
-        except ValueError:
-            continue
+        for m in re.finditer(pat, cleaned, flags=re.IGNORECASE):
+            raw_num = m.group(1).replace(",", "")
+            try:
+                value = float(raw_num)
+            except ValueError:
+                continue
 
-        # Multiply by 1000 if this is a "k"/"thousand" style match. For the
-        # range pattern (e.g. "25-28k"), the first number often has no "k"
-        # of its own but shares the second number's unit, so check the
-        # whole matched span for a trailing "k", not just the captured digits.
-        matched_text = m.group(0)
-        if "thousand" in pat:
-            value *= 1000
-        elif re.search(r"k\b", matched_text, re.IGNORECASE):
-            value *= 1000
+            # Multiply by 1000 if this is a "k"/"thousand" style match. For
+            # the range pattern (e.g. "25-28k"), the first number often has
+            # no "k" of its own but shares the second number's unit, so
+            # check the whole matched span for a trailing "k", not just the
+            # captured digits.
+            matched_text = m.group(0)
+            if "thousand" in pat:
+                value *= 1000
+            elif re.search(r"k\b", matched_text, re.IGNORECASE):
+                value *= 1000
 
-        value = int(round(value))
+            value = int(round(value))
 
-        # Sanity check: ignore absurd values (likely false positive)
-        if 500 <= value <= 500000:
-            return value
+            # Sanity check: ignore absurd values (likely false positive)
+            if 500 <= value <= 500000:
+                candidates.append((m.start(), value))
 
-    return None
+    if not candidates:
+        return None
+
+    candidates.sort(key=lambda c: c[0])
+    return candidates[0][1]
 
 
 # ----------------------------------------------------------------------------
@@ -820,6 +876,15 @@ def find_repost(fingerprint, state, current_id):
 
 def categorize(title):
     text = title.lower()
+
+    # Part 23 - resolve brand-keyword collisions before the generic loop
+    # below runs. Dict iteration checks Mobiles first, so e.g. "Samsung
+    # Galaxy Book" would match "samsung"/"galaxy" (Mobiles) before ever
+    # reaching "galaxy book" (Laptops). Catch these compound laptop model
+    # names up front and short-circuit straight to Laptops.
+    if re.search(r"\bgalaxy\s*book\b", text):
+        return "Laptops"
+
     for category, keywords in CATEGORY_KEYWORDS.items():
         for kw in keywords:
             # Keywords prefixed "regex:" are matched with word-boundary
@@ -953,7 +1018,7 @@ def main():
             try:
                 p = post["data"]
                 post_id = p["id"]
-                title = p.get("title", "").strip()
+                title = strip_selling_tags(p.get("title", "").strip())
                 selftext = (p.get("selftext") or "").strip()
                 created_utc = p.get("created_utc", 0)
                 permalink = "https://reddit.com" + p.get("permalink", "")
@@ -1055,7 +1120,7 @@ def main():
         price_str = f"Rs.{price:,}" if price is not None else "price n/a"
         body_preview = selftext[:400] if selftext else "(no post body)"
         message = f"{price_str}\n{permalink}\n\n{body_preview}"
-        send_ntfy(f"New {category}: {title[:60]}", message)
+        send_ntfy(f"{category}: {title[:60]}", message)
 
     # Prune + save state (Part 14)
     state = prune_state(state)
