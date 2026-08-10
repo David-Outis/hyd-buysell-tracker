@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-10 12:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-10 12:33 UTC
 
 ## Mobiles
 
-- [Selling Iphone 16 pro 128gb Black Titanium](https://reddit.com/r/BangaloreMarketplace/comments/1vkisu9/selling_iphone_16_pro_128gb_black_titanium/) — Rs.75,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 825 gb- Disc Version - 2 controllers and PS5 Stand](https://reddit.com/r/BangaloreMarketplace/comments/1vkj6s1/ps5_825_gb_disc_version_2_controllers_and_ps5/) — Rs.60,000 (score 100)
 
 
 ## Desktop PCs
