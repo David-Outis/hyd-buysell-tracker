@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus pad 12/256gb with box oneplus keyboard wirth 10k both 26k](https://reddit.com/r/HyderabadUsedItems/comments/1vlj8ge/oneplus_pad_12256gb_with_box_oneplus_keyboard/) — Rs.10,000 (score 70)
+- [OnePlus Buds Nord 3 Pro - 2 Days Old - ₹2,000](https://reddit.com/r/BangaloreMarketplace/comments/1vljxjk/oneplus_buds_nord_3_pro_2_days_old_2000/) — Rs.2,000 (score 90)
 
 
 ## Laptops
 
-- [Lenovo IdeaPad 530 (15.6") Laptop for sale – ₹24,999](https://reddit.com/r/BangaloreMarketplace/comments/1vlixx5/lenovo_ideapad_530_156_laptop_for_sale_24999/) — Rs.24,999 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Nintendo Switch – Super Mario Odyssey game (Physical) | With Original Box | Bangalore | ₹4,000](https://reddit.com/r/BangaloreMarketplace/comments/1vlj95w/wts_nintendo_switch_super_mario_odyssey_game/) — Rs.4,000 (score 85)
 
 
 ## Desktop PCs
