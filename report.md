@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [I am bored with android do any iphone users wanna exchange your iphone with my s22 (8gb/128gb) with box and original charger? In hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1vleq07/i_am_bored_with_android_do_any_iphone_users_wanna/) — Price not found (score 60)
+- [Samsung 22-inch LS22F350FHWXXL Monitor](https://reddit.com/r/HyderabadBuySell/comments/1vle0bg/samsung_22inch_ls22f350fhwxxl_monitor/) — Rs.3,000 (score 90)
 
 
 ## Laptops
 
-- [Urgent Sale: HP Victus Gaming Laptop (Ryzen 5 5600H + GTX 1650) - ₹33,000 (Bangalore)](https://reddit.com/r/BangaloreMarketplace/comments/1vllshs/urgent_sale_hp_victus_gaming_laptop_ryzen_5_5600h/) — Rs.33,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
