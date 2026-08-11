@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 10:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 pro max - Spigen Enzo Kevlar case & Caseology Case / SALE!!!](https://reddit.com/r/ChennaiBuyAndSell/comments/1vldev3/iphone_16_pro_max_spigen_enzo_kevlar_case/) — Price not found (score 60)
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple Smart Keyboard Folio for iPad Pro 12.9" — ₹5,000](https://reddit.com/r/BangaloreMarketplace/comments/1vlcsej/apple_smart_keyboard_folio_for_ipad_pro_129_5000/) — Rs.5,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [OPS (Mini Cpu) (Clearance)](https://reddit.com/r/BangaloreMarketplace/comments/1vlddq2/wts_selling_ops_mini_cpu_clearance/) — Rs.25,500 (score 85)
