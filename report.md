@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 03:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Lenovo ThinkPad USB-C Dock Gen 2 (40AS0090) for 12k](https://reddit.com/r/HyderabadBuySell/comments/1vl4cqy/selling_lenovo_thinkpad_usbc_dock_gen_2_40as0090/) — Rs.12,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
