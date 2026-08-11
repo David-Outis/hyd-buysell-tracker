@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 17:34 UTC
 
 ## Mobiles
 
-- [I am bored with android do any iphone users wanna exchange your iphone with my s22 (8gb/128gb) with box and original charger? In hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1vleq07/i_am_bored_with_android_do_any_iphone_users_wanna/) — Price not found (score 60)
-- [Samsung 22-inch LS22F350FHWXXL Monitor](https://reddit.com/r/HyderabadBuySell/comments/1vle0bg/samsung_22inch_ls22f350fhwxxl_monitor/) — Rs.3,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -13,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [📱 Xiaomi Pad 8 – 12GB RAM | 256GB Storage |](https://reddit.com/r/HyderabadBuySell/comments/1vlmyf3/xiaomi_pad_8_12gb_ram_256gb_storage_for_sale/) — Rs.36,000 (score 105)
 
 
 ## Game Consoles
