@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 16:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Urgent Sale: HP Victus Gaming Laptop (Ryzen 5 5600H + GTX 1650) - ₹33,000 (Bangalore)](https://reddit.com/r/BangaloreMarketplace/comments/1vllshs/urgent_sale_hp_victus_gaming_laptop_ryzen_5_5600h/) — Rs.33,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
