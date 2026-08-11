@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 01:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 02:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [ASSASSIN'S CREED SHADOWS NINTENDO SWITCH 2](https://reddit.com/r/ChennaiBuyAndSell/comments/1vl3yaw/wts_assassins_creed_shadows_nintendo_switch_2/) — Price not found (score 70)
 
 
 ## Desktop PCs
