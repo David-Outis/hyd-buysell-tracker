@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 17:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 18:04 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [📱 Xiaomi Pad 8 – 12GB RAM | 256GB Storage |](https://reddit.com/r/HyderabadBuySell/comments/1vlmyf3/xiaomi_pad_8_12gb_ram_256gb_storage_for_sale/) — Rs.36,000 (score 105)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
