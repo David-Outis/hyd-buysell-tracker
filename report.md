@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-11 13:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-11 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my iphone lightning wired earphones !](https://reddit.com/r/BangaloreMarketplace/comments/1vlhpa5/selling_my_iphone_lightning_wired_earphones/) — Price not found (score 60)
 
 
 ## Laptops
