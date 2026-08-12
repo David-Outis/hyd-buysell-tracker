@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 07:33 UTC
 
 ## Mobiles
 
-- [DJI OSMO 7P MOBILE GIMBAL [With light and mic module ]](https://reddit.com/r/BangaloreMarketplace/comments/1vm6as2/dji_osmo_7p_mobile_gimbal_with_light_and_mic/) — Rs.9,000 (score 85)
+- [SAMSUNG Fold 5, 12/256gb selling a clean piece.](https://reddit.com/r/BangaloreMarketplace/comments/1vm6z89/samsung_fold_5_12256gb_selling_a_clean_piece/) — Price not found (score 75)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [I'm planning to sell my pc, not sure about the right pricing](https://reddit.com/r/BangaloreMarketplace/comments/1vm766k/im_planning_to_sell_my_pc_not_sure_about_the/) — Price not found (score 55)
