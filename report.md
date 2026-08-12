@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [DJI OSMO 7P MOBILE GIMBAL [With light and mic module ]](https://reddit.com/r/BangaloreMarketplace/comments/1vm6as2/dji_osmo_7p_mobile_gimbal_with_light_and_mic/) — Rs.9,000 (score 85)
 
 
 ## Laptops
