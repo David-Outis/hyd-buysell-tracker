@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung A36 8gb/256gb 6 months old](https://reddit.com/r/BangaloreMarketplace/comments/1vm5bao/wts_samsung_a36_8gb256gb_6_months_old/) — Rs.26,000 (score 70)
 
 
 ## Laptops
