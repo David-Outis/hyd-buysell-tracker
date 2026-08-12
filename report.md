@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 16:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Watch4 44mm Display Replacement Help, Please read fully.](https://reddit.com/r/BangaloreMarketplace/comments/1vmhk5j/samsung_watch4_44mm_display_replacement_help/) — Rs.5,000 (score 70)
 
 
 ## Laptops
