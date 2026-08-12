@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 12:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [1 day old Realme P4 pro 5G 8/256 variant (Midnight ivy)](https://reddit.com/r/BangaloreMarketplace/comments/1vmcaf6/selling_1_day_old_realme_p4_pro_5g_8256_variant/) — Rs.26,000 (score 90)
 
 
 ## Laptops
@@ -22,5 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC. Ryzen 7 7800X3D | RTX 4070Ti 12GB | 32GB DDR5 6000Mhz | 1TB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1vmbxqr/selling_gaming_pc_ryzen_7_7800x3d_rtx_4070ti_12gb/) — Rs.185,000 (score 120)
-- [ESA DIOT (Digital Input / Output and Timer) antique CPU part](https://reddit.com/r/BangaloreMarketplace/comments/1vmbvfs/esa_diot_digital_input_output_and_timer_antique/) — Rs.1,500 (score 70)
+- [32GB RAM DDR4 i5 9400f CPU SELLING 1TB HDD + 250GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1vmck2p/32gb_ram_ddr4_i5_9400f_cpu_selling_1tb_hdd_250gb/) — Rs.25,000 (score 85)
