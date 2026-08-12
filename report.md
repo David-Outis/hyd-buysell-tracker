@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 11:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 12:04 UTC
 
 ## Mobiles
 
-- [Nothing Phone 2 for sale in perfect condition 12 GB RAM 512 GB storage](https://reddit.com/r/BangaloreMarketplace/comments/1vmb2cz/nothing_phone_2_for_sale_in_perfect_condition_12/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,5 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC. Ryzen 7 7800X3D | RTX 4070Ti 12GB | 32GB DDR5 6000Mhz | 1TB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1vmbxqr/selling_gaming_pc_ryzen_7_7800x3d_rtx_4070ti_12gb/) — Rs.185,000 (score 120)
+- [ESA DIOT (Digital Input / Output and Timer) antique CPU part](https://reddit.com/r/BangaloreMarketplace/comments/1vmbvfs/esa_diot_digital_input_output_and_timer_antique/) — Rs.1,500 (score 70)
