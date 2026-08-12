@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 14:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13 128GB Blue – Good Condition | ₹27,000](https://reddit.com/r/BangaloreMarketplace/comments/1vmgbuu/wts_iphone_13_128gb_blue_good_condition_27000/) — Rs.27,000 (score 120)
 
 
 ## Laptops
