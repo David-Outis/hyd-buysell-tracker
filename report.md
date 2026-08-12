@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 10:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 11:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Realme GT Master Edition 2022 Model](https://reddit.com/r/BangaloreMarketplace/comments/1vmaozu/realme_gt_master_edition_2022_model_for_sale/) — Price not found (score 70)
 
 
 ## Laptops
