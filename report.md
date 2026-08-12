@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 03:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 03:34 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Pro M4 11’ 256GB Wifi (23 CC, 100% BH, u Warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1vm2raj/selling_ipad_pro_m4_11_256gb_wifi_23_cc_100_bh_u/) — Rs.95,000 (score 100)
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC, Few months old MB, RAM and cpu](https://reddit.com/r/BangaloreMarketplace/comments/1vm27k7/selling_gaming_pc_few_months_old_mb_ram_and_cpu/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
