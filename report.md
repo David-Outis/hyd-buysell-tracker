@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 13:03 UTC
 
 ## Mobiles
 
-- [1 day old Realme P4 pro 5G 8/256 variant (Midnight ivy)](https://reddit.com/r/BangaloreMarketplace/comments/1vmcaf6/selling_1_day_old_realme_p4_pro_5g_8256_variant/) — Rs.26,000 (score 90)
+- [Spigen EZ Fit Tempered Glass Screen Protector Guard for Pixel 10/10 Pro / 9/9 Pro [2 Pack]](https://reddit.com/r/BangaloreMarketplace/comments/1vmddau/spigen_ez_fit_tempered_glass_screen_protector/) — Price not found (score 60)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [32GB RAM DDR4 i5 9400f CPU SELLING 1TB HDD + 250GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1vmck2p/32gb_ram_ddr4_i5_9400f_cpu_selling_1tb_hdd_250gb/) — Rs.25,000 (score 85)
+_No new desktop PC listings found in this run._
