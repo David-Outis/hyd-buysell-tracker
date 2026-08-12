@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-12 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-12 03:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC, Few months old MB, RAM and cpu](https://reddit.com/r/BangaloreMarketplace/comments/1vm27k7/selling_gaming_pc_few_months_old_mb_ram_and_cpu/) — Price not found (score 55)
