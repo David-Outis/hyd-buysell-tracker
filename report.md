@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-13 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-13 17:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MacBook Air (M2) - MUST be Midnight Blue | Budget: ₹35,000 | F2F in Bengaluru](https://reddit.com/r/bangloremarketplace/comments/1vnfd71/macbook_air_m2_must_be_midnight_blue_budget_35000/) — Rs.35,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
