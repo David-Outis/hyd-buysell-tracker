@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-13 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-13 05:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Brand new iPhone 17 / 75k / Chennai - Neelangarai](https://reddit.com/r/ChennaiBuyAndSell/comments/1vn108c/wts_brand_new_iphone_17_75k_chennai_neelangarai/) — Rs.75,000 (score 105)
 
 
 ## Laptops
