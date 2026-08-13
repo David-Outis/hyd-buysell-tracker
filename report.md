@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-13 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-13 14:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[price reduced] 3 month old barely used Realme Air 7 | Ivory](https://reddit.com/r/BangaloreMarketplace/comments/1vnbyq3/price_reduced_3_month_old_barely_used_realme_air/) — Price not found (score 55)
 
 
 ## Laptops
