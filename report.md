@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-13 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-13 06:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Loking to buy a Ps5 slim (disc version preferably)](https://reddit.com/r/BangaloreMarketplace/comments/1vn2tkl/loking_to_buy_a_ps5_slim_disc_version_preferably/) — Price not found (score 55)
 
 
 ## Desktop PCs
