@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-13 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-13 15:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17e](https://reddit.com/r/ChennaiBuyAndSell/comments/1vndod5/iphone_17e_for_sale/) — Rs.57,000 (score 105)
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Apple Magic Keyboard for iPad Pro(11 inch)](https://reddit.com/r/HyderabadBuySell/comments/1vna9zl/wtsapple_magic_keyboard_for_ipad_pro11_inch/) — Rs.19,000 (score 70)
 
 
 ## Game Consoles
