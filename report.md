@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-13 13:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-13 13:33 UTC
 
 ## Mobiles
 
-- [Spigen EZ Fit Tempered Glass Screen Protector Guard for Pixel 10/10 Pro / 9/9 Pro [2 Pack]](https://reddit.com/r/BangaloreMarketplace/comments/1vn9zs2/spigen_ez_fit_tempered_glass_screen_protector/) — Rs.1,600 (score 90)
+- [Google Pixel 10a – Like New | ₹50,000 | Bought Aug 4, 2026](https://reddit.com/r/BangaloreMarketplace/comments/1vnaff3/google_pixel_10a_like_new_50000_bought_aug_4_2026/) — Rs.50,000 (score 85)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Need secondhand laptops and tablet urgently](https://reddit.com/r/BangaloreMarketplace/comments/1vnag97/need_secondhand_laptops_and_tablet_urgently/) — Rs.4,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
