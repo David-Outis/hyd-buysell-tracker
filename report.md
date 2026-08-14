@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 16:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to buy oppo](https://reddit.com/r/HyderabadBuySell/comments/1vo71qg/looking_to_buy_oppo/) — Rs.8,000 (score 90)
 
 
 ## Laptops
 
-- [Lenovo ThinkPad L380 Yoga](https://reddit.com/r/HyderabadUsedItems/comments/1vobr24/lenovo_thinkpad_l380_yoga/) — Rs.20,000 (score 70)
+- [[Bengaluru] Apple Store Hebbal Pickup: MacBook Air at Flipkart pricing via Student Discount (Win-Win)](https://reddit.com/r/BangaloreMarketplace/comments/1vocbl0/bengaluru_apple_store_hebbal_pickup_macbook_air/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Want to sell Ghost Of Yotei ps5 disc](https://reddit.com/r/HyderabadBuySell/comments/1vo0ytr/want_to_sell_ghost_of_yotei_ps5_disc/) — Rs.3,500 (score 85)
 
 
 ## Desktop PCs
