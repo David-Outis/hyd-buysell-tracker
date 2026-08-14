@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 10:34 UTC
 
 ## Mobiles
 
-- [Samsung 4GB DDR4 2666MHz Laptop RAM - ₹1000 - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vo2xmi/samsung_4gb_ddr4_2666mhz_laptop_ram_1000_bangalore/) — Rs.1,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[Bangalore] Laptop HDD, SSD & RAM Bundle](https://reddit.com/r/BangaloreMarketplace/comments/1vo3e2c/wts_bangalore_laptop_hdd_ssd_ram_bundle/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
