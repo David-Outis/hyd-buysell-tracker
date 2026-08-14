@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 04:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 04:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 24” FHD IPS 100Hz Monitor – Excellent Condition](https://reddit.com/r/HyderabadUsedItems/comments/1vnx5ev/samsung_24_fhd_ips_100hz_monitor_excellent/) — Price not found (score 55)
 
 
 ## Laptops
