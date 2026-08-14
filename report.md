@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 04:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 05:03 UTC
 
 ## Mobiles
 
-- [Samsung 24” FHD IPS 100Hz Monitor – Excellent Condition](https://reddit.com/r/HyderabadUsedItems/comments/1vnx5ev/samsung_24_fhd_ips_100hz_monitor_excellent/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [my 10 months old gaming laptop: HP Victus Intel Core i5 13th Gen 13420H -(16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050/144 Hz) Victus 15-fa2381TX / 15-fa2701TX/15-fa1278TX Gaming Laptop (15.6 Inch, Mica Silver, 2.29 Kg, With MS Office)](https://reddit.com/r/HyderabadBuySell/comments/1vnxipg/selling_my_10_months_old_gaming_laptop_hp_victus/) — Rs.67,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
