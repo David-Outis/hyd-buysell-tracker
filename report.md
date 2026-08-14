@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 12:03 UTC
 
 ## Mobiles
 
-- [Samsung fold 6 12/256gb 70k](https://reddit.com/r/HyderabadUsedItems/comments/1vo4by9/samsung_fold_6_12256gb_70k/) — Rs.70,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
