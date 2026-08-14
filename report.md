@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 07:03 UTC
 
 ## Mobiles
 
-- [GameSir G8 Galileo Type-C Mobile Gaming Controller](https://reddit.com/r/BangaloreMarketplace/comments/1vnz6ay/wts_gamesir_g8_galileo_typec_mobile_gaming/) — Rs.3,500 (score 120)
-- [Looking to exchange my Samsung Galaxy S24 Ultra (12GB RAM / 256GB).](https://reddit.com/r/BangaloreMarketplace/comments/1vnz2sd/looking_to_exchange_my_samsung_galaxy_s24_ultra/) — Price not found (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Macbook Neo 2026 - 8gb - 256gb Pink colour - under warranty 8+months](https://reddit.com/r/BangaloreMarketplace/comments/1vnzleh/macbook_neo_2026_8gb_256gb_pink_colour_under/) — Rs.63,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [I'M LOOKING TO BUY PS5 CONTROLLER IN EXCELLENT CONDITION 🚨 PLS dm IF AVL!!🫡](https://reddit.com/r/BangaloreMarketplace/comments/1vnztfg/im_looking_to_buy_ps5_controller_in_excellent/) — Price not found (score 50)
 
 
 ## Desktop PCs
