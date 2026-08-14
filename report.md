@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 02:33 UTC
 
 ## Mobiles
 
-- [iPhone 15 pro 128GB for sale price 60k (negotiable )](https://reddit.com/r/BangaloreMarketplace/comments/1vntpis/iphone_15_pro_128gb_for_sale_price_60k_negotiable/) — Rs.60,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
