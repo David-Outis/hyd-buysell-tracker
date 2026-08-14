@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 14:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Digital Edition — Sealed & Brand New](https://reddit.com/r/BangaloreMarketplace/comments/1vo7fbx/wts_ps5_digital_edition_sealed_brand_new/) — Price not found (score 70)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
