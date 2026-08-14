@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 4GB DDR4 2666MHz Laptop RAM - ₹1000 - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vo2xmi/samsung_4gb_ddr4_2666mhz_laptop_ram_1000_bangalore/) — Rs.1,000 (score 90)
 
 
 ## Laptops
