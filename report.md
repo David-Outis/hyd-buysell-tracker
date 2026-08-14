@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 03:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 03:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Nintendo Switch Oled Pokemon Edition modded](https://reddit.com/r/BangaloreMarketplace/comments/1vnuwky/nintendo_switch_oled_pokemon_edition_modded/) — Rs.45,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
