@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-14 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-14 16:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo ThinkPad L380 Yoga](https://reddit.com/r/HyderabadUsedItems/comments/1vobr24/lenovo_thinkpad_l380_yoga/) — Rs.20,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
