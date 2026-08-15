@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 04:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Microsoft xbox elite 2 controller.](https://reddit.com/r/BangaloreMarketplace/comments/1vosk40/selling_microsoft_xbox_elite_2_controller/) — Price not found (score 50)
 
 
 ## Desktop PCs
