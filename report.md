@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 02:34 UTC
 
 ## Mobiles
 
-- [OnePlus 12 5G (16GB / 512GB) Emerald Green Full Kit + Bill](https://reddit.com/r/BangaloreMarketplace/comments/1vopsd3/wts_oneplus_12_5g_16gb_512gb_emerald_green_full/) — Rs.38,000 (score 120)
+- [Wanna exchange my vivo x300 fe !](https://reddit.com/r/bangloremarketplace/comments/1voq6ru/wanna_exchange_my_vivo_x300_fe/) — Rs.80,000 (score 70)
+- [iPhone 14 – 128 GB | Blue |](https://reddit.com/r/BangaloreMarketplace/comments/1voqbv4/wts_iphone_14_128_gb_blue_for_sale/) — Price not found (score 60)
 
 
 ## Laptops
