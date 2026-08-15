@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 08:34 UTC
 
 ## Mobiles
 
-- [7 iPhone 13/14 Backcases Magsafe Compatible](https://reddit.com/r/BangaloreMarketplace/comments/1vowjib/selling_7_iphone_1314_backcases_magsafe_compatible/) — Price not found (score 75)
+- [iPhone 14 Pro Max 128GB 100% Battery Purple](https://reddit.com/r/BangaloreMarketplace/comments/1vox586/iphone_14_pro_max_128gb_100_battery_purple/) — Rs.47,500 (score 105)
 
 
 ## Laptops
 
-- [macbook pro A2141, 16/512, 30k Please read description](https://reddit.com/r/BangaloreMarketplace/comments/1vowm20/selling_macbook_pro_a2141_16512_30k_please_read/) — Rs.30,000 (score 85)
+- [Lenovo ThinkPad T480 laptop](https://reddit.com/r/HyderabadUsedItems/comments/1voxc3l/lenovo_thinkpad_t480_laptop_for_sale/) — Rs.24,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
