@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 11:33 UTC
 
 ## Mobiles
 
-- [OnePlus TV Y Series - sparingly used, move out sale](https://reddit.com/r/BangaloreMarketplace/comments/1vozmsd/oneplus_tv_y_series_sparingly_used_move_out_sale/) — Rs.12,500 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [MSI MPG VELOX 100R Mid Tower Cabinet – ₹1,500 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vp03gv/wts_msi_mpg_velox_100r_mid_tower_cabinet_1500/) — Rs.1,500 (score 90)
