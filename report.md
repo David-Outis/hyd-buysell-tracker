@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 13:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 13:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oppo K13 Turbo 8/256 GB for sale in mint condition 2.5 months old only.](https://reddit.com/r/BangaloreMarketplace/comments/1vp313q/oppo_k13_turbo_8256_gb_for_sale_in_mint_condition/) — Rs.22,000 (score 105)
 
 
 ## Laptops
