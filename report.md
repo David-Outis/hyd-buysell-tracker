@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 07:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S23 Ultra](https://reddit.com/r/HyderabadBuySell/comments/1voutpb/samsung_galaxy_s23_ultra/) — Rs.35,000 (score 105)
+- [Iphone 13 pro max for sale. Original box available.](https://reddit.com/r/BangaloreMarketplace/comments/1vovxvi/iphone_13_pro_max_for_sale_original_box_available/) — Rs.43,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo - L490 Laptop - 17000/](https://reddit.com/r/HyderabadUsedItems/comments/1vovimk/lenovo_l490_laptop_17000/) — Rs.17,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
