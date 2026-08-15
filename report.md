@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 02:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus 12 5G (16GB / 512GB) Emerald Green Full Kit + Bill](https://reddit.com/r/BangaloreMarketplace/comments/1vopsd3/wts_oneplus_12_5g_16gb_512gb_emerald_green_full/) — Rs.38,000 (score 120)
 
 
 ## Laptops
