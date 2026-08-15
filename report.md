@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 16:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 17:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [interested in buying M series macbook under 50k](https://reddit.com/r/BangaloreMarketplace/comments/1vp6p53/interested_in_buying_m_series_macbook_under_50k/) — Rs.50,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
