@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 08:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 09:03 UTC
 
 ## Mobiles
 
-- [iPhone 14 Pro Max 128GB 100% Battery Purple](https://reddit.com/r/BangaloreMarketplace/comments/1vox586/iphone_14_pro_max_128gb_100_battery_purple/) — Rs.47,500 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Lenovo ThinkPad T480 laptop](https://reddit.com/r/HyderabadUsedItems/comments/1voxc3l/lenovo_thinkpad_t480_laptop_for_sale/) — Rs.24,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
