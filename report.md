@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 12:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Laptop table selling - 100 (w) X 48 (l) selling @ 3000 || Koramangala](https://reddit.com/r/BangaloreMarketplace/comments/1vp0qqo/laptop_table_selling_100_w_x_48_l_selling_3000/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [MSI MPG VELOX 100R Mid Tower Cabinet – ₹1,500 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vp03gv/wts_msi_mpg_velox_100r_mid_tower_cabinet_1500/) — Rs.1,500 (score 90)
+_No new desktop PC listings found in this run._
