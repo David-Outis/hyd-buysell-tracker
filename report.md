@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 05:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Wanna exchange my vivo x300 fe :) !! Only exchange](https://reddit.com/r/bangloremarketplace/comments/1vor8fy/wanna_exchange_my_vivo_x300_fe_only_exchange/) — Rs.80,000 (score 70)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[ used ] Gaming PC. RYZEN 9 5950X | 32GB DDR4 RAM | 1TB SSD | Intel ARC A750 graphics.](https://reddit.com/r/BangaloreMarketplace/comments/1votbuc/selling_used_gaming_pc_ryzen_9_5950x_32gb_ddr4/) — Rs.80,000 (score 105)
