@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 15:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-15 16:04 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my Nintendo switch lite for 12k, no box . Just pouch and charger with console](https://reddit.com/r/BangaloreMarketplace/comments/1vp6fos/selling_my_nintendo_switch_lite_for_12k_no_box/) — Rs.12,000 (score 65)
 
 
 ## Desktop PCs
