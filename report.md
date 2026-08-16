@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 13:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus 12R - 8/256gb - 1.5YO - Chennai - 28k](https://reddit.com/r/ChennaiBuyAndSell/comments/1vpwnq4/oneplus_12r_8256gb_15yo_chennai_28k/) — Rs.28,000 (score 105)
 
 
 ## Laptops
