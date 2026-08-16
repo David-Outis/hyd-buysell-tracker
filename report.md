@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 07:33 UTC
 
 ## Mobiles
 
-- [brand new motorola edge 60 fusion 12gb,256gb deep blue color bought yesterday](https://reddit.com/r/BangaloreMarketplace/comments/1vpq2or/selling_brand_new_motorola_edge_60_fusion/) — Rs.26,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
