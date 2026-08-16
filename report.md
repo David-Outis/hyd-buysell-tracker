@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 05:34 UTC
 
 ## Mobiles
 
-- [iPhone 16 needed at good price not above 40k](https://reddit.com/r/ChennaiBuyAndSell/comments/1vpn2nz/iphone_16_needed_at_good_price_not_above_40k/) — Rs.40,000 (score 70)
+- [TV, Webcam, Power Bank bundle (Samsung, Mi, Logitech)](https://reddit.com/r/BangaloreMarketplace/comments/1vpo23y/selling_tv_webcam_power_bank_bundle_samsung_mi/) — Rs.3,000 (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [God of War Ragnarok Ps5 ( Used Disc)](https://reddit.com/r/BangaloreMarketplace/comments/1vpnx3l/wts_god_of_war_ragnarok_ps5_used_disc/) — Rs.1,600 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
