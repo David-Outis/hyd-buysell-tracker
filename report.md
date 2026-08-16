@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 04:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 04:33 UTC
 
 ## Mobiles
 
-- [Iphone 13 pro max - 512GB - 82% - 40k - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vpmpk6/iphone_13_pro_max_512gb_82_40k_bangalore/) — Rs.40,000 (score 90)
+- [VR Box for mobile](https://reddit.com/r/HyderabadBuySell/comments/1vpla5d/wts_vr_box_for_mobile/) — Price not found (score 60)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox series s](https://reddit.com/r/HyderabadBuySell/comments/1vpkhdf/xbox_series_s/) — Rs.35,000 (score 80)
 
 
 ## Desktop PCs
