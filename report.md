@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 15:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 16:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus 9 pro 5g 8/128gb for 8200/](https://reddit.com/r/BangaloreMarketplace/comments/1vq0itb/selling_oneplus_9_pro_5g_8128gb_for_8200/) — Rs.7,000 (score 70)
 
 
 ## Laptops
 
-- [GRIPP Compaq Hard Shell Case for MacBook Pro 14 inch (M5/M4/M3, 2025/2024/2023) (M5/M4/M3/M2/M1 Pro/Max, 2026/2024/2023/2021), Ultra Thin, Lightweight, Smooth Glossy Finish (Front & Back) - Frost](https://reddit.com/r/BangaloreMarketplace/comments/1vq02ep/gripp_compaq_hard_shell_case_for_macbook_pro_14/) — Rs.2,990 (score 90)
+- [HP Hyperx omen 15 gaming laptop with Nvidia 5060](https://reddit.com/r/BangaloreMarketplace/comments/1vq0qcp/hp_hyperx_omen_15_gaming_laptop_with_nvidia_5060/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
