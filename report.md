@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 14:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Motorola edge 30 pro exchange, I want exchange it with an iPhone](https://reddit.com/r/BangaloreMarketplace/comments/1vpyc1j/motorola_edge_30_pro_exchange_i_want_exchange_it/) — Rs.8,000 (score 85)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Refurbished laptop requirements under 15k](https://reddit.com/r/BangaloreMarketplace/comments/1vpxyyb/refurbished_laptop_requirements_under_15k/) — Rs.15,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
