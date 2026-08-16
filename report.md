@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 13:03 UTC
 
 ## Mobiles
 
-- [Repost - iPhone 12 - 64GB in Great Condition](https://reddit.com/r/BangaloreMarketplace/comments/1vpvdxs/wts_repost_iphone_12_64gb_in_great_condition/) — Rs.22,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
