@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 09:34 UTC
 
 ## Mobiles
 
-- [Iphone 17 pro 100 battery health and 99 cycles charged](https://reddit.com/r/HyderabadBuySell/comments/1vprtys/iphone_17_pro_100_battery_health_and_99_cycles/) — Price not found (score 75)
-- [iPhone XR Black 64GB with 88% Battery Health for Rs 10,000 (slightly negotiable).](https://reddit.com/r/BangaloreMarketplace/comments/1vprvh4/selling_iphone_xr_black_64gb_with_88_battery/) — Rs.10,000 (score 90)
+- [my Complete Apple Ecosystem : iPhone 16 Pro, iPad M4 Pro, AirPods Pro 2, MacBook Air M1](https://reddit.com/r/BangaloreMarketplace/comments/1vpsdm3/selling_my_complete_apple_ecosystem_iphone_16_pro/) — Rs.25,000 (score 100)
 
 
 ## Laptops
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [my PS4 Slim 1TB as I’m upgrading to a PS5.](https://reddit.com/r/BangaloreMarketplace/comments/1vproi2/selling_my_ps4_slim_1tb_as_im_upgrading_to_a_ps5/) — Rs.20,000 (score 85)
+- [PLAYSTATION 5 DIGITAL EDITION](https://reddit.com/r/ChennaiBuyAndSell/comments/1vps85l/selling_playstation_5_digital_edition/) — Rs.45,500 (score 65)
 
 
 ## Desktop PCs
