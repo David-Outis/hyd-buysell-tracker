@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-15 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 01:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Should I pay ₹25k for full replacement under expiring AppleCare+ on a ₹20k M2 MacBook Pro?](https://reddit.com/r/BangaloreMarketplace/comments/1vp8y5c/should_i_pay_25k_for_full_replacement_under/) — Rs.25,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
