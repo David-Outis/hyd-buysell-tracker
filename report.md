@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 15:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [my 16 inch MacBook M1 pro 16gb/512gb variant - Hsr Layout](https://reddit.com/r/BangaloreMarketplace/comments/1vpz9nb/selling_my_16_inch_macbook_m1_pro_16gb512gb/) — Rs.82,000 (score 120)
+- [GRIPP Compaq Hard Shell Case for MacBook Pro 14 inch (M5/M4/M3, 2025/2024/2023) (M5/M4/M3/M2/M1 Pro/Max, 2026/2024/2023/2021), Ultra Thin, Lightweight, Smooth Glossy Finish (Front & Back) - Frost](https://reddit.com/r/BangaloreMarketplace/comments/1vq02ep/gripp_compaq_hard_shell_case_for_macbook_pro_14/) — Rs.2,990 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
