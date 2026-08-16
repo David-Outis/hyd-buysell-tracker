@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 16:34 UTC
 
 ## Mobiles
 
-- [Oneplus 9 pro 5g 8/128gb for 8200/](https://reddit.com/r/BangaloreMarketplace/comments/1vq0itb/selling_oneplus_9_pro_5g_8128gb_for_8200/) — Rs.7,000 (score 70)
+- [iPhone 15 Pro 256GB Blue Titanium](https://reddit.com/r/HyderabadBuySell/comments/1vq05y4/selling_iphone_15_pro_256gb_blue_titanium/) — Rs.52,000 (score 90)
 
 
 ## Laptops
 
-- [HP Hyperx omen 15 gaming laptop with Nvidia 5060](https://reddit.com/r/BangaloreMarketplace/comments/1vq0qcp/hp_hyperx_omen_15_gaming_laptop_with_nvidia_5060/) — Price not found (score 75)
+- [HP Hyperx omen 15 gaming laptop with Nvidia GeForce RTX 5060](https://reddit.com/r/BangaloreMarketplace/comments/1vq1bev/hp_hyperx_omen_15_gaming_laptop_with_nvidia/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
