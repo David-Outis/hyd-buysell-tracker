@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-16 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-16 04:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 13 pro max - 512GB - 82% - 40k - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vpmpk6/iphone_13_pro_max_512gb_82_40k_bangalore/) — Rs.40,000 (score 90)
 
 
 ## Laptops
