@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-17 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-17 07:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [HP 15q-dy0001AU Laptop – 8GB RAM + 128GB SSD – ₹8,999/- HSR](https://reddit.com/r/BangaloreMarketplace/comments/1vqlgcm/for_sale_hp_15qdy0001au_laptop_8gb_ram_128gb_ssd/) — Rs.8,999 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
