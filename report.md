@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-17 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-17 13:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Used hp laptop](https://reddit.com/r/HyderabadUsedItems/comments/1vqrmp1/used_hp_laptop/) — Rs.17,000 (score 105)
+- [hp laptop.](https://reddit.com/r/HyderabadBuySell/comments/1vqn8tp/selling_hp_laptop/) — Rs.12,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Brand New Sealed Sony PS5 DualSense Wireless Controller (White) – ₹5500](https://reddit.com/r/HyderabadUsedItems/comments/1vqrnw2/brand_new_sealed_sony_ps5_dualsense_wireless/) — Rs.5,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
