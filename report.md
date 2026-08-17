@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-17 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-17 11:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [g4 chromebook tiny cpu](https://reddit.com/r/HyderabadBuySell/comments/1vqmrgf/selling_g4_chromebook_tiny_cpu/) — Rs.79,000 (score 120)
+_No new desktop PC listings found in this run._
