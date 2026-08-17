@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-17 13:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-17 14:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [hp laptop.](https://reddit.com/r/HyderabadBuySell/comments/1vqn8tp/selling_hp_laptop/) — Rs.12,000 (score 90)
+- [Dell used laptop](https://reddit.com/r/HyderabadUsedItems/comments/1vqsi0h/dell_used_laptop/) — Rs.17,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
