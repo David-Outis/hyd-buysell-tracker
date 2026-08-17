@@ -1,18 +1,19 @@
-# Hyderabad Buy/Sell Report - 2026-08-17 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-17 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 45W Original Charger - Selling cuz I don't use it anymore](https://reddit.com/r/BangaloreMarketplace/comments/1vqmr8y/samsung_45w_original_charger_selling_cuz_i_dont/) — Rs.3,300 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Pro 13" M1 (2020)](https://reddit.com/r/HyderabadBuySell/comments/1vqm1ao/selling_macbook_pro_13_m1_2020/) — Price not found (score 60)
+- [Asus Laptop](https://reddit.com/r/HyderabadBuySell/comments/1vqkahj/asus_laptop_for_sale/) — Rs.20,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Air 5th Gen + Apple Pencil 2nd Gen](https://reddit.com/r/BangaloreMarketplace/comments/1vqlnxm/ipad_air_5th_gen_apple_pencil_2nd_gen_for_sale/) — Rs.37,000 (score 105)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [my mac mini m4 16gb/256gb 10 core cpu 10 core gpu 16nerual engine](https://reddit.com/r/BangaloreMarketplace/comments/1vqlyek/selling_my_mac_mini_m4_16gb256gb_10_core_cpu_10/) — Rs.75,000 (score 70)
+_No new desktop PC listings found in this run._
