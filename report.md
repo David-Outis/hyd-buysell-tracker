@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [3 playstation portable for sale (3000 and 2000)](https://reddit.com/r/BangaloreMarketplace/comments/1vriid8/3_playstation_portable_for_sale_3000_and_2000/) — Rs.7,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
