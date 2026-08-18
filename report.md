@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 14:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Seagate Horizon Forbidden West Limited Edition Game Drive for PlayStation Consoles 5TB External Hard Drive - USB 3.2 Gen1, Officially-Licensed 15k Used](https://reddit.com/r/BangaloreMarketplace/comments/1vrqols/seagate_horizon_forbidden_west_limited_edition/) — Rs.15,000 (score 65)
 
 
 ## Desktop PCs
