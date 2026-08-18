@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 09:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Brand new iPhone 17 pro Robocare clear case from iPlanet](https://reddit.com/r/BangaloreMarketplace/comments/1vrku1w/brand_new_iphone_17_pro_robocare_clear_case_from/) — Rs.1,790 (score 85)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Grand Theft Auto 5 and God of War 2018 (PS4)](https://reddit.com/r/BangaloreMarketplace/comments/1vrkgd9/grand_theft_auto_5_and_god_of_war_2018_ps4/) — Price not found (score 55)
 
 
 ## Desktop PCs
