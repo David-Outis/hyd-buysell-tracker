@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 02:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 02:33 UTC
 
 ## Mobiles
 
-- [Airpods gen2, EarPods, OnePlus Nord 3r](https://reddit.com/r/BangaloreMarketplace/comments/1vrbkz5/selling_airpods_gen2_earpods_oneplus_nord_3r/) — Rs.4,500 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
