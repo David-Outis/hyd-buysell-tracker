@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 12:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 12:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [a new sealed RX 580 8GB Graphics Card.](https://reddit.com/r/BangaloreMarketplace/comments/1vrms14/selling_a_new_sealed_rx_580_8gb_graphics_card/) — Rs.7,000 (score 85)
+_No new desktop PC listings found in this run._
