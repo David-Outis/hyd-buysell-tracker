@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 17:03 UTC
 
 ## Mobiles
 
-- [Iphone lighting cable used](https://reddit.com/r/HyderabadUsedItems/comments/1vrsq2e/iphone_lighting_cable_used_for_sale/) — Price not found (score 60)
+- [Oneplus nord ce 2](https://reddit.com/r/HyderabadBuySell/comments/1vrjj2c/oneplus_nord_ce_2/) — Rs.10,000 (score 90)
+- [Samsung Galaxy Z Fold7 12GB + 256GB — Black](https://reddit.com/r/HyderabadBuySell/comments/1vrhr7c/samsung_galaxy_z_fold7_12gb_256gb_black/) — Rs.110,000 (score 100)
 
 
 ## Laptops
 
-- [ASUS TUF A17 GAMING LAPTOP](https://reddit.com/r/HyderabadUsedItems/comments/1vrts9s/asus_tuf_a17_gaming_laptop/) — Rs.30,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
