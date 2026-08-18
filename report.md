@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 11:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ms PS4 Pro 1 tb with 2 controller](https://reddit.com/r/ChennaiBuyAndSell/comments/1vrl1gq/selling_ms_ps4_pro_1_tb_with_2_controller/) — Rs.25,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
