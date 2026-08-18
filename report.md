@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 05:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 05:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [My Iphone 15 pro 128 GB variant Black](https://reddit.com/r/BangaloreMarketplace/comments/1vrg01a/selling_my_iphone_15_pro_128_gb_variant_black/) — Rs.55,000 (score 105)
 
 
 ## Laptops
