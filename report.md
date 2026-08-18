@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 07:03 UTC
 
 ## Mobiles
 
-- [IPhone 17 pro 256gb 5 months old Indian variant](https://reddit.com/r/BangaloreMarketplace/comments/1vrh29m/iphone_17_pro_256gb_5_months_old_indian_variant/) — Rs.105,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Games and discs from my collection](https://reddit.com/r/BangaloreMarketplace/comments/1vrhrhx/selling_ps5_games_and_discs_from_my_collection/) — Rs.10,000 (score 80)
 
 
 ## Desktop PCs
