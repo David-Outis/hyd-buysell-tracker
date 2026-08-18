@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 07:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Games and discs from my collection](https://reddit.com/r/BangaloreMarketplace/comments/1vrhrhx/selling_ps5_games_and_discs_from_my_collection/) — Rs.10,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[ new ] Gaming PC ( MINI ITX ). Ryzen 7500F | 32GB DDR4 RAM | RTX 5060Ti 8GB | 1TB Nvme SSD](https://reddit.com/r/BangaloreMarketplace/comments/1vri5bh/selling_new_gaming_pc_mini_itx_ryzen_7500f_32gb/) — Rs.130,000 (score 120)
