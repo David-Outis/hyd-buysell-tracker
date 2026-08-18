@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-18 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [IPhone 17 pro 256gb 5 months old Indian variant](https://reddit.com/r/BangaloreMarketplace/comments/1vrh29m/iphone_17_pro_256gb_5_months_old_indian_variant/) — Rs.105,000 (score 90)
 
 
 ## Laptops
