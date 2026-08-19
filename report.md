@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 06:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Bookshelf speakerrs for small desktop setups](https://reddit.com/r/BangaloreMarketplace/comments/1vsd24a/wtsbookshelf_speakerrs_for_small_desktop_setups/) — Rs.3,400 (score 105)
+_No new desktop PC listings found in this run._
