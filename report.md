@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 14:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 14:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Planning to upgrade CPU](https://reddit.com/r/bangloremarketplace/comments/1vsk62f/planning_to_upgrade_cpu/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
