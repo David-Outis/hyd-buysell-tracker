@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 11:04 UTC
 
 ## Mobiles
 
-- [Brand New Iphone 17 for sale | 8 Days old](https://reddit.com/r/BangaloreMarketplace/comments/1vsid14/brand_new_iphone_17_for_sale_8_days_old/) — Rs.820 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook neo 8 GB 256 GB emergency!! 55k expecting:)](https://reddit.com/r/HyderabadUsedItems/comments/1vsj587/macbook_neo_8_gb_256_gb_emergency_55k_expecting/) — Rs.55,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Planning to upgrade CPU](https://reddit.com/r/HyderabadBuySell/comments/1vsgfsr/planning_to_upgrade_cpu/) — Rs.90,000 (score 105)
+_No new desktop PC listings found in this run._
