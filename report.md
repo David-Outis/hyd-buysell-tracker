@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Brand New Iphone 17 for sale | 8 Days old](https://reddit.com/r/BangaloreMarketplace/comments/1vsid14/brand_new_iphone_17_for_sale_8_days_old/) — Rs.820 (score 105)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Planning to upgrade CPU](https://reddit.com/r/HyderabadBuySell/comments/1vsgfsr/planning_to_upgrade_cpu/) — Rs.90,000 (score 105)
