@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 15:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to buy an iPhone 13 or higher under ₹20K](https://reddit.com/r/BangaloreMarketplace/comments/1vsor9f/looking_to_buy_an_iphone_13_or_higher_under_20k/) — Rs.20,000 (score 90)
 
 
 ## Laptops
