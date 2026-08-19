@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 02:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Decluttering CAT book set and Notebooks 🌸](https://reddit.com/r/BangaloreMarketplace/comments/1vs8620/decluttering_cat_book_set_and_notebooks/) — Rs.2,200 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
