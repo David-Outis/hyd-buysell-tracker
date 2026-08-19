@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 16:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [I5 10th gen with 2060 super budget gaming PC](https://reddit.com/r/BangaloreMarketplace/comments/1vsqn8b/wts_i5_10th_gen_with_2060_super_budget_gaming_pc/) — Rs.39,999 (score 120)
