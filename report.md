@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 08:03 UTC
 
 ## Mobiles
 
-- [Samsung galaxy tab s9+ in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1vsfhdf/samsung_galaxy_tab_s9_in_excellent_condition/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Apple Macbook Air M5 (13-inch) 16GB RAM, 512 GB SSD, Silver](https://reddit.com/r/HyderabadBuySell/comments/1vsdhwp/wts_apple_macbook_air_m5_13inch_16gb_ram_512_gb/) — Price not found (score 90)
+- [Transcend 8GB DDR3 Laptop RAM (SO-DIMM) Tested & Working](https://reddit.com/r/BangaloreMarketplace/comments/1vsfpa0/transcend_8gb_ddr3_laptop_ram_sodimm_tested/) — Rs.1,250 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Pro 11inch m5 256 gb WiFi](https://reddit.com/r/HyderabadBuySell/comments/1vsevb1/ipad_pro_11inch_m5_256_gb_wifi/) — Price not found (score 55)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [RYZEN 5600G PC](https://reddit.com/r/ChennaiBuyAndSell/comments/1vsfv0w/ryzen_5600g_pc/) — Price not found (score 90)
