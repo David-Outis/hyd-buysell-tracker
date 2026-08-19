@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 14:04 UTC
 
 ## Mobiles
 
-- [Looking to buy iphone 16 pro 256gb varient or iPhone 17 for under 70k](https://reddit.com/r/BangaloreMarketplace/comments/1vslzsc/looking_to_buy_iphone_16_pro_256gb_varient_or/) — Rs.70,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Lenovo IdeaPad 530 (15.6") Laptop for sale – ₹24,999(slightly negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1vsmctj/lenovo_ideapad_530_156_laptop_for_sale/) — Rs.24,999 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Planning to upgrade CPU](https://reddit.com/r/bangloremarketplace/comments/1vsk62f/planning_to_upgrade_cpu/) — Price not found (score 60)
