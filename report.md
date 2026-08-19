@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-08-19 17:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 17:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 Pro max blue color 256gb Indian unit](https://reddit.com/r/BangaloreMarketplace/comments/1vsss35/iphone_17_pro_max_blue_color_256gb_indian_unit/) — Rs.121,000 (score 85)
+- [iPhone 17 Pro Max 1TB Dubai unit, sealed](https://reddit.com/r/BangaloreMarketplace/comments/1vssgx7/iphone_17_pro_max_1tb_dubai_unit_sealed/) — Rs.162,000 (score 85)
 
 
 ## Laptops
 
-- [Apple Macbook Air M5 (13-inch) 16GB RAM, 512 GB SSD, Midnight](https://reddit.com/r/HyderabadBuySell/comments/1vsnzwh/wts_apple_macbook_air_m5_13inch_16gb_ram_512_gb/) — Price not found (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
