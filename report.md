@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-18 18:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-19 01:33 UTC
 
 ## Mobiles
 
-- [Iphone 14 pro max deep purple 256gb](https://reddit.com/r/HyderabadUsedItems/comments/1vrwajf/iphone_14_pro_max_deep_purple_256gb/) — Rs.55,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Decluttering CAT book set and Notebooks 🌸](https://reddit.com/r/BangaloreMarketplace/comments/1vs8620/decluttering_cat_book_set_and_notebooks/) — Rs.2,200 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
