@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 16:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-20 17:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [HP OMEN 16 LAPTOP PRICE CHECK](https://reddit.com/r/ChennaiBuyAndSell/comments/1vtorvb/hp_omen_16_laptop_price_check/) — Price not found (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
