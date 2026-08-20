@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 10:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-20 11:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung book 2 i5 12th generation 16gb 512gb 38k](https://reddit.com/r/HyderabadUsedItems/comments/1vtg9gb/wts_samsung_book_2_i5_12th_generation_16gb_512gb/) — Rs.38,000 (score 70)
 
 
 ## Laptops
