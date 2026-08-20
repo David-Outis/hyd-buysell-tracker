@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-20 07:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [My Gaming PC - Ryzen 5 36001 16GB RAM1512GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1vtcjfc/selling_my_gaming_pc_ryzen_5_36001_16gb_ram1512gb/) — Rs.30,000 (score 85)
