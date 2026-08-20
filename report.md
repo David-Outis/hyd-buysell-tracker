@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 05:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-20 05:33 UTC
 
 ## Mobiles
 
-- [Google pixel 10 pro xl moonstone lite used](https://reddit.com/r/ChennaiBuyAndSell/comments/1vt9qiu/google_pixel_10_pro_xl_moonstone_lite_used/) — Rs.81,000 (score 85)
-- [Pixel 10 Pro XL 256gb less than 2 months old](https://reddit.com/r/BangaloreMarketplace/comments/1vt9ib6/pixel_10_pro_xl_256gb_less_than_2_months_old/) — Rs.81,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
