@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-20 14:33 UTC
 
 ## Mobiles
 
-- [Samsung Z Fold 5 Unboxed](https://reddit.com/r/ChennaiBuyAndSell/comments/1vtk1lw/samsung_z_fold_5_unboxed/) — Rs.165,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
