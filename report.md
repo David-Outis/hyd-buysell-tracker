@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 16:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-20 16:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Lenovo IdeaPad 1 15IJL7 – Urgent Sale for 23k](https://reddit.com/r/BangaloreMarketplace/comments/1vtngem/lenovo_ideapad_1_15ijl7_urgent_sale_for_23k/) — Rs.23,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
