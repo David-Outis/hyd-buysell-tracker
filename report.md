@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-20 09:33 UTC
 
 ## Mobiles
 
-- [iPhone 14pro 128gb purple color (e-sim only model=no SIM card tray)](https://reddit.com/r/HyderabadBuySell/comments/1vtdvev/iphone_14pro_128gb_purple_color_esim_only_modelno/) — Rs.51,999 (score 120)
+- [29 days old- Samsung Odyssey G5 34 inch curved Ultrawide Monitor](https://reddit.com/r/BangaloreMarketplace/comments/1vteiz0/29_days_old_samsung_odyssey_g5_34_inch_curved/) — Price not found (score 75)
 
 
 ## Laptops
 
-- [[Electronics] [HP, Lenovo] HP 15s-gy0xxx laptop, Lenovo M700 tiny | hp: amd athlon 3050u, 4gb ram, 240gb EVO ssd, lenovo: i5-6500t, 256gb m.2 ssd | Hyderabad | 20k for both.](https://reddit.com/r/HyderabadUsedItems/comments/1vtdt5r/electronics_hp_lenovo_hp_15sgy0xxx_laptop_lenovo/) — Rs.20,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
