@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-20 06:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Where can I buy resell PS5 games nearby Kormangala, HSR, Indiranagar](https://reddit.com/r/BangaloreMarketplace/comments/1vtbahj/where_can_i_buy_resell_ps5_games_nearby/) — Price not found (score 55)
 
 
 ## Desktop PCs
