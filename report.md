@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 15:04 UTC
 
 ## Mobiles
 
-- [iPhone 14 128GB Blue in Bangalore – F2F Deal](https://reddit.com/r/BangaloreMarketplace/comments/1vuhurn/wts_selling_iphone_14_128gb_blue_in_bangalore_f2f/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [hp laptop, 9k.](https://reddit.com/r/HyderabadBuySell/comments/1vudtiu/wts_hp_laptop_9k/) — Rs.9,000 (score 90)
-- [MacBook m1pro](https://reddit.com/r/HyderabadBuySell/comments/1vualuz/macbook_m1pro/) — Rs.60,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
