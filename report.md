@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 16:33 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Ipad air m2 256gb wifi LTE under warranty 58k](https://reddit.com/r/HyderabadUsedItems/comments/1vukv34/ipad_air_m2_256gb_wifi_lte_under_warranty_58k/) — Rs.58,000 (score 85)
 
 
 ## Game Consoles
