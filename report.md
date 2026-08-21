@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 17:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 17:34 UTC
 
 ## Mobiles
 
-- [looking to buy an iphone 15 pro or 16 pro](https://reddit.com/r/HyderabadBuySell/comments/1vuk1u6/looking_to_buy_an_iphone_15_pro_or_16_pro/) — Rs.50,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo E41-55 Laptop | 12GB RAM | 500 GB Storage | ₹18K](https://reddit.com/r/BangaloreMarketplace/comments/1vumsz9/lenovo_e4155_laptop_12gb_ram_500_gb_storage_18k/) — Rs.18,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4/PS5 Games for Sale – ₹7,000 for All 3 🎮](https://reddit.com/r/HyderabadBuySell/comments/1vul7sw/ps4ps5_games_for_sale_7000_for_all_3/) — Rs.7,000 (score 65)
-- [PS5 Slim Digital Edition](https://reddit.com/r/ChennaiBuyAndSell/comments/1vulpg4/wts_ps5_slim_digital_edition/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
