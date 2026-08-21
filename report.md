@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Odyssey G7 4K 144hz IPS Panel for 35K](https://reddit.com/r/BangaloreMarketplace/comments/1vuajng/selling_samsung_odyssey_g7_4k_144hz_ips_panel_for/) — Rs.4,000 (score 105)
 
 
 ## Laptops
 
-- [Apple MacBook Air (M5, 2026) - (16 GB/512 GB SSD)](https://reddit.com/r/BangaloreMarketplace/comments/1vua2t4/apple_macbook_air_m5_2026_16_gb512_gb_ssd/) — Rs.135,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
