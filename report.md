@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 09:33 UTC
 
 ## Mobiles
 
-- [Samsung Odyssey G7 4K 144hz IPS Panel for 35K](https://reddit.com/r/BangaloreMarketplace/comments/1vuajng/selling_samsung_odyssey_g7_4k_144hz_ips_panel_for/) — Rs.4,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
