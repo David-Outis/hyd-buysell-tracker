@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 06:34 UTC
 
 ## Mobiles
 
-- [[Request] Looking to exchange my iphone-16 128GB Teal variant](https://reddit.com/r/BangaloreMarketplace/comments/1vu7sfl/request_looking_to_exchange_my_iphone16_128gb/) — Price not found (score 55)
+- [Need help apple iphone 16 screen broken !!](https://reddit.com/r/BangaloreMarketplace/comments/1vu81cb/need_help_apple_iphone_16_screen_broken/) — Rs.30,000 (score 85)
 
 
 ## Laptops
 
-- [MacBook Air M1 -Barely Used | Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1vu7duc/selling_macbook_air_m1_barely_used_chennai/) — Rs.48,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
