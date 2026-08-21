@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 10:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo ThinkPad T480s 16gb ram 256gb ssd](https://reddit.com/r/BangaloreMarketplace/comments/1vubr7v/wts_lenovo_thinkpad_t480s_16gb_ram_256gb_ssd/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
