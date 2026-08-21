@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 17:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 18:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 pro max 256](https://reddit.com/r/HyderabadUsedItems/comments/1vunbe1/iphone_16_pro_max_256/) — Rs.80,000 (score 90)
 
 
 ## Laptops
 
-- [Lenovo E41-55 Laptop | 12GB RAM | 500 GB Storage | ₹18K](https://reddit.com/r/BangaloreMarketplace/comments/1vumsz9/lenovo_e4155_laptop_12gb_ram_500_gb_storage_18k/) — Rs.18,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
