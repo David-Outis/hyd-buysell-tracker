@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 11:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox Series S](https://reddit.com/r/HyderabadBuySell/comments/1vu9p0z/selling_xbox_series_s/) — Rs.30,000 (score 85)
+- [Nintendo Switch OLED with Full Official Bundle White Color w/ Box and Bill along with IINE JoyCon Case](https://reddit.com/r/HyderabadUsedItems/comments/1vudm68/nintendo_switch_oled_with_full_official_bundle/) — Rs.4,000 (score 115)
 
 
 ## Desktop PCs
