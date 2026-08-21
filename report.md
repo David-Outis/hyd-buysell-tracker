@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 06:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 07:03 UTC
 
 ## Mobiles
 
-- [Need help apple iphone 16 screen broken !!](https://reddit.com/r/BangaloreMarketplace/comments/1vu81cb/need_help_apple_iphone_16_screen_broken/) — Rs.30,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [ESR Magnetic iPad Case (iPad Air 11"/ iPad Air 10.9")](https://reddit.com/r/BangaloreMarketplace/comments/1vu8jt2/esr_magnetic_ipad_case_ipad_air_11_ipad_air_109/) — Price not found (score 75)
 
 
 ## Game Consoles
