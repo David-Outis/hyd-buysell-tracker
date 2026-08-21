@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 03:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 Pro Max US device not activated yet](https://reddit.com/r/BangaloreMarketplace/comments/1vu48wb/iphone_17_pro_max_us_device_not_activated_yet/) — Rs.125,000 (score 90)
 
 
 ## Laptops
