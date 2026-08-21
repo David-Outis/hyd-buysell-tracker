@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 15:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 15:34 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Air 64 Gb for sale in good condition](https://reddit.com/r/BangaloreMarketplace/comments/1vujfnt/ipad_air_64_gb_for_sale_in_good_condition/) — Rs.1,000 (score 70)
 
 
 ## Game Consoles
