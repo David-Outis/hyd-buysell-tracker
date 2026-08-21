@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 05:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[Request] Looking to exchange my iphone-16 128GB Teal variant](https://reddit.com/r/BangaloreMarketplace/comments/1vu7sfl/request_looking_to_exchange_my_iphone16_128gb/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [HP 245 G7 Notebook with the below mentioned specs](https://reddit.com/r/BangaloreMarketplace/comments/1vu78m2/selling_hp_245_g7_notebook_with_the_below/) — Rs.10,000 (score 70)
+- [MacBook Air M1 -Barely Used | Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1vu7duc/selling_macbook_air_m1_barely_used_chennai/) — Rs.48,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Just sold these 3D printed PS5 controller stands.](https://reddit.com/r/BangaloreMarketplace/comments/1vu7abs/just_sold_these_3d_printed_ps5_controller_stands/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
