@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-20 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 01:33 UTC
 
 ## Mobiles
 
-- [IPHONE 12 128GB for SALE | Btm layout| 5 Years old](https://reddit.com/r/BangaloreMarketplace/comments/1vtqte0/iphone_12_128gb_for_sale_btm_layout_5_years_old/) — Rs.85,000 (score 90)
+- [iPhone 13 256gb variant with 100% battery health](https://reddit.com/r/BangaloreMarketplace/comments/1vu1nzb/iphone_13_256gb_variant_with_100_battery_health/) — Rs.30,000 (score 105)
 
 
 ## Laptops
