@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 10:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 11:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox Series S](https://reddit.com/r/HyderabadBuySell/comments/1vu9p0z/selling_xbox_series_s/) — Rs.30,000 (score 85)
 
 
 ## Desktop PCs
