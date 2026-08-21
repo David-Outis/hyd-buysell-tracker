@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 12:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [hp laptop, price: 9k.](https://reddit.com/r/HyderabadUsedItems/comments/1vueinh/wts_hp_laptop_price_9k/) — Rs.9,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
