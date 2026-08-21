@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-21 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-21 02:04 UTC
 
 ## Mobiles
 
-- [iPhone 13 256gb variant with 100% battery health](https://reddit.com/r/BangaloreMarketplace/comments/1vu1nzb/iphone_13_256gb_variant_with_100_battery_health/) — Rs.30,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
