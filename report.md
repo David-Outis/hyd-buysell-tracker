@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-22 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-22 09:34 UTC
 
 ## Mobiles
 
-- [Apple iPhone 12 (Blue), 128Gb (with Box/bill) | Bengaluru F2F](https://reddit.com/r/BangaloreMarketplace/comments/1vv6xus/apple_iphone_12_blue_128gb_with_boxbill_bengaluru/) — Rs.21,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Looking to buy an Asus Tuf A15 Laptop](https://reddit.com/r/ChennaiBuyAndSell/comments/1vv6vun/looking_to_buy_an_asus_tuf_a15_laptop/) — Rs.80,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
