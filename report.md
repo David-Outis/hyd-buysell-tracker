@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-22 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-22 12:03 UTC
 
 ## Mobiles
 
-- [3 Months old REDMI Note 15 Pro+ 5G (Coffee Mocha, 12GB + 512GB) - 34999/](https://reddit.com/r/BangaloreMarketplace/comments/1vv9gp2/selling_3_months_old_redmi_note_15_pro_5g_coffee/) — Rs.34,999 (score 120)
+- [Samsung buds 3 pro in mint condition with bill & box](https://reddit.com/r/BangaloreMarketplace/comments/1vvajff/selling_samsung_buds_3_pro_in_mint_condition_with/) — Rs.20,000 (score 100)
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 slim digital for sale. No box no warranty. Expecting 50K](https://reddit.com/r/BangaloreMarketplace/comments/1vv9n6c/ps5_slim_digital_for_sale_no_box_no_warranty/) — Rs.50,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [Old PC for Sale | i5 9400F | GTX 1660 6GB | 16GB DDR4 RAM](https://reddit.com/r/BangaloreMarketplace/comments/1vv9oth/old_pc_for_sale_i5_9400f_gtx_1660_6gb_16gb_ddr4/) — Rs.25,000 (score 90)
+_No new desktop PC listings found in this run._
