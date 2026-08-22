@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-22 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-22 10:33 UTC
 
 ## Mobiles
 
-- [iPhone 17e 256GB - Pristine (100% Battery, 62 Cycles) - Warranty till March 2027](https://reddit.com/r/BangaloreMarketplace/comments/1vv85ty/iphone_17e_256gb_pristine_100_battery_62_cycles/) — Rs.50,000 (score 100)
-- [Iphone 11 for sale !!! No scratches or dents](https://reddit.com/r/BangaloreMarketplace/comments/1vv7wzp/iphone_11_for_sale_no_scratches_or_dents/) — Rs.12,000 (score 85)
+- [Used iphones in Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1vv8gwe/used_iphones_in_hyderabad/) — Price not found (score 60)
 
 
 ## Laptops
