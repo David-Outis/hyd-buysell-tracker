@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-22 16:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-22 17:04 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [What one can expect for a sceond hand gaming laptop for 30k INR?](https://reddit.com/r/BangaloreMarketplace/comments/1vvgelk/what_one_can_expect_for_a_sceond_hand_gaming/) — Rs.30,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
