@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-22 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-22 12:34 UTC
 
 ## Mobiles
 
-- [Samsung buds 3 pro in mint condition with bill & box](https://reddit.com/r/BangaloreMarketplace/comments/1vvajff/selling_samsung_buds_3_pro_in_mint_condition_with/) — Rs.20,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
