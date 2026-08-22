@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-22 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-22 07:33 UTC
 
 ## Mobiles
 
-- [[laptop] [HP] 15s-gy0xxx | 4gb ram, 240gb samsung EVO ssd 95% health, and 1tb Seagate expansion portable | hyderabad | 12k.](https://reddit.com/r/HyderabadUsedItems/comments/1vv4wq2/laptop_hp_15sgy0xxx_4gb_ram_240gb_samsung_evo_ssd/) — Rs.12,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
