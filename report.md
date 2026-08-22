@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-22 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-22 06:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy F23 5G – Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1vv3zd7/samsung_galaxy_f23_5g_excellent_condition/) — Rs.8,000 (score 120)
 
 
 ## Laptops
