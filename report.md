@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 03:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 04:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Cloud kitchen for Sale- All set and ready to operate.5 yr old business.Perfect Opportunity for someone looking to get in this.](https://reddit.com/r/BangaloreMarketplace/comments/1vvwod9/cloud_kitchen_for_sale_all_set_and_ready_to/) — Rs.15,000 (score 90)
 
 
 ## Laptops
