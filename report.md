@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 12:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Looking to buy a refurbished SFF PC in bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1vw4x6d/looking_to_buy_a_refurbished_sff_pc_in_bengaluru/) — Rs.10,000 (score 120)
