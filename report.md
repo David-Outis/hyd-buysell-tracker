@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 08:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Resident Evil Requiem Playstation 5](https://reddit.com/r/BangaloreMarketplace/comments/1vw0nm6/selling_resident_evil_requiem_playstation_5/) — Rs.3,300 (score 65)
 
 
 ## Desktop PCs
