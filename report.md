@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 08:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [ADAM elements CASA Hub A01s 6-in-1 | Apple MacBook & USB-C Notebooks | Grey](https://reddit.com/r/ChennaiBuyAndSell/comments/1vw1iks/adam_elements_casa_hub_a01s_6in1_apple_macbook/) — Rs.4,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Resident Evil Requiem Playstation 5](https://reddit.com/r/BangaloreMarketplace/comments/1vw0nm6/selling_resident_evil_requiem_playstation_5/) — Rs.3,300 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
