@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 09:33 UTC
 
 ## Mobiles
 
-- [Exchange Oppo Reno 13 Pro 5G – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vw1zf7/exchange_oppo_reno_13_pro_5g_bangalore/) — Rs.48,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
