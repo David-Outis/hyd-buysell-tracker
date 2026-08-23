@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 02:34 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Deepcool AK 620 G2 Wood edition CPU Cooler](https://reddit.com/r/BangaloreMarketplace/comments/1vvv1fu/wts_deepcool_ak_620_g2_wood_edition_cpu_cooler/) — Rs.4,200 (score 105)
