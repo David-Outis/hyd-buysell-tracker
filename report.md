@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 13:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps5 slim 1tb variant in prestine condition](https://reddit.com/r/BangaloreMarketplace/comments/1vw71yo/ps5_slim_1tb_variant_in_prestine_condition_for/) — Rs.54,000 (score 80)
 
 
 ## Desktop PCs
