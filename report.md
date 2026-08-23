@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 08:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Exchange Oppo Reno 13 Pro 5G – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vw1zf7/exchange_oppo_reno_13_pro_5g_bangalore/) — Rs.48,000 (score 90)
 
 
 ## Laptops
 
-- [ADAM elements CASA Hub A01s 6-in-1 | Apple MacBook & USB-C Notebooks | Grey](https://reddit.com/r/ChennaiBuyAndSell/comments/1vw1iks/adam_elements_casa_hub_a01s_6in1_apple_macbook/) — Rs.4,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
