@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-08-23 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-23 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 Pro Max 256GB 🇮🇳](https://reddit.com/r/HyderabadUsedItems/comments/1vw3liq/iphone_17_pro_max_256gb/) — Rs.1,449 (score 120)
+- [Samsung Galaxy Z Flip 6 Full Set Pristine Condition](https://reddit.com/r/BangaloreMarketplace/comments/1vw3m6i/samsung_galaxy_z_flip_6_full_set_pristine/) — Price not found (score 60)
+- [Oneplus 13s or Pixel 10, Which one is better?](https://reddit.com/r/BangaloreMarketplace/comments/1vw3ay3/oneplus_13s_or_pixel_10_which_one_is_better/) — Rs.57,000 (score 70)
 
 
 ## Laptops
