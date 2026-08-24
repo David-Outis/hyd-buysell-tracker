@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-24 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-24 05:34 UTC
 
 ## Mobiles
 
-- [[Urgent sale] Apple iPhone 13 128GB | 100% Battery Health | Like New Condition | White](https://reddit.com/r/BangaloreMarketplace/comments/1vwsxq3/urgent_sale_apple_iphone_13_128gb_100_battery/) — Rs.32,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Available for Rent in Bangalore – Great for Weekend Gaming](https://reddit.com/r/BangaloreMarketplace/comments/1vwtp35/ps5_available_for_rent_in_bangalore_great_for/) — Price not found (score 55)
 
 
 ## Desktop PCs
