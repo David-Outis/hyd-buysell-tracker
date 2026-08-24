@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-24 05:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-24 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone Pro Max available in Bangalore, sealed piece with international warranty.](https://reddit.com/r/BangaloreMarketplace/comments/1vwueeu/iphone_pro_max_available_in_bangalore_sealed/) — Price not found (score 75)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Available for Rent in Bangalore – Great for Weekend Gaming](https://reddit.com/r/BangaloreMarketplace/comments/1vwtp35/ps5_available_for_rent_in_bangalore_great_for/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
