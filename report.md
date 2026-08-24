@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-24 04:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-24 05:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[Urgent sale] Apple iPhone 13 128GB | 100% Battery Health | Like New Condition | White](https://reddit.com/r/BangaloreMarketplace/comments/1vwsxq3/urgent_sale_apple_iphone_13_128gb_100_battery/) — Rs.32,000 (score 120)
 
 
 ## Laptops
