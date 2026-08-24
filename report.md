@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-08-24 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-24 06:33 UTC
 
 ## Mobiles
 
-- [iPhone Pro Max available in Bangalore, sealed piece with international warranty.](https://reddit.com/r/BangaloreMarketplace/comments/1vwueeu/iphone_pro_max_available_in_bangalore_sealed/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Laptop for students (i5 - U series processor) 16GB Ram - Fair condition](https://reddit.com/r/BangaloreMarketplace/comments/1vwujzf/laptop_for_students_i5_u_series_processor_16gb/) — Price not found (score 55)
+- [GRIPP Compaq Hard Shell Case for MacBook Pro 14 inch](https://reddit.com/r/BangaloreMarketplace/comments/1vwug39/gripp_compaq_hard_shell_case_for_macbook_pro_14/) — Rs.2,990 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
