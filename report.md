@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-24 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-24 02:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Dell PA-3E / DA90PE3-00 90W Laptop Power Adapter](https://reddit.com/r/HyderabadBuySell/comments/1vwomlv/wts_dell_pa3e_da90pe300_90w_laptop_power_adapter/) — Rs.1,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
