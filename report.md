@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-24 11:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-24 12:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Planning to sell Ps5 with 2 controllers and games](https://reddit.com/r/BangaloreMarketplace/comments/1vx0l50/planning_to_sell_ps5_with_2_controllers_and_games/) — Rs.52,000 (score 85)
 
 
 ## Desktop PCs
