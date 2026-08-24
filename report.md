@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-24 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-24 17:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Asus ROG xbox ally x or laptop with rtx 3050 or above](https://reddit.com/r/ChennaiBuyAndSell/comments/1vx7yug/asus_rog_xbox_ally_x_or_laptop_with_rtx_3050_or/) — Rs.40,000 (score 90)
+- [Lenovo thinkpad E14 i5 10th gen / 8gb ram /256gb ssd , 19k](https://reddit.com/r/BangaloreMarketplace/comments/1vx8vsw/lenovo_thinkpad_e14_i5_10th_gen_8gb_ram_256gb_ssd/) — Rs.19,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ps5 pro with 3 controllers. Location: bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1vx8glv/selling_ps5_pro_with_3_controllers_location/) — Price not found (score 70)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [ASUS TUF Gaming FX505DT — GTX 1650 | Ryzen 5 | 16GB RAM | 512GB SSD | Location- Hebbal Kempapura| Price -19k](https://reddit.com/r/BangaloreMarketplace/comments/1vx9aa1/asus_tuf_gaming_fx505dt_gtx_1650_ryzen_5_16gb_ram/) — Rs.19,000 (score 90)
