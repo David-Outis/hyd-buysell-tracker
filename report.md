@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 17:33 UTC
 
 ## Mobiles
 
-- [Small warning : Dont buy second hand mobile phone on olx or any other way](https://reddit.com/r/BangaloreMarketplace/comments/1vy4wdj/small_warning_dont_buy_second_hand_mobile_phone/) — Rs.5,000 (score 70)
+- [Samsung S21 FE](https://reddit.com/r/HyderabadBuySell/comments/1vxv0kv/samsung_s21_fe/) — Rs.23,000 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Brand new sealed MacBook Pro m5](https://reddit.com/r/HyderabadBuySell/comments/1vy64a9/brand_new_sealed_macbook_pro_m5/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [both my controllers as Ps5 died.](https://reddit.com/r/BangaloreMarketplace/comments/1vy5jgv/selling_both_my_controllers_as_ps5_died/) — Rs.9,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [AMD Ryzen 7 7840HS MiniPC with 32GB RAM and 1 TB NVME](https://reddit.com/r/HyderabadBuySell/comments/1vxt4xw/amd_ryzen_7_7840hs_minipc_with_32gb_ram_and_1_tb/) — Rs.85,000 (score 90)
