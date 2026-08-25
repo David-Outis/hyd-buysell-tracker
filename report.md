@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 7 rose gold 32GB with 89% battery health](https://reddit.com/r/BangaloreMarketplace/comments/1vxuoe3/selling_iphone_7_rose_gold_32gb_with_89_battery/) — Rs.5,000 (score 105)
 
 
 ## Laptops
 
-- [Acer Aspire Ryzen 5 / 8GB / 512SSD / 4GB NVIDIA - Excellent - ₹35-40k - North Chennai - Local only](https://reddit.com/r/ChennaiBuyAndSell/comments/1vxtl8m/wts_acer_aspire_ryzen_5_8gb_512ssd_4gb_nvidia/) — Rs.35,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [ESR Magnetic Protective Tablet Case ( iPad Pro 11" M5/M4 ) [Bangalore]](https://reddit.com/r/ChennaiBuyAndSell/comments/1vxtqe5/esr_magnetic_protective_tablet_case_ipad_pro_11/) — Price not found (score 60)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
