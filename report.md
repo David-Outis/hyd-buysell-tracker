@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 05:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 05:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 Slim 500 GB](https://reddit.com/r/HyderabadBuySell/comments/1vxps8u/ps4_slim_500_gb/) — Rs.23,000 (score 85)
 
 
 ## Desktop PCs
