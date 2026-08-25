@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 08:04 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Disc Edition: ₹60,000/- including 6 months warranty, 2 controller and deluxe subscription](https://reddit.com/r/BangaloreMarketplace/comments/1vxtfrq/ps5_disc_edition_60000_including_6_months/) — Rs.60,000 (score 100)
 
 
 ## Desktop PCs
