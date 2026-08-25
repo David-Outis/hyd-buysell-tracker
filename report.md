@@ -1,19 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 16:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 16:34 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro 256 GB selling](https://reddit.com/r/bangloremarketplace/comments/1vy3lmw/iphone_17_pro_256_gb_selling/) — Price not found (score 90)
-- [iPhone 17 Pro 256 GB Cosmic Orange for selling](https://reddit.com/r/BangaloreMarketplace/comments/1vy3dw2/iphone_17_pro_256_gb_cosmic_orange_for_selling/) — Price not found (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [2 Lenovo ThinkPad E15 Gen 2 Laptops](https://reddit.com/r/BangaloreMarketplace/comments/1vy4944/selling_2_lenovo_thinkpad_e15_gen_2_laptops/) — Rs.23,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [ESR Shift Series Magnetic Case for iPad Pro 13-inch M5/M4 [BANGALORE}](https://reddit.com/r/ChennaiBuyAndSell/comments/1vy3bb6/esr_shift_series_magnetic_case_for_ipad_pro/) — Price not found (score 60)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
