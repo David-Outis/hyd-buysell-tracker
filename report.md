@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 10:04 UTC
 
 ## Mobiles
 
-- [iPhone 7 rose gold 32GB with 89% battery health](https://reddit.com/r/BangaloreMarketplace/comments/1vxuoe3/selling_iphone_7_rose_gold_32gb_with_89_battery/) — Rs.5,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
