@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 07:33 UTC
 
 ## Mobiles
 
-- [my iPhone 14 Plus 128GB, which I received as a gift. The phone is in mint condition and has been well maintained.](https://reddit.com/r/BangaloreMarketplace/comments/1vxs4v9/selling_my_iphone_14_plus_128gb_which_i_received/) — Rs.29,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
