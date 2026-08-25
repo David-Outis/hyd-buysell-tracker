@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-24 18:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 01:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Macbook Air M1 (16/512) in amazing condition](https://reddit.com/r/BangaloreMarketplace/comments/1vxa222/macbook_air_m1_16512_in_amazing_condition/) — Rs.45,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
