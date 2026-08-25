@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my iPhone 14 Plus 128GB, which I received as a gift. The phone is in mint condition and has been well maintained.](https://reddit.com/r/BangaloreMarketplace/comments/1vxs4v9/selling_my_iphone_14_plus_128gb_which_i_received/) — Rs.29,000 (score 120)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [my Gaming/Streaming setup PC | RTX 3070Ti 8gb for 1,30,000/- price is slightly negotiable.](https://reddit.com/r/HyderabadBuySell/comments/1vxr6ne/selling_my_gamingstreaming_setup_pc_rtx_3070ti/) — Rs.130,000 (score 100)
+_No new desktop PC listings found in this run._
