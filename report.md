@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-25 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-25 15:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [multiple Tech hardware items, Monitor, 7900gre gpu, 5600x cpu.](https://reddit.com/r/BangaloreMarketplace/comments/1vy2z85/selling_multiple_tech_hardware_items_monitor/) — Rs.21,000 (score 90)
