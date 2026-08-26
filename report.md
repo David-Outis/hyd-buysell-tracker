@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-26 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-26 02:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Disc Drive](https://reddit.com/r/HyderabadUsedItems/comments/1vyj1co/ps5_disc_drive_for_sale/) — Rs.11,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
