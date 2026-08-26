@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-26 14:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-26 15:03 UTC
 
 ## Mobiles
 
-- [my iphone 17 (256 gb) black @ 62k](https://reddit.com/r/HyderabadBuySell/comments/1vywd3n/selling_my_iphone_17_256_gb_black_62k/) — Rs.62,000 (score 90)
-- [Samsung T9 1TB // Great Condition // Bought in 2024](https://reddit.com/r/BangaloreMarketplace/comments/1vyy6dh/for_sale_selling_samsung_t9_1tb_great_condition/) — Price not found (score 60)
+- [iPhone 17e Sealed](https://reddit.com/r/ChennaiBuyAndSell/comments/1vyz0rj/iphone_17e_sealed/) — Price not found (score 75)
 
 
 ## Laptops
