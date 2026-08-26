@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-26 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-26 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus Nord 5 - 8/256 - 6 months warranty left](https://reddit.com/r/BangaloreMarketplace/comments/1vz28gl/oneplus_nord_5_8256_6_months_warranty_left/) — Rs.29,000 (score 105)
 
 
 ## Laptops
