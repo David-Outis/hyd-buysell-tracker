@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-26 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-26 09:34 UTC
 
 ## Mobiles
 
-- [2 Iphone 17 Pro max and 2 Ipad Air M3 11 Inch](https://reddit.com/r/ChennaiBuyAndSell/comments/1vyrnum/2_iphone_17_pro_max_and_2_ipad_air_m3_11_inch/) — Price not found (score 75)
-- [iPhone Air, 256GB, Black, with Apple Care Plus](https://reddit.com/r/BangaloreMarketplace/comments/1vyr912/wts_iphone_air_256gb_black_with_apple_care_plus/) — Price not found (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -18,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Looking to buy/sell/ exchange ps4 discs](https://reddit.com/r/HyderabadUsedItems/comments/1vyruc3/looking_to_buysell_exchange_ps4_discs/) — Price not found (score 55)
 
 
 ## Desktop PCs
 
-- [Custom built Gaming editing PC Amd Ryzen 5, 16gb, Gtx 1660s 512gb ssd+ 1tb hdd Win 11](https://reddit.com/r/BangaloreMarketplace/comments/1vyrmjr/custom_built_gaming_editing_pc_amd_ryzen_5_16gb/) — Rs.35,000 (score 85)
+- [Logitech Blue Yeti Mic for PC & Mac (Sealed) at ₹6,500](https://reddit.com/r/BangaloreMarketplace/comments/1vys152/logitech_blue_yeti_mic_for_pc_mac_sealed_at_6500/) — Rs.6,500 (score 105)
