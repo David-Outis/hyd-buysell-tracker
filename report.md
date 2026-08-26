@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-26 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-26 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 32-inch HD Ready Smart LED TV (UA32T4350BKXXL) - Good Condition (3 Years Old)](https://reddit.com/r/BangaloreMarketplace/comments/1vyxrx3/for_sale_samsung_32inch_hd_ready_smart_led_tv/) — Rs.5,000 (score 85)
 
 
 ## Laptops
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Nintendo switch V2 BRAND new](https://reddit.com/r/ChennaiBuyAndSell/comments/1vyxdzn/nintendo_switch_v2_brand_new/) — Price not found (score 50)
+- [my ps4 pro with original controller](https://reddit.com/r/BangaloreMarketplace/comments/1vyxmlt/selling_my_ps4_pro_with_original_controller/) — Rs.26,000 (score 85)
 
 
 ## Desktop PCs
