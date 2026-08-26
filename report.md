@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-26 09:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-26 10:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Looking to buy/sell/ exchange ps4 discs](https://reddit.com/r/HyderabadUsedItems/comments/1vyruc3/looking_to_buysell_exchange_ps4_discs/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [Logitech Blue Yeti Mic for PC & Mac (Sealed) at ₹6,500](https://reddit.com/r/BangaloreMarketplace/comments/1vys152/logitech_blue_yeti_mic_for_pc_mac_sealed_at_6500/) — Rs.6,500 (score 105)
+_No new desktop PC listings found in this run._
