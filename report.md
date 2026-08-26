@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-26 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-26 03:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Windows laptop required 3 units under 15k i5 preferred](https://reddit.com/r/BangaloreMarketplace/comments/1vyli8q/windows_laptop_required_3_units_under_15k_i5/) — Rs.15,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
