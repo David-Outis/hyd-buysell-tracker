@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-27 16:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-27 16:34 UTC
 
 ## Mobiles
 
@@ -7,12 +7,12 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Gaming Laptop Legion Pro 5 for 1.75L trichy](https://reddit.com/r/ChennaiBuyAndSell/comments/1vzxsil/wts_selling_gaming_laptop_legion_pro_5_for_175l/) — Rs.20,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Air M3 128GB Wi-Fi — Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1vzxweg/ipad_air_m3_128gb_wifi_excellent_condition/) — Price not found (score 90)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [g4 chromebox tiny cpu](https://reddit.com/r/HyderabadUsedItems/comments/1vzy53u/selling_g4_chromebox_tiny_cpu/) — Rs.79,000 (score 120)
