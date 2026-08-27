@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-27 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-27 05:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Lenevo Gaming PC i7 processor 30 inch wide LG monitor with box 16gb ram 8gb Nvidia GeForce graphics 512GB storage place malleshwaram price 30k](https://reddit.com/r/BangaloreMarketplace/comments/1vzjllt/lenevo_gaming_pc_i7_processor_30_inch_wide_lg/) — Rs.30,000 (score 85)
+_No new desktop PC listings found in this run._
