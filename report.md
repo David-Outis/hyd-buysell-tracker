@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-27 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-27 07:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Macbook pro 16in 36GB / 512GB Sealed box pack ADP to 2027](https://reddit.com/r/BangaloreMarketplace/comments/1vzn613/macbook_pro_16in_36gb_512gb_sealed_box_pack_adp/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
