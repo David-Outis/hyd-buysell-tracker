@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-27 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-27 10:04 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Stellar Blade (PS5 Standard Edition) - Disc](https://reddit.com/r/BangaloreMarketplace/comments/1vzpj4g/sale_stellar_blade_ps5_standard_edition_disc/) — Rs.2,500 (score 100)
 
 
 ## Desktop PCs
