@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 04:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 04:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo thinkpad E14 i5 10th gen 8gb 256gb](https://reddit.com/r/BangaloreMarketplace/comments/1w0gjxh/lenovo_thinkpad_e14_i5_10th_gen_8gb_256gb/) — Rs.19,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Standard Edition 1 TB with 1 Controller (box + invoice included)](https://reddit.com/r/ChennaiBuyAndSell/comments/1w0ewjt/selling_ps5_standard_edition_1_tb_with_1/) — Rs.70,000 (score 115)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
