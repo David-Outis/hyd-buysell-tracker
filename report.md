@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 08:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Brand New Totally Unused Lenovo Laptop for sale, under Brand 1 yr warranty](https://reddit.com/r/ChennaiBuyAndSell/comments/1w0jsxl/brand_new_totally_unused_lenovo_laptop_for_sale/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
