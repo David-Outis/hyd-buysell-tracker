@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 03:33 UTC
 
 ## Mobiles
 
-- [galaxy s22 -20k negotiable](https://reddit.com/r/HyderabadUsedItems/comments/1w0e6ta/selling_galaxy_s22_20k_negotiable/) — Rs.20,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
