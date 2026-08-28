@@ -1,18 +1,19 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 09:34 UTC
 
 ## Mobiles
 
-- [OnePlus 10R Company Case ₹700🔥](https://reddit.com/r/HyderabadBuySell/comments/1w0kkkw/oneplus_10r_company_case_700/) — Rs.700 (score 90)
+- [4 GB DDR4 RAM 2600MHz Brand: samsung 4GB 2Rx8 PC4-2666V-UA0-11](https://reddit.com/r/BangaloreMarketplace/comments/1w0lhgz/4_gb_ddr4_ram_2600mhz_brand_samsung_4gb_2rx8/) — Price not found (score 90)
 
 
 ## Laptops
 
-- [New Apple Macbook Air M5 (not used) with bill + box & under warranty laptop computer battery Cycle Count=2](https://reddit.com/r/HyderabadBuySell/comments/1w0g9tu/new_apple_macbook_air_m5_not_used_with_bill_box/) — Rs.115,000 (score 120)
+- [hp omen laptop 11 months old](https://reddit.com/r/bangloremarketplace/comments/1w0ln94/selling_hp_omen_laptop_11_months_old/) — Rs.2,000 (score 70)
+- [Reposting AsusVivoBook Pro M6500HI 16GB/512SSD | 4GB NVDIA GTX1650 MAX-Q | 15.6 Inch OLED | 120 WATT | 2023 JAN PURCHASED | LAPTOP STAND INCLUDED Rs29000](https://reddit.com/r/BangaloreMarketplace/comments/1w0lbv4/reposting_asusvivobook_pro_m6500hi_16gb512ssd_4gb/) — Rs.29,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple Smart Keyboard Folio for iPad Pro 11" (Fully Working)](https://reddit.com/r/HyderabadBuySell/comments/1w0etos/wts_apple_smart_keyboard_folio_for_ipad_pro_11/) — Rs.6,500 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [LF gaming pc chennai/tn](https://reddit.com/r/ChennaiBuyAndSell/comments/1w0kd6y/lf_gaming_pc_chennaitn/) — Rs.80,000 (score 90)
+_No new desktop PC listings found in this run._
