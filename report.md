@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 02:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [galaxy s22 -20k negotiable](https://reddit.com/r/HyderabadUsedItems/comments/1w0e6ta/selling_galaxy_s22_20k_negotiable/) — Rs.20,000 (score 70)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [my gaming pc](https://reddit.com/r/ChennaiBuyAndSell/comments/1w0e2h0/wts_my_gaming_pc/) — Price not found (score 90)
+_No new desktop PC listings found in this run._
