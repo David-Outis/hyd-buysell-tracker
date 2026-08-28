@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 08:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [For sale Oppo Find X9 12/256 Velvet Red.](https://reddit.com/r/BangaloreMarketplace/comments/1w0klyv/for_sale_oppo_find_x9_12256_velvet_red/) — Price not found (score 70)
 
 
 ## Laptops
 
-- [Brand New Totally Unused Lenovo Laptop for sale, under Brand 1 yr warranty](https://reddit.com/r/ChennaiBuyAndSell/comments/1w0jsxl/brand_new_totally_unused_lenovo_laptop_for_sale/) — Price not found (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
