@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 12:34 UTC
 
 ## Mobiles
 
-- [iPhone 17 silicon case - Anchor Blue](https://reddit.com/r/BangaloreMarketplace/comments/1w0ocd0/wts_iphone_17_silicon_case_anchor_blue/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Victus laptop](https://reddit.com/r/bangloremarketplace/comments/1w0p7rw/victus_laptop_for_sale/) — Rs.26,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
