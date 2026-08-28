@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 05:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [SS moto corp Full System Headers - Royal Enfield interceptor 650/ GT 650](https://reddit.com/r/BangaloreMarketplace/comments/1w0gxnq/ss_moto_corp_full_system_headers_royal_enfield/) — Rs.12,000 (score 70)
 
 
 ## Laptops
 
-- [Lenovo thinkpad E14 i5 10th gen 8gb 256gb](https://reddit.com/r/BangaloreMarketplace/comments/1w0gjxh/lenovo_thinkpad_e14_i5_10th_gen_8gb_256gb/) — Rs.19,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
