@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 15:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 slim digital 1Tb , still in warranty.](https://reddit.com/r/BangaloreMarketplace/comments/1w0sfk5/selling_ps5_slim_digital_1tb_still_in_warranty/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
