@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 11:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [New Apple Macbook Air M5 (not used) with bill + box & under warranty laptop computer battery 100% Cycle Count=2](https://reddit.com/r/HyderabadUsedItems/comments/1w0mpzb/new_apple_macbook_air_m5_not_used_with_bill_box/) — Rs.115,000 (score 120)
+- [Macbook M5 AIR 24GB 1TB 13.6(SKY BLUE)+ Apple Care 3Yrs for 2L. (Slightly negotiable). Pickup Chennai south](https://reddit.com/r/ChennaiBuyAndSell/comments/1w0n7wy/wts_selling_macbook_m5_air_24gb_1tb_136sky_blue/) — Rs.20,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
