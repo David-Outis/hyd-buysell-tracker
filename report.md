@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 silicon case - Anchor Blue](https://reddit.com/r/BangaloreMarketplace/comments/1w0ocd0/wts_iphone_17_silicon_case_anchor_blue/) — Price not found (score 75)
 
 
 ## Laptops
