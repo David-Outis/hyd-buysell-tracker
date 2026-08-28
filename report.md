@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 16:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps5 controller](https://reddit.com/r/ChennaiBuyAndSell/comments/1w0uotg/wtsps5_controller_for_sale/) — Rs.3,700 (score 85)
 
 
 ## Desktop PCs
