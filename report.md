@@ -1,14 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 13:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16plus 128gb 90% battery 🔋 health with box 📦 out of warranty only at 56k](https://reddit.com/r/HyderabadUsedItems/comments/1w0qh6r/iphone_16plus_128gb_90_battery_health_with_box/) — Rs.56,000 (score 85)
+- [iPhone 15 [128gb] [Purchased in July 2024]](https://reddit.com/r/BangaloreMarketplace/comments/1w0qpv7/selling_iphone_15_128gb_purchased_in_july_2024/) — Rs.38,000 (score 85)
 
 
 ## Laptops
 
-- [my old gaming laptop - hp omen 16 with rtx 4060](https://reddit.com/r/BangaloreMarketplace/comments/1w0pimz/selling_my_old_gaming_laptop_hp_omen_16_with_rtx/) — Rs.75,000 (score 100)
-- [HP Victus Laptop for sale selling right away](https://reddit.com/r/BangaloreMarketplace/comments/1w0pa0g/hp_victus_laptop_for_sale_selling_right_away/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
