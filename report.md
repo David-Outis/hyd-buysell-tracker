@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-28 02:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-28 02:34 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [my gaming pc](https://reddit.com/r/ChennaiBuyAndSell/comments/1w0e2h0/wts_my_gaming_pc/) — Price not found (score 90)
