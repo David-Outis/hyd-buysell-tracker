@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-29 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-29 13:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Lenovo thinkpad l14 gen 2 16 512 query....](https://reddit.com/r/BangaloreMarketplace/comments/1w1lamp/lenovo_thinkpad_l14_gen_2_16_512_query/) — Price not found (score 55)
+- [Laptop for sale(friendly negotiable)](https://reddit.com/r/ChennaiBuyAndSell/comments/1w1lpep/laptop_for_salefriendly_negotiable/) — Rs.17,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
