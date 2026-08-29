@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-29 14:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-29 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to sell my old iPhone 13 128gb](https://reddit.com/r/HyderabadUsedItems/comments/1w1ojdi/looking_to_sell_my_old_iphone_13_128gb/) — Rs.25,000 (score 70)
 
 
 ## Laptops
