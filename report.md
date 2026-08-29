@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-29 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-29 11:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 Pro 1TB – Excellent Condition | JailBreak | ₹29,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1w1k4ef/wts_ps4_pro_1tb_excellent_condition_jailbreak/) — Rs.29,000 (score 80)
 
 
 ## Desktop PCs
