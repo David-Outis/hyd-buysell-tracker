@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-29 16:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-29 17:03 UTC
 
 ## Mobiles
 
-- [iPhone 5s Kit — ₹5,699 | Only 5 units left](https://reddit.com/r/BangaloreMarketplace/comments/1w1qqns/iphone_5s_kit_5699_only_5_units_left/) — Rs.5,699 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
