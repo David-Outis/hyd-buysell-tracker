@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-29 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-29 07:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [willing to give ps5 disc for rent, pickup from marathahalli](https://reddit.com/r/BangaloreMarketplace/comments/1w1ez10/willing_to_give_ps5_disc_for_rent_pickup_from/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
