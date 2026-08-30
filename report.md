@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 15:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Custom PS5 30th Anniversary Inspired Desk Accessories -Controller Stand, Game/Desk Organizer & Stand](https://reddit.com/r/BangaloreMarketplace/comments/1w2inwf/custom_ps5_30th_anniversary_inspired_desk/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Ryzen 3 3100 for Desktop Selling only processor](https://reddit.com/r/BangaloreMarketplace/comments/1w2jizd/ryzen_3_3100_for_desktop_selling_only_processor/) — Price not found (score 55)
