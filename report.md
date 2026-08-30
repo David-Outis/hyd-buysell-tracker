@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 13:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [ghost of yotei ps5 disc . Rs 3500](https://reddit.com/r/BangaloreMarketplace/comments/1w2hlaq/selling_ghost_of_yotei_ps5_disc_rs_3500/) — Rs.3,500 (score 85)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [this kitchen cabinet for 1500, assembled](https://reddit.com/r/BangaloreMarketplace/comments/1w2h1uo/selling_this_kitchen_cabinet_for_1500_assembled/) — Price not found (score 60)
