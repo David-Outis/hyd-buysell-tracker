@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 15:34 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [XBOX series S. MINT CONDTION - 35k quoted price](https://reddit.com/r/BangaloreMarketplace/comments/1w2kkx2/xbox_series_s_mint_condtion_35k_quoted_price/) — Rs.35,000 (score 80)
 
 
 ## Desktop PCs
 
-- [Ryzen 3 3100 for Desktop Selling only processor](https://reddit.com/r/BangaloreMarketplace/comments/1w2jizd/ryzen_3_3100_for_desktop_selling_only_processor/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
