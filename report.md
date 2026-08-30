@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 06:34 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 07:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 in excellent condition wid 2 controllers and 3 game disks](https://reddit.com/r/BangaloreMarketplace/comments/1w29ush/ps4_in_excellent_condition_wid_2_controllers_and/) — Rs.20,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
