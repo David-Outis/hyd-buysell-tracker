@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 16:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Disc Edition (CFI-1200A) with 2TB WD_BLACK SN850 + 2 Controllers + 6 Games](https://reddit.com/r/BangaloreMarketplace/comments/1w2l8k6/wts_ps5_disc_edition_cfi1200a_with_2tb_wd_black/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
