@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iphone 12 - never opened, almost mint condition- 64gb @16k Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1w2copp/selling_iphone_12_never_opened_almost_mint/) — Rs.16,000 (score 105)
 
 
 ## Laptops
