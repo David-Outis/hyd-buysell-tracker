@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 04:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus Buds Pro 3 @8k](https://reddit.com/r/HyderabadUsedItems/comments/1w2791s/selling_oneplus_buds_pro_3_8k/) — Rs.8,000 (score 70)
 
 
 ## Laptops
