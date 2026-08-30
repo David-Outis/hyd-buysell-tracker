@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 08:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Brand New Kids Lehenga Choli with Tag, 3 pc](https://reddit.com/r/BangaloreMarketplace/comments/1w2bddj/brand_new_kids_lehenga_choli_with_tag_3_pc/) — Price not found (score 75)
