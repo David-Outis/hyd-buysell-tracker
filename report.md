@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-30 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-30 14:33 UTC
 
 ## Mobiles
 
-- [iPhone 12 Pro Max 256GB 76BH Pacific Blue](https://reddit.com/r/HyderabadUsedItems/comments/1w2hob5/iphone_12_pro_max_256gb_76bh_pacific_blue/) — Rs.34,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Custom PS5 30th Anniversary Inspired Desk Accessories -Controller Stand, Game/Desk Organizer & Stand](https://reddit.com/r/BangaloreMarketplace/comments/1w2inwf/custom_ps5_30th_anniversary_inspired_desk/) — Price not found (score 55)
 
 
 ## Desktop PCs
