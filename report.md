@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-08-31 17:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-31 17:33 UTC
 
 ## Mobiles
 
-- [Oneplus Nord. 12GB RAM, 256GB ROM. Mint condition. Nothing replaced. No screen line issues. Need 13k UPI/Cash](https://reddit.com/r/BangaloreMarketplace/comments/1w3jno5/wts_oneplus_nord_12gb_ram_256gb_rom_mint/) — Rs.13,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Apple Macbook Pro with M4 pro, 24GB UM, 512GB.](https://reddit.com/r/BangaloreMarketplace/comments/1w3jn5g/selling_apple_macbook_pro_with_m4_pro_24gb_um/) — Price not found (score 55)
+- [Dell xps i7 8565u laptop 16gb ram and 512 ssd](https://reddit.com/r/BangaloreMarketplace/comments/1w3kdmo/dell_xps_i7_8565u_laptop_16gb_ram_and_512_ssd/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 digital edition slim for sale brand new box piece](https://reddit.com/r/HyderabadBuySell/comments/1w3d0dx/for_sale_ps5_digital_edition_slim_for_sale_brand/) — Rs.66,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [HP Omen, AMD Ryzen 9 8940HX, 8GB RTX 5060, 24GB DDR5(Upgradeable) 1TB SSD, 165Hz, 2k WUXGA](https://reddit.com/r/HyderabadBuySell/comments/1w3axin/hp_omen_amd_ryzen_9_8940hx_8gb_rtx_5060_24gb/) — Rs.2,000 (score 120)
+_No new desktop PC listings found in this run._
