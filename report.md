@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-31 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-31 16:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [LF gaming pc](https://reddit.com/r/ChennaiBuyAndSell/comments/1w3hymo/lf_gaming_pc/) — Rs.80,000 (score 90)
