@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-08-31 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-08-31 10:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 plus 128GB White(Still in Warranty)](https://reddit.com/r/ChennaiBuyAndSell/comments/1w39raa/iphone_16_plus_128gb_whitestill_in_warranty/) — Rs.60,000 (score 120)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Donkey Kong Bananza for Nintendo Switch 2](https://reddit.com/r/BangaloreMarketplace/comments/1w39wi8/wts_donkey_kong_bananza_for_nintendo_switch_2/) — Rs.5,000 (score 65)
 
 
 ## Desktop PCs
