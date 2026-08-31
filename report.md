@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-31 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-08-31 18:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Dell xps i7 8565u laptop 16gb ram and 512 ssd](https://reddit.com/r/BangaloreMarketplace/comments/1w3kdmo/dell_xps_i7_8565u_laptop_16gb_ram_and_512_ssd/) — Price not found (score 75)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
