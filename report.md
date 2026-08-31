@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-08-31 12:04 UTC
+# Hyderabad Buy/Sell Report - 2026-08-31 12:38 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Macbook Pro M1 Pro (16 GB/512 GB)](https://reddit.com/r/BangaloreMarketplace/comments/1w3cjs6/selling_macbook_pro_m1_pro_16_gb512_gb/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
