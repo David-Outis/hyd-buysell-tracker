@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 08:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Brand New/Unused Laptop Bags & Sleeves with tag](https://reddit.com/r/BangaloreMarketplace/comments/1w452zo/brand_newunused_laptop_bags_sleeves_with_tag/) — Price not found (score 75)
+- [Looking to buy a high end Gaming PC / Laptop](https://reddit.com/r/HyderabadBuySell/comments/1w43c9u/looking_to_buy_a_high_end_gaming_pc_laptop/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
