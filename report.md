@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 870 EVO 2TB SSD](https://reddit.com/r/ChennaiBuyAndSell/comments/1w43yva/samsung_870_evo_2tb_ssd/) — Rs.15,000 (score 70)
 
 
 ## Laptops
 
-- [New JBL Original Condenser Mic Microphone USB computer laptop Studio metal build, good sound voice.](https://reddit.com/r/HyderabadUsedItems/comments/1w43jz4/new_jbl_original_condenser_mic_microphone_usb/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [[ ITX ] Gaming PC | Intel 14400F | RTX 5070 12GB SFF | 16GB DDR5 600Mhz | 1TB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1w43eg4/selling_itx_gaming_pc_intel_14400f_rtx_5070_12gb/) — Rs.160,000 (score 120)
+_No new desktop PC listings found in this run._
