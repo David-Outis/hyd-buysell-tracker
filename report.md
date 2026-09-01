@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 05:05 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Partnership opportunity for a Bar](https://reddit.com/r/bangloremarketplace/comments/1w41v2u/partnership_opportunity_for_a_bar/) — Price not found (score 60)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Price check - Asus vivobook 16x 16gb ram, 512gb SSD](https://reddit.com/r/HyderabadBuySell/comments/1w3vphf/price_check_asus_vivobook_16x_16gb_ram_512gb_ssd/) — Rs.60,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
