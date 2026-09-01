@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 16:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Steam Deck LCD 1TB, Gaming Laptop](https://reddit.com/r/ChennaiBuyAndSell/comments/1w4fca1/wts_steam_deck_lcd_1tb_gaming_laptop/) — Rs.45,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
