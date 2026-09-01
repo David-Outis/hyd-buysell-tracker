@@ -1,14 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 09:33 UTC
 
 ## Mobiles
 
-- [Samsung s25ultra 12/256gb with box Indian 🇮🇳 71k](https://reddit.com/r/HyderabadUsedItems/comments/1w462q6/samsung_s25ultra_12256gb_with_box_indian_71k/) — Rs.71,000 (score 70)
+- [OnePlus Nord buds 2 case](https://reddit.com/r/HyderabadBuySell/comments/1w46cdl/oneplus_nord_buds_2_case/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [MacBook pro m2 touch bar 8/256gb with charger 96% mint condition 70k](https://reddit.com/r/HyderabadUsedItems/comments/1w461tk/macbook_pro_m2_touch_bar_8256gb_with_charger_96/) — Rs.70,000 (score 85)
-- [macbook m5 air 15 inch+ apple magic mouse 2 for 175k with apple care till 2029](https://reddit.com/r/ChennaiBuyAndSell/comments/1w46di5/wts_selling_macbook_m5_air_15_inch_apple_magic/) — Rs.175,000 (score 70)
+- [my Lenovo loq laptop rarely used](https://reddit.com/r/BangaloreMarketplace/comments/1w46m4p/selling_my_lenovo_loq_laptop_rarely_used/) — Rs.4,499 (score 120)
+- [macbook m5 15 with apple care till 2029 + magic mouse(unused plus in warranty) for 175k- benglauru](https://reddit.com/r/BangaloreMarketplace/comments/1w46foq/wts_selling_macbook_m5_15_with_apple_care_till/) — Rs.175,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 slim 1tb variant in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1w45xys/ps5_slim_1tb_variant_in_excellent_condition_for/) — Rs.56,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
