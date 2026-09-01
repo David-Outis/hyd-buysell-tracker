@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 07:33 UTC
 
 ## Mobiles
 
-- [Samsung 870 EVO 2TB SSD](https://reddit.com/r/ChennaiBuyAndSell/comments/1w43yva/samsung_870_evo_2tb_ssd/) — Rs.15,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Micron 8GB DDR4 Laptop RAM (SO-DIMM).](https://reddit.com/r/ChennaiBuyAndSell/comments/1w44j0u/micron_8gb_ddr4_laptop_ram_sodimm/) — Price not found (score 60)
+- [14" M1 MacBook pro, 32/512 (72k, good condition)](https://reddit.com/r/BangaloreMarketplace/comments/1w44umf/selling_14_m1_macbook_pro_32512_72k_good_condition/) — Rs.72,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
