@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone XR](https://reddit.com/r/HyderabadBuySell/comments/1w48wp0/iphone_xr_for_sale/) — Rs.15,000 (score 90)
 
 
 ## Laptops
