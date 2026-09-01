@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 10:03 UTC
 
 ## Mobiles
 
-- [OnePlus Nord buds 2 case](https://reddit.com/r/HyderabadBuySell/comments/1w46cdl/oneplus_nord_buds_2_case/) — Price not found (score 60)
+- [my iphone 15 -128gb , mint condition.](https://reddit.com/r/BangaloreMarketplace/comments/1w47d8p/selling_my_iphone_15_128gb_mint_condition/) — Rs.35,000 (score 120)
 
 
 ## Laptops
 
-- [my Lenovo loq laptop rarely used](https://reddit.com/r/BangaloreMarketplace/comments/1w46m4p/selling_my_lenovo_loq_laptop_rarely_used/) — Rs.4,499 (score 120)
-- [macbook m5 15 with apple care till 2029 + magic mouse(unused plus in warranty) for 175k- benglauru](https://reddit.com/r/BangaloreMarketplace/comments/1w46foq/wts_selling_macbook_m5_15_with_apple_care_till/) — Rs.175,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
