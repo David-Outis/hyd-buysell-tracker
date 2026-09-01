@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-01 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-01 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Portable SSD T7 1TB, Black, Excellent Condition, ₹12,000](https://reddit.com/r/BangaloreMarketplace/comments/1w48ryl/samsung_portable_ssd_t7_1tb_black_excellent/) — Rs.12,000 (score 120)
 
 
 ## Laptops
