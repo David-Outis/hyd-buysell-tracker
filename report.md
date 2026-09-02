@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-02 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-02 05:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [my PC case(Circle Amazer X1 Mid tower)](https://reddit.com/r/BangaloreMarketplace/comments/1w50s1v/selling_my_pc_casecircle_amazer_x1_mid_tower/) — Rs.3,500 (score 90)
