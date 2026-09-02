@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-02 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-02 03:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 games](https://reddit.com/r/ChennaiBuyAndSell/comments/1w4y4fm/wts_ps5_games/) — Price not found (score 50)
 
 
 ## Desktop PCs
