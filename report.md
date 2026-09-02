@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-02 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-02 04:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [THINKPAD X1 2 IN 1 GEN 9 (32/512) (Intel Core Ultra 7 165U vPro) (In-warranty) [Bangalore]](https://reddit.com/r/HyderabadUsedItems/comments/1w4z32z/thinkpad_x1_2_in_1_gen_9_32512_intel_core_ultra_7/) — Price not found (score 75)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 slim digital edition (read description)](https://reddit.com/r/ChennaiBuyAndSell/comments/1w4ydih/ps5_slim_digital_edition_read_description/) — Rs.57,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC - Ryzen 7 3700X + RX 6700 XT 12GB - Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1w500hr/wts_gaming_pc_ryzen_7_3700x_rx_6700_xt_12gb/) — Rs.60,000 (score 90)
