@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-02 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-02 05:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC - Ryzen 7 3700X + RX 6700 XT 12GB - Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1w500hr/wts_gaming_pc_ryzen_7_3700x_rx_6700_xt_12gb/) — Rs.60,000 (score 90)
+_No new desktop PC listings found in this run._
