@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-02 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-02 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy S24 Ultra 256GB – Titanium Yellow | Pristine Condition (she is a beaut)| Basaveshwaranagar](https://reddit.com/r/BangaloreMarketplace/comments/1w59f9o/wts_samsung_galaxy_s24_ultra_256gb_titanium/) — Price not found (score 55)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Detachable Ergonomic Laptop Stand Tray Built in Mouse Pad](https://reddit.com/r/ChennaiBuyAndSell/comments/1w58mww/wts_detachable_ergonomic_laptop_stand_tray_built/) — Rs.2,500 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
