@@ -1,14 +1,15 @@
-# Hyderabad Buy/Sell Report - 2026-09-02 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-02 16:03 UTC
 
 ## Mobiles
 
-- [Anybody selling Samsung S24 Ultra in Hyderabad?](https://reddit.com/r/HyderabadUsedItems/comments/1w5db0j/anybody_selling_samsung_s24_ultra_in_hyderabad/) — Price not found (score 60)
+- [[Price 8500] Samsung Galaxy Watch6 Bluetooth 44mm Black](https://reddit.com/r/BangaloreMarketplace/comments/1w5eela/price_8500_samsung_galaxy_watch6_bluetooth_44mm/) — Rs.8,500 (score 120)
+- [Adidas Galaxy 6 running shoes size 10, 1200/- Marathalli](https://reddit.com/r/BangaloreMarketplace/comments/1w5dyxu/selling_adidas_galaxy_6_running_shoes_size_10/) — Rs.1,200 (score 70)
 
 
 ## Laptops
 
-- [MacBook Air M2 15-inch | 8GB RAM | 512GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1w5d5gj/selling_macbook_air_m2_15inch_8gb_ram_512gb_ssd/) — Rs.67,000 (score 85)
-- [What’s going on with MacBook prices in the Indian used market?](https://reddit.com/r/BangaloreMarketplace/comments/1w5d3i5/whats_going_on_with_macbook_prices_in_the_indian/) — Rs.60,000 (score 70)
+- [THINKPAD X1 2 IN 1 GEN 9 (32/512) (Intel Core Ultra 7 165U vPro) (In-warranty)[Bangalore]](https://reddit.com/r/ChennaiBuyAndSell/comments/1w5e822/thinkpad_x1_2_in_1_gen_9_32512_intel_core_ultra_7/) — Price not found (score 75)
+- [THINKPAD X1 2 IN 1 GEN 9 (32/512) (Intel Core Ultra 7 165U vPro) (In-warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1w5e6d7/thinkpad_x1_2_in_1_gen_9_32512_intel_core_ultra_7/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +19,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Slim Disc 1tb with 8 months official warranty left.](https://reddit.com/r/BangaloreMarketplace/comments/1w5ec9s/ps5_slim_disc_1tb_with_8_months_official_warranty/) — Rs.75,000 (score 80)
 
 
 ## Desktop PCs
