@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-09-02 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-02 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 17 256 GB like new](https://reddit.com/r/HyderabadBuySell/comments/1w52ooa/iphone_17_256_gb_like_new/) — Price not found (score 55)
+- [Samsung s25 ultra 12/256 75000/](https://reddit.com/r/HyderabadBuySell/comments/1w5199p/samsung_s25_ultra_12256_75000/) — Price not found (score 75)
 
 
 ## Laptops
