@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-03 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-03 05:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [DDR4 8GB 3200MHz laptop RAM Aarvex SO-DIMM](https://reddit.com/r/BangaloreMarketplace/comments/1w5x9pf/selling_ddr4_8gb_3200mhz_laptop_ram_aarvex_sodimm/) — Rs.4,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
