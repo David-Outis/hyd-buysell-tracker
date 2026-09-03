@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-03 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-03 16:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Slim (Disc + Digital) Edition (Hyderabad - Narsingi)](https://reddit.com/r/HyderabadUsedItems/comments/1w6b5wz/ps5_slim_disc_digital_edition_hyderabad_narsingi/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
