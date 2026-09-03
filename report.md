@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-03 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-03 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 Pro max case + tempered glass (dailyobjects), Brand new.](https://reddit.com/r/BangaloreMarketplace/comments/1w6584x/selling_iphone_17_pro_max_case_tempered_glass/) — Rs.1,100 (score 105)
 
 
 ## Laptops
