@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-03 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-03 12:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro max case + tempered glass (dailyobjects), Brand new.](https://reddit.com/r/BangaloreMarketplace/comments/1w6584x/selling_iphone_17_pro_max_case_tempered_glass/) — Rs.1,100 (score 105)
+- [Nothing Phone 4B - 8/256 RCB Limited Edition](https://reddit.com/r/BangaloreMarketplace/comments/1w65gf8/nothing_phone_4b_8256_rcb_limited_edition/) — Rs.39,000 (score 85)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [XBOX Series X, Searching for an Xbox Series X to purchase in Good condition. Only Bangalore F2F.](https://reddit.com/r/BangaloreMarketplace/comments/1w65lgu/xbox_series_x_searching_for_an_xbox_series_x_to/) — Price not found (score 55)
 
 
 ## Desktop PCs
