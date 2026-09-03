@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-03 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-03 13:33 UTC
 
 ## Mobiles
 
-- [my iPhone 14 128GB sky-blue.......](https://reddit.com/r/BangaloreMarketplace/comments/1w669jb/selling_my_iphone_14_128gb_skyblue/) — Rs.24,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M1 | Purchased in 2023 | 91% Battery Health | Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1w676no/macbook_air_m1_purchased_in_2023_91_battery/) — Rs.52,000 (score 105)
+- [Macbook Air M5 24GB/1TB 15inch Sky Blue - Sale](https://reddit.com/r/BangaloreMarketplace/comments/1w674h5/macbook_air_m5_24gb1tb_15inch_sky_blue_sale/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
