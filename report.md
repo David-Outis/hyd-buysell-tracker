@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-03 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-03 02:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my Sony PS4 from 2018. Excellent condition for 24k](https://reddit.com/r/BangaloreMarketplace/comments/1w5ukam/selling_my_sony_ps4_from_2018_excellent_condition/) — Rs.24,000 (score 80)
 
 
 ## Desktop PCs
