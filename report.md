@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-09-03 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-03 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [IPHONE 6S SWOLLEN NEED BATERRY REPLACEMENT](https://reddit.com/r/ChennaiBuyAndSell/comments/1w5zc5w/iphone_6s_swollen_need_baterry_replacement/) — Price not found (score 60)
+- [SAMSUNG MUSIC POD [WORKING WITH CHARGER]](https://reddit.com/r/ChennaiBuyAndSell/comments/1w5zage/wts_samsung_music_pod_working_with_charger/) — Price not found (score 75)
+- [iPhone 17 pro max Indian variant 256gb](https://reddit.com/r/BangaloreMarketplace/comments/1w5zvcc/selling_iphone_17_pro_max_indian_variant_256gb/) — Price not found (score 60)
 
 
 ## Laptops
