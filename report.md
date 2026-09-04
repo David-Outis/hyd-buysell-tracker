@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Pixel 9a 8/256 For Sale | 10/10 Condition | Iris Colourway](https://reddit.com/r/BangaloreMarketplace/comments/1w798jo/pixel_9a_8256_for_sale_1010_condition_iris/) — Rs.30,000 (score 70)
 
 
 ## Laptops
 
-- [my macbook pro 2019, good condition, 35k, in chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1w77tpb/wts_selling_my_macbook_pro_2019_good_condition/) — Rs.35,000 (score 90)
+- [PG Moving Out Sale: Laptop & Desk Essentials Combo (Almost Brand New - 1 Month Old with Bills)](https://reddit.com/r/BangaloreMarketplace/comments/1w792az/pg_moving_out_sale_laptop_desk_essentials_combo/) — Rs.3,000 (score 105)
+- [Macbook Pro 2019- 4 ports, 16 inch, 512 GB, AMD graphics](https://reddit.com/r/BangaloreMarketplace/comments/1w790ae/macbook_pro_2019_4_ports_16_inch_512_gb_amd/) — Rs.35,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Slim Disc Edition resale price in 2026 – Need advice](https://reddit.com/r/ChennaiBuyAndSell/comments/1w77yxf/ps5_slim_disc_edition_resale_price_in_2026_need/) — Rs.70,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
