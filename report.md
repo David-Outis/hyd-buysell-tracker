@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 03:33 UTC
 
 ## Mobiles
 
-- [Vivo x300 FE 12 GB RAM | 256 GB for 65k with extended warranty in Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1w6rsjv/selling_vivo_x300_fe_12_gb_ram_256_gb_for_65k/) — Rs.65,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Asus Vivobook 16x sale - 27k](https://reddit.com/r/HyderabadBuySell/comments/1w6rnj3/asus_vivobook_16x_sale_27k/) — Rs.27,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
