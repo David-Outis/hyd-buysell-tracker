@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 09:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ps4 slim 1 tb](https://reddit.com/r/ChennaiBuyAndSell/comments/1w6ycgy/wts_ps4_slim_1_tb/) — Rs.21,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
