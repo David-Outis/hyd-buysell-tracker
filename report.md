@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 07:03 UTC
 
 ## Mobiles
 
-- [55.5kg Home Gym Weights Set, Samsung Buds 2 Pro, Samsung 65W Trio Charger - Local Pickup in Basaveshwaranagar](https://reddit.com/r/BangaloreMarketplace/comments/1w6weqp/wts_555kg_home_gym_weights_set_samsung_buds_2_pro/) — Rs.2,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
