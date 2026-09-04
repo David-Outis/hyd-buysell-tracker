@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 14:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro Max 256 for sale, Brand new sealed box 1,25,000 slightly negotiable.](https://reddit.com/r/BangaloreMarketplace/comments/1w75a7h/iphone_17_pro_max_256_for_sale_brand_new_sealed/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [my Zenbook 14x](https://reddit.com/r/HyderabadUsedItems/comments/1w752k0/selling_my_zenbook_14x/) — Price not found (score 60)
+- [Acer aspire 7 (32GB/512GB) gaming laptop](https://reddit.com/r/BangaloreMarketplace/comments/1w75mlj/acer_aspire_7_32gb512gb_gaming_laptop/) — Rs.27,500 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
