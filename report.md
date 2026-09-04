@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 17:33 UTC
 
 ## Mobiles
 
-- [iPhone 14 128GB – White | Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1w79gfj/iphone_14_128gb_white_excellent_condition/) — Price not found (score 90)
+- [Samsung fast v30 memory card for 11k original.](https://reddit.com/r/BangaloreMarketplace/comments/1w7anu8/samsung_fast_v30_memory_card_for_11k_original/) — Rs.11,000 (score 70)
 
 
 ## Laptops
