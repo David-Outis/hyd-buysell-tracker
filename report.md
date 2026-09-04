@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 17:03 UTC
 
 ## Mobiles
 
-- [Pixel 9a 8/256 For Sale | 10/10 Condition | Iris Colourway](https://reddit.com/r/BangaloreMarketplace/comments/1w798jo/pixel_9a_8256_for_sale_1010_condition_iris/) — Rs.30,000 (score 70)
+- [iPhone 14 128GB – White | Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1w79gfj/iphone_14_128gb_white_excellent_condition/) — Price not found (score 90)
 
 
 ## Laptops
 
-- [PG Moving Out Sale: Laptop & Desk Essentials Combo (Almost Brand New - 1 Month Old with Bills)](https://reddit.com/r/BangaloreMarketplace/comments/1w792az/pg_moving_out_sale_laptop_desk_essentials_combo/) — Rs.3,000 (score 105)
-- [Macbook Pro 2019- 4 ports, 16 inch, 512 GB, AMD graphics](https://reddit.com/r/BangaloreMarketplace/comments/1w790ae/macbook_pro_2019_4_ports_16_inch_512_gb_amd/) — Rs.35,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
