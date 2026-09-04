@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Apple iPhone 11 128GB | 73% Battery Health | ₹15,000 Negotiable | Byrathi](https://reddit.com/r/BangaloreMarketplace/comments/1w72isi/apple_iphone_11_128gb_73_battery_health_15000/) — Rs.15,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [GoW Ragnarök ps5 disc (Excellent condition)](https://reddit.com/r/BangaloreMarketplace/comments/1w71xfy/wts_selling_gow_ragnarök_ps5_disc_excellent/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
