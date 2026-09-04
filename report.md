@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 15:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Acer aspire 7 (32GB/512GB) gaming laptop](https://reddit.com/r/BangaloreMarketplace/comments/1w75mlj/acer_aspire_7_32gb512gb_gaming_laptop/) — Rs.27,500 (score 70)
+- [Transcend 8GB DDR3 Laptop RAM (SO-DIMM) Tested & Working](https://reddit.com/r/BangaloreMarketplace/comments/1w767wq/transcend_8gb_ddr3_laptop_ram_sodimm_tested/) — Rs.1,250 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[Query] Price check for Gaming Desktop [CPU Only] - 9070XT, Ryzen 7 9700X, 32GB DDR5](https://reddit.com/r/BangaloreMarketplace/comments/1w76i6o/query_price_check_for_gaming_desktop_cpu_only/) — Price not found (score 75)
