@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-04 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-04 13:03 UTC
 
 ## Mobiles
 
-- [Apple iPhone 11 128GB | 73% Battery Health | ₹15,000 Negotiable | Byrathi](https://reddit.com/r/BangaloreMarketplace/comments/1w72isi/apple_iphone_11_128gb_73_battery_health_15000/) — Rs.15,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
