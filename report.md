@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung S24 ULTRA 5G 512gb](https://reddit.com/r/HyderabadUsedItems/comments/1w7ymdb/samsung_s24_ultra_5g_512gb/) — Rs.85,000 (score 105)
+- [I want to sell Vivo v40e 8gb Ramand 256 storage](https://reddit.com/r/BangaloreMarketplace/comments/1w7xtjh/i_want_to_sell_vivo_v40e_8gb_ramand_256_storage/) — Rs.8,500 (score 70)
 
 
 ## Laptops
 
-- [Appropriate selling price for an Hp-15 gaming laptop(Amd Cpu Version), rtx 3050, 1tb SSD(512 stick, 512gb sata 2.5inch), 16gb ram?](https://reddit.com/r/BangaloreMarketplace/comments/1w7xwcw/appropriate_selling_price_for_an_hp15_gaming/) — Rs.95,000 (score 70)
+- [MacBook Air 13" (2017, A1466) - i5 / 8GB / 128GB SSD - Rs 15,999 - Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1w7yfqs/selling_macbook_air_13_2017_a1466_i5_8gb_128gb/) — Rs.15,999 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
