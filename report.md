@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 08:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Crucial BX500 2TB SSD Sata used in PC/PS4](https://reddit.com/r/BangaloreMarketplace/comments/1w7ufi9/crucial_bx500_2tb_ssd_sata_used_in_pcps4_for_sale/) — Rs.15,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
