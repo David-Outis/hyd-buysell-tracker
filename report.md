@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 08:03 UTC
 
 ## Mobiles
 
-- [Iphone 16(128gb) used 11 months asking 55k(open for negotiation)](https://reddit.com/r/HyderabadBuySell/comments/1w7tg3w/iphone_16128gb_used_11_months_asking_55kopen_for/) — Rs.55,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Crucial BX500 2TB SSD Sata used in PC/PS4](https://reddit.com/r/BangaloreMarketplace/comments/1w7ufi9/crucial_bx500_2tb_ssd_sata_used_in_pcps4_for_sale/) — Rs.15,000 (score 65)
 
 
 ## Desktop PCs
