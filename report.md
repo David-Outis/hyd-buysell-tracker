@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 04:03 UTC
 
 ## Mobiles
 
-- [For sale Oppo Find X9 12/256](https://reddit.com/r/HyderabadUsedItems/comments/1w7p9en/for_sale_oppo_find_x9_12256/) — Price not found (score 70)
+- [Samsung Galaxy Buds 2 Pro - ₹3,000 (Local Pickup in Basaveshwaranagar)](https://reddit.com/r/BangaloreMarketplace/comments/1w7plz3/wts_samsung_galaxy_buds_2_pro_3000_local_pickup/) — Rs.3,000 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook pro m4 16/512gb 97% for sale 140k](https://reddit.com/r/HyderabadUsedItems/comments/1w7pmam/macbook_pro_m4_16512gb_97_for_sale_140k/) — Rs.140,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Ipad air 4th generation 64gb wifi 26k fixed](https://reddit.com/r/HyderabadUsedItems/comments/1w7p5xb/ipad_air_4th_generation_64gb_wifi_26k_fixed/) — Rs.26,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
