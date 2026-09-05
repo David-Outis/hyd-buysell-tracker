@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 17:03 UTC
 
 ## Mobiles
 
-- [Nike Air Max Moto 2K – US 6Y – Brand New](https://reddit.com/r/BangaloreMarketplace/comments/1w84z0p/wts_nike_air_max_moto_2k_us_6y_brand_new/) — Rs.2,000 (score 105)
+- [Realme T310 Case](https://reddit.com/r/ChennaiBuyAndSell/comments/1w84ydg/realme_t310_case/) — Price not found (score 60)
+- [Hot wheels Batman Hauler and Batmobile](https://reddit.com/r/ChennaiBuyAndSell/comments/1w84wwv/wts_hot_wheels_batman_hauler_and_batmobile/) — Price not found (score 75)
+- [Google Pixel 7 Obsidian 8GB/128 GB](https://reddit.com/r/BangaloreMarketplace/comments/1w85jec/selling_google_pixel_7_obsidian_8gb128_gb/) — Price not found (score 55)
 
 
 ## Laptops
@@ -22,4 +24,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Entry level PC Bengaluru Hebbal](https://reddit.com/r/bangloremarketplace/comments/1w828n5/entry_level_pc_bengaluru_hebbal/) — Rs.23,000 (score 105)
+_No new desktop PC listings found in this run._
