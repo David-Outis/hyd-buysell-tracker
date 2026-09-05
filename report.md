@@ -1,23 +1,23 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Redmi Note 11](https://reddit.com/r/HyderabadUsedItems/comments/1w7vyll/selling_redmi_note_11/) — Rs.9,000 (score 70)
 
 
 ## Laptops
 
-- [Macbook air 2017 model selling at 20k, negotiable.](https://reddit.com/r/BangaloreMarketplace/comments/1w7v9o6/macbook_air_2017_model_selling_at_20k_negotiable/) — Rs.20,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Is INR 65K a good deal for an iPad Air M4?](https://reddit.com/r/BangaloreMarketplace/comments/1w7w1fw/is_inr_65k_a_good_deal_for_an_ipad_air_m4/) — Rs.65,000 (score 100)
 
 
 ## Game Consoles
 
-- [my Xbox one s 1TB variant with one controller in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1w7valr/selling_my_xbox_one_s_1tb_variant_with_one/) — Rs.15,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
