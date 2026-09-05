@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 14:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Bangalore — Acer Nitro 27” 200Hz Monitor, Redragon K617, Razer Mouse + PC Accessories](https://reddit.com/r/BangaloreMarketplace/comments/1w814fs/wts_bangalore_acer_nitro_27_200hz_monitor/) — Rs.7,500 (score 120)
+_No new desktop PC listings found in this run._
