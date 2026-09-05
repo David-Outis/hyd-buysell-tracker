@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 11:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Appropriate selling price for an Hp-15 gaming laptop(Amd Cpu Version), rtx 3050, 1tb SSD(512 stick, 512gb sata 2.5inch), 16gb ram?](https://reddit.com/r/BangaloreMarketplace/comments/1w7xwcw/appropriate_selling_price_for_an_hp15_gaming/) — Rs.95,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
