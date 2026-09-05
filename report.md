@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy S24 for Sale. Good condition. 1.5 years old.](https://reddit.com/r/BangaloreMarketplace/comments/1w7t08w/samsung_galaxy_s24_for_sale_good_condition_15/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [Macbook Pro M1 Pro (32 GB/512 GB)](https://reddit.com/r/BangaloreMarketplace/comments/1w7surz/selling_macbook_pro_m1_pro_32_gb512_gb/) — Rs.70,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
