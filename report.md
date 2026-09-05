@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 07:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S24 for Sale. Good condition. 1.5 years old.](https://reddit.com/r/BangaloreMarketplace/comments/1w7t08w/samsung_galaxy_s24_for_sale_good_condition_15/) — Price not found (score 60)
+- [Iphone 16(128gb) used 11 months asking 55k(open for negotiation)](https://reddit.com/r/HyderabadBuySell/comments/1w7tg3w/iphone_16128gb_used_11_months_asking_55kopen_for/) — Rs.55,000 (score 90)
 
 
 ## Laptops
