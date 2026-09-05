@@ -1,10 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 17:33 UTC
 
 ## Mobiles
 
-- [Realme T310 Case](https://reddit.com/r/ChennaiBuyAndSell/comments/1w84ydg/realme_t310_case/) — Price not found (score 60)
-- [Hot wheels Batman Hauler and Batmobile](https://reddit.com/r/ChennaiBuyAndSell/comments/1w84wwv/wts_hot_wheels_batman_hauler_and_batmobile/) — Price not found (score 75)
-- [Google Pixel 7 Obsidian 8GB/128 GB](https://reddit.com/r/BangaloreMarketplace/comments/1w85jec/selling_google_pixel_7_obsidian_8gb128_gb/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -19,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Custom build arcade sticks (PS4 PC PS3 AND XBOX 360).](https://reddit.com/r/bangloremarketplace/comments/1w86lko/wts_custom_build_arcade_sticks_ps4_pc_ps3_and/) — Price not found (score 50)
 
 
 ## Desktop PCs
