@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 18:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [New unused SATA SSD Hard drive 240 GB for Laptop - WD Green Rs.5500 Velachery](https://reddit.com/r/ChennaiBuyAndSell/comments/1w87361/new_unused_sata_ssd_hard_drive_240_gb_for_laptop/) — Rs.5,500 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Custom build arcade sticks (PS4 PC PS3 AND XBOX 360).](https://reddit.com/r/bangloremarketplace/comments/1w86lko/wts_custom_build_arcade_sticks_ps4_pc_ps3_and/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
