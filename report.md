@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 15:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps4 less than 15k with 2 controller no jailbreak dm me](https://reddit.com/r/ChennaiBuyAndSell/comments/1w82cat/ps4_less_than_15k_with_2_controller_no_jailbreak/) — Rs.15,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [Entry level gaming PC Hebbal Bengaluru F2F](https://reddit.com/r/BangaloreMarketplace/comments/1w82ga8/entry_level_gaming_pc_hebbal_bengaluru_f2f/) — Rs.22,000 (score 120)
+_No new desktop PC listings found in this run._
