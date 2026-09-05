@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-05 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-05 10:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Levono legion go handheld with grips.](https://reddit.com/r/BangaloreMarketplace/comments/1w7wkun/selling_levono_legion_go_handheld_with_grips/) — Rs.70,000 (score 70)
+- [Lenovo legion go with grips attached.](https://reddit.com/r/BangaloreMarketplace/comments/1w7wwce/selling_lenovo_legion_go_with_grips_attached/) — Rs.70,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
