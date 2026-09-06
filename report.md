@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 05:33 UTC
 
 ## Mobiles
 
-- [IPHONE 13PRO. 256GB. 73% BATTERY CAPACITY](https://reddit.com/r/BangaloreMarketplace/comments/1w8m8vd/iphone_13pro_256gb_73_battery_capacity/) — Rs.37,500 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
