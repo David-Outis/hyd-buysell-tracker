@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 05:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [IPHONE 13PRO. 256GB. 73% BATTERY CAPACITY](https://reddit.com/r/BangaloreMarketplace/comments/1w8m8vd/iphone_13pro_256gb_73_battery_capacity/) — Rs.37,500 (score 105)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Assassin’s creed black flag resynced(PS5)](https://reddit.com/r/BangaloreMarketplace/comments/1w8lwxp/assassins_creed_black_flag_resyncedps5/) — Price not found (score 50)
-- [Steam Deck OLED 512GB for Sale – Excellent Condition – ₹58,000](https://reddit.com/r/BangaloreMarketplace/comments/1w8luf2/wts_steam_deck_oled_512gb_for_sale_excellent/) — Rs.58,000 (score 95)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
