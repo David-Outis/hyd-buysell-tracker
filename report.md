@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 14:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [my gaming laptop - ASUS TUF Gaming A15 [1650]](https://reddit.com/r/BangaloreMarketplace/comments/1w8whsg/selling_my_gaming_laptop_asus_tuf_gaming_a15_1650/) — Rs.40,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
