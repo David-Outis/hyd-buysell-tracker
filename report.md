@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung s10e Snapdragon variant Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1w8tbjv/samsung_s10e_snapdragon_variant_bengaluru/) — Rs.6,000 (score 90)
 
 
 ## Laptops
 
-- [my Dell XPS 15 RTX 3050ti (bought 2021 Dec from the US)](https://reddit.com/r/BangaloreMarketplace/comments/1w8sv4s/selling_my_dell_xps_15_rtx_3050ti_bought_2021_dec/) — Rs.80,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
