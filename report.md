@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 09:34 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 10:03 UTC
 
 ## Mobiles
 
-- [Looking to buy Iphone SE 3rd Gen (2022)/Iphone 13/12 Pro/14. Budget is 10-15K](https://reddit.com/r/BangaloreMarketplace/comments/1w8r48w/looking_to_buy_iphone_se_3rd_gen_2022iphone_1312/) — Rs.10,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [laptop ram and ssd. Picked out from my laptop as it's motherboard is dead](https://reddit.com/r/BangaloreMarketplace/comments/1w8rxry/selling_laptop_ram_and_ssd_picked_out_from_my/) — Rs.35,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Entry level PC Bengaluru Hebbal..........](https://reddit.com/r/BangaloreMarketplace/comments/1w8rk3k/entry_level_pc_bengaluru_hebbal/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
