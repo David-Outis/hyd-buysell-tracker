@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 06:04 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 06:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ghost of Yotei ps5 disc. Price : 3300](https://reddit.com/r/BangaloreMarketplace/comments/1w8nehz/selling_ghost_of_yotei_ps5_disc_price_3300/) — Price not found (score 55)
+- [Brand New Sealed Sony PS5 DualSense Wireless Controller (White) – ₹5500](https://reddit.com/r/HyderabadUsedItems/comments/1w8o8pb/brand_new_sealed_sony_ps5_dualsense_wireless/) — Rs.5,500 (score 100)
 
 
 ## Desktop PCs
