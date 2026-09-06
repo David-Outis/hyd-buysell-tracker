@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 06:04 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ghost of Yotei ps5 disc. Price : 3300](https://reddit.com/r/BangaloreMarketplace/comments/1w8nehz/selling_ghost_of_yotei_ps5_disc_price_3300/) — Price not found (score 55)
 
 
 ## Desktop PCs
