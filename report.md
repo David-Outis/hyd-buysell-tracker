@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [the right earbud of oneplus buds 4](https://reddit.com/r/HyderabadUsedItems/comments/1w8oixg/selling_the_right_earbud_of_oneplus_buds_4/) — Rs.1,700 (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Brand New Sealed Sony PS5 DualSense Wireless Controller (White) – ₹5500](https://reddit.com/r/HyderabadUsedItems/comments/1w8o8pb/brand_new_sealed_sony_ps5_dualsense_wireless/) — Rs.5,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
