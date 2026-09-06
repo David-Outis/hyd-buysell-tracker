@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus Nord Buds 3R earbuds – ₹800](https://reddit.com/r/BangaloreMarketplace/comments/1w8uug8/selling_oneplus_nord_buds_3r_earbuds_800/) — Rs.800 (score 70)
 
 
 ## Laptops
