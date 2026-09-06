@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 13:03 UTC
 
 ## Mobiles
 
-- [OnePlus Nord Buds 3R earbuds – ₹800](https://reddit.com/r/BangaloreMarketplace/comments/1w8uug8/selling_oneplus_nord_buds_3r_earbuds_800/) — Rs.800 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Dell laptop 15.6 inch for sale for Rs. 13.5K](https://reddit.com/r/BangaloreMarketplace/comments/1w8vd3q/dell_laptop_156_inch_for_sale_for_rs_135k/) — Rs.13,500 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
