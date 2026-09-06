@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-06 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-06 12:03 UTC
 
 ## Mobiles
 
-- [Samsung s10e Snapdragon variant Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1w8tbjv/samsung_s10e_snapdragon_variant_bengaluru/) — Rs.6,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
