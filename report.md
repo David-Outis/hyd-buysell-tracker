@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 05:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4](https://reddit.com/r/ChennaiBuyAndSell/comments/1w9hrpl/ps4_for_sale/) — Rs.18,000 (score 65)
+- [barely used 3 Months old PS5 Slim Disc 1TB](https://reddit.com/r/BangaloreMarketplace/comments/1w9ib8c/selling_barely_used_3_months_old_ps5_slim_disc_1tb/) — Rs.58,000 (score 100)
 
 
 ## Desktop PCs
