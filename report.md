@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTS/WTT] OnePlus Buds 3— Bangalore only](https://reddit.com/r/BangaloreMarketplace/comments/1w9x9gd/wtswtt_oneplus_buds_3_bangalore_only/) — Rs.1,500 (score 90)
 
 
 ## Laptops
