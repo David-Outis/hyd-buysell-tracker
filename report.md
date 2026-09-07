@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 10:03 UTC
 
 ## Mobiles
 
-- [OnePlus Nord Buds 3 Pro - Excellent Condition - Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1w9ktjr/oneplus_nord_buds_3_pro_excellent_condition/) — Rs.2,700 (score 105)
-- [my 1 month used Samsung s25 FE 8gb/128gb mobile For 45k for emergency cash needed](https://reddit.com/r/HyderabadUsedItems/comments/1w9myoa/selling_my_1_month_used_samsung_s25_fe_8gb128gb/) — Rs.45,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
