@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 04:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4](https://reddit.com/r/ChennaiBuyAndSell/comments/1w9hrpl/ps4_for_sale/) — Rs.18,000 (score 65)
 
 
 ## Desktop PCs
