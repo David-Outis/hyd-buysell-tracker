@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus Nord Buds 3 Pro - Excellent Condition - Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1w9ktjr/oneplus_nord_buds_3_pro_excellent_condition/) — Rs.2,700 (score 105)
+- [my 1 month used Samsung s25 FE 8gb/128gb mobile For 45k for emergency cash needed](https://reddit.com/r/HyderabadUsedItems/comments/1w9myoa/selling_my_1_month_used_samsung_s25_fe_8gb128gb/) — Rs.45,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ipod nano 3 4gb , psp 3000 & Ps4 Controller](https://reddit.com/r/BangaloreMarketplace/comments/1w9mks8/selling_ipod_nano_3_4gb_psp_3000_ps4_controller/) — Rs.1,200 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
