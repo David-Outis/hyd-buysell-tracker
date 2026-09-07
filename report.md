@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 14:03 UTC
 
 ## Mobiles
 
-- [Used 32GB DDR4 RAM, Samsung brand, Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1w9s3gg/selling_used_32gb_ddr4_ram_samsung_brand_bengaluru/) — Rs.15,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
