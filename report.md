@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 12:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [For sale: JBL Mic | XP-Pen | laptop mount](https://reddit.com/r/BangaloreMarketplace/comments/1w9q8ut/for_sale_jbl_mic_xppen_laptop_mount/) — Price not found (score 75)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
