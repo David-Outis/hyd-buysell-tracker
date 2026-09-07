@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 08:03 UTC
 
 ## Mobiles
 
-- [Looking to purchase Oneplus 13/15 any variant](https://reddit.com/r/BangaloreMarketplace/comments/1w9l5z4/looking_to_purchase_oneplus_1315_any_variant/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [New HP USB-C to HDMI 4K 60 Hz Adapter for Apple Macbook Mac and Windows PC and laptop](https://reddit.com/r/HyderabadUsedItems/comments/1w9lfyd/new_hp_usbc_to_hdmi_4k_60_hz_adapter_for_apple/) — Rs.4,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
