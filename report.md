@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 11:03 UTC
 
 ## Mobiles
 
-- [my iPhone 16 pro max (full box kit)(perfect condition)](https://reddit.com/r/BangaloreMarketplace/comments/1w9o5y3/selling_my_iphone_16_pro_max_full_box_kitperfect/) — Rs.85,000 (score 70)
+- [Google Pixel 9a | 8/256 | Iris Colourway](https://reddit.com/r/BangaloreMarketplace/comments/1w9orfe/google_pixel_9a_8256_iris_colourway/) — Rs.30,000 (score 100)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Looking to Buy Black Myth Wukong Disc (PS5)](https://reddit.com/r/BangaloreMarketplace/comments/1w9o1jr/looking_to_buy_black_myth_wukong_disc_ps5/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
