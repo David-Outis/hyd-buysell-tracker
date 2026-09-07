@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 05:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [barely used 3 Months old PS5 Slim Disc 1TB](https://reddit.com/r/BangaloreMarketplace/comments/1w9ib8c/selling_barely_used_3_months_old_ps5_slim_disc_1tb/) — Rs.58,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
