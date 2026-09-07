@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 07:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to purchase Oneplus 13/15 any variant](https://reddit.com/r/BangaloreMarketplace/comments/1w9l5z4/looking_to_purchase_oneplus_1315_any_variant/) — Price not found (score 55)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Looking to buy PS4 Pro low firmware under 20k. Hmu if any leads](https://reddit.com/r/BangaloreMarketplace/comments/1w9kkzk/looking_to_buy_ps4_pro_low_firmware_under_20k_hmu/) — Rs.20,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
