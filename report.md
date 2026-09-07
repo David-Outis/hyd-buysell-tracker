@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-07 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-07 09:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [ipod nano 3 4gb , psp 3000 & Ps4 Controller](https://reddit.com/r/BangaloreMarketplace/comments/1w9mks8/selling_ipod_nano_3_4gb_psp_3000_ps4_controller/) — Rs.1,200 (score 65)
 
 
 ## Desktop PCs
