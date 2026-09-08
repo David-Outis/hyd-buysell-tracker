@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 13:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [MSI B650M Gaming Plus Wi-Fi motherboard](https://reddit.com/r/BangaloreMarketplace/comments/1wanhs4/wts_msi_b650m_gaming_plus_wifi_motherboard/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
