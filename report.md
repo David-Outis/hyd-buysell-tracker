@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 14:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Super stylish colorful brand laptop bag for sale at steal price - brand new unused](https://reddit.com/r/BangaloreMarketplace/comments/1wapm6e/super_stylish_colorful_brand_laptop_bag_for_sale/) — Rs.2,500 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
