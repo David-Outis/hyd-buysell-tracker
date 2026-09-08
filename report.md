@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 15:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Super stylish colorful brand laptop bag for sale at steal price - brand new unused](https://reddit.com/r/BangaloreMarketplace/comments/1wapm6e/super_stylish_colorful_brand_laptop_bag_for_sale/) — Rs.2,500 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [XBOX SERIES S 512GB MINT CONDITION](https://reddit.com/r/BangaloreMarketplace/comments/1waqvrt/selling_xbox_series_s_512gb_mint_condition/) — Rs.38,000 (score 80)
+- [[LTS] PS4 Slim 1TB with Controller | JP Nagar | 17K](https://reddit.com/r/BangaloreMarketplace/comments/1waqr83/lts_ps4_slim_1tb_with_controller_jp_nagar_17k/) — Rs.17,000 (score 65)
 
 
 ## Desktop PCs
