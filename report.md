@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 08:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung galaxy s25](https://reddit.com/r/HyderabadUsedItems/comments/1wai9ly/samsung_galaxy_s25_for_sale/) — Rs.65,000 (score 120)
 
 
 ## Laptops
