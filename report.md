@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 09:03 UTC
 
 ## Mobiles
 
-- [Samsung galaxy s25](https://reddit.com/r/HyderabadUsedItems/comments/1wai9ly/samsung_galaxy_s25_for_sale/) — Rs.65,000 (score 120)
+- [Samsung s25](https://reddit.com/r/HyderabadBuySell/comments/1wainlm/samsung_s25_for_sale/) — Rs.65,000 (score 120)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [my Crystal X6 cabinet with 6 Argb fans](https://reddit.com/r/BangaloreMarketplace/comments/1waiq86/selling_my_crystal_x6_cabinet_with_6_argb_fans/) — Rs.4,000 (score 85)
