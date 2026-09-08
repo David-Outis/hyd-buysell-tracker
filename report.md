@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 02:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [8bitdo arcade controller for nintendo switch 2/1, android and windows.](https://reddit.com/r/BangaloreMarketplace/comments/1waa4us/wts_8bitdo_arcade_controller_for_nintendo_switch/) — Rs.10,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming pc 5070ti](https://reddit.com/r/ChennaiBuyAndSell/comments/1wa9qee/wts_gaming_pc_5070ti/) — Rs.2,000 (score 70)
