@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 09:33 UTC
 
 ## Mobiles
 
-- [Samsung s25](https://reddit.com/r/HyderabadBuySell/comments/1wainlm/samsung_s25_for_sale/) — Rs.65,000 (score 120)
+- [[BRAND NEW] OnePlus Pad Lite 6GB/128GB Wi-Fi – Aero Blue – ₹16,500](https://reddit.com/r/bangloremarketplace/comments/1waj494/selling_brand_new_oneplus_pad_lite_6gb128gb_wifi/) — Rs.16,500 (score 120)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [brand new gifted DELL laptop with box](https://reddit.com/r/BangaloreMarketplace/comments/1wajaf1/selling_brand_new_gifted_dell_laptop_with_box/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [my Crystal X6 cabinet with 6 Argb fans](https://reddit.com/r/BangaloreMarketplace/comments/1waiq86/selling_my_crystal_x6_cabinet_with_6_argb_fans/) — Rs.4,000 (score 85)
+- [Zebronics GT 740 4GB Graphics Card - Excellent Condition](https://reddit.com/r/HyderabadBuySell/comments/1wagn7c/wts_zebronics_gt_740_4gb_graphics_card_excellent/) — Rs.2,600 (score 105)
