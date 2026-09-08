@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 15:33 UTC
 
 ## Mobiles
 
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [XBOX SERIES S 512GB MINT CONDITION](https://reddit.com/r/BangaloreMarketplace/comments/1waqvrt/selling_xbox_series_s_512gb_mint_condition/) — Rs.38,000 (score 80)
-- [[LTS] PS4 Slim 1TB with Controller | JP Nagar | 17K](https://reddit.com/r/BangaloreMarketplace/comments/1waqr83/lts_ps4_slim_1tb_with_controller_jp_nagar_17k/) — Rs.17,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
