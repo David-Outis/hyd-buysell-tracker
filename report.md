@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 02:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming pc 5070ti](https://reddit.com/r/ChennaiBuyAndSell/comments/1wa9qee/wts_gaming_pc_5070ti/) — Rs.2,000 (score 70)
+- [Gaming CPU| Ryzen 5 5600X | RTX 3050 8GB | 16GB DDR4 | 1TB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1wabt66/selling_gaming_cpu_ryzen_5_5600x_rtx_3050_8gb/) — Rs.80,000 (score 105)
