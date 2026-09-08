@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 17:03 UTC
 
 ## Mobiles
 
-- [OnePlus Nord Buds 3 – Right Earbud + Charging Case](https://reddit.com/r/HyderabadUsedItems/comments/1wat17t/selling_oneplus_nord_buds_3_right_earbud_charging/) — Rs.700 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
