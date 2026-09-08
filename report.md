@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 06:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [For Sale: Foldable Laptop Table / Bed Table](https://reddit.com/r/BangaloreMarketplace/comments/1wagc7l/for_sale_foldable_laptop_table_bed_table/) — Rs.600 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox One S 500 GB](https://reddit.com/r/HyderabadBuySell/comments/1waf1b7/xbox_one_s_500_gb/) — Price not found (score 70)
-- [LTS Completed ps4 ps5 games](https://reddit.com/r/HyderabadUsedItems/comments/1wafsoa/lts_completed_ps4_ps5_games/) — Price not found (score 50)
-- [PS5 digital edition 1TB for sale 2025 model with box](https://reddit.com/r/BangaloreMarketplace/comments/1wafyim/ps5_digital_edition_1tb_for_sale_2025_model_with/) — Rs.45,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
