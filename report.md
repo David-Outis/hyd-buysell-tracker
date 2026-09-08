@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 10:33 UTC
 
 ## Mobiles
 
-- [Redmi Note 10 Pro 6GB/128GB with Original Box](https://reddit.com/r/BangaloreMarketplace/comments/1wajzof/selling_redmi_note_10_pro_6gb128gb_with_original/) — Rs.7,500 (score 85)
+- [Pixel 11 Pro Canyon Original Case](https://reddit.com/r/BangaloreMarketplace/comments/1wakha1/pixel_11_pro_canyon_original_case_for_sale/) — Price not found (score 55)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [brand new DELL laptop with box , opened just once](https://reddit.com/r/BangaloreMarketplace/comments/1wakav9/selling_brand_new_dell_laptop_with_box_opened/) — Rs.47,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
