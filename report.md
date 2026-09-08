@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 07:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [For Sale: Foldable Laptop Table / Bed Table](https://reddit.com/r/BangaloreMarketplace/comments/1wagc7l/for_sale_foldable_laptop_table_bed_table/) — Rs.600 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Zebronics GT 740 4GB Graphics Card - Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wagrob/wts_zebronics_gt_740_4gb_graphics_card_excellent/) — Rs.3,100 (score 85)
