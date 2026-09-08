@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-08 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-08 07:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Zebronics GT 740 4GB Graphics Card - Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wagrob/wts_zebronics_gt_740_4gb_graphics_card_excellent/) — Rs.3,100 (score 85)
+_No new desktop PC listings found in this run._
