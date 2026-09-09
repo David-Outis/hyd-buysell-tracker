@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 17:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [my Legion 4060 i7 hx 24gb ram 140tgp](https://reddit.com/r/BangaloreMarketplace/comments/1wbragz/selling_my_legion_4060_i7_hx_24gb_ram_140tgp/) — Price not found (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
