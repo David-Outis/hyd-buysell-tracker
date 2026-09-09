@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 10:33 UTC
 
 ## Mobiles
 
-- [Samsung S22+ 2 yr old 8GB/128GB with bill without box available for 20k in Seegehalli](https://reddit.com/r/BangaloreMarketplace/comments/1wbh282/samsung_s22_2_yr_old_8gb128gb_with_bill_without/) — Rs.20,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 Pro 1TB in perfect condition](https://reddit.com/r/BangaloreMarketplace/comments/1wbhlnz/selling_ps4_pro_1tb_in_perfect_condition/) — Rs.18,000 (score 65)
+- [willing to give ps5 disc for rent, pickup from marathahalli](https://reddit.com/r/BangaloreMarketplace/comments/1wbhfeu/willing_to_give_ps5_disc_for_rent_pickup_from/) — Price not found (score 55)
 
 
 ## Desktop PCs
