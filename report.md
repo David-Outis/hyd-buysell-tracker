@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 13:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Apple 96w brand new adaptor no used 100% bring laptop connect check take 4500 only](https://reddit.com/r/HyderabadUsedItems/comments/1wbjsz1/apple_96w_brand_new_adaptor_no_used_100_bring/) — Rs.4,500 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
