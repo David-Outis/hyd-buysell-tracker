@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung galaxy z fold 8 ultra 512gb](https://reddit.com/r/BangaloreMarketplace/comments/1wbds38/selling_samsung_galaxy_z_fold_8_ultra_512gb/) — Rs.187,500 (score 85)
 
 
 ## Laptops
 
-- [HP laptop Intel Core i3 4th Gen | 4GB RAM | 500GB HDD | 2GB graphics chennai price ₹7.8k](https://reddit.com/r/ChennaiBuyAndSell/comments/1wbdhq9/hp_laptop_intel_core_i3_4th_gen_4gb_ram_500gb_hdd/) — Rs.7,800 (score 105)
+- [Looking to Rent a Laptop for 1 Month – Urgent for Internship](https://reddit.com/r/BangaloreMarketplace/comments/1wbe6fs/looking_to_rent_a_laptop_for_1_month_urgent_for/) — Price not found (score 60)
+- [my lenovo legion 15irx9 gaming laptop and peripherals](https://reddit.com/r/BangaloreMarketplace/comments/1wbe10y/selling_my_lenovo_legion_15irx9_gaming_laptop_and/) — Rs.15,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC Tower - Ryzen 5 3600 | RX 5600 XT | 32GB RAM | 1.5TB NVMe SSD](https://reddit.com/r/BangaloreMarketplace/comments/1wbd64c/gaming_pc_tower_ryzen_5_3600_rx_5600_xt_32gb_ram/) — Rs.30,000 (score 100)
+_No new desktop PC listings found in this run._
