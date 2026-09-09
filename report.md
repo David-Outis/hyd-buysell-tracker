@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 04:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [I wanna sell me laptop](https://reddit.com/r/HyderabadUsedItems/comments/1wbbcos/i_wanna_sell_me_laptop/) — Rs.52,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
