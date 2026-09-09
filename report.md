@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 06:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [4GB DDR4 Laptop RAM - SK Hynix - Bangalore South](https://reddit.com/r/BangaloreMarketplace/comments/1wbcpxu/selling_4gb_ddr4_laptop_ram_sk_hynix_bangalore/) — Rs.1,700 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
