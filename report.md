@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 10:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy A56 5G 8/128GB – Olive | Bill + Box + Cable](https://reddit.com/r/BangaloreMarketplace/comments/1wbgmra/samsung_galaxy_a56_5g_8128gb_olive_bill_box_cable/) — Rs.27,000 (score 120)
+- [Samsung S22+ 2 yr old 8GB/128GB with bill without box available for 20k in Seegehalli](https://reddit.com/r/BangaloreMarketplace/comments/1wbh282/samsung_s22_2_yr_old_8gb128gb_with_bill_without/) — Rs.20,000 (score 85)
 
 
 ## Laptops
