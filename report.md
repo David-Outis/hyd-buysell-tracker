@@ -1,24 +1,23 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 07:33 UTC
 
 ## Mobiles
 
-- [Samsung galaxy z fold 8 ultra 512gb](https://reddit.com/r/BangaloreMarketplace/comments/1wbds38/selling_samsung_galaxy_z_fold_8_ultra_512gb/) — Rs.187,500 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Looking to Rent a Laptop for 1 Month – Urgent for Internship](https://reddit.com/r/BangaloreMarketplace/comments/1wbe6fs/looking_to_rent_a_laptop_for_1_month_urgent_for/) — Price not found (score 60)
-- [my lenovo legion 15irx9 gaming laptop and peripherals](https://reddit.com/r/BangaloreMarketplace/comments/1wbe10y/selling_my_lenovo_legion_15irx9_gaming_laptop_and/) — Rs.15,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Mini A17 Pro (4 months old) FOR SALE ‼️](https://reddit.com/r/bangloremarketplace/comments/1wbcw6o/ipad_mini_a17_pro_4_months_old_for_sale/) — Rs.45,000 (score 70)
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [2yo PS5 Slim 1TB for sale - 55k - Great Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wbecph/2yo_ps5_slim_1tb_for_sale_55k_great_condition/) — Rs.55,000 (score 65)
 
 
 ## Desktop PCs
