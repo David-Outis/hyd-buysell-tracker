@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy A56 5G 8/128GB – Olive | Bill + Box + Cable](https://reddit.com/r/BangaloreMarketplace/comments/1wbgmra/samsung_galaxy_a56_5g_8128gb_olive_bill_box_cable/) — Rs.27,000 (score 120)
 
 
 ## Laptops
