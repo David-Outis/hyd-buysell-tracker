@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 15:34 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 16:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Tech Declutter Sale: Asus Zenfone, Huawei 1TB Drive, OnePlus Buds & More (Brookfield)](https://reddit.com/r/BangaloreMarketplace/comments/1wbp21r/wts_tech_declutter_sale_asus_zenfone_huawei_1tb/) — Rs.3,500 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 500GB + 8 Games for Sale — ₹22,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1wbopvm/wts_ps4_500gb_8_games_for_sale_22000/) — Rs.22,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
