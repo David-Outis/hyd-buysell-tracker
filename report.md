@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 17:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus buds 4 available for sale, selling for 5k](https://reddit.com/r/BangaloreMarketplace/comments/1wbrgo9/oneplus_buds_4_available_for_sale_selling_for_5k/) — Rs.5,000 (score 90)
 
 
 ## Laptops
 
-- [my Legion 4060 i7 hx 24gb ram 140tgp](https://reddit.com/r/BangaloreMarketplace/comments/1wbragz/selling_my_legion_4060_i7_hx_24gb_ram_140tgp/) — Price not found (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
