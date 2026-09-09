@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-09 15:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 500GB + 8 Games for Sale — ₹22,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1wbopvm/wts_ps4_500gb_8_games_for_sale_22000/) — Rs.22,000 (score 100)
 
 
 ## Desktop PCs
