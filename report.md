@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-10 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-10 08:04 UTC
 
 ## Mobiles
 
-- [iphone 17 brand new bill and sealed box.](https://reddit.com/r/BangaloreMarketplace/comments/1wcbpzi/selling_iphone_17_brand_new_bill_and_sealed_box/) — Rs.90,000 (score 85)
+- [iPhone 17 pro orange 256 unactivated](https://reddit.com/r/BangaloreMarketplace/comments/1wccev7/iphone_17_pro_orange_256_unactivated_for_sale/) — Rs.132,000 (score 90)
 
 
 ## Laptops
