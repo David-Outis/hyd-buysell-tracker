@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-10 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-10 04:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Price Check for my 2021 laptop Lenovo IdeaPad Gaming 3](https://reddit.com/r/BangaloreMarketplace/comments/1wc7v77/price_check_for_my_2021_laptop_lenovo_ideapad/) — Rs.62,854 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
