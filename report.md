@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-09-10 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-10 10:03 UTC
 
 ## Mobiles
 
-- [spigen back cover for samsung s24 (mint condition)](https://reddit.com/r/BangaloreMarketplace/comments/1wcdzm4/spigen_back_cover_for_samsung_s24_mint_condition/) — Price not found (score 55)
+- [iPhone 17e Brand New Sealed Unit](https://reddit.com/r/ChennaiBuyAndSell/comments/1wceid7/iphone_17e_brand_new_sealed_unit/) — Rs.79,000 (score 120)
+- [Routers, apple lightning earpods, HDMI Cable, iPhone 14 pro max tempered glass X2](https://reddit.com/r/ChennaiBuyAndSell/comments/1wce47k/routers_apple_lightning_earpods_hdmi_cable_iphone/) — Price not found (score 60)
 
 
 ## Laptops
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Onimusha: Way of the Sword PS5 Disc – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wcdrml/selling_onimusha_way_of_the_sword_ps5_disc/) — Rs.4,500 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
