@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-10 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-10 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 pro max cosmic orange 512 gb - ₹1.3 lac](https://reddit.com/r/ChennaiBuyAndSell/comments/1wc5t8x/iphone_17_pro_max_cosmic_orange_512_gb_13_lac/) — Price not found (score 90)
 
 
 ## Laptops
