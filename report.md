@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-10 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-10 13:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Tab S9 Ultra 1 TB Wifi - ₹70,000](https://reddit.com/r/BangaloreMarketplace/comments/1wcifl3/samsung_galaxy_tab_s9_ultra_1_tb_wifi_70000/) — Rs.70,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [10months old laptop , lenovo 2 in 1 laptop, 10months old](https://reddit.com/r/ChennaiBuyAndSell/comments/1wcj1ls/selling_10months_old_laptop_lenovo_2_in_1_laptop/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
