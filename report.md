@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-10 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-10 03:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 pro max cosmic orange 512 gb - ₹1.3 lac](https://reddit.com/r/ChennaiBuyAndSell/comments/1wc5t8x/iphone_17_pro_max_cosmic_orange_512_gb_13_lac/) — Price not found (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [(Fs)Xbox 360 Slim Massive Bundle- 3 Controllers, Kinect, 11+ Boxed Games, Step-Down Converter](https://reddit.com/r/ChennaiBuyAndSell/comments/1wc727i/fsxbox_360_slim_massive_bundle_3_controllers/) — Rs.8,000 (score 100)
+- [Xbox 360 Slim Massive Bundle- 3 Controllers, Kinect, 11+ Boxed Games, Step-Down Converter](https://reddit.com/r/BangaloreMarketplace/comments/1wc75b4/xbox_360_slim_massive_bundle_3_controllers_kinect/) — Rs.8,000 (score 100)
 
 
 ## Desktop PCs
