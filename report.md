@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-09 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-10 01:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [HP Victus Ryzen 5 5600H / 16 GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1wbrx7f/wts_hp_victus_ryzen_5_5600h_16_gb/) — Rs.52,000 (score 120)
+_No new desktop PC listings found in this run._
