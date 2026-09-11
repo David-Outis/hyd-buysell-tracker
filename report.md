@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 06:03 UTC
 
 ## Mobiles
 
-- [Vivo V70 12/256GB – Bangalore (F2F)](https://reddit.com/r/bangloremarketplace/comments/1wd5qso/wts_vivo_v70_12256gb_bangalore_f2f/) — Rs.40,000 (score 120)
-- [Brand New iPhone 17 Pro (Indian Variant) – Factory Sealed! Selling a completely unopened, factory-sealed iPhone 17 Pro purchased just 2 days ago. Asking Price: ₹1,25,000 (Fixed / Slightly negotiable for immediate buyers) Deal Type: Face-to-face deal preferred.](https://reddit.com/r/BangaloreMarketplace/comments/1wd6zxo/brand_new_iphone_17_pro_indian_variant_factory/) — Rs.125,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [14" Macbook M1 Pro 16/512 with AppleCare+](https://reddit.com/r/BangaloreMarketplace/comments/1wd7n43/selling_14_macbook_m1_pro_16512_with_applecare/) — Rs.8,999 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
