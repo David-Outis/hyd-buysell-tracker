@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 10:33 UTC
 
 ## Mobiles
 
-- [Let me know if anyone is willing to sell me a oneplus under 40k](https://reddit.com/r/BangaloreMarketplace/comments/1wdb2mz/let_me_know_if_anyone_is_willing_to_sell_me_a/) — Rs.40,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
