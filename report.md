@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 03:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Vivo V70 12/256GB – Bangalore (F2F)](https://reddit.com/r/BangaloreMarketplace/comments/1wd4p2b/wts_vivo_v70_12256gb_bangalore_f2f/) — Rs.45,000 (score 120)
 
 
 ## Laptops
 
-- [Macbook M4 512gb 13 cycle count](https://reddit.com/r/HyderabadBuySell/comments/1wd3od0/macbook_m4_512gb_13_cycle_count_for_sale/) — Rs.95,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
