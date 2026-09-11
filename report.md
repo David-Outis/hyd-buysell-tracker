@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Google Pixel Buds 2a](https://reddit.com/r/ChennaiBuyAndSell/comments/1wdkq96/selling_google_pixel_buds_2a/) — Rs.13,000 (score 105)
 
 
 ## Laptops
