@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 09:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Fractal Design Meshify 2 Dark Tint PC Case](https://reddit.com/r/BangaloreMarketplace/comments/1wdadmj/fractal_design_meshify_2_dark_tint_pc_case/) — Rs.18,000 (score 105)
+_No new desktop PC listings found in this run._
