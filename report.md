@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 17:33 UTC
 
 ## Mobiles
 
-- [Google Pixel Buds 2a](https://reddit.com/r/ChennaiBuyAndSell/comments/1wdkq96/selling_google_pixel_buds_2a/) — Rs.13,000 (score 105)
+- [2 x 8GB DDR5 4800mhz Samsung OEM RAM](https://reddit.com/r/BangaloreMarketplace/comments/1wdmbk7/selling_2_x_8gb_ddr5_4800mhz_samsung_oem_ram/) — Rs.10,000 (score 70)
 
 
 ## Laptops
