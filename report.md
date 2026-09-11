@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 03:03 UTC
 
 ## Mobiles
 
-- [base iPhone 17 Mist Blue with 94% battery health](https://reddit.com/r/BangaloreMarketplace/comments/1wd3jnx/selling_base_iphone_17_mist_blue_with_94_battery/) — Rs.70,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Macbook M4 512gb 13 cycle count](https://reddit.com/r/HyderabadBuySell/comments/1wd3od0/macbook_m4_512gb_13_cycle_count_for_sale/) — Rs.95,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
