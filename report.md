@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 04:03 UTC
 
 ## Mobiles
 
-- [Vivo V70 12/256GB – Bangalore (F2F)](https://reddit.com/r/BangaloreMarketplace/comments/1wd4p2b/wts_vivo_v70_12256gb_bangalore_f2f/) — Rs.45,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
