@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-11 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-11 07:33 UTC
 
 ## Mobiles
 
-- [Brand New Silver iPhone 17 Pro 1 TB for sale - sealed box](https://reddit.com/r/BangaloreMarketplace/comments/1wd8u2w/brand_new_silver_iphone_17_pro_1_tb_for_sale/) — Price not found (score 55)
+- [iPhone 17 256GB Sage Green – Excellent Condition – ₹80,000 – Chennai, Tamil Nadu](https://reddit.com/r/ChennaiBuyAndSell/comments/1wd8ui9/wts_iphone_17_256gb_sage_green_excellent/) — Rs.80,000 (score 120)
 
 
 ## Laptops
