@@ -1,10 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 18:03 UTC
 
 ## Mobiles
 
-- [OPPO Find X9 Pro](https://reddit.com/r/HyderabadBuySell/comments/1wecvrd/selling_oppo_find_x9_pro/) — Rs.85,000 (score 120)
-- [Samsung Galaxy Z Fold 6, Navy, 12GB / 256GB](https://reddit.com/r/HyderabadBuySell/comments/1webqq4/samsung_galaxy_z_fold_6_navy_12gb_256gb/) — Rs.67,000 (score 105)
-- [WTE iPhone 17](https://reddit.com/r/HyderabadBuySell/comments/1we92aq/wte_iphone_17/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -19,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox series s](https://reddit.com/r/HyderabadBuySell/comments/1we9una/selling_xbox_series_s/) — Rs.35,000 (score 65)
+- [Stock PS5 Controller (came with ps5) at 5k - 4 month old, warranty left](https://reddit.com/r/BangaloreMarketplace/comments/1wej0vp/stock_ps5_controller_came_with_ps5_at_5k_4_month/) — Rs.5,000 (score 80)
 
 
 ## Desktop PCs
