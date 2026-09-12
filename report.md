@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 05:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Looking to buy macbook m2 air under 45k and m1 under 36k](https://reddit.com/r/BangaloreMarketplace/comments/1we2cz1/looking_to_buy_macbook_m2_air_under_45k_and_m1/) — Rs.45,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
