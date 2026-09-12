@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 09:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Horizon Forbidden West Complete Edition PS5](https://reddit.com/r/BangaloreMarketplace/comments/1we7wpp/selling_horizon_forbidden_west_complete_edition/) — Price not found (score 55)
 
 
 ## Desktop PCs
