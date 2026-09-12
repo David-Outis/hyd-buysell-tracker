@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 15:33 UTC
 
 ## Mobiles
 
-- [iPhone 13 128GB (Purchased 2024, 100% Battery Health, Pristine in Tough Case included) - ₹31,999/- (Negotiable for F2F](https://reddit.com/r/BangaloreMarketplace/comments/1wee8ah/sale_iphone_13_128gb_purchased_2024_100_battery/) — Rs.31,999 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Disc Drive](https://reddit.com/r/HyderabadUsedItems/comments/1wef4yb/ps5_disc_drive_for_sale/) — Rs.11,000 (score 85)
 
 
 ## Desktop PCs
