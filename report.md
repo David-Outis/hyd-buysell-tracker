@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 11:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 256GB - Sage Green](https://reddit.com/r/ChennaiBuyAndSell/comments/1we929d/iphone_17_256gb_sage_green/) — Rs.82,000 (score 90)
+- [My Apple iPhone 16 (128GB) – White](https://reddit.com/r/BangaloreMarketplace/comments/1wea3he/selling_my_apple_iphone_16_128gb_white/) — Rs.47,000 (score 85)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [🚀 PC Components for Sale | Chitlapakkam, Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1we933e/wts_pc_components_for_sale_chitlapakkam_chennai/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
