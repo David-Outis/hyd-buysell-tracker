@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iphone 17 for 85k ( negotiable)](https://reddit.com/r/ChennaiBuyAndSell/comments/1we8jwz/selling_iphone_17_for_85k_negotiable/) — Rs.85,000 (score 70)
+- [Looking to buy Iphone 15 or 16 base or plus model](https://reddit.com/r/BangaloreMarketplace/comments/1we845x/looking_to_buy_iphone_15_or_16_base_or_plus_model/) — Price not found (score 60)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Laptop | HP Envy x360 | Ryzen 7 16gb 1tb | Delhi NCR | ₹40000 (negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1we8bnp/laptop_hp_envy_x360_ryzen_7_16gb_1tb_delhi_ncr/) — Rs.40,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Horizon Forbidden West Complete Edition PS5](https://reddit.com/r/BangaloreMarketplace/comments/1we7wpp/selling_horizon_forbidden_west_complete_edition/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
