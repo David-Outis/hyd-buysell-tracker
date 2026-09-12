@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 06:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 (256gb)](https://reddit.com/r/HyderabadUsedItems/comments/1we49su/iphone_17_256gb/) — Rs.72,000 (score 100)
+- [Oneplus original c to c cable](https://reddit.com/r/HyderabadUsedItems/comments/1we4dmy/oneplus_original_c_to_c_cable/) — Price not found (score 55)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [F26 Gaming in Chennai Offers used ps5 at 40k with one controller (Consider this only if you're around Tamilnadu or In Tamilnadu)](https://reddit.com/r/ChennaiBuyAndSell/comments/1we3v1l/f26_gaming_in_chennai_offers_used_ps5_at_40k_with/) — Rs.40,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
