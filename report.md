@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 12:03 UTC
 
 ## Mobiles
 
-- [My Apple iPhone 16 (128GB) – White](https://reddit.com/r/BangaloreMarketplace/comments/1wea3he/selling_my_apple_iphone_16_128gb_white/) — Rs.47,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air 13” M4 (2025) – Mint Condition, 16GB/256GB, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wea8jr/macbook_air_13_m4_2025_mint_condition_16gb256gb/) — Rs.92,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,10 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my used XBOX ROG ALLY X. Location Chennai. F2F preferred. Expected price 95k.](https://reddit.com/r/ChennaiBuyAndSell/comments/1wea9cf/wts_selling_my_used_xbox_rog_ally_x_location/) — Rs.95,000 (score 100)
+- [XBOX SERIES S 512gb MINT CONDTION w BOX and CONTROLLER](https://reddit.com/r/BangaloreMarketplace/comments/1weaonn/xbox_series_s_512gb_mint_condtion_w_box_and/) — Rs.36,000 (score 65)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Lenovo Thinkcenter m715q Amd Athlon 200ge 8gb ddr4 512gb m.2 ssd wd blue Tiny Pc](https://reddit.com/r/BangaloreMarketplace/comments/1weagfy/lenovo_thinkcenter_m715q_amd_athlon_200ge_8gb/) — Price not found (score 60)
