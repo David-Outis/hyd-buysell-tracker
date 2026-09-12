@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 17:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Gran Turismo 7 PS5 CD](https://reddit.com/r/ChennaiBuyAndSell/comments/1wegkn0/gran_turismo_7_ps5_cd/) — Rs.2,700 (score 80)
 
 
 ## Desktop PCs
