@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-12 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13. Expected price: 18k. F2F preferred. Location chennai.](https://reddit.com/r/ChennaiBuyAndSell/comments/1web2f6/wts_iphone_13_expected_price_18k_f2f_preferred/) — Rs.18,000 (score 90)
 
 
 ## Laptops
