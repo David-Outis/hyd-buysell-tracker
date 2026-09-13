@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-12 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 01:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Stock PS5 Controller (came with ps5) at 5k - 4 month old, warranty left](https://reddit.com/r/BangaloreMarketplace/comments/1wej0vp/stock_ps5_controller_came_with_ps5_at_5k_4_month/) — Rs.5,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
