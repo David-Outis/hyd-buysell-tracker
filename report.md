@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-13 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my iPhone 14 Pro (256GB) at Secunderabad for 45k](https://reddit.com/r/HyderabadBuySell/comments/1wevnz7/selling_my_iphone_14_pro_256gb_at_secunderabad/) — Rs.45,000 (score 105)
 
 
 ## Laptops
