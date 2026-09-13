@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-13 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 05:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Scam from flipkart (1.53lakh) LOQ laptop](https://reddit.com/r/BangaloreMarketplace/comments/1wexlap/scam_from_flipkart_153lakh_loq_laptop/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
