@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-13 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 04:03 UTC
 
 ## Mobiles
 
-- [Final-year student looking to buy an iPhone 11/12/13 (Direct from individual owners only | Ready cash up to ₹23k)](https://reddit.com/r/BangaloreMarketplace/comments/1wew5ab/finalyear_student_looking_to_buy_an_iphone_111213/) — Rs.23,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Black Myth Wukong PS5 ₹5100 including shipping . 1 week old deluxe code not used or tried](https://reddit.com/r/BangaloreMarketplace/comments/1wewkxu/wts_black_myth_wukong_ps5_5100_including_shipping/) — Rs.5,100 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
