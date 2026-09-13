@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-13 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Pixel 10a in mint condition, 2 months old](https://reddit.com/r/BangaloreMarketplace/comments/1wfcfmr/wts_pixel_10a_in_mint_condition_2_months_old/) — Rs.47,000 (score 100)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Pre-Owned & Brand New PC Components across all budgets | Free Shipping | Admin Deals Available | Mostech Computers](https://reddit.com/r/ChennaiBuyAndSell/comments/1wfcqs4/sale_preowned_brand_new_pc_components_across_all/) — Price not found (score 55)
