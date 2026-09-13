@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-13 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 07:03 UTC
 
 ## Mobiles
 
-- [iPhone 11 / 64GB - used with military grade](https://reddit.com/r/BangaloreMarketplace/comments/1wezrl7/iphone_11_64gb_used_with_military_grade/) — Rs.13,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
