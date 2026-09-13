@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-13 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 256 GB with Apple Care 1 year, blue color](https://reddit.com/r/BangaloreMarketplace/comments/1wf5uam/iphone_17_256_gb_with_apple_care_1_year_blue_color/) — Rs.88,000 (score 90)
 
 
 ## Laptops
