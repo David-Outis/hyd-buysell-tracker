@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-13 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 14:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Furniture Sale: Tea Table with wheels & TV Cabinet (Koramangala)⁠](https://reddit.com/r/BangaloreMarketplace/comments/1wf7v3l/wts_furniture_sale_tea_table_with_wheels_tv/) — Price not found (score 60)
