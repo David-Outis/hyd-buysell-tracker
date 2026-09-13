@@ -1,10 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-09-13 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-13 13:03 UTC
 
 ## Mobiles
 
-- [Looking to exchange my blue techwoven case iphone 17 pro with a terracotta techwoven case. If anybody is in blr and interested please let me know.￼￼](https://reddit.com/r/BangaloreMarketplace/comments/1wf68b9/looking_to_exchange_my_blue_techwoven_case_iphone/) — Price not found (score 60)
-- [iphone 14 plus (white) - mint condition for ₹48,000 (negotiable) | Kasavanahalli, Sarjapur Road](https://reddit.com/r/BangaloreMarketplace/comments/1wf63o4/selling_iphone_14_plus_white_mint_condition_for/) — Rs.48,000 (score 105)
-- [iPhone Air brand new close to old prices](https://reddit.com/r/BangaloreMarketplace/comments/1wf5yrl/iphone_air_brand_new_close_to_old_prices/) — Rs.109,999 (score 85)
+- [iPhone 17 pro cosmic orange 256 , pristine conditionF2F deal preferred in chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1wf5wtk/wts_iphone_17_pro_cosmic_orange_256_pristine/) — Price not found (score 90)
+- [Sealed iPhone 18 Pro from US Apple Store — In-person deal in Bangalore / Kerala](https://reddit.com/r/BangaloreMarketplace/comments/1wf748i/sealed_iphone_18_pro_from_us_apple_store_inperson/) — Rs.30,000 (score 105)
+- [iPhone 14 Pro Max 256GB – White – Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wf6no8/iphone_14_pro_max_256gb_white_excellent_condition/) — Rs.56,000 (score 120)
 
 
 ## Laptops
