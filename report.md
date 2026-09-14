@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 07:03 UTC
 
 ## Mobiles
 
-- [Suggest Mobile under 15k For My sister](https://reddit.com/r/HyderabadUsedItems/comments/1wfvcye/suggest_mobile_under_15k_for_my_sister/) — Rs.15,000 (score 70)
-- [my one month old Redmi turbo 5 in excellent condition.](https://reddit.com/r/BangaloreMarketplace/comments/1wfvkbq/selling_my_one_month_old_redmi_turbo_5_in/) — Rs.33,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -23,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [For sale - new Solid Sheesham Wood Sideboard / Crockery Unit with Cabinet and Drawers](https://reddit.com/r/BangaloreMarketplace/comments/1wfvzx0/for_sale_new_solid_sheesham_wood_sideboard/) — Rs.28,000 (score 90)
