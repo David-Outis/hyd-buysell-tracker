@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 11:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,10 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Want to sell my Xbox Series X](https://reddit.com/r/ChennaiBuyAndSell/comments/1wg08xr/want_to_sell_my_xbox_series_x/) — Rs.55,000 (score 65)
+- [[LTS] PlayStation 5 Dualsense controller](https://reddit.com/r/BangaloreMarketplace/comments/1wg0396/lts_playstation_5_dualsense_controller/) — Rs.4,000 (score 100)
 
 
 ## Desktop PCs
 
-- [Need graphics card in banglore under 15k](https://reddit.com/r/BangaloreMarketplace/comments/1wfzeur/need_graphics_card_in_banglore_under_15k/) — Rs.15,000 (score 90)
+_No new desktop PC listings found in this run._
