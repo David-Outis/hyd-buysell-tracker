@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [new unused Redmi Focus pen for tablets](https://reddit.com/r/BangaloreMarketplace/comments/1wg1n5d/selling_new_unused_redmi_focus_pen_for_tablets/) — Rs.4,500 (score 85)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Playstation 1 not used brand new console price 10K negotiable](https://reddit.com/r/ChennaiBuyAndSell/comments/1wg0e14/wts_playstation_1_not_used_brand_new_console/) — Rs.10,000 (score 80)
-- [XBOX Series S with Box || Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wg12wm/selling_xbox_series_s_with_box_bangalore/) — Rs.35,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
