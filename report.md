@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 04:03 UTC
 
 ## Mobiles
 
-- [Iphone 14](https://reddit.com/r/bangloremarketplace/comments/1wfqa72/iphone_14/) — Rs.27,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox 360 S+ 16 games + 2 controllers + charging station.](https://reddit.com/r/BangaloreMarketplace/comments/1wfsw9h/selling_xbox_360_s_16_games_2_controllers/) — Rs.12,000 (score 85)
 
 
 ## Desktop PCs
