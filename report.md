@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 06:33 UTC
 
 ## Mobiles
 
-- [Motorola Edge 50 Ultra 12/512GB – Excellent Condition – ₹32,999 | Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1wfu04c/wts_motorola_edge_50_ultra_12512gb_excellent/) — Rs.32,999 (score 120)
+- [Suggest Mobile under 15k For My sister](https://reddit.com/r/HyderabadUsedItems/comments/1wfvcye/suggest_mobile_under_15k_for_my_sister/) — Rs.15,000 (score 70)
+- [my one month old Redmi turbo 5 in excellent condition.](https://reddit.com/r/BangaloreMarketplace/comments/1wfvkbq/selling_my_one_month_old_redmi_turbo_5_in/) — Rs.33,000 (score 100)
 
 
 ## Laptops
