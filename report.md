@@ -1,13 +1,15 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 17:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro Max 512GB with Apple Care+](https://reddit.com/r/BangaloreMarketplace/comments/1wg8bvl/wts_iphone_17_pro_max_512gb_with_apple_care/) — Rs.158,000 (score 90)
+- [iPhone 14 Plus 128gb US variant E-sim.](https://reddit.com/r/HyderabadUsedItems/comments/1wg913o/iphone_14_plus_128gb_us_variant_esim/) — Price not found (score 60)
+- [a Samsung Watch4 Classic 44MM 16GB GPS | ₹4000 only](https://reddit.com/r/BangaloreMarketplace/comments/1wg8v8q/selling_a_samsung_watch4_classic_44mm_16gb_gps/) — Rs.4,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[Laptop][Lenovo]ThinkPad T14 Gen 2 AMD| 16gb RAM| 256gb NVMe| ₹30500/](https://reddit.com/r/BangaloreMarketplace/comments/1wg8u1x/laptoplenovothinkpad_t14_gen_2_amd_16gb_ram_256gb/) — Rs.30,500 (score 120)
+- [Need Suggestions for buying a Macbook Air](https://reddit.com/r/BangaloreMarketplace/comments/1wg8jao/need_suggestions_for_buying_a_macbook_air/) — Rs.78,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +19,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps4 fat 1TB disc bought in 2016 with original controller](https://reddit.com/r/bangloremarketplace/comments/1wg7r0t/ps4_fat_1tb_disc_bought_in_2016_with_original/) — Rs.14,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
