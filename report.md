@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 06:03 UTC
 
 ## Mobiles
 
-- [iPhone 16 Pro Max 512 GB golden colour](https://reddit.com/r/BangaloreMarketplace/comments/1wfu78j/selling_iphone_16_pro_max_512_gb_golden_colour/) — Rs.90,000 (score 70)
+- [Motorola Edge 50 Ultra 12/512GB – Excellent Condition – ₹32,999 | Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1wfu04c/wts_motorola_edge_50_ultra_12512gb_excellent/) — Rs.32,999 (score 120)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Looking to buy a used PS5, preferablely a PS5 Slim Edition.](https://reddit.com/r/BangaloreMarketplace/comments/1wfui5n/looking_to_buy_a_used_ps5_preferablely_a_ps5_slim/) — Rs.40,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
