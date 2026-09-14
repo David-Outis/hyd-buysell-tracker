@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 09:05 UTC
 
 ## Mobiles
 
-- [iPhone 17 pro, 512 GB, only 3 battery count](https://reddit.com/r/HyderabadUsedItems/comments/1wfxmw6/iphone_17_pro_512_gb_only_3_battery_count/) — Price not found (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [THINKPAD X1 2 IN 1 GEN 9 (32/512) (Intel Core Ultra 7 165U vPro) (In warranty) [₹1.2L]](https://reddit.com/r/bangloremarketplace/comments/1wfvdla/sale_thinkpad_x1_2_in_1_gen_9_32512_intel_core/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Any ps5](https://reddit.com/r/HyderabadUsedItems/comments/1wfy0h9/any_ps5_for_sale/) — Rs.30,000 (score 85)
 
 
 ## Desktop PCs
