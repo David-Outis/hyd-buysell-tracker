@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 07:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [For sale - new Solid Sheesham Wood Sideboard / Crockery Unit with Cabinet and Drawers](https://reddit.com/r/BangaloreMarketplace/comments/1wfvzx0/for_sale_new_solid_sheesham_wood_sideboard/) — Rs.28,000 (score 90)
+_No new desktop PC listings found in this run._
