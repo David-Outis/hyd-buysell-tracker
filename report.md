@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 Pro Max 512GB with Apple Care+](https://reddit.com/r/BangaloreMarketplace/comments/1wg8bvl/wts_iphone_17_pro_max_512gb_with_apple_care/) — Rs.158,000 (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps4 fat 1TB disc bought in 2016 with original controller](https://reddit.com/r/bangloremarketplace/comments/1wg7r0t/ps4_fat_1tb_disc_bought_in_2016_with_original/) — Rs.14,000 (score 65)
 
 
 ## Desktop PCs
