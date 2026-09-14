@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 10:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy A15 (1 Year Old) – Outer Glass Cracked, Display & Touch 100% Working](https://reddit.com/r/BangaloreMarketplace/comments/1wfyrm2/samsung_galaxy_a15_1_year_old_outer_glass_cracked/) — Rs.6,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Need graphics card in banglore under 15k](https://reddit.com/r/BangaloreMarketplace/comments/1wfzeur/need_graphics_card_in_banglore_under_15k/) — Rs.15,000 (score 90)
