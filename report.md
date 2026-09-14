@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 13:03 UTC
 
 ## Mobiles
 
-- [new unused Redmi Focus pen for tablets](https://reddit.com/r/BangaloreMarketplace/comments/1wg1n5d/selling_new_unused_redmi_focus_pen_for_tablets/) — Rs.4,500 (score 85)
+- [iPhone 16 pro max 256gb UAE variant](https://reddit.com/r/BangaloreMarketplace/comments/1wg2pmn/selling_iphone_16_pro_max_256gb_uae_variant/) — Price not found (score 60)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [lenovo ideapad gaming 3 for 35k, hmu if interested. Located near Nungambakkam](https://reddit.com/r/ChennaiBuyAndSell/comments/1wg2auw/wts_selling_lenovo_ideapad_gaming_3_for_35k_hmu/) — Rs.35,000 (score 85)
+- [Apple Airpods Pro 5 - Planning to buy Macbook Air](https://reddit.com/r/BangaloreMarketplace/comments/1wg2fpt/apple_airpods_pro_5_planning_to_buy_macbook_air/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
