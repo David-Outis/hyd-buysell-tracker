@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 03:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 14](https://reddit.com/r/bangloremarketplace/comments/1wfqa72/iphone_14/) — Rs.27,000 (score 85)
 
 
 ## Laptops
