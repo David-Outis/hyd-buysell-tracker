@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-14 10:03 UTC
 
 ## Mobiles
 
-- [Samsung S25 Ultra Clear Magnetic Case for sale @400rs](https://reddit.com/r/BangaloreMarketplace/comments/1wfy8l3/samsung_s25_ultra_clear_magnetic_case_for_sale/) — Price not found (score 60)
+- [Samsung Galaxy A15 (1 Year Old) – Outer Glass Cracked, Display & Touch 100% Working](https://reddit.com/r/BangaloreMarketplace/comments/1wfyrm2/samsung_galaxy_a15_1_year_old_outer_glass_cracked/) — Rs.6,500 (score 90)
 
 
 ## Laptops
