@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-14 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 01:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Relocation Sale - Standing Lamp, Bedside Table and Laptop table](https://reddit.com/r/BangaloreMarketplace/comments/1wgaam3/relocation_sale_standing_lamp_bedside_table_and/) — Rs.800 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
