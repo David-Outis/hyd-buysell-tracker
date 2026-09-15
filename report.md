@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 13:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro Max 256GB Silver — Excellent Condition — ₹1,19,999 — Kalyan Nagar](https://reddit.com/r/BangaloreMarketplace/comments/1wgygyx/wts_iphone_17_pro_max_256gb_silver_excellent/) — Rs.119,999 (score 120)
+- [Samsung 870 EVO 2TB](https://reddit.com/r/ChennaiBuyAndSell/comments/1wgzpfz/samsung_870_evo_2tb/) — Rs.16,000 (score 70)
 
 
 ## Laptops
