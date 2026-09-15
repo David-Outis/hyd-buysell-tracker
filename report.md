@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 07:33 UTC
 
 ## Mobiles
 
-- [iPhone 16pro max 256gb](https://reddit.com/r/HyderabadUsedItems/comments/1wgspme/iphone_16pro_max_256gb/) — Rs.79,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox Game Pass Ultimate/Premium (F2F only)](https://reddit.com/r/BangaloreMarketplace/comments/1wgtjxd/sale_xbox_game_pass_ultimatepremium_f2f_only/) — Rs.750 (score 85)
 
 
 ## Desktop PCs
