@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Fish/Seafood outlet for sale in BTM 2nd Stage opposite Madiwala lake entry](https://reddit.com/r/BangaloreMarketplace/comments/1wgy9g4/fishseafood_outlet_for_sale_in_btm_2nd_stage/) — Price not found (score 60)
 
 
 ## Laptops
