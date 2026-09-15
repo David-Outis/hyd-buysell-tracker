@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16pro max 256gb](https://reddit.com/r/HyderabadUsedItems/comments/1wgspme/iphone_16pro_max_256gb/) — Rs.79,000 (score 105)
 
 
 ## Laptops
