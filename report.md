@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 16:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [2 Xbox Gamepass Essential codes for sale (No expiry) (F2F)](https://reddit.com/r/BangaloreMarketplace/comments/1wh43rd/2_xbox_gamepass_essential_codes_for_sale_no/) — Rs.1,500 (score 85)
 
 
 ## Desktop PCs
