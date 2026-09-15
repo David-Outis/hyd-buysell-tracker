@@ -1,15 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 14:03 UTC
 
 ## Mobiles
 
-- [Looking to buy an iPhone 14/15 PM. Can buy immediately.](https://reddit.com/r/HyderabadBuySell/comments/1wgzuxj/looking_to_buy_an_iphone_1415_pm_can_buy/) — Price not found (score 60)
-- [Samsung A03 Core - good condition](https://reddit.com/r/HyderabadBuySell/comments/1wgzgc2/samsung_a03_core_good_condition/) — Rs.4,000 (score 90)
-- [Iphone 16 plus 128gb Teal colour | JP nagar | 48k](https://reddit.com/r/BangaloreMarketplace/comments/1wh05px/iphone_16_plus_128gb_teal_colour_jp_nagar_48k/) — Rs.48,000 (score 85)
+- [iPhone 15pro 256gb 100%BH](https://reddit.com/r/HyderabadUsedItems/comments/1wh17td/iphone_15pro_256gb_100bh/) — Rs.60,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo Legion Go In Warranty, 10 months old](https://reddit.com/r/BangaloreMarketplace/comments/1wh1atk/wts_lenovo_legion_go_in_warranty_10_months_old/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -19,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Game Discs - Black Myth Wukong and Elden Ring](https://reddit.com/r/BangaloreMarketplace/comments/1wh0g2u/ps5_game_discs_black_myth_wukong_and_elden_ring/) — Rs.4,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [combo of Msi b760m mortar ddr5 motherboard + i5 12400f combo](https://reddit.com/r/BangaloreMarketplace/comments/1wh0lnf/selling_combo_of_msi_b760m_mortar_ddr5/) — Rs.16,999 (score 85)
