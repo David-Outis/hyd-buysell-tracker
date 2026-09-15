@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 08:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox Game Pass Ultimate/Premium (F2F only)](https://reddit.com/r/BangaloreMarketplace/comments/1wgtjxd/sale_xbox_game_pass_ultimatepremium_f2f_only/) — Rs.750 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
