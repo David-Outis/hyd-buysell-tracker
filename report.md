@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 12:33 UTC
 
 ## Mobiles
 
-- [Fish/Seafood outlet for sale in BTM 2nd Stage opposite Madiwala lake entry](https://reddit.com/r/BangaloreMarketplace/comments/1wgy9g4/fishseafood_outlet_for_sale_in_btm_2nd_stage/) — Price not found (score 60)
+- [iPhone 17 Pro Max 256GB Silver — Excellent Condition — ₹1,19,999 — Kalyan Nagar](https://reddit.com/r/BangaloreMarketplace/comments/1wgygyx/wts_iphone_17_pro_max_256gb_silver_excellent/) — Rs.119,999 (score 120)
 
 
 ## Laptops
