@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-15 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-15 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 Pro Max 256GB Silver — Mint Condition — ₹1,24,999 — Kalyan Nagar](https://reddit.com/r/BangaloreMarketplace/comments/1wgwgf9/iphone_17_pro_max_256gb_silver_mint_condition/) — Rs.124,999 (score 120)
 
 
 ## Laptops
