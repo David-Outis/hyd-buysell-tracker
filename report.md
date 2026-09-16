@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-16 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-16 13:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 WITH 2 ORIGINAL Controllers and 3 game disks for sale in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1whx7h9/ps4_with_2_original_controllers_and_3_game_disks/) — Rs.19,000 (score 80)
 
 
 ## Desktop PCs
