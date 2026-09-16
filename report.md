@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-16 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-16 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 128GB Teal | 6 Months Old | 99% Battery | ₹60,000 Negotiable | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1whsn2v/wts_iphone_16_128gb_teal_6_months_old_99_battery/) — Rs.60,000 (score 120)
 
 
 ## Laptops
