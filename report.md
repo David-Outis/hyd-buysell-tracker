@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-16 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-16 17:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Spigen 9-in-1 USB-C Hub for MacBook Neo/Air/Pro and Laptops - Dark Silver](https://reddit.com/r/BangaloreMarketplace/comments/1wi1qas/spigen_9in1_usbc_hub_for_macbook_neoairpro_and/) — Rs.4,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
