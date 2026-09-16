@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-16 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-16 18:03 UTC
 
 ## Mobiles
 
-- [iPhone 15 pro-256gb- 60k- Natural Titanium](https://reddit.com/r/BangaloreMarketplace/comments/1wi3x8g/selling_iphone_15_pro256gb_60k_natural_titanium/) — Rs.60,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
