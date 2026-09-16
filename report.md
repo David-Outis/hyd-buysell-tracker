@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-16 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-16 08:33 UTC
 
 ## Mobiles
 
-- [Realme Buds T500 Pro (8mo warranty) for ₹1950](https://reddit.com/r/BangaloreMarketplace/comments/1whqhej/realme_buds_t500_pro_8mo_warranty_for_1950/) — Rs.1,950 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Asus Tuf Gaming A16 RTX 4050, 16GB, 2TB, 144hz gaming laptop.](https://reddit.com/r/HyderabadBuySell/comments/1whoncl/asus_tuf_gaming_a16_rtx_4050_16gb_2tb_144hz/) — Rs.85,000 (score 120)
-- [Asus Rog Zephyrus G14 gaming Laptop for sale!](https://reddit.com/r/BangaloreMarketplace/comments/1whqmr0/asus_rog_zephyrus_g14_gaming_laptop_for_sale/) — Rs.40,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
