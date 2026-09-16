@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-16 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-16 12:33 UTC
 
 ## Mobiles
 
-- [Getting iphone 18 pro from UAE on October 1.45L](https://reddit.com/r/BangaloreMarketplace/comments/1whv84g/getting_iphone_18_pro_from_uae_on_october_145l/) — Price not found (score 55)
+- [iPhone 17 Pro Max 256GB Silver — Excellent Condition — ₹1,19,999 — Kammanahalli](https://reddit.com/r/BangaloreMarketplace/comments/1whvqf0/wts_iphone_17_pro_max_256gb_silver_excellent/) — Rs.119,999 (score 120)
 
 
 ## Laptops
