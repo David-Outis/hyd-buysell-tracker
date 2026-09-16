@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-16 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-16 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Getting iphone 18 pro from UAE on October 1.45L](https://reddit.com/r/BangaloreMarketplace/comments/1whv84g/getting_iphone_18_pro_from_uae_on_october_145l/) — Price not found (score 55)
 
 
 ## Laptops
