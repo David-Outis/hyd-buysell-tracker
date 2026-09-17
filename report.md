@@ -1,10 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-17 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-17 09:03 UTC
 
 ## Mobiles
 
-- [iPhone 13 128GB, No parts replaced(Purchased 2024, 100% Battery Health, Pristine in Tough Case included) - ₹31,999/- (Negotiable for F2F](https://reddit.com/r/bangloremarketplace/comments/1winsut/sale_iphone_13_128gb_no_parts_replacedpurchased/) — Rs.31,999 (score 70)
-- [Iphone 16 pro 128gb 92% battery health](https://reddit.com/r/BangaloreMarketplace/comments/1wio77f/wts_iphone_16_pro_128gb_92_battery_health/) — Rs.70,000 (score 70)
-- [Samsung t9 portable ssd 4tb - bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wio4r7/selling_samsung_t9_portable_ssd_4tb_bangalore/) — Price not found (score 60)
+- [Hey everyone, Up for sale is a brand new, iPhone Air (256GB) in Black. Condition: Brand New](https://reddit.com/r/BangaloreMarketplace/comments/1wiol3p/hey_everyone_up_for_sale_is_a_brand_new_iphone/) — Price not found (score 55)
 
 
 ## Laptops
@@ -19,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [|| PS4 Slim 500GB + 2 Controllers ||](https://reddit.com/r/BangaloreMarketplace/comments/1wioiqf/wts_ps4_slim_500gb_2_controllers/) — Rs.14,000 (score 85)
 
 
 ## Desktop PCs
