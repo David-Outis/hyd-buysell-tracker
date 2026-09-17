@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-17 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-17 10:03 UTC
 
 ## Mobiles
 
-- [my iPhone 15 Plus (128GB) - Flawless Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wiovmp/selling_my_iphone_15_plus_128gb_flawless_condition/) — Rs.48,000 (score 120)
+- [Hey everyone, Up for sale is a brand new, iPhone Air (256GB) in Black. Condition: Brand New /1 day used only Storage: 256GB Color: Black](https://reddit.com/r/BangaloreMarketplace/comments/1wiplro/hey_everyone_up_for_sale_is_a_brand_new_iphone/) — Price not found (score 55)
 
 
 ## Laptops
