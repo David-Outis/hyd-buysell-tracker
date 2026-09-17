@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-17 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-17 15:03 UTC
 
 ## Mobiles
 
-- [iPhone 📱 17 for Sale!! Price - ₹70,000 - Colour: Blue](https://reddit.com/r/BangaloreMarketplace/comments/1wivo0i/iphone_17_for_sale_price_70000_colour_blue/) — Rs.70,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,5 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC Setup](https://reddit.com/r/bangloremarketplace/comments/1wiv1uc/gaming_pc_setup_for_sale/) — Rs.65,000 (score 85)
+- [Ryzen 9 5900X](https://reddit.com/r/ChennaiBuyAndSell/comments/1wiv6ex/wts_ryzen_9_5900x/) — Rs.20,000 (score 105)
+- [Gaming PC Setup for Sale/ Price: ₹65000 (Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1wivq2b/gaming_pc_setup_for_sale_price_65000_negotiable/) — Rs.65,000 (score 85)
