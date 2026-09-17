@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-17 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-17 11:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 with controllers](https://reddit.com/r/HyderabadUsedItems/comments/1wir1y4/ps4_with_controllers_for_sale/) — Rs.21,000 (score 65)
 
 
 ## Desktop PCs
