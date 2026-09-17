@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-17 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-17 15:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Brand New Mobile Phone -20 Day old](https://reddit.com/r/bangloremarketplace/comments/1wivvad/brand_new_mobile_phone_20_day_old/) — Rs.13,999 (score 100)
 
 
 ## Laptops
@@ -22,5 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Ryzen 9 5900X](https://reddit.com/r/ChennaiBuyAndSell/comments/1wiv6ex/wts_ryzen_9_5900x/) — Rs.20,000 (score 105)
-- [Gaming PC Setup for Sale/ Price: ₹65000 (Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1wivq2b/gaming_pc_setup_for_sale_price_65000_negotiable/) — Rs.65,000 (score 85)
+_No new desktop PC listings found in this run._
