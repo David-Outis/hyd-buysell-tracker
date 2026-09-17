@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-17 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-17 08:03 UTC
 
 ## Mobiles
 
-- [Iphone 13 sell 97% battery health flawless original charger](https://reddit.com/r/bangloremarketplace/comments/1wimofv/iphone_13_sell_97_battery_health_flawless/) — Rs.28,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Marvel's Wolverine PS5 for Rs.5200](https://reddit.com/r/BangaloreMarketplace/comments/1wing45/selling_marvels_wolverine_ps5_for_rs5200/) — Rs.5,200 (score 65)
 
 
 ## Desktop PCs
