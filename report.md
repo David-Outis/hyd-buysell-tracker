@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-17 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-17 09:33 UTC
 
 ## Mobiles
 
-- [Hey everyone, Up for sale is a brand new, iPhone Air (256GB) in Black. Condition: Brand New](https://reddit.com/r/BangaloreMarketplace/comments/1wiol3p/hey_everyone_up_for_sale_is_a_brand_new_iphone/) — Price not found (score 55)
+- [my iPhone 15 Plus (128GB) - Flawless Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wiovmp/selling_my_iphone_15_plus_128gb_flawless_condition/) — Rs.48,000 (score 120)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [|| PS4 Slim 500GB + 2 Controllers ||](https://reddit.com/r/BangaloreMarketplace/comments/1wioiqf/wts_ps4_slim_500gb_2_controllers/) — Rs.14,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
