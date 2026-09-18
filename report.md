@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 18:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ghost of Yotei PS5](https://reddit.com/r/ChennaiBuyAndSell/comments/1wjvx1b/wts_ghost_of_yotei_ps5/) — Price not found (score 55)
 
 
 ## Desktop PCs
