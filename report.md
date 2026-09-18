@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 10:33 UTC
 
 ## Mobiles
 
@@ -7,17 +7,17 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Anyone buying a MacBook with student discount? I’d like to buy your AirPods 5 (Bangalore)](https://reddit.com/r/BangaloreMarketplace/comments/1wjlp3u/anyone_buying_a_macbook_with_student_discount_id/) — Rs.10,900 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Air 5th Gen (M1) 64GB + Logitech Detachable Keyboard](https://reddit.com/r/BangaloreMarketplace/comments/1wjm9q1/wts_ipad_air_5th_gen_m1_64gb_logitech_detachable/) — Rs.14,000 (score 90)
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Wolverine ps5 disc for sale preowned Rs.4500](https://reddit.com/r/BangaloreMarketplace/comments/1wjm306/wolverine_ps5_disc_for_sale_preowned_rs4500/) — Rs.4,500 (score 85)
 
 
 ## Desktop PCs
