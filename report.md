@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 06:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[Sell] Buy whatever spare part you want from my Asus Tuf laptop](https://reddit.com/r/bangloremarketplace/comments/1wjhgb2/sell_buy_whatever_spare_part_you_want_from_my/) — Rs.15,000 (score 100)
+- [my 8 gb ddr4 3200 Mhz laptop ram](https://reddit.com/r/BangaloreMarketplace/comments/1wjhjjq/selling_my_8_gb_ddr4_3200_mhz_laptop_ram/) — Rs.2,500 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
