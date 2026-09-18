@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my iphone 16 (128 gb) Teal, Only box open Un-used](https://reddit.com/r/HyderabadUsedItems/comments/1wjq7s4/selling_my_iphone_16_128_gb_teal_only_box_open/) — Price not found (score 75)
 
 
 ## Laptops
 
-- [my Eume 16L Vegan leather Laptop bag](https://reddit.com/r/BangaloreMarketplace/comments/1wjpgix/selling_my_eume_16l_vegan_leather_laptop_bag/) — Rs.4,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
