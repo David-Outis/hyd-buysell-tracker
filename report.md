@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 10:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Anyone buying a MacBook with student discount? I’d like to buy your AirPods 5 (Bangalore)](https://reddit.com/r/BangaloreMarketplace/comments/1wjlp3u/anyone_buying_a_macbook_with_student_discount_id/) — Rs.10,900 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
