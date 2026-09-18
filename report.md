@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 17:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [F1 25 PS5 Disc — Kammanahalli, Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1wjv6kx/wts_f1_25_ps5_disc_kammanahalli_bengaluru/) — Rs.3,999 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
