@@ -1,10 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 17:03 UTC
 
 ## Mobiles
 
-- [iPhone17 256GB 100%BH](https://reddit.com/r/HyderabadBuySell/comments/1wjqhxc/wts_iphone17_256gb_100bh/) — Rs.70,000 (score 120)
-- [iPhone 13 for 25k (ios27)](https://reddit.com/r/HyderabadBuySell/comments/1wjkip3/iphone_13_for_25k_ios27/) — Rs.25,000 (score 105)
-- [iPhone 17 256 Bangalore Kalyan Nagar pickup](https://reddit.com/r/BangaloreMarketplace/comments/1wjv17p/iphone_17_256_bangalore_kalyan_nagar_pickup/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -19,10 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [F1 25 PS5 Disc — Kammanahalli, Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1wjv6kx/wts_f1_25_ps5_disc_kammanahalli_bengaluru/) — Rs.3,999 (score 100)
 
 
 ## Desktop PCs
 
-- [Need 5B20Q09639 YOGA 920-13IKB i7, 16gb ram motherboard](https://reddit.com/r/HyderabadBuySell/comments/1wjq0lb/need_5b20q09639_yoga_92013ikb_i7_16gb_ram/) — Price not found (score 60)
-- [Want to sell my PC](https://reddit.com/r/HyderabadBuySell/comments/1wjj21w/want_to_sell_my_pc/) — Rs.17,000 (score 120)
+_No new desktop PC listings found in this run._
