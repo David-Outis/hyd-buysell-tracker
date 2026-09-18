@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung PM9E1 2TB Gen 5 NVMe SSD with DRAM – Unused/New](https://reddit.com/r/BangaloreMarketplace/comments/1wjo5th/selling_samsung_pm9e1_2tb_gen_5_nvme_ssd_with/) — Rs.49,999 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Marvel's Wolverine PS5 for Rs.5000 (Bashyam Circle F2F)](https://reddit.com/r/BangaloreMarketplace/comments/1wjnro7/marvels_wolverine_ps5_for_rs5000_bashyam_circle/) — Rs.5,000 (score 65)
 
 
 ## Desktop PCs
