@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 15:03 UTC
 
 ## Mobiles
 
-- [iPhone 13 128GB - JP Nagar, Bangalore - Rs. 23000](https://reddit.com/r/BangaloreMarketplace/comments/1wjr4ac/selling_iphone_13_128gb_jp_nagar_bangalore_rs/) — Rs.23,000 (score 105)
+- [Samsung Galaxy Z Fold7 for Sale or Exchange](https://reddit.com/r/BangaloreMarketplace/comments/1wjs0jg/samsung_galaxy_z_fold7_for_sale_or_exchange/) — Price not found (score 60)
 
 
 ## Laptops
