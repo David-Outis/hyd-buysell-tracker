@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 13:03 UTC
 
 ## Mobiles
 
-- [Samsung PM9E1 2TB Gen 5 NVMe SSD with DRAM – Unused/New](https://reddit.com/r/HyderabadUsedItems/comments/1wjocgm/selling_samsung_pm9e1_2tb_gen_5_nvme_ssd_with/) — Rs.8,000 (score 105)
-- [Samsung PM9E1 2TB Gen 5 NVMe SSD with DRAM – Unused/New | Chennai | Rs.49,999](https://reddit.com/r/ChennaiBuyAndSell/comments/1wjooyc/wts_samsung_pm9e1_2tb_gen_5_nvme_ssd_with_dram/) — Rs.49,999 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [my Eume 16L Vegan leather Laptop bag](https://reddit.com/r/BangaloreMarketplace/comments/1wjpgix/selling_my_eume_16l_vegan_leather_laptop_bag/) — Rs.4,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
