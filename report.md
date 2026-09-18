@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 03:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[Laptop][Lenovo]ThinkPad T14 Gen 2 AMD| 16gb RAM| 256gb NVMe| ₹28500](https://reddit.com/r/BangaloreMarketplace/comments/1wjdmjf/laptoplenovothinkpad_t14_gen_2_amd_16gb_ram_256gb/) — Rs.28,500 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
