@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Want to sell my Iphone 16 256GB - Price 55K](https://reddit.com/r/BangaloreMarketplace/comments/1wji9ch/want_to_sell_my_iphone_16_256gb_price_55k/) — Rs.55,000 (score 70)
 
 
 ## Laptops
 
-- [my 8 gb ddr4 3200 Mhz laptop ram](https://reddit.com/r/BangaloreMarketplace/comments/1wjhjjq/selling_my_8_gb_ddr4_3200_mhz_laptop_ram/) — Rs.2,500 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
