@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 05:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 pro max new](https://reddit.com/r/HyderabadUsedItems/comments/1wjfu5i/iphone_17_pro_max_new_for_sale/) — Price not found (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Anyone buying a MacBook with student discount? I’d like to buy your AirPods Pro 3 (Bangalore)](https://reddit.com/r/BangaloreMarketplace/comments/1wjgr8r/anyone_buying_a_macbook_with_student_discount_id/) — Rs.14,900 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
