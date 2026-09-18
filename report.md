@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-18 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-18 04:33 UTC
 
 ## Mobiles
 
-- [2x 4GB DDR3 laptop RAM | Samsung + Transcend | ₹200 both | Thoraipakkam, Chennai | pickup](https://reddit.com/r/ChennaiBuyAndSell/comments/1wjeqnk/wts_2x_4gb_ddr3_laptop_ram_samsung_transcend_200/) — Price not found (score 75)
+- [iPhone 17 pro max new](https://reddit.com/r/HyderabadUsedItems/comments/1wjfu5i/iphone_17_pro_max_new_for_sale/) — Price not found (score 90)
 
 
 ## Laptops
