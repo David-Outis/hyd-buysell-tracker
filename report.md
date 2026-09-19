@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 08:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Laptop for 20 thousand, HP Laptop DM](https://reddit.com/r/bangloremarketplace/comments/1wkfb9q/selling_laptop_for_20_thousand_hp_laptop_dm/) — Rs.20,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 1TB Standard](https://reddit.com/r/ChennaiBuyAndSell/comments/1wkfwn9/wts_ps4_1tb_standard/) — Rs.20,000 (score 85)
 
 
 ## Desktop PCs
