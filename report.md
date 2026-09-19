@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 14:03 UTC
 
 ## Mobiles
 
-- [Samsung S23, 128gb available](https://reddit.com/r/HyderabadBuySell/comments/1wkl85o/samsung_s23_128gb_available_for_sale/) — Rs.32,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Apple iPad Pro 13 inch M4 ( 256GB, Wi-Fi + Cellular )](https://reddit.com/r/HyderabadUsedItems/comments/1wkmy1o/selling_apple_ipad_pro_13_inch_m4_256gb_wifi/) — Rs.140,000 (score 105)
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [PC case with fans and motherboard](https://reddit.com/r/HyderabadBuySell/comments/1wkjfs5/wts_pc_case_with_fans_and_motherboard/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
