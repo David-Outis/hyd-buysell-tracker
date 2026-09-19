@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 13:33 UTC
 
 ## Mobiles
 
-- [Iphone 13 128GB 88%BH good condition mobile](https://reddit.com/r/BangaloreMarketplace/comments/1wklk4h/iphone_13_128gb_88bh_good_condition_mobile/) — Rs.30,000 (score 105)
+- [Samsung S23, 128gb available](https://reddit.com/r/HyderabadBuySell/comments/1wkl85o/samsung_s23_128gb_available_for_sale/) — Rs.32,000 (score 90)
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [dualsense ps5 controller](https://reddit.com/r/ChennaiBuyAndSell/comments/1wkkrcn/wts_dualsense_ps5_controller/) — Rs.3,900 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [PC case with fans and motherboard](https://reddit.com/r/HyderabadBuySell/comments/1wkjfs5/wts_pc_case_with_fans_and_motherboard/) — Price not found (score 60)
