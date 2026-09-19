@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [GoPro HERO 9 Black + 128GB Samsung microSD + GoPro Suction Mount + Accessories](https://reddit.com/r/BangaloreMarketplace/comments/1wknzp3/gopro_hero_9_black_128gb_samsung_microsd_gopro/) — Rs.17,500 (score 105)
 
 
 ## Laptops
 
-- [Lenovo ThinkPad USB-C Dock Gen 2 — Rs 11,000](https://reddit.com/r/HyderabadUsedItems/comments/1wkngoe/selling_lenovo_thinkpad_usbc_dock_gen_2_rs_11000/) — Rs.11,000 (score 100)
+- [Macbook Air 13 M4 - 16/255gb variant Totally New Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wkoisd/macbook_air_13_m4_16255gb_variant_totally_new/) — Rs.86,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox Series S, 512 SSD, Works perfectly comes with controller and all wires](https://reddit.com/r/BangaloreMarketplace/comments/1wkngit/xbox_series_s_512_ssd_works_perfectly_comes_with/) — Rs.37,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Used pc](https://reddit.com/r/ChennaiBuyAndSell/comments/1wkod7w/used_pc/) — Rs.25,000 (score 70)
