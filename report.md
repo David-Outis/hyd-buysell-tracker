@@ -1,10 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 11:03 UTC
 
 ## Mobiles
 
-- [For sale Oppo Find X9 12/256](https://reddit.com/r/HyderabadUsedItems/comments/1wkigio/for_sale_oppo_find_x9_12256/) — Price not found (score 70)
-- [Well maintained, Iphone 17 pro max -256gb.](https://reddit.com/r/BangaloreMarketplace/comments/1wkidls/well_maintained_iphone_17_pro_max_256gb/) — Rs.120,000 (score 85)
-- [For sale Oppo Find X9 12/256 pan india delivery](https://reddit.com/r/BangaloreMarketplace/comments/1wkidfd/for_sale_oppo_find_x9_12256_pan_india_delivery/) — Price not found (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
