@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 07:04 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 07:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Laptop for 20 thousand, HP Laptop DM](https://reddit.com/r/bangloremarketplace/comments/1wkfb9q/selling_laptop_for_20_thousand_hp_laptop_dm/) — Rs.20,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Zotac RTX 4070 Ti Super 16GB Solid [OEM] graphics card](https://reddit.com/r/BangaloreMarketplace/comments/1wkeqpo/zotac_rtx_4070_ti_super_16gb_solid_oem_graphics/) — Rs.82,500 (score 105)
+_No new desktop PC listings found in this run._
