@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 06:04 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Kingston 16GB DDR4 2666MHz Desktop RAM | KVR26N19D8/16 | Working](https://reddit.com/r/BangaloreMarketplace/comments/1wkd8x7/kingston_16gb_ddr4_2666mhz_desktop_ram/) — Rs.6,000 (score 105)
+- [Gaming PC. Ryzen 7 5800X3D | 32GB DDR4 RAM | 1tb SSD Nvme | RTX 5070 12GB](https://reddit.com/r/BangaloreMarketplace/comments/1wkdu5i/selling_gaming_pc_ryzen_7_5800x3d_32gb_ddr4_ram/) — Rs.95,000 (score 120)
