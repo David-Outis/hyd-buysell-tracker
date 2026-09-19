@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 09:33 UTC
 
 ## Mobiles
 
-- [8gb DDR4 RAM (Samsung)...........](https://reddit.com/r/BangaloreMarketplace/comments/1wkh0kj/selling_8gb_ddr4_ram_samsung/) — Rs.6,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Discs - Elden Ring & Gran Turismo 7](https://reddit.com/r/BangaloreMarketplace/comments/1wkh64h/wts_ps5_discs_elden_ring_gran_turismo_7/) — Rs.2,500 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
