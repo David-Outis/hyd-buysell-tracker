@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 05:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Kingston 16GB DDR4 2666MHz Desktop RAM | KVR26N19D8/16 | Working](https://reddit.com/r/BangaloreMarketplace/comments/1wkd8x7/kingston_16gb_ddr4_2666mhz_desktop_ram/) — Rs.6,000 (score 105)
