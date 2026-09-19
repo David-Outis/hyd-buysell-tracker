@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 32GB DDR5 Laptop RAM – 2×16GB 4800MHz](https://reddit.com/r/BangaloreMarketplace/comments/1wkq37g/selling_samsung_32gb_ddr5_laptop_ram_216gb_4800mhz/) — Rs.29,999 (score 90)
 
 
 ## Laptops
 
-- [Infinix i3 10th to 12th gen 8gb 256gb ssd laptops for sale 20-25k](https://reddit.com/r/BangaloreMarketplace/comments/1wkprvf/infinix_i3_10th_to_12th_gen_8gb_256gb_ssd_laptops/) — Rs.20,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
