@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-19 06:04 UTC
+# Hyderabad Buy/Sell Report - 2026-09-19 06:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,8 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Apple MacBook Air M1 (8GB RAM / 256GB SSD)](https://reddit.com/r/HyderabadBuySell/comments/1wkea9f/wts_apple_macbook_air_m1_8gb_ram_256gb_ssd/) — Rs.32,000 (score 120)
+- [THINKPAD X1 2 IN 1 GEN 9 (32/512) (Intel Core Ultra 7 165U vPro) (In warranty) [₹1.2L] [Bangalore]](https://reddit.com/r/HyderabadUsedItems/comments/1wkdpbt/thinkpad_x1_2_in_1_gen_9_32512_intel_core_ultra_7/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC. Ryzen 7 5800X3D | 32GB DDR4 RAM | 1tb SSD Nvme | RTX 5070 12GB](https://reddit.com/r/BangaloreMarketplace/comments/1wkdu5i/selling_gaming_pc_ryzen_7_5800x3d_32gb_ddr4_ram/) — Rs.95,000 (score 120)
+_No new desktop PC listings found in this run._
