@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 14:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Anyone wanna purchase macbook m2 for 59k](https://reddit.com/r/BangaloreMarketplace/comments/1wli3sa/anyone_wanna_purchase_macbook_m2_for_59k/) — Rs.59,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
