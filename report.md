@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy S22 Ultra Back Cover Case | Fusion X - Black unopened unused](https://reddit.com/r/BangaloreMarketplace/comments/1wl8ywq/samsung_galaxy_s22_ultra_back_cover_case_fusion_x/) — Rs.1,000 (score 85)
 
 
 ## Laptops
 
-- [THINKPAD X1 2 IN 1 GEN 9 (32/512) (Intel Core Ultra 7 165U vPro) (19-months warranty remaining) [₹1.2L]](https://reddit.com/r/BangaloreMarketplace/comments/1wl8g6e/thinkpad_x1_2_in_1_gen_9_32512_intel_core_ultra_7/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox series S with box and all accounts in great condition](https://reddit.com/r/BangaloreMarketplace/comments/1wl95t6/xbox_series_s_with_box_and_all_accounts_in_great/) — Price not found (score 50)
 
 
 ## Desktop PCs
