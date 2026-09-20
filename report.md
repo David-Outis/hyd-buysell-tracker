@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [📱 iPhone 17 Cover for Sale Whitefield Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wlm545/iphone_17_cover_for_sale_whitefield_bangalore/) — Price not found (score 75)
 
 
 ## Laptops
 
-- [MacBook Air 13" M4 – 16GB / 256GB (Exellent Condition)](https://reddit.com/r/BangaloreMarketplace/comments/1wllf58/wts_macbook_air_13_m4_16gb_256gb_exellent/) — Rs.82,000 (score 100)
+- [Macbook Air M1 2022 | 8GB | 256 GB | Selling](https://reddit.com/r/BangaloreMarketplace/comments/1wlmdzv/macbook_air_m1_2022_8gb_256_gb_selling/) — Rs.50,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
