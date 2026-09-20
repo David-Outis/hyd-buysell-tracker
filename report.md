@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 09:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC / PC Components for Sale – ₹35,000](https://reddit.com/r/BangaloreMarketplace/comments/1wlbgn9/gaming_pc_pc_components_for_sale_35000/) — Rs.35,000 (score 100)
+_No new desktop PC listings found in this run._
