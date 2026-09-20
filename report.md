@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy M12](https://reddit.com/r/HyderabadBuySell/comments/1wli0uw/samsung_galaxy_m12/) — Rs.6,000 (score 70)
+- [iPhone 16 Pro Max 256GB – Natural Titanium | ₹90,000](https://reddit.com/r/BangaloreMarketplace/comments/1wljbe7/iphone_16_pro_max_256gb_natural_titanium_90000/) — Rs.90,000 (score 105)
 
 
 ## Laptops
 
-- [Anyone wanna purchase macbook m2 for 59k](https://reddit.com/r/BangaloreMarketplace/comments/1wli3sa/anyone_wanna_purchase_macbook_m2_for_59k/) — Rs.59,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
