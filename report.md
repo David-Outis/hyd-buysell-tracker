@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 11:03 UTC
 
 ## Mobiles
 
@@ -7,17 +7,17 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [ASUS Vivobook 15 Laptop (2020) - 13k](https://reddit.com/r/bangloremarketplace/comments/1wld6ro/selling_asus_vivobook_15_laptop_2020_13k/) — Rs.13,000 (score 90)
+- [Macbook M1 Sale](https://reddit.com/r/ChennaiBuyAndSell/comments/1wld921/macbook_m1_sale/) — Rs.35,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Air M2 8/128 WiFi Only - Blue - 91% BH, 191 Cycles - 21 Month Old - Marathahalli](https://reddit.com/r/BangaloreMarketplace/comments/1wldrpc/ipad_air_m2_8128_wifi_only_blue_91_bh_191_cycles/) — Rs.45,000 (score 90)
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [FIFA 16 PS4 Disc Works On PS5 too](https://reddit.com/r/BangaloreMarketplace/comments/1wldx9t/selling_fifa_16_ps4_disc_works_on_ps5_too/) — Rs.500 (score 65)
 
 
 ## Desktop PCs
