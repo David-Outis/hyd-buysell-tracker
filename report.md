@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 08:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [[Trade] Mac Mini M4, trading Xbox Series X Bundle](https://reddit.com/r/BangaloreMarketplace/comments/1wlb00n/trade_mac_mini_m4_trading_xbox_series_x_bundle/) — Rs.50,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC / PC Components for Sale – ₹35,000](https://reddit.com/r/BangaloreMarketplace/comments/1wlbgn9/gaming_pc_pc_components_for_sale_35000/) — Rs.35,000 (score 100)
