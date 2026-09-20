@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 05:33 UTC
 
 ## Mobiles
 
-- [Need OnePlus Nord buds 3 pro charging case](https://reddit.com/r/HyderabadBuySell/comments/1wl6lsy/need_oneplus_nord_buds_3_pro_charging_case/) — Price not found (score 60)
-- [[SELL] Samsung Galaxy S26 Ultra 12GB/256GB Black — Sealed, Indian unit, bill dated 18 Sept 2026, full 1-yr warranty — ₹1,09,999 — Manikonda pickup](https://reddit.com/r/HyderabadBuySell/comments/1wl2qnf/sell_samsung_galaxy_s26_ultra_12gb256gb_black/) — Rs.109,999 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
