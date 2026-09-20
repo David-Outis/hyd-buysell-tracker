@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 08:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Apple MacBook Air M2 15inch 8gb/256gb version](https://reddit.com/r/BangaloreMarketplace/comments/1wla8ln/apple_macbook_air_m2_15inch_8gb256gb_version/) — Rs.58,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [[Trade] Mac Mini M4, trading Xbox Series X Bundle](https://reddit.com/r/BangaloreMarketplace/comments/1wlb00n/trade_mac_mini_m4_trading_xbox_series_x_bundle/) — Rs.50,000 (score 85)
 
 
 ## Desktop PCs
