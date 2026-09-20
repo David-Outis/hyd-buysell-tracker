@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 10:33 UTC
 
 ## Mobiles
 
-- [Poco F6 new and unused](https://reddit.com/r/HyderabadUsedItems/comments/1wlcrg2/poco_f6_new_and_unused_for_sale/) — Rs.20,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [HP Laptop, How much should i sell this for?](https://reddit.com/r/BangaloreMarketplace/comments/1wlcvgv/hp_laptop_how_much_should_i_sell_this_for/) — Price not found (score 90)
+- [ASUS Vivobook 15 Laptop (2020) - 13k](https://reddit.com/r/bangloremarketplace/comments/1wld6ro/selling_asus_vivobook_15_laptop_2020_13k/) — Rs.13,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 digital version under warranty 3 months old](https://reddit.com/r/BangaloreMarketplace/comments/1wlcwr7/ps5_digital_version_under_warranty_3_months_old/) — Rs.56,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
