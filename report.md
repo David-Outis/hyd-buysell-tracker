@@ -1,23 +1,24 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy s10 plus good condition 128gb 4gb ram display second hand.](https://reddit.com/r/BangaloreMarketplace/comments/1wlejei/samsung_galaxy_s10_plus_good_condition_128gb_4gb/) — Rs.10,000 (score 90)
+- [R36H + 2× Samsung EVO 128GB MicroSD Cards | ARKOS + Games Loaded Selling my R36H handheld emulator along with 2× Samsung EVO 128GB MicroSD cards.](https://reddit.com/r/BangaloreMarketplace/comments/1wleboe/selling_r36h_2_samsung_evo_128gb_microsd_cards/) — Rs.5,000 (score 70)
 
 
 ## Laptops
 
-- [Macbook M1 Sale](https://reddit.com/r/ChennaiBuyAndSell/comments/1wld921/macbook_m1_sale/) — Rs.35,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Air M2 8/128 WiFi Only - Blue - 91% BH, 191 Cycles - 21 Month Old - Marathahalli](https://reddit.com/r/BangaloreMarketplace/comments/1wldrpc/ipad_air_m2_8128_wifi_only_blue_91_bh_191_cycles/) — Rs.45,000 (score 90)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [FIFA 16 PS4 Disc Works On PS5 too](https://reddit.com/r/BangaloreMarketplace/comments/1wldx9t/selling_fifa_16_ps4_disc_works_on_ps5_too/) — Rs.500 (score 65)
+- [Wolverine PS5 Disc Brand New.....](https://reddit.com/r/BangaloreMarketplace/comments/1wle8fe/selling_wolverine_ps5_disc_brand_new/) — Price not found (score 50)
 
 
 ## Desktop PCs
