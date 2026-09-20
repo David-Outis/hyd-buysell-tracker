@@ -1,23 +1,23 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 10:03 UTC
 
 ## Mobiles
 
-- [Oneplus pad 2 with Stylo 2 and Folio Case](https://reddit.com/r/BangaloreMarketplace/comments/1wlcbdz/selling_oneplus_pad_2_with_stylo_2_and_folio_case/) — Rs.31,000 (score 105)
+- [Poco F6 new and unused](https://reddit.com/r/HyderabadUsedItems/comments/1wlcrg2/poco_f6_new_and_unused_for_sale/) — Rs.20,000 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [HP Laptop, How much should i sell this for?](https://reddit.com/r/BangaloreMarketplace/comments/1wlcvgv/hp_laptop_how_much_should_i_sell_this_for/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple iPad 11th Gen 128GB – 100% Battery Health | 33 Cycles | Urgent Sell](https://reddit.com/r/BangaloreMarketplace/comments/1wlcfxz/apple_ipad_11th_gen_128gb_100_battery_health_33/) — Rs.37,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 digital version under warranty 3 months old](https://reddit.com/r/BangaloreMarketplace/comments/1wlcwr7/ps5_digital_version_under_warranty_3_months_old/) — Rs.56,000 (score 80)
 
 
 ## Desktop PCs
