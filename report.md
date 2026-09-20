@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 12:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Acer Aspire 7. i8/512gb. i5 9th Gen. GTX 1650.](https://reddit.com/r/BangaloreMarketplace/comments/1wlflb5/acer_aspire_7_i8512gb_i5_9th_gen_gtx_1650/) — Rs.20,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
