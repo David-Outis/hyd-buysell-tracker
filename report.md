@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-20 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-20 07:33 UTC
 
 ## Mobiles
 
-- [Brand New Iphone 17(Any Color) at 85k](https://reddit.com/r/BangaloreMarketplace/comments/1wl9jyc/selling_brand_new_iphone_17any_color_at_85k/) — Rs.85,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Apple MacBook Air M2 15inch 8gb/256gb version](https://reddit.com/r/BangaloreMarketplace/comments/1wla8ln/apple_macbook_air_m2_15inch_8gb256gb_version/) — Rs.58,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
