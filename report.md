@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 06:33 UTC
 
 ## Mobiles
 
-- [iPhone Air for a price cheaper then market price by 20k](https://reddit.com/r/BangaloreMarketplace/comments/1wm4aor/selling_iphone_air_for_a_price_cheaper_then/) — Rs.20,000 (score 85)
+- [Original Apple Cable[C to Lightning Cable]+ iPhone Cases[1 Spigen] & 1 other – Good Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wm4vgr/wts_original_apple_cablec_to_lightning_cable/) — Price not found (score 60)
 
 
 ## Laptops
