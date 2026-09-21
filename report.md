@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 10:03 UTC
 
 ## Mobiles
 
-- [IPhone 15Plus(Pink) 128 GB for sale in Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wm7wo8/iphone_15pluspink_128_gb_for_sale_in_bangalore/) — Rs.69,900 (score 105)
+- [Iphone 17 pro max 256gb](https://reddit.com/r/HyderabadBuySell/comments/1wm6sxn/iphone_17_pro_max_256gb/) — Rs.130,000 (score 85)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [THINKPAD X1 2 IN 1 GEN 9 (32/512) (Intel Core Ultra 7 165U vPro) (19-months warranty) [₹1.2L]](https://reddit.com/r/BangaloreMarketplace/comments/1wm876d/thinkpad_x1_2_in_1_gen_9_32512_intel_core_ultra_7/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 Pro 1TB Jailbroken (11.00) with Box, 26k](https://reddit.com/r/BangaloreMarketplace/comments/1wm8cxx/ps4_pro_1tb_jailbroken_1100_with_box_26k/) — Rs.26,000 (score 65)
 
 
 ## Desktop PCs
