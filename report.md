@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 13:33 UTC
 
 ## Mobiles
 
-- [Samsung s25ultra 12/256 with box 72k](https://reddit.com/r/HyderabadUsedItems/comments/1wmbsom/samsung_s25ultra_12256_with_box_72k/) — Rs.72,000 (score 70)
-- [Looking to exchange my blue techwoven case iphone 17 pro with a terracotta techwoven case. If anybody is in blr and interested please let me know.￼￼](https://reddit.com/r/BangaloreMarketplace/comments/1wmc56g/looking_to_exchange_my_blue_techwoven_case_iphone/) — Price not found (score 60)
+- [Samsung Galaxy s10 plus good condition 128gb 4gb ram display second hand.](https://reddit.com/r/bangloremarketplace/comments/1wmblku/samsung_galaxy_s10_plus_good_condition_128gb_4gb/) — Rs.8,000 (score 90)
 
 
 ## Laptops
