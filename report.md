@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 09:03 UTC
 
 ## Mobiles
 
-- [Brand New POPIO Transparent & Open Tech Privacy Tempered Glass (6.3" iPhone 17)-[Photos Attached]](https://reddit.com/r/BangaloreMarketplace/comments/1wm6izt/wts_brand_new_popio_transparent_open_tech_privacy/) — Price not found (score 55)
+- [IPhone 17 pro max](https://reddit.com/r/HyderabadUsedItems/comments/1wm777l/iphone_17_pro_max/) — Rs.130,000 (score 100)
 
 
 ## Laptops
