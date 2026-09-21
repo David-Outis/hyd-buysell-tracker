@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 09:33 UTC
 
 ## Mobiles
 
-- [IPhone 17 pro max](https://reddit.com/r/HyderabadUsedItems/comments/1wm777l/iphone_17_pro_max/) — Rs.130,000 (score 100)
+- [IPhone 15Plus(Pink) 128 GB for sale in Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wm7wo8/iphone_15pluspink_128_gb_for_sale_in_bangalore/) — Rs.69,900 (score 105)
 
 
 ## Laptops
