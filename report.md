@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 03:33 UTC
 
 ## Mobiles
 
-- [iPhone 11 128GB Purple – Excellent Condition – ₹15,200 – Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1wm0xak/wts_iphone_11_128gb_purple_excellent_condition/) — Rs.15,200 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [[Chennai] AMD Ryzen 3 3200G + Stock Cooler — ₹4,300](https://reddit.com/r/ChennaiBuyAndSell/comments/1wm082o/wts_chennai_amd_ryzen_3_3200g_stock_cooler_4300/) — Rs.4,300 (score 90)
+_No new desktop PC listings found in this run._
