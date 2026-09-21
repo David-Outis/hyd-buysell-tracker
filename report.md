@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung galaxy S22plus 5g (8gb,128gb) Snapdragon 8 Gen 1](https://reddit.com/r/BangaloreMarketplace/comments/1wm21r1/samsung_galaxy_s22plus_5g_8gb128gb_snapdragon_8/) — Rs.23,000 (score 70)
 
 
 ## Laptops
