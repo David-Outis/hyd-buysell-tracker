@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 08:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 14 plus 128, 82% battery health](https://reddit.com/r/BangaloreMarketplace/comments/1wm6gh0/wts_iphone_14_plus_128_82_battery_health/) — Price not found (score 60)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps5 digital edition ( bought yesterday from croma)](https://reddit.com/r/ChennaiBuyAndSell/comments/1wm64o6/wts_ps5_digital_edition_bought_yesterday_from/) — Rs.63,000 (score 65)
 
 
 ## Desktop PCs
