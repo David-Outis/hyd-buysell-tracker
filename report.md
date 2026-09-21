@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-21 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-21 04:33 UTC
 
 ## Mobiles
 
-- [Samsung galaxy S22plus 5g (8gb,128gb) Snapdragon 8 Gen 1](https://reddit.com/r/BangaloreMarketplace/comments/1wm21r1/samsung_galaxy_s22plus_5g_8gb128gb_snapdragon_8/) — Rs.23,000 (score 70)
+- [Samsung Galaxy S26 Ultra - Daily Objects Case](https://reddit.com/r/BangaloreMarketplace/comments/1wm29yu/samsung_galaxy_s26_ultra_daily_objects_case/) — Rs.1,500 (score 70)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC Ryzen 5 7500F RTX 3060 Ti for Sale- ₹1,20,000](https://reddit.com/r/BangaloreMarketplace/comments/1wm27j2/gaming_pc_ryzen_5_7500f_rtx_3060_ti_for_sale/) — Rs.120,000 (score 100)
