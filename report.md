@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 16:03 UTC
 
 ## Mobiles
 
-- [OPPO Find X8 Pro 5G (16GB RAM, 512GB ROM) - Space Black](https://reddit.com/r/BangaloreMarketplace/comments/1wnc14e/oppo_find_x8_pro_5g_16gb_ram_512gb_rom_space_black/) — Rs.55,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
