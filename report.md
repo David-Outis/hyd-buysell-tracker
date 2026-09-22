@@ -1,13 +1,15 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17E Brand New Sealed](https://reddit.com/r/ChennaiBuyAndSell/comments/1wn6vxl/iphone_17e_brand_new_sealed/) — Rs.67,000 (score 120)
+- [iPhone 13 256GB (PRODUCT)RED – Perfect Condition – ₹28,000 Negotiable](https://reddit.com/r/BangaloreMarketplace/comments/1wn6n27/wts_iphone_13_256gb_productred_perfect_condition/) — Rs.28,000 (score 120)
+- [Iphone 16 Under Armour Gear[UAG] Case](https://reddit.com/r/BangaloreMarketplace/comments/1wn5wag/iphone_16_under_armour_gearuag_case_for_sale/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [Rog Strix selling gaming laptop](https://reddit.com/r/bangloremarketplace/comments/1wn56a3/rog_strix_selling_gaming_laptop/) — Price not found (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
