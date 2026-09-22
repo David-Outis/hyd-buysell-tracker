@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iphone 16 pro max 256GB - Natural Titanium](https://reddit.com/r/BangaloreMarketplace/comments/1wn3sac/selling_iphone_16_pro_max_256gb_natural_titanium/) — Rs.86,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ANT ESports dock for PS5 with cooling fan and controller chargers.](https://reddit.com/r/BangaloreMarketplace/comments/1wn3g3z/selling_ant_esports_dock_for_ps5_with_cooling_fan/) — Rs.1,699 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
