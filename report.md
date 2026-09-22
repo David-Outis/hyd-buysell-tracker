@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 14:33 UTC
 
 ## Mobiles
 
-- [Samsung s24 fe (without any scratches,in new condition)](https://reddit.com/r/BangaloreMarketplace/comments/1wna2tu/selling_samsung_s24_fe_without_any_scratchesin/) — Rs.28,000 (score 105)
+- [IPHONE 12 MINI (128)](https://reddit.com/r/HyderabadUsedItems/comments/1wnap55/iphone_12_mini_128/) — Rs.15,000 (score 85)
 
 
 ## Laptops
