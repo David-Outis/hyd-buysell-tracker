@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 07:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MacBook Pro 14-inch M5 Pro, 24GB/1TB - ₹2,49,999 - Bengaluru F2F](https://reddit.com/r/BangaloreMarketplace/comments/1wn1hiu/wts_macbook_pro_14inch_m5_pro_24gb1tb_249999/) — Rs.249,999 (score 90)
+- [Apple MacBook Pro 14” (M5 Chip / 16GB RAM / 1TB SSD / 10-Core CPU & 10-Core GPU / Space Black)](https://reddit.com/r/ChennaiBuyAndSell/comments/1wn1wy6/wts_selling_apple_macbook_pro_14_m5_chip_16gb_ram/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming pc I7 3770k and gtx 1080 8GB with 500GB SSD AND 16GB DDR3 RAM.](https://reddit.com/r/BangaloreMarketplace/comments/1wn24a2/gaming_pc_i7_3770k_and_gtx_1080_8gb_with_500gb/) — Price not found (score 75)
