@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 17:33 UTC
 
 ## Mobiles
 
-- [Iphone 14 Pro Deep Purple ( Mint Condition)](https://reddit.com/r/HyderabadBuySell/comments/1wnehrn/selling_iphone_14_pro_deep_purple_mint_condition/) — Rs.44,000 (score 85)
-- [[Tablet][Samsung] Tab S11 - 12/128 gb variant - Wifi only + Samsung Slim book cover keyboard + Spigen armor case - Price - 75k](https://reddit.com/r/HyderabadBuySell/comments/1wnboe6/tabletsamsung_tab_s11_12128_gb_variant_wifi_only/) — Rs.75,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -13,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Pro 13-inch (M5) Wi-Fi + Cellular (256gb)](https://reddit.com/r/BangaloreMarketplace/comments/1wnf9ou/ipad_pro_13inch_m5_wifi_cellular_256gb/) — Price not found (score 55)
 
 
 ## Game Consoles
