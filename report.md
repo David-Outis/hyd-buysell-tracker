@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 11:03 UTC
 
 ## Mobiles
 
-- [my iPhone 17 Pro (256GB) – Dubai/Global variant, 1 month old.](https://reddit.com/r/BangaloreMarketplace/comments/1wn5p9g/selling_my_iphone_17_pro_256gb_dubaiglobal/) — Rs.107,000 (score 100)
-- [Selliny iphone 14 pro, 128gb, purple, dual esim](https://reddit.com/r/BangaloreMarketplace/comments/1wn5gvr/selliny_iphone_14_pro_128gb_purple_dual_esim/) — Rs.39,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Rog Strix selling gaming laptop](https://reddit.com/r/bangloremarketplace/comments/1wn56a3/rog_strix_selling_gaming_laptop/) — Price not found (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -23,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [MSI Pro B650-M P AM5 socket motherboard for sale, brand new for 9k](https://reddit.com/r/BangaloreMarketplace/comments/1wn5gsg/msi_pro_b650m_p_am5_socket_motherboard_for_sale/) — Rs.9,000 (score 85)
+_No new desktop PC listings found in this run._
