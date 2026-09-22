@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 13:03 UTC
 
 ## Mobiles
 
-- [Galaxy Z Fold 4 12/256 — for parts/repair project](https://reddit.com/r/BangaloreMarketplace/comments/1wn7y3y/selling_galaxy_z_fold_4_12256_for_partsrepair/) — Rs.10,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo Laptop – ₹30,000 Selling my Lenovo laptop in good condition.](https://reddit.com/r/BangaloreMarketplace/comments/1wn8f3d/wts_lenovo_laptop_30000_selling_my_lenovo_laptop/) — Rs.30,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
