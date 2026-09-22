@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 02:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [IPHONE 18 PRO MAX](https://reddit.com/r/HyderabadBuySell/comments/1wmwdcf/iphone_18_pro_max/) — Price not found (score 75)
 
 
 ## Laptops
