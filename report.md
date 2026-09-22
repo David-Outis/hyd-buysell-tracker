@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 07:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 12 screen broken display working 15k](https://reddit.com/r/BangaloreMarketplace/comments/1wn2f58/iphone_12_screen_broken_display_working_15k/) — Rs.15,000 (score 70)
 
 
 ## Laptops
 
-- [Apple MacBook Pro 14” (M5 Chip / 16GB RAM / 1TB SSD / 10-Core CPU & 10-Core GPU / Space Black)](https://reddit.com/r/ChennaiBuyAndSell/comments/1wn1wy6/wts_selling_apple_macbook_pro_14_m5_chip_16gb_ram/) — Price not found (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Ipad pro m2 128gb with apple pencil 2nd gen](https://reddit.com/r/BangaloreMarketplace/comments/1wn2d6i/ipad_pro_m2_128gb_with_apple_pencil_2nd_gen/) — Price not found (score 75)
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming pc I7 3770k and gtx 1080 8GB with 500GB SSD AND 16GB DDR3 RAM.](https://reddit.com/r/BangaloreMarketplace/comments/1wn24a2/gaming_pc_i7_3770k_and_gtx_1080_8gb_with_500gb/) — Price not found (score 75)
+_No new desktop PC listings found in this run._
