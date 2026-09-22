@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung s24 fe (without any scratches,in new condition)](https://reddit.com/r/BangaloreMarketplace/comments/1wna2tu/selling_samsung_s24_fe_without_any_scratchesin/) — Rs.28,000 (score 105)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Disc 4months old](https://reddit.com/r/HyderabadUsedItems/comments/1wn99oq/selling_ps5_disc_4months_old/) — Rs.65,000 (score 100)
-- [PS5 DualSense Controller – Grey Camo | Bangalore (ASAP)](https://reddit.com/r/BangaloreMarketplace/comments/1wn9m3o/wts_ps5_dualsense_controller_grey_camo_bangalore/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
