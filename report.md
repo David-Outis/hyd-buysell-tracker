@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 09:33 UTC
 
 ## Mobiles
 
-- [iphone 16 pro max 256GB - Natural Titanium](https://reddit.com/r/BangaloreMarketplace/comments/1wn3sac/selling_iphone_16_pro_max_256gb_natural_titanium/) — Rs.86,000 (score 105)
+- [iPhone 18 Pro Magsafe Case. Brand new. Suits, 17 Pro as well.](https://reddit.com/r/bangloremarketplace/comments/1wn4q7u/iphone_18_pro_magsafe_case_brand_new_suits_17_pro/) — Price not found (score 55)
 
 
 ## Laptops
