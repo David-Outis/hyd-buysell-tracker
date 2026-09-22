@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-22 08:03 UTC
 
 ## Mobiles
 
-- [Iphone 12 screen broken display working 15k](https://reddit.com/r/BangaloreMarketplace/comments/1wn2f58/iphone_12_screen_broken_display_working_15k/) — Rs.15,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [laptop](https://reddit.com/r/ChennaiBuyAndSell/comments/1wn32kg/laptop/) — Rs.40,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Ipad pro m2 128gb with apple pencil 2nd gen](https://reddit.com/r/BangaloreMarketplace/comments/1wn2d6i/ipad_pro_m2_128gb_with_apple_pencil_2nd_gen/) — Price not found (score 75)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Older PC / PC Parts – ₹10,000 for everything](https://reddit.com/r/HyderabadUsedItems/comments/1wn3485/selling_older_pc_pc_parts_10000_for_everything/) — Rs.10,000 (score 70)
