@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 10:03 UTC
 
 ## Mobiles
 
-- [Realme Book 16/512 | ₹45,000 Negotiable | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wo0w8j/realme_book_16512_45000_negotiable_bangalore/) — Rs.45,000 (score 120)
+- [IPhone 15 pro Max - 256 GB with 92 percent battery health - Read description](https://reddit.com/r/HyderabadUsedItems/comments/1wo1ju8/wts_iphone_15_pro_max_256_gb_with_92_percent/) — Rs.2,000 (score 90)
 
 
 ## Laptops
 
-- [MacBook Pro 14" M1 Pro 16/512 | ₹85,000 Negotiable | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wo0rrg/macbook_pro_14_m1_pro_16512_85000_negotiable/) — Rs.85,000 (score 105)
-- [my ASUS rog strix g16 gaming laptop](https://reddit.com/r/BangaloreMarketplace/comments/1wo0qoi/selling_my_asus_rog_strix_g16_gaming_laptop/) — Rs.240,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
