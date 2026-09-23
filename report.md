@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 08:34 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 09:03 UTC
 
 ## Mobiles
 
-- [my pixel 8 Pixel 8 used mainly as secondary phone with box everything working well and original and phone is in very good condition small dents and scratches there which are barely noticeable and reason for selling is upgraded to pixel 10](https://reddit.com/r/BangaloreMarketplace/comments/1wo02no/selling_my_pixel_8_pixel_8_used_mainly_as/) — Rs.24,000 (score 85)
+- [Spinbot Mag V1 mobile cooler. Box piece.](https://reddit.com/r/BangaloreMarketplace/comments/1wo0mn7/spinbot_mag_v1_mobile_cooler_box_piece/) — Rs.1,549 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Good price for victus rtx3050 laptop, rarely used.](https://reddit.com/r/BangaloreMarketplace/comments/1wo0q9h/good_price_for_victus_rtx3050_laptop_rarely_used/) — Rs.65,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
