@@ -1,10 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 13:33 UTC
 
 ## Mobiles
 
-- [IPhone 14 128GB – Starlight | ₹26,000](https://reddit.com/r/HyderabadUsedItems/comments/1wo5av9/wts_iphone_14_128gb_starlight_26000/) — Rs.26,000 (score 70)
-- [Iphone 16 pro 128gb Ind](https://reddit.com/r/HyderabadUsedItems/comments/1wo4vrx/iphone_16_pro_128gb_ind/) — Price not found (score 55)
-- [Iphone 18 pro/pro max in Bangalore/Mysore](https://reddit.com/r/BangaloreMarketplace/comments/1wo54m4/iphone_18_propro_max_in_bangaloremysore/) — Price not found (score 60)
+- [my iPhone 17 pro max (256gb, Cosmic orange) under warranty with apple care + till dec](https://reddit.com/r/BangaloreMarketplace/comments/1wo63r7/selling_my_iphone_17_pro_max_256gb_cosmic_orange/) — Price not found (score 75)
 
 
 ## Laptops
@@ -19,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [(LTB) Looking to buy Black myth wukong / God of war ragnarok ps5 pre-owned disc in bangalore. Only F2F around marathahalli](https://reddit.com/r/BangaloreMarketplace/comments/1wo5456/ltb_looking_to_buy_black_myth_wukong_god_of_war/) — Price not found (score 55)
+- [Wolverine PS5.](https://reddit.com/r/HyderabadUsedItems/comments/1wo5m4g/selling_wolverine_ps5/) — Rs.4,500 (score 65)
+- [Ps4 Standard 1TB, firmware 10.01 jailbreakable](https://reddit.com/r/bangloremarketplace/comments/1wo5lzr/ps4_standard_1tb_firmware_1001_jailbreakable/) — Rs.18,000 (score 65)
 
 
 ## Desktop PCs
