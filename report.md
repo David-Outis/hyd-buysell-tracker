@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 14:03 UTC
 
 ## Mobiles
 
-- [my iPhone 17 pro max (256gb, Cosmic orange) under warranty with apple care + till dec](https://reddit.com/r/BangaloreMarketplace/comments/1wo63r7/selling_my_iphone_17_pro_max_256gb_cosmic_orange/) — Price not found (score 75)
+- [my iPhone 15 plus (128GB) - Flawless Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wo6o2j/selling_my_iphone_15_plus_128gb_flawless_condition/) — Rs.47,000 (score 120)
 
 
 ## Laptops
@@ -17,10 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Wolverine PS5.](https://reddit.com/r/HyderabadUsedItems/comments/1wo5m4g/selling_wolverine_ps5/) — Rs.4,500 (score 65)
-- [Ps4 Standard 1TB, firmware 10.01 jailbreakable](https://reddit.com/r/bangloremarketplace/comments/1wo5lzr/ps4_standard_1tb_firmware_1001_jailbreakable/) — Rs.18,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [16GB (2x8GB) DDR4 3200MHz CL16 Desktop RAM Kit ₹9,000 + Shipping / Local Pickup Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1wo65l5/wts_16gb_2x8gb_ddr4_3200mhz_cl16_desktop_ram_kit/) — Rs.9,000 (score 90)
