@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 08:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my pixel 8 Pixel 8 used mainly as secondary phone with box everything working well and original and phone is in very good condition small dents and scratches there which are barely noticeable and reason for selling is upgraded to pixel 10](https://reddit.com/r/BangaloreMarketplace/comments/1wo02no/selling_my_pixel_8_pixel_8_used_mainly_as/) — Rs.24,000 (score 85)
 
 
 ## Laptops
 
-- [1mo ThinkPad E16 Gen3 | 3yr warranty | 72,500INR](https://reddit.com/r/HyderabadBuySell/comments/1wnwkhg/1mo_thinkpad_e16_gen3_3yr_warranty_72500inr/) — Rs.72,500 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
