@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 12:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M2 | Mint Condition | 97% BH](https://reddit.com/r/BangaloreMarketplace/comments/1wo42et/wts_macbook_air_m2_mint_condition_97_bh/) — Rs.62,999 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
