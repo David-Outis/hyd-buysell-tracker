@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 10:33 UTC
 
 ## Mobiles
 
-- [IPhone 15 pro Max - 256 GB with 92 percent battery health - Read description](https://reddit.com/r/HyderabadUsedItems/comments/1wo1ju8/wts_iphone_15_pro_max_256_gb_with_92_percent/) — Rs.2,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Crimson desert ps5 disc . Price : 4000](https://reddit.com/r/BangaloreMarketplace/comments/1wo1swl/selling_crimson_desert_ps5_disc_price_4000/) — Price not found (score 55)
 
 
 ## Desktop PCs
