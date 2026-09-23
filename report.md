@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-22 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 01:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung s25 with box 12gb ram 128gb 42k](https://reddit.com/r/HyderabadUsedItems/comments/1wnqbt2/samsung_s25_with_box_12gb_ram_128gb_42k/) — Rs.42,000 (score 70)
 
 
 ## Laptops
