@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 07:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [good Laptop with Mouse FREE in Whitefield ITPL bangalorr](https://reddit.com/r/BangaloreMarketplace/comments/1wnylue/selling_good_laptop_with_mouse_free_in_whitefield/) — Price not found (score 75)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
