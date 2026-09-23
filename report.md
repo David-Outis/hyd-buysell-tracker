@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-23 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-23 16:08 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [brand new magic keyboard for ipad pro 13 | 30k](https://reddit.com/r/ChennaiBuyAndSell/comments/1wo9bzy/wts_brand_new_magic_keyboard_for_ipad_pro_13_30k/) — Rs.30,000 (score 85)
 
 
 ## Game Consoles
