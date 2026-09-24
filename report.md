@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 09:33 UTC
 
 ## Mobiles
 
-- [5K Google Store coupon for Google Pixel 11 series phone for 500rs](https://reddit.com/r/BangaloreMarketplace/comments/1wowl3p/selling_5k_google_store_coupon_for_google_pixel/) — Rs.5,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Compact Mini PC - AMD Ryzen 5 3400G](https://reddit.com/r/BangaloreMarketplace/comments/1wowhen/wts_compact_mini_pc_amd_ryzen_5_3400g/) — Rs.16,999 (score 120)
+_No new desktop PC listings found in this run._
