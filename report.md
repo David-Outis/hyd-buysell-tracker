@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 08:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Bhai koi mobile dilado I'm having 30k and want to experience ios .....](https://reddit.com/r/BangaloreMarketplace/comments/1wove6n/bhai_koi_mobile_dilado_im_having_30k_and_want_to/) — Rs.30,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Wolverine PS5 for Sale | #Wolverine #PS5](https://reddit.com/r/BangaloreMarketplace/comments/1woufta/wolverine_ps5_for_sale_wolverine_ps5/) — Rs.4,800 (score 65)
 
 
 ## Desktop PCs
