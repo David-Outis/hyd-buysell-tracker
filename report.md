@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 09:03 UTC
 
 ## Mobiles
 
-- [Iphone 16 pro max](https://reddit.com/r/HyderabadUsedItems/comments/1wow0hf/iphone_16_pro_max/) — Price not found (score 55)
+- [5K Google Store coupon for Google Pixel 11 series phone for 500rs](https://reddit.com/r/BangaloreMarketplace/comments/1wowl3p/selling_5k_google_store_coupon_for_google_pixel/) — Rs.5,000 (score 70)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Compact Mini PC - AMD Ryzen 5 3400G](https://reddit.com/r/BangaloreMarketplace/comments/1wowhen/wts_compact_mini_pc_amd_ryzen_5_3400g/) — Rs.16,999 (score 120)
