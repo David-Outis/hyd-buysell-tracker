@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Buds 3 pro With Original Invoice Copy-Madurai](https://reddit.com/r/BangaloreMarketplace/comments/1wozail/selling_samsung_buds_3_pro_with_original_invoice/) — Rs.6,500 (score 85)
 
 
 ## Laptops
