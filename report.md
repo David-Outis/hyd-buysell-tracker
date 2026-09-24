@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 04:04 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 04:34 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 256GB + Apple 30W Charger - BTM Layout, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wos36b/wts_iphone_17_256gb_apple_30w_charger_btm_layout/) — Rs.70,000 (score 120)
 
 
 ## Laptops
