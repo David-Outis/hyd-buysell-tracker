@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 12:33 UTC
 
 ## Mobiles
 
-- [Samsung Buds 3 pro With Original Invoice Copy-Madurai](https://reddit.com/r/BangaloreMarketplace/comments/1wozail/selling_samsung_buds_3_pro_with_original_invoice/) — Rs.6,500 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Apple iPad Pro 12.9” M2 6th Gen – 128GB Wi-Fi + Cellular + Apple Pencil 2 (Excellent condition)](https://reddit.com/r/BangaloreMarketplace/comments/1wozvrs/apple_ipad_pro_129_m2_6th_gen_128gb_wifi_cellular/) — Rs.74,999 (score 120)
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [ps5 and ps4 AAA physical games in mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1wp0859/wts_ps5_and_ps4_aaa_physical_games_in_mint/) — Rs.2,500 (score 100)
 
 
 ## Desktop PCs
