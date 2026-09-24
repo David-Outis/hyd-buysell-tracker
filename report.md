@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 18:03 UTC
 
 ## Mobiles
 
-- [Smartphones/tab under 2k offers open](https://reddit.com/r/HyderabadUsedItems/comments/1wp7xnz/smartphonestab_under_2k_offers_open/) — Rs.2,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming pc](https://reddit.com/r/HyderabadUsedItems/comments/1wp88wq/gaming_pc_for_sale/) — Price not found (score 55)
