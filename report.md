@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 16:33 UTC
 
 ## Mobiles
 
-- [Apple iPhone 17 - 256GB (Sage) | 9 Months Old | Under Warranty](https://reddit.com/r/BangaloreMarketplace/comments/1wp5d5f/apple_iphone_17_256gb_sage_9_months_old_under/) — Rs.72,000 (score 120)
-- [iPhone 17 Mist Blue | Bill + Box | ₹70K.](https://reddit.com/r/BangaloreMarketplace/comments/1wp4zf9/iphone_17_mist_blue_bill_box_70k/) — Rs.70,000 (score 70)
+- [iPhone 17 Mist Blue — ₹70,000](https://reddit.com/r/bangloremarketplace/comments/1wp51f4/wts_iphone_17_mist_blue_70000/) — Rs.70,000 (score 70)
 
 
 ## Laptops
