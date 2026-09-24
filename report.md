@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-24 03:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Pixel 11 Series 5K Discount Code at Google Store @ 1.5K](https://reddit.com/r/BangaloreMarketplace/comments/1woqunu/pixel_11_series_5k_discount_code_at_google_store/) — Rs.5,000 (score 70)
 
 
 ## Laptops
