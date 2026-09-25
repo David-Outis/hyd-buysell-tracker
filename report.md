@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 11:33 UTC
 
 ## Mobiles
 
-- [Samsung soundbar 2.1 300w 3 month old](https://reddit.com/r/ChennaiBuyAndSell/comments/1wpsqyd/samsung_soundbar_21_300w_3_month_old/) — Rs.7,000 (score 85)
+- [Iphone 17 @Old MRP | Bengaluru | Stock available](https://reddit.com/r/BangaloreMarketplace/comments/1wptubk/iphone_17_old_mrp_bengaluru_stock_available/) — Price not found (score 60)
+- [Nike Air Max Moto 2K | Brand New | ₹10,000 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wptspe/nike_air_max_moto_2k_brand_new_10000_bangalore/) — Rs.2,000 (score 105)
 
 
 ## Laptops
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Cabinet+Liquid Cooler+4 argb mystic fans+Argb gpu holder](https://reddit.com/r/BangaloreMarketplace/comments/1wpswjj/selling_cabinetliquid_cooler4_argb_mystic/) — Rs.4,000 (score 70)
+_No new desktop PC listings found in this run._
