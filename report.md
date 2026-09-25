@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-24 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 01:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming pc](https://reddit.com/r/HyderabadUsedItems/comments/1wp88wq/gaming_pc_for_sale/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
