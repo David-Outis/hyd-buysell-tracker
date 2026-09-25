@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Powermax fitness Tredmill TDM-97 4HP - Manual Incline Motorized Foldable Treadmill with 12 preset Workouts](https://reddit.com/r/BangaloreMarketplace/comments/1wpo88a/powermax_fitness_tredmill_tdm97_4hp_manual/) — Rs.8,000 (score 105)
 
 
 ## Laptops
