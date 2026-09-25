@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 09:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [my Lenovo Ideapad Gaming 3 Laptop](https://reddit.com/r/BangaloreMarketplace/comments/1wpqxbe/selling_my_lenovo_ideapad_gaming_3_laptop/) — Rs.50,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
