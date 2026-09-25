@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Repost: looking to exchange my 18pro black base US variant with iPhone 17](https://reddit.com/r/BangaloreMarketplace/comments/1wpx5xd/repost_looking_to_exchange_my_18pro_black_base_us/) — Rs.56,000 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Apple Macbook Air 2017 (180 cycle counts only)](https://reddit.com/r/BangaloreMarketplace/comments/1wpx2i0/apple_macbook_air_2017_180_cycle_counts_only/) — Rs.18,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
