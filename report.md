@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 04:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone SE 2020 64GB – 100% Battery Health – 21 Cycles – Like New](https://reddit.com/r/BangaloreMarketplace/comments/1wpmuka/wts_iphone_se_2020_64gb_100_battery_health_21/) — Rs.15,000 (score 85)
 
 
 ## Laptops
