@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 12:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M4, 16GB | 256GB SSD – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wpupam/wts_macbook_air_m4_16gb_256gb_ssd_bangalore/) — Rs.75,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Exchange Asus Zephyrus g14 with steam deck](https://reddit.com/r/HyderabadUsedItems/comments/1wptzs2/exchange_asus_zephyrus_g14_with_steam_deck/) — Rs.60,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
