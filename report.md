@@ -1,25 +1,25 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 08:03 UTC
 
 ## Mobiles
 
-- [Perfect Condition | SAMSUNG Tab A9+ 5G |128 GB | 8 GB RAM | Invoice available](https://reddit.com/r/BangaloreMarketplace/comments/1wpq0tt/perfect_condition_samsung_tab_a9_5g_128_gb_8_gb/) — Rs.11,500 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Cosmic Byte RGB Hydroid Cooling Fan for Laptops ( Location - Frazer Town )](https://reddit.com/r/BangaloreMarketplace/comments/1wpq61b/selling_cosmic_byte_rgb_hydroid_cooling_fan_for/) — Rs.650 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Looking to Buy Ipad Air (M2/M3/M4) with Apple Pencil Pro](https://reddit.com/r/BangaloreMarketplace/comments/1wppyaq/looking_to_buy_ipad_air_m2m3m4_with_apple_pencil/) — Price not found (score 60)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [crimson desert ps5 disc . 4000rs](https://reddit.com/r/BangaloreMarketplace/comments/1wpq0lu/selling_crimson_desert_ps5_disc_4000rs/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [i3 10100 and MSI h410m Pro motherboard](https://reddit.com/r/BangaloreMarketplace/comments/1wpqfl0/selling_i3_10100_and_msi_h410m_pro_motherboard/) — Rs.6,500 (score 70)
