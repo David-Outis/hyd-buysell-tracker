@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 10:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro — Dubai Unit | Like New | AppleCare+](https://reddit.com/r/HyderabadBuySell/comments/1wppfw6/iphone_17_pro_dubai_unit_like_new_applecare/) — Rs.120,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [1mo ThinkPad E16 Gen3 | 3yr warranty, almost new](https://reddit.com/r/HyderabadUsedItems/comments/1wprvze/1mo_thinkpad_e16_gen3_3yr_warranty_almost_new/) — Rs.72,500 (score 120)
+- [Macbook Pro M5 16Gb unified 512 storage with warranty](https://reddit.com/r/BangaloreMarketplace/comments/1wpsab6/macbook_pro_m5_16gb_unified_512_storage_with/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,10 +18,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 disc drive and 1 tb ssd card](https://reddit.com/r/HyderabadUsedItems/comments/1wprmr4/sale_ps5_disc_drive_and_1_tb_ssd_card/) — Rs.15,500 (score 65)
-- [For sale ps5 games](https://reddit.com/r/HyderabadUsedItems/comments/1wprlgj/for_sale_ps5_games/) — Rs.3,200 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [MSI B850M gaming Plus WiFi 6E AM5 - MATX motherboard 13k](https://reddit.com/r/HyderabadUsedItems/comments/1wpriv5/selling_msi_b850m_gaming_plus_wifi_6e_am5_matx/) — Rs.13,000 (score 85)
+- [Solid wood 4x3 feet pooja cabinet/mandir](https://reddit.com/r/BangaloreMarketplace/comments/1wps8kj/selling_solid_wood_4x3_feet_pooja_cabinetmandir/) — Rs.2,500 (score 90)
