@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-25 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-25 11:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Tab S10 Plus Wi-Fi (256GB) & Buds 3 Pro](https://reddit.com/r/HyderabadUsedItems/comments/1wpsqro/wts_samsung_galaxy_tab_s10_plus_wifi_256gb_buds_3/) — Price not found (score 75)
+- [Samsung soundbar 2.1 300w 3 month old](https://reddit.com/r/ChennaiBuyAndSell/comments/1wpsqyd/samsung_soundbar_21_300w_3_month_old/) — Rs.7,000 (score 85)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Cabinet+Liquid Cooler+4 argb mystic fans+Argb gpu holder](https://reddit.com/r/BangaloreMarketplace/comments/1wpswjj/selling_cabinetliquid_cooler4_argb_mystic/) — Rs.4,000 (score 70)
