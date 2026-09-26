@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-26 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-26 12:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [God of War Ragnarok- PS5 in great almost mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1wqp61z/wts_god_of_war_ragnarok_ps5_in_great_almost_mint/) — Price not found (score 50)
 
 
 ## Desktop PCs
