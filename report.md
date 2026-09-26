@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-26 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-26 10:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [ThinkPad E16 Gen3 | 3yr warranty, almost new](https://reddit.com/r/HyderabadUsedItems/comments/1wqluch/thinkpad_e16_gen3_3yr_warranty_almost_new/) — Rs.72,500 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
