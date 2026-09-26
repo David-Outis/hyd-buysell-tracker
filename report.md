@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-26 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-26 13:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Macbook Air M3 (8/256GB) for sale !! ₹72000](https://reddit.com/r/BangaloreMarketplace/comments/1wqppf1/macbook_air_m3_8256gb_for_sale_72000/) — Rs.72,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
