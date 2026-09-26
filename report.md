@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-26 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-26 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 Controllers (2 Pieces) | Acer Nitro Katana](https://reddit.com/r/BangaloreMarketplace/comments/1wqklzs/ps4_controllers_2_pieces_acer_nitro_katana/) — Rs.800 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
