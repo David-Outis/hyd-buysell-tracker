@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-26 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-26 16:03 UTC
 
 ## Mobiles
 
@@ -7,12 +7,12 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [HP Hyperx omen 15 gaming laptop with Nvidia 5060](https://reddit.com/r/BangaloreMarketplace/comments/1wqti8t/hp_hyperx_omen_15_gaming_laptop_with_nvidia_5060/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Unactivated IPad Pro](https://reddit.com/r/HyderabadUsedItems/comments/1wqtdpj/selling_unactivated_ipad_pro/) — Rs.10,000 (score 105)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
