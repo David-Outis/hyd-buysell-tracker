@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [samsung s21fe with a ***MOTHERBOARD ISSUE***](https://reddit.com/r/BangaloreMarketplace/comments/1wrj44m/wts_samsung_s21fe_with_a_motherboard_issue/) — Rs.40,000 (score 85)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps4 1 TB firmware 10.01](https://reddit.com/r/bangloremarketplace/comments/1wricq0/wts_ps4_1_tb_firmware_1001/) — Rs.16,000 (score 65)
-- [Ps4 1 TB firmware 10.01 price 16k non negotiable](https://reddit.com/r/BangaloreMarketplace/comments/1wristo/wts_ps4_1_tb_firmware_1001_price_16k_non/) — Rs.16,000 (score 65)
+- [UNCHARTED REMASTERED PS5 Game - Disc in good condition](https://reddit.com/r/BangaloreMarketplace/comments/1wrjm62/selling_uncharted_remastered_ps5_game_disc_in/) — Rs.1,800 (score 85)
 
 
 ## Desktop PCs
