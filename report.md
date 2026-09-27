@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 12:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps4 1 TB firmware 10.01](https://reddit.com/r/bangloremarketplace/comments/1wricq0/wts_ps4_1_tb_firmware_1001/) — Rs.16,000 (score 65)
+- [Ps4 1 TB firmware 10.01 price 16k non negotiable](https://reddit.com/r/BangaloreMarketplace/comments/1wristo/wts_ps4_1_tb_firmware_1001_price_16k_non/) — Rs.16,000 (score 65)
 
 
 ## Desktop PCs
