@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 08:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy S23 Ultra 512GB - Green | ₹45,000](https://reddit.com/r/BangaloreMarketplace/comments/1wre3x7/samsung_galaxy_s23_ultra_512gb_green_45000/) — Rs.45,000 (score 90)
 
 
 ## Laptops
