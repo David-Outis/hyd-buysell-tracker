@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 08:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S23 Ultra 512GB - Green | ₹45,000](https://reddit.com/r/BangaloreMarketplace/comments/1wre3x7/samsung_galaxy_s23_ultra_512gb_green_45000/) — Rs.45,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Mint iPad Pro M4 13 WiFi + Cellular 256Gb](https://reddit.com/r/BangaloreMarketplace/comments/1wreohx/mint_ipad_pro_m4_13_wifi_cellular_256gb/) — Rs.10,000 (score 105)
 
 
 ## Game Consoles
