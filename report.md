@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 13:33 UTC
 
 ## Mobiles
 
-- [samsung s21fe with a ***MOTHERBOARD ISSUE***](https://reddit.com/r/BangaloreMarketplace/comments/1wrj44m/wts_samsung_s21fe_with_a_motherboard_issue/) — Rs.40,000 (score 85)
+- [Samsung A03 Core](https://reddit.com/r/HyderabadBuySell/comments/1wrdzxf/samsung_a03_core/) — Rs.3,000 (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [UNCHARTED REMASTERED PS5 Game - Disc in good condition](https://reddit.com/r/BangaloreMarketplace/comments/1wrjm62/selling_uncharted_remastered_ps5_game_disc_in/) — Rs.1,800 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
