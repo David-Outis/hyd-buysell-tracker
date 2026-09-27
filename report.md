@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 02:03 UTC
 
 ## Mobiles
 
-- [Samsung A35 5G](https://reddit.com/r/HyderabadUsedItems/comments/1wr6lp4/samsung_a35_5g/) — Rs.10,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
