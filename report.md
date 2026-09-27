@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 04:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC. Intel i9 14900KS | 64GB Gskill DDR5 | 4080 Super 16GB | 2TB SSD NVME](https://reddit.com/r/BangaloreMarketplace/comments/1wr97l2/selling_gaming_pc_intel_i9_14900ks_64gb_gskill/) — Rs.230,000 (score 120)
+_No new desktop PC listings found in this run._
