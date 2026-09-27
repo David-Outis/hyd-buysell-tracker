@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-26 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 01:33 UTC
 
 ## Mobiles
 
-- [Sealed iPhone 17 pro max (256 GB) for 1.35L](https://reddit.com/r/HyderabadBuySell/comments/1wqnet9/sealed_iphone_17_pro_max_256_gb_for_135l/) — Rs.135,000 (score 105)
-- [Google Pixel 9 (Obsidian Black), 256Gb (Box/Bill) (Excellent condition) | Bengaluru F2F](https://reddit.com/r/BangaloreMarketplace/comments/1wqwwf1/google_pixel_9_obsidian_black_256gb_boxbill/) — Rs.42,500 (score 120)
+- [Samsung A35 5G](https://reddit.com/r/HyderabadUsedItems/comments/1wr6lp4/samsung_a35_5g/) — Rs.10,000 (score 70)
 
 
 ## Laptops
@@ -13,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [unactivated IPad Pro](https://reddit.com/r/HyderabadBuySell/comments/1wqtasy/selling_unactivated_ipad_pro/) — Price not found (score 75)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [looking to buy xbox series S 1TB in Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1wqny5b/looking_to_buy_xbox_series_s_1tb_in_hyderabad/) — Rs.30,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
