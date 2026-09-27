@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 14:03 UTC
 
 ## Mobiles
 
-- [Samsung A03 Core](https://reddit.com/r/HyderabadBuySell/comments/1wrdzxf/samsung_a03_core/) — Rs.3,000 (score 90)
+- [my iPhone 15 plus(perfect condition)](https://reddit.com/r/BangaloreMarketplace/comments/1wrknod/selling_my_iphone_15_plusperfect_condition/) — Rs.47,000 (score 90)
 
 
 ## Laptops
