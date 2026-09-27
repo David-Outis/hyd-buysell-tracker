@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 06:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Can I buy used ps5 at 75k.](https://reddit.com/r/HyderabadUsedItems/comments/1wrc67i/can_i_buy_used_ps5_at_75k/) — Rs.75,000 (score 65)
 
 
 ## Desktop PCs
