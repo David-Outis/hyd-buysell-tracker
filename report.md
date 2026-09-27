@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 16:03 UTC
 
 ## Mobiles
 
-- [Oneplus Nord 5 Backcover](https://reddit.com/r/ChennaiBuyAndSell/comments/1wrn105/oneplus_nord_5_backcover/) — Price not found (score 75)
+- [Want to sell iPhone XR 64GB in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1wrn0w4/want_to_sell_iphone_xr_64gb_in_excellent_condition/) — Rs.11,000 (score 105)
 
 
 ## Laptops
