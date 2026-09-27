@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-27 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-27 14:33 UTC
 
 ## Mobiles
 
-- [my iPhone 15 plus(perfect condition)](https://reddit.com/r/BangaloreMarketplace/comments/1wrknod/selling_my_iphone_15_plusperfect_condition/) — Rs.47,000 (score 90)
+- [Koi hume bhi phone sell kardo 🥀 30k tak iPhone please](https://reddit.com/r/BangaloreMarketplace/comments/1wrl6us/koi_hume_bhi_phone_sell_kardo_30k_tak_iphone/) — Rs.30,000 (score 70)
 
 
 ## Laptops
