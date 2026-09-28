@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 04:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Macbook air m1 16gb/256gb for sale in bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1ws466y/macbook_air_m1_16gb256gb_for_sale_in_bangalore/) — Rs.47,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
