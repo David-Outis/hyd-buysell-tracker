@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 13:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 — Hyderabad | ₹70,000](https://reddit.com/r/HyderabadUsedItems/comments/1wsdh0i/wts_iphone_17_hyderabad_70000/) — Rs.70,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Playstation 5 Web Camera](https://reddit.com/r/ChennaiBuyAndSell/comments/1wsdlub/playstation_5_web_camera/) — Rs.2,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [7700x with 5060 (under warranty) Mid level gaming PC](https://reddit.com/r/BangaloreMarketplace/comments/1wse6sy/wts_7700x_with_5060_under_warranty_mid_level/) — Rs.99,999 (score 120)
