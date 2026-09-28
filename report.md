@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 05:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PlayStation4 500gb variant with 3 games](https://reddit.com/r/BangaloreMarketplace/comments/1ws5c0r/selling_playstation4_500gb_variant_with_3_games/) — Rs.16,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
