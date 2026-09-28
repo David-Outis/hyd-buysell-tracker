@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Brand new 256GB iPhone Air in Black, picked up this September and never had a SIM card inserted. As a longtime Samsung user, I quickly realized the iOS interface just isn’t for me. The device is in pristine, untouched condition—drop me a DM if you’re interested!](https://reddit.com/r/BangaloreMarketplace/comments/1wsistb/brand_new_256gb_iphone_air_in_black_picked_up/) — Price not found (score 55)
 
 
 ## Laptops
