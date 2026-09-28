@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 14:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [7700x with 5060 (under warranty) Mid level gaming PC](https://reddit.com/r/BangaloreMarketplace/comments/1wse6sy/wts_7700x_with_5060_under_warranty_mid_level/) — Rs.99,999 (score 120)
+_No new desktop PC listings found in this run._
