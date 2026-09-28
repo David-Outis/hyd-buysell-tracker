@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 17:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my 3 year old Google pixel 7 pro](https://reddit.com/r/HyderabadUsedItems/comments/1wskurq/selling_my_3_year_old_google_pixel_7_pro/) — Rs.10,000 (score 90)
 
 
 ## Laptops
 
-- [(Rs 89,999) Selling my Acer Predator Helios 300 Intel Core i9 11th Gen 11900H (Gaming Laptop)[Rarely Used]](https://reddit.com/r/BangaloreMarketplace/comments/1wsjrgh/rs_89999_selling_my_acer_predator_helios_300/) — Rs.89,999 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
