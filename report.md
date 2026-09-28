@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 8 Plus - Urgent Sale](https://reddit.com/r/HyderabadUsedItems/comments/1ws6e2a/iphone_8_plus_urgent_sale/) — Rs.3,000 (score 85)
+- [[Smartphone] Galaxy S25 Ultra 12/256 – Bill + box, good condition](https://reddit.com/r/BangaloreMarketplace/comments/1ws6b96/smartphone_galaxy_s25_ultra_12256_bill_box_good/) — Rs.6,000 (score 85)
 
 
 ## Laptops
