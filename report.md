@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 12:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 Pro 1 TB with additional red controller](https://reddit.com/r/BangaloreMarketplace/comments/1wsd6d4/ps4_pro_1_tb_with_additional_red_controller_for/) — Rs.22,000 (score 85)
 
 
 ## Desktop PCs
