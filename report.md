@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 17:03 UTC
 
 ## Mobiles
 
-- [Brand new 256GB iPhone Air in Black, picked up this September and never had a SIM card inserted. As a longtime Samsung user, I quickly realized the iOS interface just isn’t for me. The device is in pristine, untouched condition—drop me a DM if you’re interested!](https://reddit.com/r/BangaloreMarketplace/comments/1wsistb/brand_new_256gb_iphone_air_in_black_picked_up/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [(Rs 89,999) Selling my Acer Predator Helios 300 Intel Core i9 11th Gen 11900H (Gaming Laptop)[Rarely Used]](https://reddit.com/r/BangaloreMarketplace/comments/1wsjrgh/rs_89999_selling_my_acer_predator_helios_300/) — Rs.89,999 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
