@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-28 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-28 02:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oppo enco buds 2 ( I don't need it anymore)](https://reddit.com/r/BangaloreMarketplace/comments/1ws2bn0/oppo_enco_buds_2_i_dont_need_it_anymore/) — Price not found (score 55)
 
 
 ## Laptops
