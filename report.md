@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 11:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Nintendo switch Mario edition](https://reddit.com/r/bangloremarketplace/comments/1wt4qx8/nintendo_switch_mario_edition/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
