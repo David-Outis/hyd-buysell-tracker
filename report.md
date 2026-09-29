@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 15:03 UTC
 
 ## Mobiles
 
-- [IPhone 14 | 128 GB | 2 Years Old](https://reddit.com/r/BangaloreMarketplace/comments/1wtb0bf/selling_iphone_14_128_gb_2_years_old/) — Rs.40,000 (score 85)
+- [Vivo v50 Mobile for sale 8&256Gb with Original Charger Brand New Condition](https://reddit.com/r/HyderabadUsedItems/comments/1wtc5nf/vivo_v50_mobile_for_sale_8256gb_with_original/) — Price not found (score 55)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Buying macbook for my personal use ( any apple silicon chip)](https://reddit.com/r/BangaloreMarketplace/comments/1wtcbdq/buying_macbook_for_my_personal_use_any_apple/) — Rs.40,000 (score 90)
+- [macbook m2 8gb 256gb urgently!from hubli 91 % health for 44k 💨](https://reddit.com/r/BangaloreMarketplace/comments/1wtbr6d/selling_macbook_m2_8gb_256gb_urgentlyfrom_hubli/) — Rs.44,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
