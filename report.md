@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 07:33 UTC
 
 ## Mobiles
 
-- [iPhone 4s (no charger)](https://reddit.com/r/HyderabadUsedItems/comments/1wt2txl/selling_iphone_4s_no_charger/) — Rs.2,000 (score 70)
+- [Samsung Galaxy Z Fold7 256GB Black | Excellent Condition | Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1wt3e4o/samsung_galaxy_z_fold7_256gb_black_excellent/) — Rs.98,000 (score 120)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Planning to sell this laptop how much should I sell it for ?](https://reddit.com/r/BangaloreMarketplace/comments/1wt3lgr/planning_to_sell_this_laptop_how_much_should_i/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
