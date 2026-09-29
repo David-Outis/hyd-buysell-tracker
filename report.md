@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 05:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Nintendo switch lite (modded) - 32 GB](https://reddit.com/r/BangaloreMarketplace/comments/1wt0wvj/nintendo_switch_lite_modded_32_gb_for_sale/) — Rs.14,000 (score 85)
 
 
 ## Desktop PCs
