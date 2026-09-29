@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 4s (no charger)](https://reddit.com/r/HyderabadUsedItems/comments/1wt2txl/selling_iphone_4s_no_charger/) — Rs.2,000 (score 70)
 
 
 ## Laptops
