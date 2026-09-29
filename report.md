@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 16:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 13 parts Rs12000 chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1wt5yxk/iphone_13_parts_rs12000_chennai/) — Rs.12,000 (score 90)
 
 
 ## Laptops
 
-- [MacBook pro m1](https://reddit.com/r/HyderabadUsedItems/comments/1wtcmy8/wts_macbook_pro_m1/) — Rs.50,000 (score 70)
+- [my HP Pavilion Gaming laptop in good working condition with original charger](https://reddit.com/r/BangaloreMarketplace/comments/1wtdc7e/selling_my_hp_pavilion_gaming_laptop_in_good/) — Rs.30,500 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Nintendo Switch OLED + Zelda BOTW + Pokémon Legends: Arceus — ₹28,000](https://reddit.com/r/BangaloreMarketplace/comments/1wtcrzu/nintendo_switch_oled_zelda_botw_pokémon_legends/) — Rs.28,000 (score 115)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
