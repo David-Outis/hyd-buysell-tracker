@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 10:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [1 Month old gaming laptop](https://reddit.com/r/HyderabadBuySell/comments/1wt3ic9/1_month_old_gaming_laptop/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Nintendo switch Mario edition in perfect mint condition including accessories.](https://reddit.com/r/BangaloreMarketplace/comments/1wt5d3g/nintendo_switch_mario_edition_in_perfect_mint/) — Price not found (score 70)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
