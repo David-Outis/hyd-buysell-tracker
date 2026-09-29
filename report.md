@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 14:03 UTC
 
 ## Mobiles
 
-- [Samsung evo plus 256 gb sd card mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1wt9x3r/selling_samsung_evo_plus_256_gb_sd_card_mint/) — Rs.1,500 (score 85)
-- [iPhone 15 Pro 128 GB Natural Titanium with Apple Care Plus](https://reddit.com/r/BangaloreMarketplace/comments/1wt9s2i/wts_iphone_15_pro_128_gb_natural_titanium_with/) — Rs.68,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
