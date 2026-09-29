@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 03:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Old Laptop Selling](https://reddit.com/r/HyderabadBuySell/comments/1wsyqkb/old_laptop_selling/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
