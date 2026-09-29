@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 14:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [IPhone 14 | 128 GB | 2 Years Old](https://reddit.com/r/BangaloreMarketplace/comments/1wtb0bf/selling_iphone_14_128_gb_2_years_old/) — Rs.40,000 (score 85)
 
 
 ## Laptops
