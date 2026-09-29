@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iphone 13 Pro in sierra blue, 128gb. Battery replaced 2 weeks ago!](https://reddit.com/r/BangaloreMarketplace/comments/1wt7kpl/iphone_13_pro_in_sierra_blue_128gb_battery/) — Price not found (score 55)
 
 
 ## Laptops
