@@ -1,16 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 08:33 UTC
 
 ## Mobiles
 
-- [Pixel 8a](https://reddit.com/r/HyderabadUsedItems/comments/1wt422g/pixel_8a/) — Price not found (score 60)
-- [iPhone 17 Pro Max ( Japan,256) in warranty](https://reddit.com/r/BangaloreMarketplace/comments/1wt43f8/iphone_17_pro_max_japan256_in_warranty/) — Price not found (score 75)
-- [redmi A1+ phone (Light Gray, 32 GB, 2 GB RAM)](https://reddit.com/r/BangaloreMarketplace/comments/1wt3tdk/selling_redmi_a1_phone_light_gray_32_gb_2_gb_ram/) — Price not found (score 60)
-- [iPhone 14 Pro Max, Purple , very rarely used](https://reddit.com/r/BangaloreMarketplace/comments/1wt3rz6/iphone_14_pro_max_purple_very_rarely_used/) — Rs.50,000 (score 70)
+- [Iphone 14 pro, 128gb purple, dual esim, 79% battery](https://reddit.com/r/BangaloreMarketplace/comments/1wt4j42/iphone_14_pro_128gb_purple_dual_esim_79_battery/) — Rs.38,000 (score 70)
+- [What would be a fair listing & closing price for a flawless Samsung Galaxy S24+ (256 GB, expired warranty)?](https://reddit.com/r/BangaloreMarketplace/comments/1wt4e70/what_would_be_a_fair_listing_closing_price_for_a/) — Rs.60,200 (score 100)
 
 
 ## Laptops
 
-- [HP Pavilion Gaming (2022) | Ryzen 5 5600H | 16GB RAM | GTX 1650](https://reddit.com/r/BangaloreMarketplace/comments/1wt44d0/hp_pavilion_gaming_2022_ryzen_5_5600h_16gb_ram/) — Rs.45,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
