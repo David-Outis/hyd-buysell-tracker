@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 09:03 UTC
 
 ## Mobiles
 
-- [Iphone 14 pro, 128gb purple, dual esim, 79% battery](https://reddit.com/r/BangaloreMarketplace/comments/1wt4j42/iphone_14_pro_128gb_purple_dual_esim_79_battery/) — Rs.38,000 (score 70)
-- [What would be a fair listing & closing price for a flawless Samsung Galaxy S24+ (256 GB, expired warranty)?](https://reddit.com/r/BangaloreMarketplace/comments/1wt4e70/what_would_be_a_fair_listing_closing_price_for_a/) — Rs.60,200 (score 100)
+- [Samsung 870 EVO 2TB SSD](https://reddit.com/r/ChennaiBuyAndSell/comments/1wt4lre/wtssamsung_870_evo_2tb_ssd/) — Rs.16,000 (score 70)
 
 
 ## Laptops
