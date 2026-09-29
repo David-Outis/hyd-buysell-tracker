@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Anyone wants to sell vivo x300](https://reddit.com/r/HyderabadUsedItems/comments/1wt9669/anyone_wants_to_sell_vivo_x300/) — Rs.50,000 (score 90)
+- [Vivo X300 (12/256) (Summit red)](https://reddit.com/r/BangaloreMarketplace/comments/1wt9ezk/vivo_x300_12256_summit_red_for_sale/) — Rs.68,000 (score 120)
 
 
 ## Laptops
