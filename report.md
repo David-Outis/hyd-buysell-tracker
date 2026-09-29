@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 06:03 UTC
 
 ## Mobiles
 
-- [Used ipads/Samsung Tablets for sale??](https://reddit.com/r/HyderabadUsedItems/comments/1wt1e1d/used_ipadssamsung_tablets_for_sale/) — Rs.20,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
