@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 02:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Nintendo Switch Lite (Yellow) for Sale.](https://reddit.com/r/HyderabadBuySell/comments/1wsy446/nintendo_switch_lite_yellow_for_sale/) — Rs.17,000 (score 100)
 
 
 ## Desktop PCs
