@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 09:33 UTC
 
 ## Mobiles
 
-- [Samsung 870 EVO 2TB SSD](https://reddit.com/r/ChennaiBuyAndSell/comments/1wt4lre/wtssamsung_870_evo_2tb_ssd/) — Rs.16,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Nintendo switch Mario edition in perfect mint condition including accessories.](https://reddit.com/r/BangaloreMarketplace/comments/1wt5d3g/nintendo_switch_mario_edition_in_perfect_mint/) — Price not found (score 70)
 
 
 ## Desktop PCs
