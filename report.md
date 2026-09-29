@@ -1,13 +1,16 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 08:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Z Fold7 256GB Black | Excellent Condition | Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1wt3e4o/samsung_galaxy_z_fold7_256gb_black_excellent/) — Rs.98,000 (score 120)
+- [Pixel 8a](https://reddit.com/r/HyderabadUsedItems/comments/1wt422g/pixel_8a/) — Price not found (score 60)
+- [iPhone 17 Pro Max ( Japan,256) in warranty](https://reddit.com/r/BangaloreMarketplace/comments/1wt43f8/iphone_17_pro_max_japan256_in_warranty/) — Price not found (score 75)
+- [redmi A1+ phone (Light Gray, 32 GB, 2 GB RAM)](https://reddit.com/r/BangaloreMarketplace/comments/1wt3tdk/selling_redmi_a1_phone_light_gray_32_gb_2_gb_ram/) — Price not found (score 60)
+- [iPhone 14 Pro Max, Purple , very rarely used](https://reddit.com/r/BangaloreMarketplace/comments/1wt3rz6/iphone_14_pro_max_purple_very_rarely_used/) — Rs.50,000 (score 70)
 
 
 ## Laptops
 
-- [Planning to sell this laptop how much should I sell it for ?](https://reddit.com/r/BangaloreMarketplace/comments/1wt3lgr/planning_to_sell_this_laptop_how_much_should_i/) — Price not found (score 55)
+- [HP Pavilion Gaming (2022) | Ryzen 5 5600H | 16GB RAM | GTX 1650](https://reddit.com/r/BangaloreMarketplace/comments/1wt44d0/hp_pavilion_gaming_2022_ryzen_5_5600h_16gb_ram/) — Rs.45,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
