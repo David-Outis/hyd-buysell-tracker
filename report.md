@@ -1,9 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-29 13:33 UTC
 
 ## Mobiles
 
-- [Anyone wants to sell vivo x300](https://reddit.com/r/HyderabadUsedItems/comments/1wt9669/anyone_wants_to_sell_vivo_x300/) — Rs.50,000 (score 90)
-- [Vivo X300 (12/256) (Summit red)](https://reddit.com/r/BangaloreMarketplace/comments/1wt9ezk/vivo_x300_12256_summit_red_for_sale/) — Rs.68,000 (score 120)
+- [Samsung evo plus 256 gb sd card mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1wt9x3r/selling_samsung_evo_plus_256_gb_sd_card_mint/) — Rs.1,500 (score 85)
+- [iPhone 15 Pro 128 GB Natural Titanium with Apple Care Plus](https://reddit.com/r/BangaloreMarketplace/comments/1wt9s2i/wts_iphone_15_pro_128_gb_natural_titanium_with/) — Rs.68,000 (score 85)
 
 
 ## Laptops
