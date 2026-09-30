@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 17:03 UTC
 
 ## Mobiles
 
-- [Google Pixel 1 XL at 9K. Slightly used, recently brought from eBay.](https://reddit.com/r/HyderabadBuySell/comments/1wu7lsg/selling_google_pixel_1_xl_at_9k_slightly_used/) — Rs.9,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Hi. I'm urgently selling my personal laptop to cover my living expense. In yeshwanthpur.](https://reddit.com/r/BangaloreMarketplace/comments/1wu9pmt/hi_im_urgently_selling_my_personal_laptop_to/) — Rs.60,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
