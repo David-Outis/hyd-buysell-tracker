@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-29 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 01:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Splatoon 3 (English for Nintendo Switch 1/2)](https://reddit.com/r/BangaloreMarketplace/comments/1wth09j/wts_splatoon_3_english_for_nintendo_switch_12/) — Rs.3,400 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
