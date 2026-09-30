@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 04:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my macbook pro M2 8GB/256 GB touch bar and iphone 14 plus](https://reddit.com/r/BangaloreMarketplace/comments/1wtv8tv/selling_my_macbook_pro_m2_8gb256_gb_touch_bar_and/) — Rs.60,000 (score 100)
 
 
 ## Laptops
 
-- [Govt laptop](https://reddit.com/r/ChennaiBuyAndSell/comments/1wturl0/govt_laptop/) — Rs.13,000 (score 90)
+- [MacBook Pro M2 , 2023 model | Hyderabad](https://reddit.com/r/BangaloreMarketplace/comments/1wtvi06/selling_macbook_pro_m2_2023_model_hyderabad/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [ipad air 11' 128 gb m4 just opened open boxed. complete warranty.](https://reddit.com/r/BangaloreMarketplace/comments/1wtv0xc/ipad_air_11_128_gb_m4_just_opened_open_boxed/) — Rs.80,000 (score 85)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
