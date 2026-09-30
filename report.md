@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 16:33 UTC
 
 ## Mobiles
 
-- [Spigen Case for Samsung S23 Ultra – ₹300](https://reddit.com/r/BangaloreMarketplace/comments/1wu8cdp/spigen_case_for_samsung_s23_ultra_300/) — Price not found (score 75)
+- [Google Pixel 1 XL at 9K. Slightly used, recently brought from eBay.](https://reddit.com/r/HyderabadBuySell/comments/1wu7lsg/selling_google_pixel_1_xl_at_9k_slightly_used/) — Rs.9,000 (score 105)
 
 
 ## Laptops
 
-- [Lenovo ThinkPad X1 Gen 9 2-in-1 | Intel Core Ultra 7 165U vPro | 32/512 | 14" Touch | 5G | Wi-Fi 7 [19-months warranty] [₹1.2L - Negotiable]](https://reddit.com/r/BangaloreMarketplace/comments/1wu8j22/lenovo_thinkpad_x1_gen_9_2in1_intel_core_ultra_7/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
