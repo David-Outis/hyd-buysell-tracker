@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 11:03 UTC
 
 ## Mobiles
 
-- [Samsung 990 PRO SSD 1TB PCIe 4.0 @ ₹15,199](https://reddit.com/r/BangaloreMarketplace/comments/1wu0zlt/selling_samsung_990_pro_ssd_1tb_pcie_40_15199/) — Rs.15,199 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
