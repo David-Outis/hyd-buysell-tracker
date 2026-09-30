@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13 price recommendation](https://reddit.com/r/HyderabadUsedItems/comments/1wu4arp/selling_iphone_13_price_recommendation/) — Rs.25,000 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Laptop, Need money for college fees](https://reddit.com/r/BangaloreMarketplace/comments/1wu3zcc/selling_laptop_need_money_for_college_fees/) — Rs.30,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
