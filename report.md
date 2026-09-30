@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 256gb with box 📦 sage green 11 months old 95% 72k](https://reddit.com/r/HyderabadUsedItems/comments/1wu0lsl/iphone_17_256gb_with_box_sage_green_11_months_old/) — Rs.72,000 (score 70)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 DualSense Wireless Controller (Midnight Black) - Hyderabad (Narsingi)](https://reddit.com/r/HyderabadUsedItems/comments/1wu059e/selling_ps5_dualsense_wireless_controller/) — Rs.5,300 (score 100)
-- [my ps5 disc collection - Hyderabad (Narsingi)](https://reddit.com/r/HyderabadUsedItems/comments/1wu00ri/selling_my_ps5_disc_collection_hyderabad_narsingi/) — Rs.3,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
