@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 09:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [How much can I expect for a 1yr old lightly used ps5](https://reddit.com/r/BangaloreMarketplace/comments/1wtzuh3/how_much_can_i_expect_for_a_1yr_old_lightly_used/) — Price not found (score 50)
+- [PS5 DualSense Wireless Controller (Midnight Black) - Hyderabad (Narsingi)](https://reddit.com/r/HyderabadUsedItems/comments/1wu059e/selling_ps5_dualsense_wireless_controller/) — Rs.5,300 (score 100)
+- [my ps5 disc collection - Hyderabad (Narsingi)](https://reddit.com/r/HyderabadUsedItems/comments/1wu00ri/selling_my_ps5_disc_collection_hyderabad_narsingi/) — Rs.3,500 (score 100)
 
 
 ## Desktop PCs
