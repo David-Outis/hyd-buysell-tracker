@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 15:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ps5 disc sale in chennai 52000 no negotiation shipping available](https://reddit.com/r/ChennaiBuyAndSell/comments/1wu6xe2/wts_ps5_disc_sale_in_chennai_52000_no_negotiation/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
