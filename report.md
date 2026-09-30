@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 09:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [How much can I expect for a 1yr old lightly used ps5](https://reddit.com/r/BangaloreMarketplace/comments/1wtzuh3/how_much_can_i_expect_for_a_1yr_old_lightly_used/) — Price not found (score 50)
 
 
 ## Desktop PCs
