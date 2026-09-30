@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-09-30 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-09-30 10:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 256gb with box 📦 sage green 11 months old 95% 72k](https://reddit.com/r/HyderabadUsedItems/comments/1wu0lsl/iphone_17_256gb_with_box_sage_green_11_months_old/) — Rs.72,000 (score 70)
+- [Samsung 990 PRO SSD 1TB PCIe 4.0 @ ₹15,199](https://reddit.com/r/BangaloreMarketplace/comments/1wu0zlt/selling_samsung_990_pro_ssd_1tb_pcie_40_15199/) — Rs.15,199 (score 90)
 
 
 ## Laptops
