@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 18:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Black Myth Wukong PS5 in brand new condition](https://reddit.com/r/BangaloreMarketplace/comments/1wv4yun/black_myth_wukong_ps5_in_brand_new_condition_for/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
