@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 04:33 UTC
 
 ## Mobiles
 
-- [Anyone Planning to Buy an iPhone 18 Pro?](https://reddit.com/r/BangaloreMarketplace/comments/1wupgd5/anyone_planning_to_buy_an_iphone_18_pro/) — Price not found (score 75)
+- [iphone 12 motherboard with working face id](https://reddit.com/r/ChennaiBuyAndSell/comments/1wuoye3/iphone_12_motherboard_with_working_face_id/) — Rs.7,000 (score 70)
 
 
 ## Laptops
