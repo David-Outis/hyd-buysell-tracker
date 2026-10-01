@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 10:34 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [ASUS Vivobook S16 OLED M5606N - 3.2K Resolution Display](https://reddit.com/r/BangaloreMarketplace/comments/1wuuwp1/asus_vivobook_s16_oled_m5606n_32k_resolution/) — Rs.45,000 (score 70)
+- [Lenovo ThinkPad P14s Gen 5 | Intel Core Ultra 5 125H | NVIDIA RTX 500 Ada | 32/1TB | 14.5" 3K Display [24-Months Warranty] [₹1.09L]](https://reddit.com/r/BangaloreMarketplace/comments/1wuvuoe/lenovo_thinkpad_p14s_gen_5_intel_core_ultra_5/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [my 1 week old ps5 ordered from Blinkit](https://reddit.com/r/BangaloreMarketplace/comments/1wuvg7c/selling_my_1_week_old_ps5_ordered_from_blinkit/) — Rs.65,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
