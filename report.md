@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [IPhone 17 Sage 256 Gb under warranty with bill box and adapter plus one back cover](https://reddit.com/r/BangaloreMarketplace/comments/1wv3jur/iphone_17_sage_256_gb_under_warranty_with_bill/) — Rs.74,000 (score 85)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Nintendo Switch 2, Games & 8BitDo Controller](https://reddit.com/r/BangaloreMarketplace/comments/1wv3p1z/nintendo_switch_2_games_8bitdo_controller/) — Rs.52,000 (score 100)
 
 
 ## Desktop PCs
