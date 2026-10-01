@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 05:03 UTC
 
 ## Mobiles
 
-- [iphone 12 motherboard with working face id](https://reddit.com/r/ChennaiBuyAndSell/comments/1wuoye3/iphone_12_motherboard_with_working_face_id/) — Rs.7,000 (score 70)
+- [Samsung Galaxy Z Fold7 – UK Variant | 1 Year Old | USED [TIMESTAMP-YES], [PRICE-YES]](https://reddit.com/r/HyderabadUsedItems/comments/1wuq5t4/wts_samsung_galaxy_z_fold7_uk_variant_1_year_old/) — Price not found (score 90)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [HP omen with rtx 3060, ryzen 7 5700h, 1 TB ssd and 16 GB dual channel ram](https://reddit.com/r/BangaloreMarketplace/comments/1wuqmti/wts_hp_omen_with_rtx_3060_ryzen_7_5700h_1_tb_ssd/) — Price not found (score 75)
