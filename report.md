@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Offline trusted mobile Stores in Banglore](https://reddit.com/r/BangaloreMarketplace/comments/1wuzn95/offline_trusted_mobile_stores_in_banglore/) — Rs.25,000 (score 70)
 
 
 ## Laptops
