@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung S23 5G 128 GB](https://reddit.com/r/bangloremarketplace/comments/1wur8h3/selling_samsung_s23_5g_128_gb/) — Rs.32,000 (score 70)
+- [Motorola G85 Mint condition 2 years old](https://reddit.com/r/BangaloreMarketplace/comments/1wursyq/selling_motorola_g85_mint_condition_2_years_old/) — Rs.15,000 (score 105)
 
 
 ## Laptops
