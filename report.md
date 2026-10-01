@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 14:33 UTC
 
 ## Mobiles
 
-- [Offline trusted mobile Stores in Banglore](https://reddit.com/r/BangaloreMarketplace/comments/1wuzn95/offline_trusted_mobile_stores_in_banglore/) — Rs.25,000 (score 70)
+- [2 days old Realme Buds Air 7 Pro, mint condition.](https://reddit.com/r/BangaloreMarketplace/comments/1wv0lso/wts_2_days_old_realme_buds_air_7_pro_mint/) — Rs.5,499 (score 85)
 
 
 ## Laptops
