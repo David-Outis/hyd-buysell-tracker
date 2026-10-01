@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 13:33 UTC
 
 ## Mobiles
 
-- [Apple iPhone 14 128GB – Midnight | Excellent Condition - ₹33,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1wuyay8/selling_apple_iphone_14_128gb_midnight_excellent/) — Rs.33,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
