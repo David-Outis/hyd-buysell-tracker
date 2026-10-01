@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Apple iPhone 14 128GB – Midnight | Excellent Condition - ₹33,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1wuyay8/selling_apple_iphone_14_128gb_midnight_excellent/) — Rs.33,000 (score 100)
 
 
 ## Laptops
 
-- [ASUS Zenbook 14 – Core Ultra 5, 16GB RAM, 1TB SSD](https://reddit.com/r/bangloremarketplace/comments/1wux7up/selling_asus_zenbook_14_core_ultra_5_16gb_ram_1tb/) — Rs.90,000 (score 100)
-- [👜 ALDO Black Laptop/Office Bag – Brand New](https://reddit.com/r/bangloremarketplace/comments/1wux57t/aldo_black_laptopoffice_bag_brand_new/) — Rs.12,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
