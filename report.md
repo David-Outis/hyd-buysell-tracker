@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 09:04 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13 128GB – Blue, 78% BH, 4 years old, ₹24k](https://reddit.com/r/BangaloreMarketplace/comments/1wuu7sv/selling_iphone_13_128gb_blue_78_bh_4_years_old_24k/) — Rs.24,000 (score 105)
 
 
 ## Laptops
 
-- [MacBook 96w adapter wts 3500₹ not used](https://reddit.com/r/HyderabadUsedItems/comments/1wutp52/macbook_96w_adapter_wts_3500_not_used/) — Rs.3,500 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,8 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Persona 3 Reload (Nintendo Switch 2) | BTM stage 2](https://reddit.com/r/BangaloreMarketplace/comments/1wuteh9/wts_persona_3_reload_nintendo_switch_2_btm_stage_2/) — Rs.2,800 (score 100)
-- [Xbox series s 512gb at Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wuta1k/selling_xbox_series_s_512gb_at_bangalore/) — Rs.30,000 (score 85)
+- [Ps4 slim 1 TB. Jailbreak](https://reddit.com/r/HyderabadBuySell/comments/1wuq8vk/ps4_slim_1_tb_jailbreak/) — Rs.25,000 (score 100)
+- [Looking to sell PS5 digital box piece from Croma](https://reddit.com/r/BangaloreMarketplace/comments/1wuufzr/looking_to_sell_ps5_digital_box_piece_from_croma/) — Price not found (score 50)
 
 
 ## Desktop PCs
