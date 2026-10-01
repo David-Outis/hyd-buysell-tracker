@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-01 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-01 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Anyone Planning to Buy an iPhone 18 Pro?](https://reddit.com/r/BangaloreMarketplace/comments/1wupgd5/anyone_planning_to_buy_an_iphone_18_pro/) — Price not found (score 75)
 
 
 ## Laptops
