@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 14:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [PC moving out sale (working condition) (Nagarbhavi Area)](https://reddit.com/r/BangaloreMarketplace/comments/1wvtc6m/pc_moving_out_sale_working_condition_nagarbhavi/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
