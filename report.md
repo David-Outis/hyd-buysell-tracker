@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Fit 3 for ₹2,200 (negotiable), Brookfield](https://reddit.com/r/bangloremarketplace/comments/1wvozfa/selling_samsung_galaxy_fit_3_for_2200_negotiable/) — Rs.2,200 (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [almost New Ps5 with two brand new controller with delux plan 1 year and brand new monitor](https://reddit.com/r/ChennaiBuyAndSell/comments/1wvo1ur/wts_almost_new_ps5_with_two_brand_new_controller/) — Rs.10,000 (score 100)
+- [ps4 games- Witcher 3 and Horizon zero Dawn](https://reddit.com/r/BangaloreMarketplace/comments/1wvp4qy/selling_ps4_games_witcher_3_and_horizon_zero_dawn/) — Price not found (score 50)
 
 
 ## Desktop PCs
