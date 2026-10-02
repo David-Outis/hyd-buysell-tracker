@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 08:03 UTC
 
 ## Mobiles
 
-- [iPhone Xr Product Red 128GB up for grabs*](https://reddit.com/r/HyderabadBuySell/comments/1wvnaio/iphone_xr_product_red_128gb_up_for_grabs/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Dell Precision 3550 laptop for sale - i5 10th gen](https://reddit.com/r/BangaloreMarketplace/comments/1wvnt7k/dell_precision_3550_laptop_for_sale_i5_10th_gen/) — Rs.27,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
