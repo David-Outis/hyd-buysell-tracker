@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 18:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Original Sony PlayStation 4 DualShock 4 V2 Controller - Black](https://reddit.com/r/BangaloreMarketplace/comments/1ww02nd/original_sony_playstation_4_dualshock_4_v2/) — Price not found (score 55)
 
 
 ## Desktop PCs
 
-- [my Zotac GTX 1650 super graphics card](https://reddit.com/r/BangaloreMarketplace/comments/1wvzsq9/selling_my_zotac_gtx_1650_super_graphics_card/) — Rs.6,000 (score 70)
+_No new desktop PC listings found in this run._
