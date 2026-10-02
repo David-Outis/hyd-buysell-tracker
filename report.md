@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 10:33 UTC
 
 ## Mobiles
 
-- [IPHONE 13 , Blue colour, 80% battery health.](https://reddit.com/r/BangaloreMarketplace/comments/1wvpreo/selling_iphone_13_blue_colour_80_battery_health/) — Price not found (score 55)
+- [Brand new Realme T200, They do not fit me](https://reddit.com/r/BangaloreMarketplace/comments/1wvpz1j/brand_new_realme_t200_they_do_not_fit_me/) — Price not found (score 55)
 
 
 ## Laptops
