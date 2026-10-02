@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 07:33 UTC
 
 ## Mobiles
 
-- [Looking to buy an old iPhone under ₹2,000.](https://reddit.com/r/HyderabadBuySell/comments/1wvmeat/looking_to_buy_an_old_iphone_under_2000/) — Rs.2,000 (score 85)
+- [iPhone Xr Product Red 128GB up for grabs*](https://reddit.com/r/HyderabadBuySell/comments/1wvnaio/iphone_xr_product_red_128gb_up_for_grabs/) — Price not found (score 55)
 
 
 ## Laptops
