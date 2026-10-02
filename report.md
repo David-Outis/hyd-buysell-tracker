@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 06:33 UTC
 
 ## Mobiles
 
-- [iPhone 16 Pro – 512GB – Natural Titanium | Pristine Condition + AppleCare+](https://reddit.com/r/HyderabadBuySell/comments/1wvij4y/iphone_16_pro_512gb_natural_titanium_pristine/) — Rs.99,999 (score 120)
+- [Samsung Galaxy Fit 3 for ₹2,500, Brookfield](https://reddit.com/r/BangaloreMarketplace/comments/1wvmn4h/selling_samsung_galaxy_fit_3_for_2500_brookfield/) — Rs.2,500 (score 90)
 
 
 ## Laptops
 
-- [MacBook Air M4 – 16GB RAM / 512GB SSD _ Extended warranty till 13 Mar 2028 – Sky Blue](https://reddit.com/r/BangaloreMarketplace/comments/1wvm3ca/macbook_air_m4_16gb_ram_512gb_ssd_extended/) — Rs.110,000 (score 120)
-- [MacBook Pro M4 Pro 14inch | 48 GB RAM | 1TB SSD | ₹ 2,55,000](https://reddit.com/r/BangaloreMarketplace/comments/1wvm3b7/wts_macbook_pro_m4_pro_14inch_48_gb_ram_1tb_ssd/) — Rs.255,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
