@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 05:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC – Ryzen 5 3500, Gigabyte RTX 3070 Ti, 16GB RAM, 1000W PSU](https://reddit.com/r/bangloremarketplace/comments/1wvjjjl/selling_gaming_pc_ryzen_5_3500_gigabyte_rtx_3070/) — Rs.55,000 (score 70)
+- [[ Brand New ] Gaming PC. Intel Ultra 7 265K | 32GB Gskill DDR5 | RTX 5070 12GB | 1TB SSD NVME](https://reddit.com/r/BangaloreMarketplace/comments/1wvkxka/selling_brand_new_gaming_pc_intel_ultra_7_265k/) — Rs.265,000 (score 120)
