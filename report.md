@@ -1,19 +1,19 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 Pro – 512GB – Natural Titanium | Pristine Condition + AppleCare+](https://reddit.com/r/HyderabadBuySell/comments/1wvij4y/iphone_16_pro_512gb_natural_titanium_pristine/) — Rs.99,999 (score 120)
 
 
 ## Laptops
 
-- [MacBook Air M2 (13-inch) | 16GB RAM | 256GB | Excellent Condition | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wvllgw/wts_macbook_air_m2_13inch_16gb_ram_256gb/) — Rs.75,000 (score 120)
-- [Lenovo ThinkPad X1 Gen 9 2-in-1 | Intel Core Ultra 7 165U vPro | 32/512 | 14" Touch | 5G | Wi-Fi 7 [19-months warranty] [₹1.18L]](https://reddit.com/r/BangaloreMarketplace/comments/1wvli2p/lenovo_thinkpad_x1_gen_9_2in1_intel_core_ultra_7/) — Price not found (score 55)
+- [MacBook Air M4 – 16GB RAM / 512GB SSD _ Extended warranty till 13 Mar 2028 – Sky Blue](https://reddit.com/r/BangaloreMarketplace/comments/1wvm3ca/macbook_air_m4_16gb_ram_512gb_ssd_extended/) — Rs.110,000 (score 120)
+- [MacBook Pro M4 Pro 14inch | 48 GB RAM | 1TB SSD | ₹ 2,55,000](https://reddit.com/r/BangaloreMarketplace/comments/1wvm3b7/wts_macbook_pro_m4_pro_14inch_48_gb_ram_1tb_ssd/) — Rs.255,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Ipad air m1 64gb wifi 37k](https://reddit.com/r/HyderabadUsedItems/comments/1wvleak/ipad_air_m1_64gb_wifi_37k/) — Rs.37,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
