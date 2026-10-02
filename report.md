@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 10:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Fit 3 for ₹2,200 (negotiable), Brookfield](https://reddit.com/r/bangloremarketplace/comments/1wvozfa/selling_samsung_galaxy_fit_3_for_2200_negotiable/) — Rs.2,200 (score 90)
+- [IPHONE 13 , Blue colour, 80% battery health.](https://reddit.com/r/BangaloreMarketplace/comments/1wvpreo/selling_iphone_13_blue_colour_80_battery_health/) — Price not found (score 55)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ps4 games- Witcher 3 and Horizon zero Dawn](https://reddit.com/r/BangaloreMarketplace/comments/1wvp4qy/selling_ps4_games_witcher_3_and_horizon_zero_dawn/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
