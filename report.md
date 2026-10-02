@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 07:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Fit 3 for ₹2,500, Brookfield](https://reddit.com/r/BangaloreMarketplace/comments/1wvmn4h/selling_samsung_galaxy_fit_3_for_2500_brookfield/) — Rs.2,500 (score 90)
+- [Looking to buy an old iPhone under ₹2,000.](https://reddit.com/r/HyderabadBuySell/comments/1wvmeat/looking_to_buy_an_old_iphone_under_2000/) — Rs.2,000 (score 85)
 
 
 ## Laptops
