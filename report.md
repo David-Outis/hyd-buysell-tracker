@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-02 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-02 05:33 UTC
 
 ## Mobiles
 
@@ -7,12 +7,13 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M2 (13-inch) | 16GB RAM | 256GB | Excellent Condition | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wvllgw/wts_macbook_air_m2_13inch_16gb_ram_256gb/) — Rs.75,000 (score 120)
+- [Lenovo ThinkPad X1 Gen 9 2-in-1 | Intel Core Ultra 7 165U vPro | 32/512 | 14" Touch | 5G | Wi-Fi 7 [19-months warranty] [₹1.18L]](https://reddit.com/r/BangaloreMarketplace/comments/1wvli2p/lenovo_thinkpad_x1_gen_9_2in1_intel_core_ultra_7/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Ipad air m1 64gb wifi 37k](https://reddit.com/r/HyderabadUsedItems/comments/1wvleak/ipad_air_m1_64gb_wifi_37k/) — Rs.37,000 (score 70)
 
 
 ## Game Consoles
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [[ Brand New ] Gaming PC. Intel Ultra 7 265K | 32GB Gskill DDR5 | RTX 5070 12GB | 1TB SSD NVME](https://reddit.com/r/BangaloreMarketplace/comments/1wvkxka/selling_brand_new_gaming_pc_intel_ultra_7_265k/) — Rs.265,000 (score 120)
+_No new desktop PC listings found in this run._
