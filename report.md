@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 11:34 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox series X , 2 Controllers , 23 games](https://reddit.com/r/BangaloreMarketplace/comments/1wwk1yp/xbox_series_x_2_controllers_23_games/) — Rs.49,999 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
