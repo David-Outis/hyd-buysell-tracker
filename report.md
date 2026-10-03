@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 10:03 UTC
 
 ## Mobiles
 
-- [iPhone 13 - Black - ₹22000(Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1wwilw9/selling_iphone_13_black_22000negotiable/) — Rs.22,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Pro M4 Pro 14inch | 48 GB RAM | 1TB SSD | ₹ 2,90,000](https://reddit.com/r/BangaloreMarketplace/comments/1wwjbno/wts_macbook_pro_m4_pro_14inch_48_gb_ram_1tb_ssd/) — Rs.290,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
