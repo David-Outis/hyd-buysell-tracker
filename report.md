@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 16:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Reposting as available for immediate sale - Iphone 12/128gb - 77 BH](https://reddit.com/r/HyderabadUsedItems/comments/1wwqd0w/reposting_as_available_for_immediate_sale_iphone/) — Rs.17,000 (score 90)
 
 
 ## Laptops
