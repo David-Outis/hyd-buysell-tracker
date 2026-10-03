@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 512GB | 100% Battery | 19 Cycles | AppleCare+](https://reddit.com/r/BangaloreMarketplace/comments/1wwcagl/iphone_17_512gb_100_battery_19_cycles_applecare/) — Rs.95,000 (score 120)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo LOQ 15IRX9 Gaming Laptop – i7 + RTX 4050 | 3 Months Old](https://reddit.com/r/BangaloreMarketplace/comments/1wwcj72/lenovo_loq_15irx9_gaming_laptop_i7_rtx_4050_3/) — Rs.97,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
