@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 11:34 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Tab S9FE - 14 Months Old - Pattanagere Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1wwlfo9/samsung_tab_s9fe_14_months_old_pattanagere/) — Rs.1,200 (score 90)
 
 
 ## Laptops
