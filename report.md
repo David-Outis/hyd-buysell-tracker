@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 03:35 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 04:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [ps5 games discs](https://reddit.com/r/bangloremarketplace/comments/1wwcmxl/selling_ps5_games_discs/) — Price not found (score 55)
 
 
 ## Desktop PCs
