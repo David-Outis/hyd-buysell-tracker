@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 08:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [High-End RTX 4080 + Ryzen 9 7900X PC for Sale | 64GB DDR5 RAM | 2.5TB Storage | Powerful 3D Rendering, VFX & Gaming Workstation | Excellent Condition | 1000W PSU | Liquid Cooling | BTM Layout Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wwhf01/highend_rtx_4080_ryzen_9_7900x_pc_for_sale_64gb/) — Rs.89,000 (score 120)
+_No new desktop PC listings found in this run._
