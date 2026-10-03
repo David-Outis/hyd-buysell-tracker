@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 06:33 UTC
 
 ## Mobiles
 
-- [Samsung portable T7 Touch 1TB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1wwfkoe/selling_samsung_portable_t7_touch_1tb_ssd/) — Rs.10,000 (score 70)
+- [iPhone 15 Pro 128GB cashify bought (Superb) natural titanium](https://reddit.com/r/BangaloreMarketplace/comments/1wwg1l1/iphone_15_pro_128gb_cashify_bought_superb_natural/) — Rs.60,000 (score 70)
 
 
 ## Laptops
 
-- [Brand new Lenovo IdeaPad Slim 3](https://reddit.com/r/ChennaiBuyAndSell/comments/1wwfjd3/wts_selling_brand_new_lenovo_ideapad_slim_3/) — Rs.61,655 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
