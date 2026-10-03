@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung portable T7 Touch 1TB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1wwfkoe/selling_samsung_portable_t7_touch_1tb_ssd/) — Rs.10,000 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Brand new Lenovo IdeaPad Slim 3](https://reddit.com/r/ChennaiBuyAndSell/comments/1wwfjd3/wts_selling_brand_new_lenovo_ideapad_slim_3/) — Rs.61,655 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [First Light 007 PS5 disc | Bangalore](https://reddit.com/r/bangloremarketplace/comments/1wweohy/wts_selling_first_light_007_ps5_disc_bangalore/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
