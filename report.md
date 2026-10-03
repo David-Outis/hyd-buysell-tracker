@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-03 13:33 UTC
 
 ## Mobiles
 
-- [iPhone 15 Pro max 256GB - US Variant @60,000](https://reddit.com/r/HyderabadBuySell/comments/1wwm6ot/selling_iphone_15_pro_max_256gb_us_variant_60000/) — Price not found (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
