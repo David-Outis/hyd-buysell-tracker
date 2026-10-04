@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 13:33 UTC
 
 ## Mobiles
 
-- [One day old Samsung S26 256GB Sky Blue - Sealed Box with original power brick and case](https://reddit.com/r/BangaloreMarketplace/comments/1wxembk/wts_one_day_old_samsung_s26_256gb_sky_blue_sealed/) — Price not found (score 55)
+- [Oppo M32, Sennheiser Cx 180, Sony MDR XB450_perfect working condition](https://reddit.com/r/BangaloreMarketplace/comments/1wxfju0/oppo_m32_sennheiser_cx_180_sony_mdr_xb450_perfect/) — Rs.750 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [ThinkPad T460 (i5 6th Gen / 16GB RAM / 256GB SSD) + Routers (TP-Link, ZTE, RLTech) | Raising Bootcamp Fees](https://reddit.com/r/BangaloreMarketplace/comments/1wxfoya/selling_thinkpad_t460_i5_6th_gen_16gb_ram_256gb/) — Rs.16,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Desktop PC Ryzen7 RTX3060 DDR6 12GBVRM 48GB DDR4RAM 7.75TB storage](https://reddit.com/r/BangaloreMarketplace/comments/1wxes3r/desktop_pc_ryzen7_rtx3060_ddr6_12gbvrm_48gb/) — Rs.115,000 (score 105)
+_No new desktop PC listings found in this run._
