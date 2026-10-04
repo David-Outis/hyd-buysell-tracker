@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-03 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 01:33 UTC
 
 ## Mobiles
 
-- [iPhone 14 128Gb blue color for sale- in Mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1wwt3e6/iphone_14_128gb_blue_color_for_sale_in_mint/) — Rs.38,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
