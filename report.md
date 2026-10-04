@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 14:03 UTC
 
 ## Mobiles
 
-- [Oppo M32, Sennheiser Cx 180, Sony MDR XB450_perfect working condition](https://reddit.com/r/BangaloreMarketplace/comments/1wxfju0/oppo_m32_sennheiser_cx_180_sony_mdr_xb450_perfect/) — Rs.750 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [ThinkPad T460 (i5 6th Gen / 16GB RAM / 256GB SSD) + Routers (TP-Link, ZTE, RLTech) | Raising Bootcamp Fees](https://reddit.com/r/BangaloreMarketplace/comments/1wxfoya/selling_thinkpad_t460_i5_6th_gen_16gb_ram_256gb/) — Rs.16,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [G.Skill Trident Z Neo 16GB (2x8GB) DDR4 3600MHz CL18 RGB Desktop RAM⁠](https://reddit.com/r/BangaloreMarketplace/comments/1wxgbfz/selling_gskill_trident_z_neo_16gb_2x8gb_ddr4/) — Rs.8,000 (score 90)
