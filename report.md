@@ -1,15 +1,16 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 08:33 UTC
 
 ## Mobiles
 
-- [[Chennai/Madipakkam] GameSir G8 Galileo Type-C Mobile Gaming Controller](https://reddit.com/r/ChennaiBuyAndSell/comments/1wx9b1n/wts_chennaimadipakkam_gamesir_g8_galileo_typec/) — Price not found (score 75)
-- [my unused iPhone 17 (256GB Lavender Color)](https://reddit.com/r/BangaloreMarketplace/comments/1wx9vn1/selling_my_unused_iphone_17_256gb_lavender_color/) — Rs.77,000 (score 105)
-- [Like New Realme GT 6 16GB Ram 512GB Storage Top End Version with Box](https://reddit.com/r/BangaloreMarketplace/comments/1wx9vdr/like_new_realme_gt_6_16gb_ram_512gb_storage_top/) — Rs.55,000 (score 120)
+- [iPhone 16 Pro 256gb - 63,000₹](https://reddit.com/r/HyderabadBuySell/comments/1wx8wh5/selling_iphone_16_pro_256gb_63000/) — Rs.63,000 (score 70)
+- [Quotation to sell iphone 14 pro](https://reddit.com/r/bangloremarketplace/comments/1wxahel/quotation_to_sell_iphone_14_pro/) — Price not found (score 55)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Dell 3420 Laptop in Mint Condition](https://reddit.com/r/HyderabadBuySell/comments/1wx9p9p/dell_3420_laptop_in_mint_condition/) — Rs.35,000 (score 100)
+- [Sell Lenovo Legion pro 5, RTX 5070](https://reddit.com/r/HyderabadBuySell/comments/1wx8bid/sell_lenovo_legion_pro_5_rtx_5070/) — Price not found (score 90)
+- [Legion go handheld 16GB/1TB AmdZ1 graphics](https://reddit.com/r/BangaloreMarketplace/comments/1wxaehs/wts_legion_go_handheld_16gb1tb_amdz1_graphics/) — Rs.48,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -19,9 +20,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox One S 500GB White](https://reddit.com/r/ChennaiBuyAndSell/comments/1wxa20r/wts_xbox_one_s_500gb_white/) — Rs.15,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [[S] Gaming / Productivity PC – RTX 3060 Ti + i5-12400F – ₹70,000 – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wxa51g/s_gaming_productivity_pc_rtx_3060_ti_i512400f/) — Rs.70,000 (score 120)
+- [WD PC SN740 512GB NVME SSD 2242 SIZE](https://reddit.com/r/HyderabadBuySell/comments/1wx7jck/wts_wd_pc_sn740_512gb_nvme_ssd_2242_size/) — Rs.2,242 (score 120)
