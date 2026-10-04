@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [One day old Samsung S26 256GB Sky Blue - Sealed Box with original power brick and case](https://reddit.com/r/BangaloreMarketplace/comments/1wxembk/wts_one_day_old_samsung_s26_256gb_sky_blue_sealed/) — Price not found (score 55)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Desktop PC Ryzen7 RTX3060 DDR6 12GBVRM 48GB DDR4RAM 7.75TB storage](https://reddit.com/r/BangaloreMarketplace/comments/1wxes3r/desktop_pc_ryzen7_rtx3060_ddr6_12gbvrm_48gb/) — Rs.115,000 (score 105)
