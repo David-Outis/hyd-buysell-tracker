@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 18:03 UTC
 
 ## Mobiles
 
-- [Vivo X200FE](https://reddit.com/r/HyderabadUsedItems/comments/1wxknw8/selling_vivo_x200fe/) — Rs.52,000 (score 100)
+- [oneplus 15r 12/256 colour:black 100% bh](https://reddit.com/r/BangaloreMarketplace/comments/1wxlxgb/selling_oneplus_15r_12256_colourblack_100_bh/) — Rs.48,000 (score 85)
 
 
 ## Laptops
