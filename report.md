@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 05:03 UTC
 
 ## Mobiles
 
-- [Vivo X300 pro offline below 1L?](https://reddit.com/r/ChennaiBuyAndSell/comments/1wx6g7p/vivo_x300_pro_offline_below_1l/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Need appa laptop around 11k](https://reddit.com/r/ChennaiBuyAndSell/comments/1wx6fho/need_appa_laptop_around_11k/) — Rs.11,000 (score 90)
+- [MacBook Pro 16-inch — i9 / 64GB RAM / 512GB SSD / Radeon Pro 5500M 8GB — ₹65,000 [SELL]](https://reddit.com/r/ChennaiBuyAndSell/comments/1wx71na/wts_macbook_pro_16inch_i9_64gb_ram_512gb_ssd/) — Rs.65,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Need to sell my ps5 (10 days old) brand new condition with two Dualsense controller and delux plan for 1 year](https://reddit.com/r/ChennaiBuyAndSell/comments/1wx5nkt/need_to_sell_my_ps5_10_days_old_brand_new/) — Rs.70,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
