@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 11:34 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 12:03 UTC
 
 ## Mobiles
 
-- [Used oneplus buds 3 in good condition](https://reddit.com/r/ChennaiBuyAndSell/comments/1wxd5ge/used_oneplus_buds_3_in_good_condition/) — Rs.2,500 (score 70)
-- [iPhone 12 mini for sale.Details in the description. Price - 20k](https://reddit.com/r/BangaloreMarketplace/comments/1wxd6qv/iphone_12_mini_for_saledetails_in_the_description/) — Rs.20,000 (score 70)
+- [Samsung Galaxy Buds 2 (117C) for sale Price -3200 Location-Jayanagar 560041](https://reddit.com/r/BangaloreMarketplace/comments/1wxdt1n/samsung_galaxy_buds_2_117c_for_sale_price_3200/) — Price not found (score 60)
 
 
 ## Laptops
