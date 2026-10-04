@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-04 02:33 UTC
 
 ## Mobiles
 
-- [Samsung 7.6TB SATA SSD 2.5" inch](https://reddit.com/r/BangaloreMarketplace/comments/1wx3q71/selling_samsung_76tb_sata_ssd_25_inch/) — Rs.30,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
