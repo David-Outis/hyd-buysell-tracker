@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 11:33 UTC
 
 ## Mobiles
 
-- [iPhone 16 128GB](https://reddit.com/r/HyderabadBuySell/comments/1wy57ur/wts_iphone_16_128gb/) — Rs.2,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [EVM LAPTOP SSD](https://reddit.com/r/HyderabadBuySell/comments/1wy4r2m/evm_laptop_ssd/) — Rs.2,200 (score 90)
-- [MacBook Pro 14" M1 Pro | 32GB RAM | 512GB SSD — ₹95,000 [SELL]](https://reddit.com/r/ChennaiBuyAndSell/comments/1wy5ck9/wts_macbook_pro_14_m1_pro_32gb_ram_512gb_ssd/) — Rs.95,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [EA Sports FC 26 (Playstation 5 Disc) for sale.](https://reddit.com/r/BangaloreMarketplace/comments/1wy5qin/ea_sports_fc_26_playstation_5_disc_for_sale/) — Rs.2,000 (score 85)
 
 
 ## Desktop PCs
