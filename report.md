@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 13:34 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [new iPhone Air Black for 95k Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wy91k4/wts_new_iphone_air_black_for_95k_bangalore/) — Rs.95,000 (score 90)
 
 
 ## Laptops
