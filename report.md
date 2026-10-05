@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 02:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus pad 2 12+256](https://reddit.com/r/ChennaiBuyAndSell/comments/1wxvaej/oneplus_pad_2_12256/) — Rs.35,000 (score 85)
 
 
 ## Laptops
