@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 15:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 256GB Black – Brand New / Unused with AppleCare+](https://reddit.com/r/HyderabadBuySell/comments/1wy6v1k/wts_iphone_17_256gb_black_brand_new_unused_with/) — Rs.13,500 (score 120)
 
 
 ## Laptops
 
-- [MacBook Pro 14" M5 | 16GB RAM | 1TB SSD | 98% Battery Health | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wyad5j/macbook_pro_14_m5_16gb_ram_1tb_ssd_98_battery/) — Rs.185,000 (score 120)
-- [Lenovo IdeaPad Gaming 3 15IHU6 | i5-11300H | GTX 1650 4GB | 16GB RAM | 512GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1wyabm4/wts_lenovo_ideapad_gaming_3_15ihu6_i511300h_gtx/) — Rs.28,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Gran Turismo 7 PS5](https://reddit.com/r/HyderabadBuySell/comments/1wy949f/wts_gran_turismo_7_ps5/) — Price not found (score 50)
 
 
 ## Desktop PCs
