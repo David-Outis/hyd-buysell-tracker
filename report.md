@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my iPhone 15 Pro 8GB/256GB Natural Titanium November 2023 Model Location: Jayanagar](https://reddit.com/r/BangaloreMarketplace/comments/1wydjm2/selling_my_iphone_15_pro_8gb256gb_natural/) — Rs.60,000 (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Want to Sell My Xbox series one disk edition.](https://reddit.com/r/HyderabadUsedItems/comments/1wyd4gj/want_to_sell_my_xbox_series_one_disk_edition/) — Rs.20,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
