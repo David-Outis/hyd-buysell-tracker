@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 07:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Acer Aspire 7 Intel Core i5 10th Gen 10300H](https://reddit.com/r/BangaloreMarketplace/comments/1wy1ab0/acer_aspire_7_intel_core_i5_10th_gen_10300h/) — Price not found (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
