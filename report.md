@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 13:34 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple IPad Air M2 for Sale - Giri Nagar, Banashankari Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1wy7y4v/apple_ipad_air_m2_for_sale_giri_nagar/) — Rs.35,000 (score 90)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
