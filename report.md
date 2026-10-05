@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 08:33 UTC
 
 ## Mobiles
 
-- [Urgent: Apexel 4K 60X Hyper Zoom Mobile lens. This is a newly designed high-quality optical 60X telescope zoom lens.](https://reddit.com/r/BangaloreMarketplace/comments/1wy2ujg/urgent_apexel_4k_60x_hyper_zoom_mobile_lens_this/) — Rs.4,000 (score 70)
-- [Vivo X300 Ultra | Unboxed | 512GB/16GB | 1.2L | Amazon invoice available](https://reddit.com/r/BangaloreMarketplace/comments/1wy2u92/vivo_x300_ultra_unboxed_512gb16gb_12l_amazon/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [MacBook Air 13” 2015 model](https://reddit.com/r/HyderabadUsedItems/comments/1wy2jck/macbook_air_13_2015_model/) — Rs.15,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony PlayStation 4 DS4 controller V2 - Black](https://reddit.com/r/BangaloreMarketplace/comments/1wy2yth/sony_playstation_4_ds4_controller_v2_black/) — Rs.1,999 (score 85)
 
 
 ## Desktop PCs
