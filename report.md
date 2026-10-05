@@ -1,9 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 10:03 UTC
 
 ## Mobiles
 
-- [Used OnePlus 9 / 8T (12GB) or Nothing Phone 1 — Bangalore, ₹10-13k](https://reddit.com/r/bangloremarketplace/comments/1wy3cxg/used_oneplus_9_8t_12gb_or_nothing_phone_1/) — Rs.10,000 (score 105)
-- [Used Snapdragon phone (12GB RAM pref) — OnePlus / Nothing / Pixel — Bangalore, ₹10-13k](https://reddit.com/r/BangaloreMarketplace/comments/1wy3tp7/used_snapdragon_phone_12gb_ram_pref_oneplus/) — Rs.10,000 (score 90)
+- [iPhone 18 Pro](https://reddit.com/r/HyderabadUsedItems/comments/1wy4bwq/iphone_18_pro_for_sale/) — Rs.135,000 (score 70)
+- [Samsung T7 Shield SSD 1TB, Good Quality, Good performance, Slightly used.](https://reddit.com/r/BangaloreMarketplace/comments/1wy4a1v/samsung_t7_shield_ssd_1tb_good_quality_good/) — Rs.16,000 (score 85)
 
 
 ## Laptops
@@ -18,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps5 digital version 1 tb with box good condition 1 yr old fixed 65k](https://reddit.com/r/HyderabadUsedItems/comments/1wy48oa/ps5_digital_version_1_tb_with_box_good_condition/) — Rs.65,000 (score 65)
 
 
 ## Desktop PCs
