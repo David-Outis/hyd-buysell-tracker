@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 09:33 UTC
 
 ## Mobiles
 
-- [How Much Can I Expect for My iPhone 14 Plus 256GB? (Excellent Condition, 82% BH)](https://reddit.com/r/HyderabadBuySell/comments/1wxz9qy/how_much_can_i_expect_for_my_iphone_14_plus_256gb/) — Price not found (score 70)
+- [Used OnePlus 9 / 8T (12GB) or Nothing Phone 1 — Bangalore, ₹10-13k](https://reddit.com/r/bangloremarketplace/comments/1wy3cxg/used_oneplus_9_8t_12gb_or_nothing_phone_1/) — Rs.10,000 (score 105)
+- [Used Snapdragon phone (12GB RAM pref) — OnePlus / Nothing / Pixel — Bangalore, ₹10-13k](https://reddit.com/r/BangaloreMarketplace/comments/1wy3tp7/used_snapdragon_phone_12gb_ram_pref_oneplus/) — Rs.10,000 (score 90)
 
 
 ## Laptops
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [plague tale resonance ps5 ₹ 3400](https://reddit.com/r/HyderabadBuySell/comments/1wxzh2e/wtsplague_tale_resonance_ps5_3400/) — Rs.3,400 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
