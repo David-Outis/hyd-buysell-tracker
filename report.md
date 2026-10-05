@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-04 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 01:33 UTC
 
 ## Mobiles
 
-- [oneplus 15r 12/256 colour:black 100% bh](https://reddit.com/r/BangaloreMarketplace/comments/1wxlxgb/selling_oneplus_15r_12256_colourblack_100_bh/) — Rs.48,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
