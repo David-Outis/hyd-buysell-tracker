@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [How Much Can I Expect for My iPhone 14 Plus 256GB? (Excellent Condition, 82% BH)](https://reddit.com/r/HyderabadBuySell/comments/1wxz9qy/how_much_can_i_expect_for_my_iphone_14_plus_256gb/) — Price not found (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PlayStation 4 DS4 controller V2 - Black](https://reddit.com/r/BangaloreMarketplace/comments/1wy2yth/sony_playstation_4_ds4_controller_v2_black/) — Rs.1,999 (score 85)
+- [plague tale resonance ps5 ₹ 3400](https://reddit.com/r/HyderabadBuySell/comments/1wxzh2e/wtsplague_tale_resonance_ps5_3400/) — Rs.3,400 (score 100)
 
 
 ## Desktop PCs
