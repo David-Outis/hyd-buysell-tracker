@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 13:03 UTC
 
 ## Mobiles
 
-- [Samsung T7 shield SSD 1TB light use](https://reddit.com/r/bangloremarketplace/comments/1wy4ra1/samsung_t7_shield_ssd_1tb_light_use/) — Rs.16,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Urgent selling of components[32k] for buying another used laptop](https://reddit.com/r/BangaloreMarketplace/comments/1wy75jn/urgent_selling_of_components32k_for_buying/) — Rs.32,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Apple IPad Air M2 for Sale - Giri Nagar, Banashankari Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1wy7y4v/apple_ipad_air_m2_for_sale_giri_nagar/) — Rs.35,000 (score 90)
 
 
 ## Game Consoles
