@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-05 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-05 12:03 UTC
 
 ## Mobiles
 
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [IPad Air M1 for Sale- Giri Nagar , Banashankari , Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1wy6ay0/ipad_air_m1_for_sale_giri_nagar_banashankari/) — Rs.30,000 (score 90)
 
 
 ## Game Consoles
 
-- [EA Sports FC 26 (Playstation 5 Disc) for sale.](https://reddit.com/r/BangaloreMarketplace/comments/1wy5qin/ea_sports_fc_26_playstation_5_disc_for_sale/) — Rs.2,000 (score 85)
+- [Ps5 Slim Digital Edition [1 year old]](https://reddit.com/r/BangaloreMarketplace/comments/1wy6hms/selling_ps5_slim_digital_edition_1_year_old/) — Rs.60,000 (score 80)
 
 
 ## Desktop PCs
