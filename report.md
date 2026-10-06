@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 14:03 UTC
 
 ## Mobiles
 
-- [iPhone 16 Pro Max 256GB Desert Titanium | 91% Battery Health | Bill + Box | ₹96.5k Negotiable](https://reddit.com/r/HyderabadUsedItems/comments/1wz2nfh/iphone_16_pro_max_256gb_desert_titanium_91/) — Rs.96,500 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Asus Vivobook S16 Oled - 3.2K resolution Display Laptop](https://reddit.com/r/BangaloreMarketplace/comments/1wz25rh/asus_vivobook_s16_oled_32k_resolution_display/) — Rs.45,000 (score 70)
+- [Macbook M1](https://reddit.com/r/HyderabadBuySell/comments/1wz1skx/macbook_m1_for_sale/) — Rs.28,500 (score 85)
+- [10 Laptops required for office use in banglore](https://reddit.com/r/BangaloreMarketplace/comments/1wz2wt2/10_laptops_required_for_office_use_in_banglore/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [|| Resident Evil Requiem || PS5 ||](https://reddit.com/r/BangaloreMarketplace/comments/1wz38hm/wts_resident_evil_requiem_ps5/) — Rs.3,500 (score 100)
 
 
 ## Desktop PCs
