@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 09:33 UTC
 
 ## Mobiles
 
-- [Planning to sell my 6yr old oneplus 8T and Samsungs buds live that is lying unused since I upgraded](https://reddit.com/r/ChennaiBuyAndSell/comments/1wyxhft/planning_to_sell_my_6yr_old_oneplus_8t_and/) — Rs.22,000 (score 85)
+- [Samsung SSD 990 pro 2 TB NVMe 4 ₹32,000.](https://reddit.com/r/BangaloreMarketplace/comments/1wyxz5n/samsung_ssd_990_pro_2_tb_nvme_4_32000/) — Rs.32,000 (score 70)
+- [Planning to sell my almost 3 yo iphone 15 pro max. Whats the best price to expect?](https://reddit.com/r/BangaloreMarketplace/comments/1wyxyr6/planning_to_sell_my_almost_3_yo_iphone_15_pro_max/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [Lenovo Legion USB Gaming Mouse](https://reddit.com/r/HyderabadUsedItems/comments/1wyxelv/lenovo_legion_usb_gaming_mouse/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [HP elitedesk mini pc](https://reddit.com/r/ChennaiBuyAndSell/comments/1wyww31/wts_hp_elitedesk_mini_pc/) — Rs.33,000 (score 105)
+_No new desktop PC listings found in this run._
