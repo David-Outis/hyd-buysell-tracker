@@ -1,15 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 09:03 UTC
 
 ## Mobiles
 
-- [Pixel 9](https://reddit.com/r/HyderabadUsedItems/comments/1wyx31p/pixel_9/) — Rs.36,000 (score 120)
-- [Google Pixel 7 Pro 8/128 Gb For Sale location:- Hopefarm Whitefield (Read Description)](https://reddit.com/r/BangaloreMarketplace/comments/1wyx76l/google_pixel_7_pro_8128_gb_for_sale_location/) — Rs.8,000 (score 90)
+- [Planning to sell my 6yr old oneplus 8T and Samsungs buds live that is lying unused since I upgraded](https://reddit.com/r/ChennaiBuyAndSell/comments/1wyxhft/planning_to_sell_my_6yr_old_oneplus_8t_and/) — Rs.22,000 (score 85)
 
 
 ## Laptops
 
-- [MacBook Air M5 512GB Midnight – 3 Months Old | Mint Condition](https://reddit.com/r/bangloremarketplace/comments/1wywzwq/wts_macbook_air_m5_512gb_midnight_3_months_old/) — Rs.109,000 (score 120)
-- [Move out sale - ABOUT SPACE Study Table with 4 Tier Book Shelf - Computer Table with Storage for PC, Laptop & Writing DIY Engineered Wood Office Table for Home [White & Black Marble L 120 x B 53 x H 124.5 cm](https://reddit.com/r/BangaloreMarketplace/comments/1wyxawx/move_out_sale_about_space_study_table_with_4_tier/) — Rs.3,500 (score 85)
+- [Lenovo Legion USB Gaming Mouse](https://reddit.com/r/HyderabadUsedItems/comments/1wyxelv/lenovo_legion_usb_gaming_mouse/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -24,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [HP elitedesk mini pc](https://reddit.com/r/ChennaiBuyAndSell/comments/1wyww31/wts_hp_elitedesk_mini_pc/) — Rs.33,000 (score 105)
