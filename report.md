@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Query for second hand iphone 13 from a local dealer in national market](https://reddit.com/r/BangaloreMarketplace/comments/1wyrjza/query_for_second_hand_iphone_13_from_a_local/) — Price not found (score 55)
 
 
 ## Laptops
