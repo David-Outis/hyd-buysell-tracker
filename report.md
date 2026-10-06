@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 12:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [|| Resident Evil Requiem || PS5](https://reddit.com/r/ChennaiBuyAndSell/comments/1wz0md5/wts_resident_evil_requiem_ps5/) — Rs.3,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
