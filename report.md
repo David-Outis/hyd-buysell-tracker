@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 16:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [ASUS ROG G16 RTX 4050 (Bought a Macbook, Selling this)](https://reddit.com/r/BangaloreMarketplace/comments/1wz5p5u/selling_asus_rog_g16_rtx_4050_bought_a_macbook/) — Rs.96,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
