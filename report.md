@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 06:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Complete Gaming PC Setup with 2K monitor - 1.35 Lakh](https://reddit.com/r/HyderabadBuySell/comments/1wyu7so/complete_gaming_pc_setup_with_2k_monitor_135_lakh/) — Rs.80,000 (score 100)
