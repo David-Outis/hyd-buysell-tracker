@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus Buds 4 (new/unused) Received as gift](https://reddit.com/r/BangaloreMarketplace/comments/1wyvw59/oneplus_buds_4_newunused_received_as_gift/) — Rs.6,174 (score 85)
+- [Motorola 43" 4K QLED Smart TV – Flawless Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wyvum8/motorola_43_4k_qled_smart_tv_flawless_condition/) — Rs.4,000 (score 70)
 
 
 ## Laptops
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Complete Gaming PC Setup with 2K monitor - 1.35 Lakh](https://reddit.com/r/HyderabadBuySell/comments/1wyu7so/complete_gaming_pc_setup_with_2k_monitor_135_lakh/) — Rs.80,000 (score 100)
+_No new desktop PC listings found in this run._
