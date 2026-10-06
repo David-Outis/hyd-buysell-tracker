@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 11:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 and PS4 Game in Brand New Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wyyy74/ps5_and_ps4_game_in_brand_new_condition_for_sale/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
