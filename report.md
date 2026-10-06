@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 12:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Recommendations for PS5 Controller Hall Effect / TMR stick upgrade in Bangalore?⁠](https://reddit.com/r/BangaloreMarketplace/comments/1wz00e9/recommendations_for_ps5_controller_hall_effect/) — Price not found (score 55)
+- [|| Resident Evil Requiem || PS5](https://reddit.com/r/ChennaiBuyAndSell/comments/1wz0md5/wts_resident_evil_requiem_ps5/) — Rs.3,500 (score 100)
 
 
 ## Desktop PCs
 
-- [Move out Sale, Selling my Chair and Under Table Cabinet](https://reddit.com/r/BangaloreMarketplace/comments/1wyzqjm/move_out_sale_selling_my_chair_and_under_table/) — Rs.5,500 (score 85)
+_No new desktop PC listings found in this run._
