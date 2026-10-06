@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 14:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Spigen mobile cover for Samsung S23+](https://reddit.com/r/BangaloreMarketplace/comments/1wz3zwe/selling_spigen_mobile_cover_for_samsung_s23/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [Macbook M1](https://reddit.com/r/HyderabadBuySell/comments/1wz1skx/macbook_m1_for_sale/) — Rs.28,500 (score 85)
-- [10 Laptops required for office use in banglore](https://reddit.com/r/BangaloreMarketplace/comments/1wz2wt2/10_laptops_required_for_office_use_in_banglore/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [|| Resident Evil Requiem || PS5 ||](https://reddit.com/r/BangaloreMarketplace/comments/1wz38hm/wts_resident_evil_requiem_ps5/) — Rs.3,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
