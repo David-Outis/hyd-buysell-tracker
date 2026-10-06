@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 15:03 UTC
 
 ## Mobiles
 
-- [Spigen mobile cover for Samsung S23+](https://reddit.com/r/BangaloreMarketplace/comments/1wz3zwe/selling_spigen_mobile_cover_for_samsung_s23/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Steam Deck OLED 512 GB | ₹60000 | F2F Deal in Bangalore | DMs are open](https://reddit.com/r/BangaloreMarketplace/comments/1wz4vs5/steam_deck_oled_512_gb_60000_f2f_deal_in/) — Rs.60,000 (score 100)
 
 
 ## Desktop PCs
