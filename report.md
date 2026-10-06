@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-06 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-06 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[WTF] iphone 16 128GB- Excellent condition-95% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1wyslju/wtf_iphone_16_128gb_excellent_condition95_battery/) — Rs.60,000 (score 105)
 
 
 ## Laptops
