@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Google Pixel 11 BBD | Should I buy or Not](https://reddit.com/r/BangaloreMarketplace/comments/1wzrrzq/google_pixel_11_bbd_should_i_buy_or_not/) — Rs.74,000 (score 70)
 
 
 ## Laptops
