@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 12:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Wolverine PS5 Disc | Location: Sarjapur Road](https://reddit.com/r/BangaloreMarketplace/comments/1wzu6fq/wts_wolverine_ps5_disc_location_sarjapur_road/) — Rs.4,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [ROG B650E-F MOTHERBOARD - NZXT 850W PSU - NZXT H5 FLOW - NZXT 140MM FANS](https://reddit.com/r/BangaloreMarketplace/comments/1wzu9zn/rog_b650ef_motherboard_nzxt_850w_psu_nzxt_h5_flow/) — Rs.20,000 (score 90)
+_No new desktop PC listings found in this run._
