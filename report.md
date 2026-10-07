@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 sealed box 128gb TEAL colour](https://reddit.com/r/BangaloreMarketplace/comments/1x03hvp/selling_iphone_16_sealed_box_128gb_teal_colour/) — Rs.55,000 (score 105)
 
 
 ## Laptops
