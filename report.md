@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 06:03 UTC
 
 ## Mobiles
 
-- [Pixel 8a Mint condition for sale, barely used](https://reddit.com/r/BangaloreMarketplace/comments/1wzo48k/pixel_8a_mint_condition_for_sale_barely_used/) — Rs.28,000 (score 85)
+- [iPhone 17pro max 256gb 96% with box 📦 112k](https://reddit.com/r/HyderabadUsedItems/comments/1wzol5k/iphone_17pro_max_256gb_96_with_box_112k/) — Rs.112,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Anybody around bellandur ecospace / eco world / GTP to exchange or trade ps5 discs](https://reddit.com/r/BangaloreMarketplace/comments/1wzo5ta/anybody_around_bellandur_ecospace_eco_world_gtp/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
