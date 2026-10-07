@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 05:33 UTC
 
 ## Mobiles
 
-- [REALME P4X | FOR SALE | 128 GB | 6 GB RAM | MINT CONDITION](https://reddit.com/r/BangaloreMarketplace/comments/1wzny8h/realme_p4x_for_sale_128_gb_6_gb_ram_mint_condition/) — Rs.20,000 (score 120)
-- [iPhone 17 Pro Max (Silver) 256 GB [5 days old]](https://reddit.com/r/BangaloreMarketplace/comments/1wzns9b/wts_iphone_17_pro_max_silver_256_gb_5_days_old/) — Price not found (score 90)
+- [Pixel 8a Mint condition for sale, barely used](https://reddit.com/r/BangaloreMarketplace/comments/1wzo48k/pixel_8a_mint_condition_for_sale_barely_used/) — Rs.28,000 (score 85)
 
 
 ## Laptops
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Anybody around bellandur ecospace / eco world / GTP to exchange or trade ps5 discs](https://reddit.com/r/BangaloreMarketplace/comments/1wzo5ta/anybody_around_bellandur_ecospace_eco_world_gtp/) — Price not found (score 55)
 
 
 ## Desktop PCs
