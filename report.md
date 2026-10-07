@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 11:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Need help-- Giving ps4 / ps5 disc for rent around marathahalli. What would be best price for rents and security deposits ? kindly help this beginner.](https://reddit.com/r/BangaloreMarketplace/comments/1wzu1ut/need_help_giving_ps4_ps5_disc_for_rent_around/) — Price not found (score 55)
 
 
 ## Desktop PCs
