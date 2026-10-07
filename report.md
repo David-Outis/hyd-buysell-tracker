@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [I am selling iphone 17 1.5 month old 100% battery for 75k as I changed my mind to buy 18 pro](https://reddit.com/r/BangaloreMarketplace/comments/1wzx8t5/i_am_selling_iphone_17_15_month_old_100_battery/) — Rs.75,000 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Pro 16" 2019 – i9 | 64GB RAM | 512GB SSD | ₹58,000 | Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1wzw3vh/wts_macbook_pro_16_2019_i9_64gb_ram_512gb_ssd/) — Rs.58,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [XBOX Series S (512 GB) + Extra Controller - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wzwj2a/wts_xbox_series_s_512_gb_extra_controller/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
