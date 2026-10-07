@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 12:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Need help-- Giving ps4 / ps5 disc for rent around marathahalli. What would be best price for rents and security deposits ? kindly help this beginner.](https://reddit.com/r/BangaloreMarketplace/comments/1wzu1ut/need_help_giving_ps4_ps5_disc_for_rent_around/) — Price not found (score 55)
+- [Wolverine PS5 Disc | Location: Sarjapur Road](https://reddit.com/r/BangaloreMarketplace/comments/1wzu6fq/wts_wolverine_ps5_disc_location_sarjapur_road/) — Rs.4,000 (score 85)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [ROG B650E-F MOTHERBOARD - NZXT 850W PSU - NZXT H5 FLOW - NZXT 140MM FANS](https://reddit.com/r/BangaloreMarketplace/comments/1wzu9zn/rog_b650ef_motherboard_nzxt_850w_psu_nzxt_h5_flow/) — Rs.20,000 (score 90)
