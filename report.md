@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 13:33 UTC
 
 ## Mobiles
 
-- [Vivo V23 5G - 50MP Dual Selfie Camera / Color- Sunshine Gold Great Condition](https://reddit.com/r/BangaloreMarketplace/comments/1wzvexo/selling_vivo_v23_5g_50mp_dual_selfie_camera_color/) — Rs.35,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [XBOX Series S (512 GB) + Extra Controller - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1wzwj2a/wts_xbox_series_s_512_gb_extra_controller/) — Price not found (score 55)
 
 
 ## Desktop PCs
 
-- [Zotac RTX 4070 Ti Super 16GB graphics card](https://reddit.com/r/BangaloreMarketplace/comments/1wzvfo2/wts_zotac_rtx_4070_ti_super_16gb_graphics_card/) — Rs.80,000 (score 105)
+_No new desktop PC listings found in this run._
