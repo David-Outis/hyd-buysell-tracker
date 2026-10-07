@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 17:33 UTC
 
 ## Mobiles
 
-- [a Google pixel 10 pro xl. Mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1x00oy2/selling_a_google_pixel_10_pro_xl_mint_condition/) — Rs.80,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [planning to buy govt laptop](https://reddit.com/r/ChennaiBuyAndSell/comments/1x00po6/planning_to_buy_govt_laptop/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
