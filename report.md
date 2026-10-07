@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 06:33 UTC
 
 ## Mobiles
 
-- [iPhone 17pro max 256gb 96% with box 📦 112k](https://reddit.com/r/HyderabadUsedItems/comments/1wzol5k/iphone_17pro_max_256gb_96_with_box_112k/) — Rs.112,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
