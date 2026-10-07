@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-07 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17(battery health100)+ apple care(till March ending 2027+ original charger) for 79k](https://reddit.com/r/ChennaiBuyAndSell/comments/1wzljoz/iphone_17battery_health100_apple_caretill_march/) — Rs.79,000 (score 70)
+- [iPhone 17( battery health 100)+ apple care till March ending+ original apple adaptor for 79k](https://reddit.com/r/BangaloreMarketplace/comments/1wzlow6/iphone_17_battery_health_100_apple_care_till/) — Rs.79,000 (score 70)
 
 
 ## Laptops
