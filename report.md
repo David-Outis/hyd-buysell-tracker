@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Z Fold 6 with cover and s-pen](https://reddit.com/r/BangaloreMarketplace/comments/1x0fl1y/samsung_galaxy_z_fold_6_with_cover_and_spen/) — Rs.78,000 (score 70)
 
 
 ## Laptops
