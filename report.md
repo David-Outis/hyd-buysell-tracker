@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 04:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Pc, PC parts, storage, Liquid cooler](https://reddit.com/r/HyderabadBuySell/comments/1x0hjuh/wts_pc_pc_parts_storage_liquid_cooler/) — Rs.2,500 (score 120)
