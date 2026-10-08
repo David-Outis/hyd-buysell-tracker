@@ -1,14 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 15:03 UTC
 
 ## Mobiles
 
-- [Nothing Phone 4A 8GB 256 GB - selling it to buy pixel.](https://reddit.com/r/BangaloreMarketplace/comments/1x0s5zm/nothing_phone_4a_8gb_256_gb_selling_it_to_buy/) — Rs.38,000 (score 90)
-- [my Samsung Odyssey G5 32" monitor](https://reddit.com/r/BangaloreMarketplace/comments/1x0rzfb/selling_my_samsung_odyssey_g5_32_monitor/) — Rs.20,000 (score 105)
+- [iPhone 17pro max 256gb 95% with box 📦 uk 🇬🇧 physical sim warranty till feb 111k wts dm fast](https://reddit.com/r/HyderabadUsedItems/comments/1x0sos3/iphone_17pro_max_256gb_95_with_box_uk_physical/) — Rs.111,000 (score 85)
+- [iPhone 17( BH 100)+ apple care 5.5 months+ original adaptor for 72k](https://reddit.com/r/BangaloreMarketplace/comments/1x0slwz/iphone_17_bh_100_apple_care_55_months_original/) — Rs.72,000 (score 70)
 
 
 ## Laptops
 
-- [[PART 2] Selling Remaining Stuff + Sony ZV-E10 + 50mm F1.8 to Buy a MacBook Air (My Job Made Me MacBook Paglu 😭🍎)](https://reddit.com/r/BangaloreMarketplace/comments/1x0scnf/part_2_selling_remaining_stuff_sony_zve10_50mm/) — Rs.47,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Original PlayStation 4 Controller V2 - Jet Black](https://reddit.com/r/BangaloreMarketplace/comments/1x0sdxl/original_playstation_4_controller_v2_jet_black/) — Rs.1,900 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
