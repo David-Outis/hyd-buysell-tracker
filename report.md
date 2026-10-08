@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 18:03 UTC
 
 ## Mobiles
 
-- [Nothing Phone 4A 12 GB 256 GB brand new](https://reddit.com/r/bangloremarketplace/comments/1x0qzq9/for_sale_nothing_phone_4a_12_gb_256_gb_brand_new/) — Price not found (score 55)
+- [Which is best shop in Chennai to replace Moto one fusion plus display](https://reddit.com/r/ChennaiBuyAndSell/comments/1x0x2za/which_is_best_shop_in_chennai_to_replace_moto_one/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [Macbook Air M1 16GB RAM with 512 GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1x0wind/macbook_air_m1_16gb_ram_with_512_gb_ssd_for_sale/) — Rs.67,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Does anybody wanna trade anything for my ps4 controller?](https://reddit.com/r/BangaloreMarketplace/comments/1x0wp64/does_anybody_wanna_trade_anything_for_my_ps4/) — Rs.1,900 (score 65)
+- [XBOX SERIES S with Original Controller & Box (33k Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1x0xjjt/selling_xbox_series_s_with_original_controller/) — Rs.33,000 (score 100)
 
 
 ## Desktop PCs
