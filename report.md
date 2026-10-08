@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 09:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [WonderChef Cast Iron Fry pan and 16 pc dinner set](https://reddit.com/r/BangaloreMarketplace/comments/1x0mdp0/wts_wonderchef_cast_iron_fry_pan_and_16_pc_dinner/) — Price not found (score 55)
