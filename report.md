@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 07:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [FC27 ps5 , reposting with slashed price.](https://reddit.com/r/HyderabadUsedItems/comments/1x0k9k6/fc27_ps5_reposting_with_slashed_price/) — Price not found (score 55)
 
 
 ## Desktop PCs
