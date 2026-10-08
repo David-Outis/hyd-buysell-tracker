@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 16:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Cabinet for office use at Gkvk layout, jakkur](https://reddit.com/r/BangaloreMarketplace/comments/1x0uvkq/cabinet_for_office_use_at_gkvk_layout_jakkur/) — Rs.7,000 (score 90)
