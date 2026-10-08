@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-07 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 01:33 UTC
 
 ## Mobiles
 
-- [iPhone 16 sealed box 128gb TEAL colour](https://reddit.com/r/BangaloreMarketplace/comments/1x03hvp/selling_iphone_16_sealed_box_128gb_teal_colour/) — Rs.55,000 (score 105)
+- [iPhone 16 pro max white titanium](https://reddit.com/r/HyderabadBuySell/comments/1x0cul5/iphone_16_pro_max_white_titanium/) — Rs.78,500 (score 90)
+- [iPhone 17(battery health 100)+ apple care till March 2027 + original adaptor for 76k](https://reddit.com/r/BangaloreMarketplace/comments/1x0cehh/iphone_17battery_health_100_apple_care_till_march/) — Rs.76,000 (score 85)
 
 
 ## Laptops
