@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 03:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Z Fold 6 with cover and s-pen](https://reddit.com/r/BangaloreMarketplace/comments/1x0fl1y/samsung_galaxy_z_fold_6_with_cover_and_spen/) — Rs.78,000 (score 70)
+- [IPHONE 14 PLUS (256) blue color all mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1x0gkh6/selling_iphone_14_plus_256_blue_color_all_mint/) — Rs.35,000 (score 85)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 game cds. Location- Electronic City](https://reddit.com/r/BangaloreMarketplace/comments/1x0g9ax/selling_ps4_game_cds_location_electronic_city/) — Price not found (score 55)
 
 
 ## Desktop PCs
