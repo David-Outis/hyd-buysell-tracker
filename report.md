@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 11:03 UTC
 
 ## Mobiles
 
-- [Samsung s25 ultra 12/512gb sale](https://reddit.com/r/HyderabadBuySell/comments/1x0m0dn/samsung_s25_ultra_12512gb_sale/) — Rs.90,000 (score 120)
+- [Samsung galaxy s24 8/256gb wts only device got it from usa fully unlocked. 32k](https://reddit.com/r/HyderabadUsedItems/comments/1x0nhye/samsung_galaxy_s24_8256gb_wts_only_device_got_it/) — Rs.32,000 (score 70)
+- [Google Pixel 11 | Obsidian 256GB | Sealed](https://reddit.com/r/BangaloreMarketplace/comments/1x0ns1l/google_pixel_11_obsidian_256gb_sealed/) — Rs.76,924 (score 105)
 
 
 ## Laptops
 
-- [What would be a fair selling price for this ThinkPad E14 Gen 5 in India?](https://reddit.com/r/BangaloreMarketplace/comments/1x0n3um/what_would_be_a_fair_selling_price_for_this/) — Price not found (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,10 +18,10 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [FC27 ps5 @5000₹](https://reddit.com/r/HyderabadBuySell/comments/1x0mtim/fc27_ps5_5000/) — Rs.5,000 (score 85)
+- [Nintendo Switch OLED - 1 Year Old - New Condition - ₹25,000](https://reddit.com/r/BangaloreMarketplace/comments/1x0nzh7/nintendo_switch_oled_1_year_old_new_condition/) — Rs.25,000 (score 115)
+- [PS5 Slim Disc Edition, 1 TB storage (Out of Warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1x0njrb/wts_ps5_slim_disc_edition_1_tb_storage_out_of/) — Price not found (score 85)
 
 
 ## Desktop PCs
 
-- [Gaming PC and parts](https://reddit.com/r/HyderabadBuySell/comments/1x0ljr7/gaming_pc_and_parts/) — Rs.86,000 (score 120)
-- [Sturdy Study / Work Desk with Drawer & Cabinet – ₹4,000](https://reddit.com/r/BangaloreMarketplace/comments/1x0nduu/selling_sturdy_study_work_desk_with_drawer/) — Rs.4,000 (score 70)
+_No new desktop PC listings found in this run._
