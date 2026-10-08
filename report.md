@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-08 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17(battery health 100)+ apple care 6 months+ original adaptor for 74k](https://reddit.com/r/bangloremarketplace/comments/1x0jk0v/iphone_17battery_health_100_apple_care_6_months/) — Rs.74,000 (score 85)
 
 
 ## Laptops
