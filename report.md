@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 03:33 UTC
 
 ## Mobiles
 
-- [Samsung Buds 3 for 9k negotiable](https://reddit.com/r/BangaloreMarketplace/comments/1x19wl9/selling_samsung_buds_3_for_9k_negotiable/) — Rs.9,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
