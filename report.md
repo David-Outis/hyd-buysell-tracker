@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 16:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S10 Lite — Prism Black — ₹8,500](https://reddit.com/r/BangaloreMarketplace/comments/1x1oymq/samsung_galaxy_s10_lite_prism_black_8500/) — Rs.8,500 (score 85)
+- [Redmi pad pro 5g-21k(includes stylus and case)](https://reddit.com/r/HyderabadUsedItems/comments/1x1pxwl/redmi_pad_pro_5g21kincludes_stylus_and_case/) — Rs.21,000 (score 70)
 
 
 ## Laptops
