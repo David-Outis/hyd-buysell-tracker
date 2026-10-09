@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 10:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Zfold 6 - 12/256 GB silver variant](https://reddit.com/r/BangaloreMarketplace/comments/1x1gwpj/samsung_galaxy_zfold_6_12256_gb_silver_variant/) — Rs.78,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Brand New MacBook Pro M5 | 24GB RAM | 1TB SSD | Silver | Old Purchase Price | ₹2,25,000 (Slightly Negotiable) | Bengaluru F2F Only](https://reddit.com/r/BangaloreMarketplace/comments/1x1h9e8/wts_brand_new_macbook_pro_m5_24gb_ram_1tb_ssd/) — Rs.225,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC. Intel i9 14900KS | 64GB Gskill DDR5 | RTX 4080 16GB | 1TB SSD NVME](https://reddit.com/r/BangaloreMarketplace/comments/1x1h5u0/selling_gaming_pc_intel_i9_14900ks_64gb_gskill/) — Rs.260,000 (score 120)
