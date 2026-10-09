@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 07:33 UTC
 
 ## Mobiles
 
-- [my Moto edge 70 fusion @ ₹25, 500](https://reddit.com/r/BangaloreMarketplace/comments/1x1eamt/selling_my_moto_edge_70_fusion_25_500/) — Rs.25,500 (score 70)
+- [Sale LG Oled 55CX with dead pixels, bomanahalli.](https://reddit.com/r/BangaloreMarketplace/comments/1x1ewib/sale_lg_oled_55cx_with_dead_pixels_bomanahalli/) — Rs.10,000 (score 70)
+- [iPhone 17 256gb (Any Color) (New) @ 82000](https://reddit.com/r/BangaloreMarketplace/comments/1x1epab/iphone_17_256gb_any_color_new_82000/) — Rs.82,000 (score 85)
+- [Samsung 8GB DDR4 3600MHz Laptop RAM — ₹3,700 (Bangalore)](https://reddit.com/r/BangaloreMarketplace/comments/1x1empt/wts_samsung_8gb_ddr4_3600mhz_laptop_ram_3700/) — Rs.3,700 (score 105)
 
 
 ## Laptops
