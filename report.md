@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 09:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Zfold 6 - 12/256 GB silver variant](https://reddit.com/r/BangaloreMarketplace/comments/1x1gwpj/samsung_galaxy_zfold_6_12256_gb_silver_variant/) — Rs.78,000 (score 70)
 
 
 ## Laptops
 
-- [my MacBook M4 Air (Bought in Europe) for 50k](https://reddit.com/r/BangaloreMarketplace/comments/1x1g31l/selling_my_macbook_m4_air_bought_in_europe_for_50k/) — Rs.50,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
