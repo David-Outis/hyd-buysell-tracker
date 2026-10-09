@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 05:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Old Gaming PC + LG 24” IPS Monitor + Gaming Chair | ECity-Bengaluru | 14,000](https://reddit.com/r/BangaloreMarketplace/comments/1x1cin2/wts_old_gaming_pc_lg_24_ips_monitor_gaming_chair/) — Rs.14,000 (score 120)
