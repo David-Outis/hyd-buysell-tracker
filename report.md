@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Buds 2 Pro. Box and a case included](https://reddit.com/r/BangaloreMarketplace/comments/1x1b5tg/selling_samsung_galaxy_buds_2_pro_box_and_a_case/) — Rs.4,500 (score 90)
 
 
 ## Laptops
