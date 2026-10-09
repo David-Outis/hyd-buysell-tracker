@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Redmi 32” Fire TV (2023) | Mint Condition | ₹7,000 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1x1k27b/wts_redmi_32_fire_tv_2023_mint_condition_7000/) — Rs.7,000 (score 120)
 
 
 ## Laptops
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Apple iPad 10th Gen - 64GB Variant](https://reddit.com/r/BangaloreMarketplace/comments/1x1jyze/apple_ipad_10th_gen_64gb_variant_for_sale/) — Rs.24,000 (score 100)
 
 
 ## Game Consoles
 
-- [Marvel Wolverine for PS5 Benguluru📍](https://reddit.com/r/BangaloreMarketplace/comments/1x1jh41/selling_marvel_wolverine_for_ps5_benguluru/) — Rs.3,500 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
