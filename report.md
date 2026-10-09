@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 07:03 UTC
 
 ## Mobiles
 
-- [Buy Galaxy S24 Ultra | Galaxy AI](https://reddit.com/r/HyderabadUsedItems/comments/1x1dmpg/buy_galaxy_s24_ultra_galaxy_ai/) — Price not found (score 75)
+- [my Moto edge 70 fusion @ ₹25, 500](https://reddit.com/r/BangaloreMarketplace/comments/1x1eamt/selling_my_moto_edge_70_fusion_25_500/) — Rs.25,500 (score 70)
 
 
 ## Laptops
