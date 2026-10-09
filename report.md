@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 06:03 UTC
 
 ## Mobiles
 
-- [my iPad 9th Gen 64GB + Apple Pencil Gen 1, iPhone SE 2 128GB Product Red and Fitbit Charge 6 Grey](https://reddit.com/r/BangaloreMarketplace/comments/1x1czah/selling_my_ipad_9th_gen_64gb_apple_pencil_gen_1/) — Rs.21,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 Slim 500GB, asking price 17k (Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1x1dkjo/ps4_slim_500gb_asking_price_17k_negotiable/) — Rs.17,000 (score 65)
 
 
 ## Desktop PCs
