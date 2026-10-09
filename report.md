@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 09:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro Max - 256GB - HN/A (India Model)](https://reddit.com/r/BangaloreMarketplace/comments/1x1fw88/iphone_17_pro_max_256gb_hna_india_model/) — Rs.125,000 (score 120)
-- [Samsung So-Dimm Ddr5 4800Mhz CL40 2x8gb RAM 16gb kit for ₹18k](https://reddit.com/r/BangaloreMarketplace/comments/1x1flz8/samsung_sodimm_ddr5_4800mhz_cl40_2x8gb_ram_16gb/) — Rs.18,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [my MacBook M4 Air (Bought in Europe) for 50k](https://reddit.com/r/BangaloreMarketplace/comments/1x1g31l/selling_my_macbook_m4_air_bought_in_europe_for_50k/) — Rs.50,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
