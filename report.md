@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-08 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 01:33 UTC
 
 ## Mobiles
 
-- [Which is best shop in Chennai to replace Moto one fusion plus display](https://reddit.com/r/ChennaiBuyAndSell/comments/1x0x2za/which_is_best_shop_in_chennai_to_replace_moto_one/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [XBOX SERIES S with Original Controller & Box (33k Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1x0xjjt/selling_xbox_series_s_with_original_controller/) — Rs.33,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
