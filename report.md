@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 08:33 UTC
 
 ## Mobiles
 
-- [Poco M8 6Gb/128Gb up for selling In Whitefield](https://reddit.com/r/BangaloreMarketplace/comments/1x1ffhg/poco_m8_6gb128gb_up_for_selling_in_whitefield/) — Price not found (score 60)
+- [iPhone 17 Pro Max - 256GB - HN/A (India Model)](https://reddit.com/r/BangaloreMarketplace/comments/1x1fw88/iphone_17_pro_max_256gb_hna_india_model/) — Rs.125,000 (score 120)
+- [Samsung So-Dimm Ddr5 4800Mhz CL40 2x8gb RAM 16gb kit for ₹18k](https://reddit.com/r/BangaloreMarketplace/comments/1x1flz8/samsung_sodimm_ddr5_4800mhz_cl40_2x8gb_ram_16gb/) — Rs.18,000 (score 70)
 
 
 ## Laptops
