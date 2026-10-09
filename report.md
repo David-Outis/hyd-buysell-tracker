@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-09 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Buy Galaxy S24 Ultra | Galaxy AI](https://reddit.com/r/HyderabadUsedItems/comments/1x1dmpg/buy_galaxy_s24_ultra_galaxy_ai/) — Price not found (score 75)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 Slim 500GB, asking price 17k (Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1x1dkjo/ps4_slim_500gb_asking_price_17k_negotiable/) — Rs.17,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
