@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13 Pro ( 6GB+128GB) Green colour with adapter&cable](https://reddit.com/r/BangaloreMarketplace/comments/1x2dgku/iphone_13_pro_6gb128gb_green_colour_with/) — Rs.42,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox Series Controller - Black (F2F, South BLR)](https://reddit.com/r/BangaloreMarketplace/comments/1x2clgk/sale_xbox_series_controller_black_f2f_south_blr/) — Rs.3,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
