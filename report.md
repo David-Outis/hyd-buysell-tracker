@@ -1,13 +1,15 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 14:33 UTC
 
 ## Mobiles
 
-- [iPhone 17, 256gb, brand new 0 cycle count](https://reddit.com/r/BangaloreMarketplace/comments/1x2foks/iphone_17_256gb_brand_new_0_cycle_count/) — Rs.87,000 (score 85)
+- [Samsung Galaxy S26 Ultra 12/256 Black, sealed, India unit, ₹1,05,000](https://reddit.com/r/HyderabadBuySell/comments/1x2emn7/wts_samsung_galaxy_s26_ultra_12256_black_sealed/) — Rs.105,000 (score 105)
+- [Samsung 1TB Gen 4 NVMe SSD](https://reddit.com/r/HyderabadBuySell/comments/1x2ahtc/samsung_1tb_gen_4_nvme_ssd/) — Price not found (score 75)
+- [iPhone 12 mini 64GB, midnight](https://reddit.com/r/HyderabadBuySell/comments/1x29o7n/iphone_12_mini_64gb_midnight/) — Rs.15,000 (score 85)
 
 
 ## Laptops
 
-- [Lenovo ThinkPad T14s Gen 2 | i7-1185G7 | 32GB RAM | Touchscreen](https://reddit.com/r/HyderabadUsedItems/comments/1x2fmzu/lenovo_thinkpad_t14s_gen_2_i71185g7_32gb_ram/) — Rs.44,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +19,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [GHOST OF YOTEI PS5 ₹ 3500](https://reddit.com/r/HyderabadBuySell/comments/1x2fjne/wtsghost_of_yotei_ps5_3500/) — Rs.3,500 (score 85)
+- [Marvel’s Spider-Man 2 (PS5) – ₹2,200 – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1x2gfhr/wts_marvels_spiderman_2_ps5_2200_bangalore/) — Rs.2,200 (score 85)
 
 
 ## Desktop PCs
