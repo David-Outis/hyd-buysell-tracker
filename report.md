@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-09 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 01:33 UTC
 
 ## Mobiles
 
-- [Samsung S22D390 21.5-inch Full HD LED-backlit LCD monitor](https://reddit.com/r/BangaloreMarketplace/comments/1x1s24o/samsung_s22d390_215inch_full_hd_ledbacklit_lcd/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Dell G15 5520 || 24 GB Ram || 512 GB Storage || RTX 3050 || Gaming Laptop](https://reddit.com/r/BangaloreMarketplace/comments/1x1s5ny/selling_dell_g15_5520_24_gb_ram_512_gb_storage/) — Rs.45,000 (score 100)
+- [Macbook pro M1 8/512 barely used machines](https://reddit.com/r/BangaloreMarketplace/comments/1x217yb/macbook_pro_m1_8512_barely_used_machines/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
