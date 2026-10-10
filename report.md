@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 14:03 UTC
 
 ## Mobiles
 
-- [8 Samsung Galaxy S24 Ultra Covers – Bundle Discount or Individual Sale](https://reddit.com/r/BangaloreMarketplace/comments/1x2fe7p/selling_8_samsung_galaxy_s24_ultra_covers_bundle/) — Rs.1,500 (score 105)
+- [iPhone 17, 256gb, brand new 0 cycle count](https://reddit.com/r/BangaloreMarketplace/comments/1x2foks/iphone_17_256gb_brand_new_0_cycle_count/) — Rs.87,000 (score 85)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo ThinkPad T14s Gen 2 | i7-1185G7 | 32GB RAM | Touchscreen](https://reddit.com/r/HyderabadUsedItems/comments/1x2fmzu/lenovo_thinkpad_t14s_gen_2_i71185g7_32gb_ram/) — Rs.44,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC. Intel Ultra Core 7 265K | 32GB. DDR 5 CL30 | RTX 4070Ti AERO | 1TB Nvme SSD](https://reddit.com/r/BangaloreMarketplace/comments/1x2f5hz/selling_gaming_pc_intel_ultra_core_7_265k_32gb/) — Rs.265,000 (score 120)
+_No new desktop PC listings found in this run._
