@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 09:33 UTC
 
 ## Mobiles
 
-- [For sale Motorola Signature 16/512 (Billed on 8th Oct 2026)](https://reddit.com/r/BangaloreMarketplace/comments/1x2ahmu/for_sale_motorola_signature_16512_billed_on_8th/) — Rs.1,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -12,14 +12,14 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Xiaomi Pad 6 (Blue, 256GB) + Smart Pen (2nd Gen)](https://reddit.com/r/BangaloreMarketplace/comments/1x2aqx6/wts_xiaomi_pad_6_blue_256gb_smart_pen_2nd_gen/) — Price not found (score 75)
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Disc Edition | Excellent Condition | Bengaluru | ₹56,000](https://reddit.com/r/BangaloreMarketplace/comments/1x2arv0/wts_ps5_disc_edition_excellent_condition/) — Rs.56,000 (score 100)
 
 
 ## Desktop PCs
 
-- [I have an old CPU which isn't working, what to do.](https://reddit.com/r/BangaloreMarketplace/comments/1x2a55q/i_have_an_old_cpu_which_isnt_working_what_to_do/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
