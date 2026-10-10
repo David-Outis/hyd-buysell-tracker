@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 09:03 UTC
 
 ## Mobiles
 
-- [iPhone 12 mini 64GB](https://reddit.com/r/HyderabadUsedItems/comments/1x29mjy/iphone_12_mini_64gb/) — Rs.15,000 (score 85)
+- [For sale Motorola Signature 16/512 (Billed on 8th Oct 2026)](https://reddit.com/r/BangaloreMarketplace/comments/1x2ahmu/for_sale_motorola_signature_16512_billed_on_8th/) — Rs.1,000 (score 90)
 
 
 ## Laptops
@@ -17,10 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 DualSense Wireless Controller (Midnight Black) - Hyderabad (Narsingi)](https://reddit.com/r/HyderabadUsedItems/comments/1x29x2v/selling_ps5_dualsense_wireless_controller/) — Price not found (score 55)
-- [Nintendo Switch Oled Edition under 30,000 . Immediate Pickup](https://reddit.com/r/BangaloreMarketplace/comments/1x2a0sy/nintendo_switch_oled_edition_under_30000/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [I have an old CPU which isn't working, what to do.](https://reddit.com/r/BangaloreMarketplace/comments/1x2a55q/i_have_an_old_cpu_which_isnt_working_what_to_do/) — Price not found (score 60)
