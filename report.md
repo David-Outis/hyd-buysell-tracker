@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 11:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox Series Controller - Black (F2F, South BLR)](https://reddit.com/r/BangaloreMarketplace/comments/1x2clgk/sale_xbox_series_controller_black_f2f_south_blr/) — Rs.3,500 (score 100)
 
 
 ## Desktop PCs
