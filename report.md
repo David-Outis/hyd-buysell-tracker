@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 13:33 UTC
 
 ## Mobiles
 
-- [Redmi 32” Fire TV (2023) | Mint Condition | ₹6,000 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1x2eh6k/wts_redmi_32_fire_tv_2023_mint_condition_6000/) — Rs.6,000 (score 120)
-- [Iphone 15 128GB for sale. 99% battery capacity. Cycle count 70](https://reddit.com/r/BangaloreMarketplace/comments/1x2eaid/iphone_15_128gb_for_sale_99_battery_capacity/) — Rs.34,000 (score 85)
+- [8 Samsung Galaxy S24 Ultra Covers – Bundle Discount or Individual Sale](https://reddit.com/r/BangaloreMarketplace/comments/1x2fe7p/selling_8_samsung_galaxy_s24_ultra_covers_bundle/) — Rs.1,500 (score 105)
 
 
 ## Laptops
@@ -23,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC. Intel Ultra Core 7 265K | 32GB. DDR 5 CL30 | RTX 4070Ti AERO | 1TB Nvme SSD](https://reddit.com/r/BangaloreMarketplace/comments/1x2f5hz/selling_gaming_pc_intel_ultra_core_7_265k_32gb/) — Rs.265,000 (score 120)
