@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 10:03 UTC
 
 ## Mobiles
 
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Xiaomi Pad 6 (Blue, 256GB) + Smart Pen (2nd Gen)](https://reddit.com/r/BangaloreMarketplace/comments/1x2aqx6/wts_xiaomi_pad_6_blue_256gb_smart_pen_2nd_gen/) — Price not found (score 75)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [PS5 Disc Edition | Excellent Condition | Bengaluru | ₹56,000](https://reddit.com/r/BangaloreMarketplace/comments/1x2arv0/wts_ps5_disc_edition_excellent_condition/) — Rs.56,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
