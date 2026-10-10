@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 17:33 UTC
 
 ## Mobiles
 
@@ -7,12 +7,12 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [my Crucial 32GB notebook DDR4 RAM](https://reddit.com/r/BangaloreMarketplace/comments/1x2k6vg/selling_my_crucial_32gb_notebook_ddr4_ram/) — Rs.14,000 (score 90)
+- [[Buying]: Need Laptop/CPU in usable condition](https://reddit.com/r/HyderabadUsedItems/comments/1x2kzbp/buying_need_laptopcpu_in_usable_condition/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad pro M4 11 inch](https://reddit.com/r/HyderabadUsedItems/comments/1x2kld0/ipad_pro_m4_11_inch/) — Price not found (score 55)
 
 
 ## Game Consoles
