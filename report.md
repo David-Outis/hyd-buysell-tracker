@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 12:33 UTC
 
 ## Mobiles
 
-- [iPhone 13 Pro ( 6GB+128GB) Green colour with adapter&cable](https://reddit.com/r/BangaloreMarketplace/comments/1x2dgku/iphone_13_pro_6gb128gb_green_colour_with/) — Rs.42,000 (score 105)
+- [iPhone 8 dead. 2.5k……………………………..](https://reddit.com/r/BangaloreMarketplace/comments/1x2dufu/selling_iphone_8_dead_25k/) — Rs.2,500 (score 70)
 
 
 ## Laptops
