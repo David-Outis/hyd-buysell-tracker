@@ -1,18 +1,19 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Poco X6 Snowstorm White 8/256GB | Display issue | Lucknow](https://reddit.com/r/BangaloreMarketplace/comments/1x2llh4/selling_poco_x6_snowstorm_white_8256gb_display/) — Rs.8,000 (score 85)
+- [iPhone 15 128GB Blue – 85%+ Battery, First Owner, Never Repaired – ₹44,999 (Bellandur)](https://reddit.com/r/BangaloreMarketplace/comments/1x2l2dd/selling_iphone_15_128gb_blue_85_battery_first/) — Rs.44,999 (score 120)
 
 
 ## Laptops
 
-- [[Buying]: Need Laptop/CPU in usable condition](https://reddit.com/r/HyderabadUsedItems/comments/1x2kzbp/buying_need_laptopcpu_in_usable_condition/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad pro M4 11 inch](https://reddit.com/r/HyderabadUsedItems/comments/1x2kld0/ipad_pro_m4_11_inch/) — Price not found (score 55)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
