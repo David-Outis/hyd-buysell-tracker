@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-10 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-10 05:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my copy of Onimusha way of the sword lenticular edition Ps5 game](https://reddit.com/r/BangaloreMarketplace/comments/1x26h06/selling_my_copy_of_onimusha_way_of_the_sword/) — Rs.4,200 (score 85)
 
 
 ## Desktop PCs
