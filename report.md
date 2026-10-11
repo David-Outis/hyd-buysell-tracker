@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 256, New Sealed Box, Indian_unit](https://reddit.com/r/BangaloreMarketplace/comments/1x2y77c/iphone_17_256_new_sealed_box_indian_unit/) — Rs.85,000 (score 85)
+- [Any reliable non scam mobile repair shop in Bangalore?](https://reddit.com/r/BangaloreMarketplace/comments/1x2y14i/any_reliable_non_scam_mobile_repair_shop_in/) — Price not found (score 60)
 
 
 ## Laptops
