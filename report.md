@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 08:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Need help in purchasing pixel 10a in the bbd sale](https://reddit.com/r/BangaloreMarketplace/comments/1x32bgn/need_help_in_purchasing_pixel_10a_in_the_bbd_sale/) — Rs.6,000 (score 70)
 
 
 ## Laptops
 
-- [Looking to buy a MacBook Air M2/M3/M4 in Bangalore 🍎](https://reddit.com/r/bangloremarketplace/comments/1x31uip/looking_to_buy_a_macbook_air_m2m3m4_in_bangalore/) — Price not found (score 75)
+- [Lenovo IdeaPad S145 — Intel Core i5 10th Gen | 8GB RAM | 1.128TB Storage | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1x31zma/wts_lenovo_ideapad_s145_intel_core_i5_10th_gen/) — Rs.22,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Switch OLED + games has all contents with original box + these games and Splatoon 3 without box. 34k inr](https://reddit.com/r/BangaloreMarketplace/comments/1x31ise/selling_switch_oled_games_has_all_contents_with/) — Rs.34,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
