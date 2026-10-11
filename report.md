@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 16:33 UTC
 
 ## Mobiles
 
-- [Realme P4 lite, just arrived today and it's unused (4GB 64GB) Location - Yelahanka](https://reddit.com/r/BangaloreMarketplace/comments/1x3bfg3/realme_p4_lite_just_arrived_today_and_its_unused/) — Rs.13,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M2 8/512GB | 2024 purchase | Bangalore f2f](https://reddit.com/r/BangaloreMarketplace/comments/1x3cijg/macbook_air_m2_8512gb_2024_purchase_bangalore_f2f/) — Rs.50,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [4tb hdd - 2nos 1tb hdd - 2nos |and 550w smps | Device usage information in slides](https://reddit.com/r/BangaloreMarketplace/comments/1x3bi32/wts_4tb_hdd_2nos_1tb_hdd_2nos_and_550w_smps/) — Rs.7,000 (score 90)
+- [IKEA shoe cabinet](https://reddit.com/r/HyderabadUsedItems/comments/1x3cl99/ikea_shoe_cabinet/) — Rs.3,000 (score 90)
