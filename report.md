@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 13:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [white Microsoft Xbox Series S + 1TB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1x37pv3/selling_white_microsoft_xbox_series_s_1tb_ssd/) — Rs.45,000 (score 85)
 
 
 ## Desktop PCs
