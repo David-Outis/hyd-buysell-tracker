@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 11:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Vivo T2 Pro 5G Phone - Brand New Condition](https://reddit.com/r/BangaloreMarketplace/comments/1x353zt/vivo_t2_pro_5g_phone_brand_new_condition/) — Rs.16,003 (score 120)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Looking to buy used/refurbished macbook atleast with 16 gb RAM, Ideally 24gb or more](https://reddit.com/r/BangaloreMarketplace/comments/1x359h8/looking_to_buy_usedrefurbished_macbook_atleast/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Looking to buy mini pc, can anyone help.](https://reddit.com/r/BangaloreMarketplace/comments/1x34qni/looking_to_buy_mini_pc_can_anyone_help/) — Rs.15,000 (score 90)
+_No new desktop PC listings found in this run._
