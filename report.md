@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 09:03 UTC
 
 ## Mobiles
 
-- [Looking to buy a mobile, Samsung S24 ultra or any flagship mobile](https://reddit.com/r/BangaloreMarketplace/comments/1x32scn/looking_to_buy_a_mobile_samsung_s24_ultra_or_any/) — Rs.60,000 (score 70)
+- [Samsung Galaxy A55 8/128GB Navy](https://reddit.com/r/HyderabadBuySell/comments/1x32u46/wts_samsung_galaxy_a55_8128gb_navy/) — Price not found (score 75)
+- [Looking to buy a mobile](https://reddit.com/r/HyderabadBuySell/comments/1x32p54/looking_to_buy_a_mobile/) — Rs.57,000 (score 90)
+- [Samsung Galaxy Tab A9+ (8GB/128GB) + Galaxy Watch4 Classic 46mm BT | ₹17,500 (Negotiable to very reasonable offers)](https://reddit.com/r/BangaloreMarketplace/comments/1x3315b/samsung_galaxy_tab_a9_8gb128gb_galaxy_watch4/) — Rs.17,500 (score 120)
 
 
 ## Laptops
@@ -17,9 +19,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox S series | 512 GB | 2 years old | fully functional](https://reddit.com/r/BangaloreMarketplace/comments/1x32r87/xbox_s_series_512_gb_2_years_old_fully_functional/) — Price not found (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [Dell pc with Intel i5 and dell monitor , 250 gb (crucial) and 500 gb hdd (wd) . Monitor 19 inch](https://reddit.com/r/BangaloreMarketplace/comments/1x32xvb/dell_pc_with_intel_i5_and_dell_monitor_250_gb/) — Rs.21,000 (score 70)
+_No new desktop PC listings found in this run._
