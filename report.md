@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 18:03 UTC
 
 ## Mobiles
 
-- [Realme P4 lite, brand new unused piece (4GB 64GB)](https://reddit.com/r/bangloremarketplace/comments/1x3bo39/realme_p4_lite_brand_new_unused_piece_4gb_64gb/) — Rs.13,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
