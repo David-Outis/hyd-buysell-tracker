@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 10:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Looking to buy mini pc, can anyone help.](https://reddit.com/r/BangaloreMarketplace/comments/1x34qni/looking_to_buy_mini_pc_can_anyone_help/) — Rs.15,000 (score 90)
