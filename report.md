@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 15:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Getting Iphone 18 pro/ pro max as gift. Want to sell for cash](https://reddit.com/r/BangaloreMarketplace/comments/1x3b2hh/getting_iphone_18_pro_pro_max_as_gift_want_to/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [MacBook M2 (8GB/256GB) | Battery Health 100% | 111 Cycles | With Bill & Charger | ₹55,000](https://reddit.com/r/BangaloreMarketplace/comments/1x3a1co/wts_macbook_m2_8gb256gb_battery_health_100_111/) — Rs.55,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
