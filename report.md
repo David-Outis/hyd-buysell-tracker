@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 05:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [desktop ram and graphic card](https://reddit.com/r/HyderabadBuySell/comments/1x2ydid/desktop_ram_and_graphic_card/) — Rs.3,000 (score 70)
+_No new desktop PC listings found in this run._
