@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 07:33 UTC
 
 ## Mobiles
 
-- [Galaxy buds2](https://reddit.com/r/HyderabadUsedItems/comments/1x3176l/galaxy_buds2/) — Rs.3,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Looking to buy a MacBook Air M2/M3/M4 in Bangalore 🍎](https://reddit.com/r/bangloremarketplace/comments/1x31uip/looking_to_buy_a_macbook_air_m2m3m4_in_bangalore/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [[WTS - Chennai Only] PS5 Disc Edition (6 Months Old) + 4 Games Bundle](https://reddit.com/r/ChennaiBuyAndSell/comments/1x30vjt/wts_chennai_only_ps5_disc_edition_6_months_old_4/) — Price not found (score 70)
-- [[WTT/WTS] Original PlayStation 4 Controller](https://reddit.com/r/BangaloreMarketplace/comments/1x312ln/wttwts_original_playstation_4_controller/) — Rs.1,999 (score 85)
+- [Switch OLED + games has all contents with original box + these games and Splatoon 3 without box. 34k inr](https://reddit.com/r/BangaloreMarketplace/comments/1x31ise/selling_switch_oled_games_has_all_contents_with/) — Rs.34,000 (score 65)
 
 
 ## Desktop PCs
