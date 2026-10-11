@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 16:03 UTC
 
 ## Mobiles
 
-- [Getting Iphone 18 pro/ pro max as gift. Want to sell for cash](https://reddit.com/r/BangaloreMarketplace/comments/1x3b2hh/getting_iphone_18_pro_pro_max_as_gift_want_to/) — Price not found (score 60)
+- [Realme P4 lite, just arrived today and it's unused (4GB 64GB) Location - Yelahanka](https://reddit.com/r/BangaloreMarketplace/comments/1x3bfg3/realme_p4_lite_just_arrived_today_and_its_unused/) — Rs.13,000 (score 90)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [4tb hdd - 2nos 1tb hdd - 2nos |and 550w smps | Device usage information in slides](https://reddit.com/r/BangaloreMarketplace/comments/1x3bi32/wts_4tb_hdd_2nos_1tb_hdd_2nos_and_550w_smps/) — Rs.7,000 (score 90)
