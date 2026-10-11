@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-11 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-11 05:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Asrock B450 + Ryzen 5 3600XT Combo.](https://reddit.com/r/BangaloreMarketplace/comments/1x2zuzi/wts_asrock_b450_ryzen_5_3600xt_combo/) — Rs.14,000 (score 85)
