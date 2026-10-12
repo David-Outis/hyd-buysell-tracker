@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 04:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my PS4 1TB in Bangalore (only f2f)](https://reddit.com/r/BangaloreMarketplace/comments/1x3sbwk/selling_my_ps4_1tb_in_bangalore_only_f2f/) — Price not found (score 55)
 
 
 ## Desktop PCs
