@@ -1,10 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 07:33 UTC
 
 ## Mobiles
 
-- [Want to sell Brand New, Unused Redmi Note 15 SE 5G Smartphone, Crimson Reserve, 6GB RAM, 128GB- Flipkart Open-Box Delivery Price: ₹22,000 (Slightly negotiable) Location: Kompally Shipping](https://reddit.com/r/HyderabadBuySell/comments/1x3unn4/want_to_sell_brand_new_unused_redmi_note_15_se_5g/) — Rs.22,000 (score 120)
-- [iPhone 13 128 GB Blue No Issues, with bill and box](https://reddit.com/r/BangaloreMarketplace/comments/1x3upr5/iphone_13_128_gb_blue_no_issues_with_bill_and_box/) — Price not found (score 55)
-- [Sale : iPhone 13 - 128gb. Reason : Upgrade](https://reddit.com/r/BangaloreMarketplace/comments/1x3uppe/sale_iphone_13_128gb_reason_upgrade/) — Rs.23,250 (score 70)
+- [Sale : iPhone 13 128gb. Reason : Upgrade](https://reddit.com/r/bangloremarketplace/comments/1x3utm7/sale_iphone_13_128gb_reason_upgrade/) — Rs.23,250 (score 70)
+- [iPhone 15 128GB. Reason: Upgraded](https://reddit.com/r/BangaloreMarketplace/comments/1x3vcix/selling_iphone_15_128gb_reason_upgraded/) — Rs.33,000 (score 70)
+- [iPhone 16 Pro Max 256GB (Desert Titanium) Indian + 10k+ Worth Premium Accessories!](https://reddit.com/r/BangaloreMarketplace/comments/1x3v8sc/iphone_16_pro_max_256gb_desert_titanium_indian/) — Rs.10,000 (score 120)
 
 
 ## Laptops
@@ -24,4 +24,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [[Bangalore] ASUS ROG Zephyrus G14 (2020) – Ryzen 9 4900HS, GTX 1660 Ti, 16GB, 512GB NVMe – ₹60,000](https://reddit.com/r/BangaloreMarketplace/comments/1x3uqgx/wts_bangalore_asus_rog_zephyrus_g14_2020_ryzen_9/) — Rs.60,000 (score 120)
+- [MSI B550m-a pro motherboard + Ryzen 5 5600F CPU](https://reddit.com/r/BangaloreMarketplace/comments/1x3v6qo/wts_msi_b550ma_pro_motherboard_ryzen_5_5600f_cpu/) — Rs.14,000 (score 85)
