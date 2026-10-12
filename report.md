@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 04:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Dualshock Controller | Barely Used | 4k](https://reddit.com/r/BangaloreMarketplace/comments/1x3qzoj/ps5_dualshock_controller_barely_used_4k/) — Rs.4,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
