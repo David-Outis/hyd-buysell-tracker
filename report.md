@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 13:33 UTC
 
 ## Mobiles
 
-- [Acquisition Opportunity](https://reddit.com/r/ChennaiBuyAndSell/comments/1x3zj3o/acquisition_opportunity/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 WITH ORIGINAL Controllers and 3 game disks for sale in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1x41tbb/ps4_with_original_controllers_and_3_game_disks/) — Rs.17,500 (score 80)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [ASUS NUC 13 Pro Mini PC – i5-13420H | 16GB RAM | 512GB SSD | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1x41ke6/asus_nuc_13_pro_mini_pc_i513420h_16gb_ram_512gb/) — Rs.40,000 (score 120)
