@@ -1,20 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 05:33 UTC
 
 ## Mobiles
 
-- [Iphone 13 4GB RAM/128 GB F2F at 30k](https://reddit.com/r/BangaloreMarketplace/comments/1x3swz2/selling_iphone_13_4gb_ram128_gb_f2f_at_30k/) — Rs.30,000 (score 105)
-- [Iphone 16 pro (256)gb. How much should this go for ? ₹26,000 ( Reliance offered)](https://reddit.com/r/BangaloreMarketplace/comments/1x3spti/iphone_16_pro_256gb_how_much_should_this_go_for/) — Rs.26,000 (score 70)
+- [iphone 13 for sale regularly used, Battery replaced](https://reddit.com/r/BangaloreMarketplace/comments/1x3tj2h/iphone_13_for_sale_regularly_used_battery_replaced/) — Rs.25,000 (score 70)
 
 
 ## Laptops
 
-- [my Macbook Air M4 - 512GB - 10 Core both CPU and GPU](https://reddit.com/r/BangaloreMarketplace/comments/1x3suqu/selling_my_macbook_air_m4_512gb_10_core_both_cpu/) — Rs.92,500 (score 70)
-- [this Dell G15 intel i5-13450HX RTX 3050 6GB Gaming laptop](https://reddit.com/r/BangaloreMarketplace/comments/1x3qels/selling_this_dell_g15_intel_i513450hx_rtx_3050/) — Price not found (score 55)
+- [🔥 STEAL DEAL – OFFICE CHAIR + PORTABLE LAPTOP TABLE FOR JUST ₹1,000! 🔥 Selling two useful items at a budget-friendly price! 😍 🪑 1. Office Chair - Used for 5 years - In good overall condition - Minor issues that can be fixed easily 💻 2. Portable Bed Laptop Table - Compact and lightweight](https://reddit.com/r/BangaloreMarketplace/comments/1x3tc7c/steal_deal_office_chair_portable_laptop_table_for/) — Rs.1,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Pro 13 inch M5 cellular for sale ..](https://reddit.com/r/BangaloreMarketplace/comments/1x3t6c7/ipad_pro_13_inch_m5_cellular_for_sale/) — Rs.223,900 (score 85)
 
 
 ## Game Consoles
