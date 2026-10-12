@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 16:03 UTC
 
 ## Mobiles
 
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [IPad Pro 12.9 inch M2 512 GB WiFi + Cellular- 6th generation](https://reddit.com/r/HyderabadUsedItems/comments/1x45mgt/wts_ipad_pro_129_inch_m2_512_gb_wifi_cellular_6th/) — Price not found (score 75)
 
 
 ## Game Consoles
 
-- [PS4 Slim 1TB + 5 Games | Pristine Condition | Box & Invoice | Bangalore (F2F only)](https://reddit.com/r/BangaloreMarketplace/comments/1x44z05/wts_ps4_slim_1tb_5_games_pristine_condition_box/) — Rs.32,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
