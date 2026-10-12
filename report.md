@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 09:04 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 09:33 UTC
 
 ## Mobiles
 
-- [Iphone 17 exchange with another iphone + cash](https://reddit.com/r/BangaloreMarketplace/comments/1x3wr61/iphone_17_exchange_with_another_iphone_cash/) — Price not found (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
