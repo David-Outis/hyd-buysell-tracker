@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Realme C35 in good condition](https://reddit.com/r/bangloremarketplace/comments/1x46buh/realme_c35_in_good_condition/) — Rs.5,000 (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [windows laptop](https://reddit.com/r/bangloremarketplace/comments/1x45xh0/selling_windows_laptop/) — Price not found (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [IPad Pro 12.9 inch M2 512 GB WiFi + Cellular- 6th generation](https://reddit.com/r/HyderabadUsedItems/comments/1x45mgt/wts_ipad_pro_129_inch_m2_512_gb_wifi_cellular_6th/) — Price not found (score 75)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
