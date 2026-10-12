@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Acquisition Opportunity](https://reddit.com/r/ChennaiBuyAndSell/comments/1x3zj3o/acquisition_opportunity/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [Brand new HP Universal Sure Key Laptop Cable Lock (6UW42AA)](https://reddit.com/r/BangaloreMarketplace/comments/1x40bk8/brand_new_hp_universal_sure_key_laptop_cable_lock/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
