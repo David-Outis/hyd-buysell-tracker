@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-12 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-12 08:35 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Lenovo LOQ Gaming Laptop — Ryzen 7 250, RTX 5060, 32GB RAM, 1TB SSD | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1x3vrpc/wts_lenovo_loq_gaming_laptop_ryzen_7_250_rtx_5060/) — Rs.159,999 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
