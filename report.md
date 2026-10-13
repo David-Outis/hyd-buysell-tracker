@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [samsung galaxy s26 ultra (12/256 GB)](https://reddit.com/r/BangaloreMarketplace/comments/1x4vqfi/wts_samsung_galaxy_s26_ultra_12256_gb/) — Rs.95,000 (score 105)
 
 
 ## Laptops
