@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 17:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 14 for Sale - 96 percent battery health - Bommanahalli](https://reddit.com/r/BangaloreMarketplace/comments/1x52eog/iphone_14_for_sale_96_percent_battery_health/) — Rs.31,999 (score 100)
 
 
 ## Laptops
