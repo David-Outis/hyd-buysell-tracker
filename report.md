@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 13:33 UTC
 
 ## Mobiles
 
-- [samsung galaxy s26 ultra (12/256 GB)](https://reddit.com/r/BangaloreMarketplace/comments/1x4vqfi/wts_samsung_galaxy_s26_ultra_12256_gb/) — Rs.95,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [**[Sell] PS5 Controller Holder | ₹500 + Shipping | Bengaluru, Karnataka**](https://reddit.com/r/BangaloreMarketplace/comments/1x4w7vi/sell_ps5_controller_holder_500_shipping_bengaluru/) — Rs.500 (score 85)
 
 
 ## Desktop PCs
