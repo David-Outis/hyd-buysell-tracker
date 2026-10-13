@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 Pro Max (256GB) – ₹80,000](https://reddit.com/r/BangaloreMarketplace/comments/1x4mojw/selling_iphone_17_pro_max_256gb_80000/) — Rs.80,000 (score 100)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Looking to sell ONIMUSHA STANDARD For Nintendo Switch 2](https://reddit.com/r/BangaloreMarketplace/comments/1x4mcl7/looking_to_sell_onimusha_standard_for_nintendo/) — Price not found (score 55)
 
 
 ## Desktop PCs
