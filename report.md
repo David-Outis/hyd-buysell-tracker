@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 12:03 UTC
 
 ## Mobiles
 
-- [iPhone 14 Pro Max 128GB Deep Purple - ₹45,000 (Negotiable) | Yelahanka ,](https://reddit.com/r/bangloremarketplace/comments/1x4tahj/selling_iphone_14_pro_max_128gb_deep_purple_45000/) — Rs.45,000 (score 90)
+- [Iphone 17 pro max silver - 256gb | 100% Battery health](https://reddit.com/r/BangaloreMarketplace/comments/1x4upwz/wts_iphone_17_pro_max_silver_256gb_100_battery/) — Price not found (score 90)
 
 
 ## Laptops
