@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 10:33 UTC
 
 ## Mobiles
 
-- [BUYING DEAD MOBILES WHICH ARE NOT WORKING 📱](https://reddit.com/r/ChennaiBuyAndSell/comments/1x4quki/buying_dead_mobiles_which_are_not_working/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
