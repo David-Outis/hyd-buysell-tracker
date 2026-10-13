@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 06:33 UTC
 
 ## Mobiles
 
-- [Fair price for Oppo Find N5 Foldable Phone?](https://reddit.com/r/BangaloreMarketplace/comments/1x4otmk/fair_price_for_oppo_find_n5_foldable_phone/) — Price not found (score 55)
+- [Brand new iPhone 17 base exchange with iPhone 17 pro.](https://reddit.com/r/BangaloreMarketplace/comments/1x4p98c/brand_new_iphone_17_base_exchange_with_iphone_17/) — Price not found (score 55)
+- [iPhone 11 Pro Max 64GB – Midnight Green | Mahadevapura](https://reddit.com/r/BangaloreMarketplace/comments/1x4ox0q/wts_iphone_11_pro_max_64gb_midnight_green/) — Rs.20,000 (score 85)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MSI GF63 11UC gaming laptop for sale, Flawless condition, less used as i mostly work on my office laptop.](https://reddit.com/r/BangaloreMarketplace/comments/1x4oyju/msi_gf63_11uc_gaming_laptop_for_sale_flawless/) — Rs.50,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
