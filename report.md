@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 18:03 UTC
 
 ## Mobiles
 
-- [iPhone 14 for Sale - 96 percent battery health - Bommanahalli](https://reddit.com/r/BangaloreMarketplace/comments/1x52eog/iphone_14_for_sale_96_percent_battery_health/) — Rs.31,999 (score 100)
+- [[Sell] Selling ₹4,000 Realme Store Coupon for ₹3,000 Save ₹1,000](https://reddit.com/r/BangaloreMarketplace/comments/1x53sl1/sell_selling_4000_realme_store_coupon_for_3000/) — Rs.4,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Assassins Creed Black Flag PS5 Disc launch edition](https://reddit.com/r/BangaloreMarketplace/comments/1x53tgn/assassins_creed_black_flag_ps5_disc_launch_edition/) — Rs.3,500 (score 65)
 
 
 ## Desktop PCs
