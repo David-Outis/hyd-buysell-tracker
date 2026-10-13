@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 07:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,8 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Sealed box, Macbook Pro 14 M5 24gb/1tb ssd @ 2.37L](https://reddit.com/r/bangloremarketplace/comments/1x4q1xb/wts_sealed_box_macbook_pro_14_m5_24gb1tb_ssd_237l/) — Price not found (score 55)
+- [Looking to rent a Macbook Pro M series for a day or 2. Any leads ?](https://reddit.com/r/BangaloreMarketplace/comments/1x4pzwe/looking_to_rent_a_macbook_pro_m_series_for_a_day/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Mac mini M4 10 cpu 10 gpu cores | 16 GB RAM | 512 GB ssd | Used and in great condition | ₹ 55,000 | Rajajinagar](https://reddit.com/r/BangaloreMarketplace/comments/1x4pp3e/mac_mini_m4_10_cpu_10_gpu_cores_16_gb_ram_512_gb/) — Rs.55,000 (score 120)
+_No new desktop PC listings found in this run._
