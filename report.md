@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 10:03 UTC
 
 ## Mobiles
 
-- [Case-Mate iPhone 17 Case - Karat Granite premium brand](https://reddit.com/r/HyderabadBuySell/comments/1x4qku2/casemate_iphone_17_case_karat_granite_premium/) — Price not found (score 60)
+- [BUYING DEAD MOBILES WHICH ARE NOT WORKING 📱](https://reddit.com/r/ChennaiBuyAndSell/comments/1x4quki/buying_dead_mobiles_which_are_not_working/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [Macbook m5 pro or max](https://reddit.com/r/HyderabadBuySell/comments/1x4q7r3/macbook_m5_pro_or_max/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,5 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Cooler Master PC Cabinet](https://reddit.com/r/HyderabadBuySell/comments/1x4n910/selling_cooler_master_pc_cabinet/) — Rs.5,700 (score 70)
-- [ADATA 16gb 2666Mhz ram single stick. Desktop Ram](https://reddit.com/r/BangaloreMarketplace/comments/1x4rumq/selling_adata_16gb_2666mhz_ram_single_stick/) — Rs.7,000 (score 90)
+_No new desktop PC listings found in this run._
