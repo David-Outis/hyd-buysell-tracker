@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 11:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S25 Ultra (Titanium Gray, 12GB/256GB) – Just 2 Days Old, Accessories Untouched](https://reddit.com/r/ChennaiBuyAndSell/comments/1x4t00v/samsung_galaxy_s25_ultra_titanium_gray_12gb256gb/) — Rs.83,000 (score 100)
+- [iPhone 14 Pro Max 128GB Deep Purple - ₹45,000 (Negotiable) | Yelahanka ,](https://reddit.com/r/bangloremarketplace/comments/1x4tahj/selling_iphone_14_pro_max_128gb_deep_purple_45000/) — Rs.45,000 (score 90)
 
 
 ## Laptops
 
-- [Title: MacBook Air M1 8GB/256GB for Sale – ₹26,000 | SRM Ramapuram](https://reddit.com/r/ChennaiBuyAndSell/comments/1x4teyl/title_macbook_air_m1_8gb256gb_for_sale_26000_srm/) — Rs.26,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
