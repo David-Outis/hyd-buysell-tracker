@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 09:03 UTC
 
 ## Mobiles
 
-- [my iphone 13 battery health 79 percentage](https://reddit.com/r/BangaloreMarketplace/comments/1x4r7qn/selling_my_iphone_13_battery_health_79_percentage/) — Rs.27,000 (score 105)
+- [Samsung M56-4months old for 20k(non-negotiable) 8/256gb](https://reddit.com/r/HyderabadUsedItems/comments/1x4rma2/selling_samsung_m564months_old_for/) — Rs.20,000 (score 85)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Sale of pc read the matter first. Converting to SFF build](https://reddit.com/r/BangaloreMarketplace/comments/1x4qz09/sale_of_pc_read_the_matter_first_converting_to/) — Price not found (score 60)
+_No new desktop PC listings found in this run._
