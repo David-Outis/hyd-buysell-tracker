@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-13 15:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [The witcher 3 complete edition ps5 disc](https://reddit.com/r/BangaloreMarketplace/comments/1x4y7z5/selling_the_witcher_3_complete_edition_ps5_disc/) — Rs.2,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
