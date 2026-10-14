@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-13 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-14 01:33 UTC
 
 ## Mobiles
 
-- [[Sell] Selling ₹4,000 Realme Store Coupon for ₹3,000 Save ₹1,000](https://reddit.com/r/BangaloreMarketplace/comments/1x53sl1/sell_selling_4000_realme_store_coupon_for_3000/) — Rs.4,000 (score 70)
+- [iPhone 17 256](https://reddit.com/r/HyderabadBuySell/comments/1x5ej8f/iphone_17_256_for_sale/) — Price not found (score 55)
+- [Iphone 16 pro max -256gb-silver color in brand new condition](https://reddit.com/r/HyderabadUsedItems/comments/1x5dx0q/iphone_16_pro_max_256gbsilver_color_in_brand_new/) — Rs.85,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Assassins Creed Black Flag PS5 Disc launch edition](https://reddit.com/r/BangaloreMarketplace/comments/1x53tgn/assassins_creed_black_flag_ps5_disc_launch_edition/) — Rs.3,500 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
