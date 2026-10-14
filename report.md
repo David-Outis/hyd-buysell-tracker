@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-14 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-14 11:03 UTC
 
 ## Mobiles
 
-- [43 inch UHD Samsung TV, Jan 2024](https://reddit.com/r/BangaloreMarketplace/comments/1x5ndxa/selling_43_inch_uhd_samsung_tv_jan_2024/) — Rs.13,000 (score 85)
+- [Samsung S23 Ultra - 256 GB - 12 GB](https://reddit.com/r/BangaloreMarketplace/comments/1x5o8wm/wts_samsung_s23_ultra_256_gb_12_gb/) — Price not found (score 70)
+- [[Bangalore] Selling my Oppo Enco Air 5, Brand New/Open Box](https://reddit.com/r/BangaloreMarketplace/comments/1x5o5s5/bangalore_selling_my_oppo_enco_air_5_brand/) — Rs.3,499 (score 105)
 
 
 ## Laptops
