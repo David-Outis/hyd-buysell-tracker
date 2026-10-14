@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-14 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-14 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 Pro - 128gb for sale - White - Mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1x5gen0/iphone_16_pro_128gb_for_sale_white_mint_condition/) — Rs.75,000 (score 85)
 
 
 ## Laptops
