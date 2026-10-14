@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-14 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-14 07:33 UTC
 
 ## Mobiles
 
-- [] iPhone 16 Pro Max 256GB – 87% Battery Health – Rajajinagar](https://reddit.com/r/BangaloreMarketplace/comments/1x5kgcr/wts_iphone_16_pro_max_256gb_87_battery_health/) — Rs.89,300 (score 105)
+- [IPhone 13 256GB](https://reddit.com/r/HyderabadUsedItems/comments/1x5kim2/iphone_13_256gb/) — Rs.26,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [(LTB) Looking to buy Black myth wukong / God of war ragnarok ps5 pre-owned disc in bangalore. Only F2F around marathahalli](https://reddit.com/r/BangaloreMarketplace/comments/1x5k3y2/ltb_looking_to_buy_black_myth_wukong_god_of_war/) — Price not found (score 55)
+- [Ps4 disc in mint condition dbz, doom, nfs,lou 2](https://reddit.com/r/BangaloreMarketplace/comments/1x5kpgm/selling_ps4_disc_in_mint_condition_dbz_doom/) — Price not found (score 70)
 
 
 ## Desktop PCs
