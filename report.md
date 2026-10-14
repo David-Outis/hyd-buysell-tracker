@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-14 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-14 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [43 inch UHD Samsung TV, Jan 2024](https://reddit.com/r/BangaloreMarketplace/comments/1x5ndxa/selling_43_inch_uhd_samsung_tv_jan_2024/) — Rs.13,000 (score 85)
 
 
 ## Laptops
