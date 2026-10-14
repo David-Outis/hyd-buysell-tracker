@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-14 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-14 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13 Pro 128GB, 76% battery, original parts - ₹38,500 (Chennai)](https://reddit.com/r/ChennaiBuyAndSell/comments/1x5rg4a/wts_iphone_13_pro_128gb_76_battery_original_parts/) — Rs.38,500 (score 90)
 
 
 ## Laptops
