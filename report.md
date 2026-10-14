@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-14 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-14 11:33 UTC
 
 ## Mobiles
 
-- [Samsung S23 Ultra - 256 GB - 12 GB](https://reddit.com/r/BangaloreMarketplace/comments/1x5o8wm/wts_samsung_s23_ultra_256_gb_12_gb/) — Price not found (score 70)
-- [[Bangalore] Selling my Oppo Enco Air 5, Brand New/Open Box](https://reddit.com/r/BangaloreMarketplace/comments/1x5o5s5/bangalore_selling_my_oppo_enco_air_5_brand/) — Rs.3,499 (score 105)
+- [iPhone 13 Pro Max 256GB Alpine Green - Excellent condition, no scratches](https://reddit.com/r/HyderabadBuySell/comments/1x5na9u/wts_iphone_13_pro_max_256gb_alpine_green/) — Rs.43,000 (score 120)
 
 
 ## Laptops
@@ -18,9 +17,11 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox Series X for 51K](https://reddit.com/r/HyderabadBuySell/comments/1x5kr36/xbox_series_x_for_51k/) — Rs.51,000 (score 100)
+- [Marvel Wolverine PS5](https://reddit.com/r/HyderabadBuySell/comments/1x5jed7/wts_marvel_wolverine_ps5/) — Rs.4,500 (score 80)
+- [007 First Light PS5 Disk - KR Puram](https://reddit.com/r/BangaloreMarketplace/comments/1x5ofsg/wts_007_first_light_ps5_disk_kr_puram/) — Rs.4,500 (score 65)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [PC Combo – Ryzen 7 5700G + Sapphire RX 6650 XT OC + 16GB RAM (Barely Used / Urgent Sale)](https://reddit.com/r/HyderabadBuySell/comments/1x5o2f1/pc_combo_ryzen_7_5700g_sapphire_rx_6650_xt_oc/) — Rs.24,000 (score 100)
