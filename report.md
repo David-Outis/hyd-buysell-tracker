@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-14 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-14 06:03 UTC
 
 ## Mobiles
 
-- [iPhone 14 128gb with box - Maintained very good zero games installed on phone](https://reddit.com/r/BangaloreMarketplace/comments/1x5inlx/iphone_14_128gb_with_box_maintained_very_good/) — Rs.25,000 (score 70)
+- [iphone 16 pro sell](https://reddit.com/r/HyderabadUsedItems/comments/1x5jfv4/iphone_16_pro_sell/) — Rs.70,000 (score 70)
 
 
 ## Laptops
