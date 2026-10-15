@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 07:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Decent Gaming PC but only Partial Build, Chennai | prices mentioned in body](https://reddit.com/r/ChennaiBuyAndSell/comments/1x6einb/wts_decent_gaming_pc_but_only_partial_build/) — Rs.8,000 (score 90)
+_No new desktop PC listings found in this run._
