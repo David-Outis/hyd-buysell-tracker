@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 02:03 UTC
 
 ## Mobiles
 
-- [Will be selling iPhone 15 Plus next week, how much should I sell it for?](https://reddit.com/r/BangaloreMarketplace/comments/1x67u97/will_be_selling_iphone_15_plus_next_week_how_much/) — Rs.42,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
