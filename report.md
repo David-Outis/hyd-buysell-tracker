@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-14 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 01:33 UTC
 
 ## Mobiles
 
-- [samsung galaxy s26 ultra (12/256 GB) 92k](https://reddit.com/r/BangaloreMarketplace/comments/1x5y2t9/wts_samsung_galaxy_s26_ultra_12256_gb_92k/) — Rs.92,000 (score 70)
+- [Will be selling iPhone 15 Plus next week, how much should I sell it for?](https://reddit.com/r/BangaloreMarketplace/comments/1x67u97/will_be_selling_iphone_15_plus_next_week_how_much/) — Rs.42,000 (score 85)
 
 
 ## Laptops
 
-- [[Laptop] [Lenovo] Legion 5 Pro | Ryzen 7 5800H, RTX 3060, 32GB RAM, 1.5TB SSD | Mohali/Chandigarh | ₹85000](https://reddit.com/r/BangaloreMarketplace/comments/1x5xzbw/wts_laptop_lenovo_legion_5_pro_ryzen_7_5800h_rtx/) — Rs.85,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
