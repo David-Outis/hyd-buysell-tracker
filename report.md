@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 14:03 UTC
 
 ## Mobiles
 
-- [Samsung s25 ultra 12/256 jade green](https://reddit.com/r/BangaloreMarketplace/comments/1x6law0/samsung_s25_ultra_12256_jade_green_for_sale/) — Rs.70,000 (score 85)
+- [Iphone 16 Pink](https://reddit.com/r/ChennaiBuyAndSell/comments/1x6m6ck/iphone_16_pink/) — Price not found (score 55)
+- [Samsung Galaxy Flip5 256 GB nearby HSR](https://reddit.com/r/BangaloreMarketplace/comments/1x6md0s/selling_samsung_galaxy_flip5_256_gb_nearby_hsr/) — Rs.15,000 (score 70)
 
 
 ## Laptops
