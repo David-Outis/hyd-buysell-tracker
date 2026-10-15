@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [📱 Unused iPhone 18 Pro (US Version / eSIM Only) – Absolute Mint Condition!](https://reddit.com/r/HyderabadUsedItems/comments/1x6pxnz/unused_iphone_18_pro_us_version_esim_only/) — Rs.125,000 (score 85)
 
 
 ## Laptops
