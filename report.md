@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Realme NARZO 100 lite 5G. 12k](https://reddit.com/r/HyderabadBuySell/comments/1x6inog/realme_narzo_100_lite_5g_12k/) — Rs.12,000 (score 105)
+- [iPhone 17 Pro – Cosmic Orange (256 GB) - Electronic City Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1x6jnwi/iphone_17_pro_cosmic_orange_256_gb_electronic/) — Rs.115,000 (score 105)
 
 
 ## Laptops
@@ -12,12 +13,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Xiaomi Pad 7 (12GB/256GB) + Xiaomi Focus Pen | Excellent Condition | ₹28,000 (Non-Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1x6it93/xiaomi_pad_7_12gb256gb_xiaomi_focus_pen_excellent/) — Rs.28,000 (score 85)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [GTA 5 (PS4/PS5) and TLOU Remastered (PS4) Discs for sale | HSR Layout](https://reddit.com/r/BangaloreMarketplace/comments/1x6iqvf/gta_5_ps4ps5_and_tlou_remastered_ps4_discs_for/) — Rs.1,000 (score 85)
+- [8BitDo Pro 2 Wired Controller for Xbox – Sell](https://reddit.com/r/BangaloreMarketplace/comments/1x6j8oa/8bitdo_pro_2_wired_controller_for_xbox_sell/) — Rs.2,500 (score 80)
 
 
 ## Desktop PCs
