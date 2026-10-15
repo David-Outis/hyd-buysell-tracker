@@ -1,13 +1,16 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 17:33 UTC
 
 ## Mobiles
 
-- [iphone 13, 128 gb in great condition , haralur road near hsr](https://reddit.com/r/BangaloreMarketplace/comments/1x6qsb0/iphone_13_128_gb_in_great_condition_haralur_road/) — Rs.22,000 (score 85)
+- [iPhone 16 Pro 256gb](https://reddit.com/r/HyderabadBuySell/comments/1x6rbv0/wts_iphone_16_pro_256gb/) — Rs.75,000 (score 85)
+- [my iPhone 14 Pro Max covers. DM if interested!](https://reddit.com/r/HyderabadBuySell/comments/1x6n174/selling_my_iphone_14_pro_max_covers_dm_if/) — Price not found (score 55)
+- [Iphone 12. 64gb, 78% battery health (read description)](https://reddit.com/r/BangaloreMarketplace/comments/1x6rl4t/iphone_12_64gb_78_battery_health_read_description/) — Rs.13,000 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[WTT] Looking to Exchange My NVIDIA RTX Laptop for a MacBook Air M5](https://reddit.com/r/HyderabadBuySell/comments/1x6ngsw/wtt_looking_to_exchange_my_nvidia_rtx_laptop_for/) — Price not found (score 60)
+- [JOYTOY Warhammer 30K (The Horus Heresy) Sons of Horus Legion Praetor action](https://reddit.com/r/BangaloreMarketplace/comments/1x6rlc0/selling_joytoy_warhammer_30k_the_horus_heresy/) — Rs.30,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
