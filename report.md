@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 08:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,10 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 Games - Image Attached. Local pickup only](https://reddit.com/r/BangaloreMarketplace/comments/1x6fobu/selling_ps4_games_image_attached_local_pickup_only/) — Rs.7,000 (score 85)
+- [it takes two ps4 disc ₹ 2000](https://reddit.com/r/HyderabadBuySell/comments/1x6fjfg/wtsit_takes_two_ps4_disc_2000/) — Rs.2,000 (score 85)
+- [Ps5 stand with 2 controller charger , Cooling fan , RGB LIGHTS, 15 disc holder& headphone holder](https://reddit.com/r/BangaloreMarketplace/comments/1x6fvcc/ps5_stand_with_2_controller_charger_cooling_fan/) — Rs.2,000 (score 85)
 
 
 ## Desktop PCs
 
-- [Sheesham wood bar cabinet 🍷✨ - Whitefield- 12.5k](https://reddit.com/r/BangaloreMarketplace/comments/1x6fjzv/sheesham_wood_bar_cabinet_whitefield_125k/) — Rs.12,500 (score 90)
+_No new desktop PC listings found in this run._
