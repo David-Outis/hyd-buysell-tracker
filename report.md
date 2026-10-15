@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung s25 ultra 12/256 jade green](https://reddit.com/r/BangaloreMarketplace/comments/1x6law0/samsung_s25_ultra_12256_jade_green_for_sale/) — Rs.70,000 (score 85)
 
 
 ## Laptops
 
-- [(New) Acer Aspire 15 (Ryzen 3 7330U, 8GB RAM, 512GB SSD) - Barely Used, With Bill & Box](https://reddit.com/r/BangaloreMarketplace/comments/1x6ksfx/wts_new_acer_aspire_15_ryzen_3_7330u_8gb_ram/) — Rs.45,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
