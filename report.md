@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [pixel 7 pro 256gb obsidian pristine condition](https://reddit.com/r/BangaloreMarketplace/comments/1x6gdyv/pixel_7_pro_256gb_obsidian_pristine_condition/) — Rs.20,000 (score 70)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [it takes two ps4 disc ₹ 2000](https://reddit.com/r/HyderabadBuySell/comments/1x6fjfg/wtsit_takes_two_ps4_disc_2000/) — Rs.2,000 (score 85)
-- [Ps5 stand with 2 controller charger , Cooling fan , RGB LIGHTS, 15 disc holder& headphone holder](https://reddit.com/r/BangaloreMarketplace/comments/1x6fvcc/ps5_stand_with_2_controller_charger_cooling_fan/) — Rs.2,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
