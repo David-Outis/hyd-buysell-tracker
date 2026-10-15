@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 07:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 256 76000](https://reddit.com/r/HyderabadBuySell/comments/1x6dxrh/iphone_17_256_76000/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [] Playstation 5 Slim Disc, LG Monitor, Badminton Gear & Backpacks - Bill Box available for all](https://reddit.com/r/BangaloreMarketplace/comments/1x6e2jm/wts_playstation_5_slim_disc_lg_monitor_badminton/) — Rs.65,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Decent Gaming PC but only Partial Build, Chennai | prices mentioned in body](https://reddit.com/r/ChennaiBuyAndSell/comments/1x6einb/wts_decent_gaming_pc_but_only_partial_build/) — Rs.8,000 (score 90)
