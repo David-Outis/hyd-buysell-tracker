@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-15 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-15 14:33 UTC
 
 ## Mobiles
 
-- [Iphone 16 Pink](https://reddit.com/r/ChennaiBuyAndSell/comments/1x6m6ck/iphone_16_pink/) — Price not found (score 55)
-- [Samsung Galaxy Flip5 256 GB nearby HSR](https://reddit.com/r/BangaloreMarketplace/comments/1x6md0s/selling_samsung_galaxy_flip5_256_gb_nearby_hsr/) — Rs.15,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
