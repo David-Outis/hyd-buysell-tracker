@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 05:03 UTC
 
 ## Mobiles
 
-- [iPhone 18 pro max clear phone case- Mag safe](https://reddit.com/r/BangaloreMarketplace/comments/1x76v24/iphone_18_pro_max_clear_phone_case_mag_safe/) — Rs.4,657 (score 85)
+- [my iPhone 17 - 256GB - lavendar color - 8 months old](https://reddit.com/r/BangaloreMarketplace/comments/1x778y9/selling_my_iphone_17_256gb_lavendar_color_8/) — Price not found (score 55)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Slim Digital - selling since I am barely using it](https://reddit.com/r/BangaloreMarketplace/comments/1x76rug/selling_ps5_slim_digital_selling_since_i_am/) — Rs.40,000 (score 100)
+- [Wolverine PS5 - 3800 Bangalore/Chennai](https://reddit.com/r/BangaloreMarketplace/comments/1x779gk/wts_wolverine_ps5_3800_bangalorechennai/) — Price not found (score 70)
 
 
 ## Desktop PCs
