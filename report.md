@@ -1,14 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 06:33 UTC
 
 ## Mobiles
 
-- [Mobile Gimbal for Sale - dji Osmo Mobile 7 for 4890/](https://reddit.com/r/BangaloreMarketplace/comments/1x787i4/mobile_gimbal_for_sale_dji_osmo_mobile_7_for_4890/) — Rs.5,756 (score 105)
-- [iPhone 14 Pro Max 256GB Deep Purple - Bangalore - 78% BH, Very Good Condition](https://reddit.com/r/BangaloreMarketplace/comments/1x783ax/iphone_14_pro_max_256gb_deep_purple_bangalore_78/) — Rs.8,000 (score 120)
+- [🚗 Volkswagen Polo Comfortline 1.0 TSI Automatic — Rare Find! A great opportunity for true Polo fans! 📅 July 2021 Registration 🛣️ Only 3,130 km driven ⚙️ 1.0 TSI Turbo Petrol 🚘 Automatic Transmission 📹 Dash Camera Installed 📋 Complete Service & Maintenance Records Available 📊 Cars24 Report W](https://reddit.com/r/BangaloreMarketplace/comments/1x78jpm/volkswagen_polo_comfortline_10_tsi_automatic_rare/) — Price not found (score 60)
+- [Sale : OnePlus 8T 8/128gb Cost : 17,500 Condition : Mint](https://reddit.com/r/BangaloreMarketplace/comments/1x78idm/sale_oneplus_8t_8128gb_cost_17500_condition_mint/) — Price not found (score 70)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Pro 16-inch (Intel i9/ 16GB Ram/ 1TB SSD/ 4GB Graphics) Chennai](https://reddit.com/r/BangaloreMarketplace/comments/1x78s6b/macbook_pro_16inch_intel_i9_16gb_ram_1tb_ssd_4gb/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
