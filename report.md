@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 02:33 UTC
 
 ## Mobiles
 
-- [iPhone 18 Pro 256GB | Silver | US Variant | ₹1,45,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1x73c6z/iphone_18_pro_256gb_silver_us_variant_145000/) — Rs.145,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
