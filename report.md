@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 Slim 1tb Disc edition for Sale (Under warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1x7a1h4/ps5_slim_1tb_disc_edition_for_sale_under_warranty/) — Rs.55,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
