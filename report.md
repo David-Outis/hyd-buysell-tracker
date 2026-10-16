@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 12:03 UTC
 
 ## Mobiles
 
-- [One day old iphone 17 bought from fk with box and bill](https://reddit.com/r/BangaloreMarketplace/comments/1x7drkx/one_day_old_iphone_17_bought_from_fk_with_box_and/) — Rs.79,000 (score 70)
+- [Samsung 7 kg Inverter 5-Star Top Load (Eco Bubble) + stand + pipes | BTM 2nd Stage](https://reddit.com/r/BangaloreMarketplace/comments/1x7e2zn/wts_samsung_7_kg_inverter_5star_top_load_eco/) — Rs.17,240 (score 105)
 
 
 ## Laptops
