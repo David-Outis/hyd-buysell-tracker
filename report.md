@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 06:03 UTC
 
 ## Mobiles
 
-- [iPhone 13 Pro Max 128GB – US Variant – Mint Condition](https://reddit.com/r/HyderabadBuySell/comments/1x77tbr/wts_iphone_13_pro_max_128gb_us_variant_mint/) — Rs.40,000 (score 100)
+- [Mobile Gimbal for Sale - dji Osmo Mobile 7 for 4890/](https://reddit.com/r/BangaloreMarketplace/comments/1x787i4/mobile_gimbal_for_sale_dji_osmo_mobile_7_for_4890/) — Rs.5,756 (score 105)
+- [iPhone 14 Pro Max 256GB Deep Purple - Bangalore - 78% BH, Very Good Condition](https://reddit.com/r/BangaloreMarketplace/comments/1x783ax/iphone_14_pro_max_256gb_deep_purple_bangalore_78/) — Rs.8,000 (score 120)
 
 
 ## Laptops
