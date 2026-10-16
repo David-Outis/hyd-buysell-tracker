@@ -1,14 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 07:33 UTC
 
 ## Mobiles
 
-- [Exchange of Pixel 11 for an iPhone 17, preferably less than 2 months old](https://reddit.com/r/BangaloreMarketplace/comments/1x791n8/exchange_of_pixel_11_for_an_iphone_17_preferably/) — Price not found (score 55)
-- [iPhone 15 || Blue || 128 GB || In Warranty till June’27 || 100% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1x790w4/wts_iphone_15_blue_128_gb_in_warranty_till_june27/) — Rs.41,000 (score 105)
+- [vivo t4 5g](https://reddit.com/r/HyderabadUsedItems/comments/1x79dkr/selling_vivo_t4_5g/) — Rs.22,000 (score 70)
+- [Samsung AKG type C earphones. South Bangalore.](https://reddit.com/r/BangaloreMarketplace/comments/1x79pid/samsung_akg_type_c_earphones_south_bangalore/) — Rs.1,800 (score 105)
 
 
 ## Laptops
 
-- [MacBook Pro 16-inch (Intel i9/ 16GB Ram/ 1TB SSD/ 4GB Graphics) Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1x78qid/macbook_pro_16inch_intel_i9_16gb_ram_1tb_ssd_4gb/) — Rs.60,000 (score 105)
+- [[PC] [Crucial] 8GB DDR4 Laptop RAM | 3200MHz CL22 | Bangalore | Open to Offers](https://reddit.com/r/BangaloreMarketplace/comments/1x79fd4/pc_crucial_8gb_ddr4_laptop_ram_3200mhz_cl22/) — Price not found (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Switch OLed + games 32K + ship. Location blore can ship on buyers cost and risk](https://reddit.com/r/BangaloreMarketplace/comments/1x79hhi/selling_switch_oled_games_32k_ship_location_blore/) — Rs.32,000 (score 65)
 
 
 ## Desktop PCs
