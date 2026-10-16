@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 11:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Tab S11 ultra](https://reddit.com/r/HyderabadUsedItems/comments/1x7cxqk/selling_samsung_galaxy_tab_s11_ultra/) — Rs.85,000 (score 105)
+- [One day old iphone 17 bought from fk with box and bill](https://reddit.com/r/BangaloreMarketplace/comments/1x7drkx/one_day_old_iphone_17_bought_from_fk_with_box_and/) — Rs.79,000 (score 70)
 
 
 ## Laptops
