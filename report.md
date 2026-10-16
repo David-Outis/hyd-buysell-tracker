@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 14:03 UTC
 
 ## Mobiles
 
-- [Motorola Edge 60 Fusion 8/128GB for Sale – Under Warranty](https://reddit.com/r/BangaloreMarketplace/comments/1x7fsed/motorola_edge_60_fusion_8128gb_for_sale_under/) — Rs.500 (score 100)
+- [Looking to buy an iPhone 16 pro in a decent condition.](https://reddit.com/r/BangaloreMarketplace/comments/1x7gets/looking_to_buy_an_iphone_16_pro_in_a_decent/) — Rs.55,000 (score 70)
 
 
 ## Laptops
