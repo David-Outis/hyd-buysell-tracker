@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 17:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [MSI MPG VELOX 100R Mid Tower Cabinet – ₹1,800 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1x7m46i/wts_msi_mpg_velox_100r_mid_tower_cabinet_1800/) — Rs.1,800 (score 90)
