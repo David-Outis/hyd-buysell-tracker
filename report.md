@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 05:33 UTC
 
 ## Mobiles
 
-- [my iPhone 17 - 256GB - lavendar color - 8 months old](https://reddit.com/r/BangaloreMarketplace/comments/1x778y9/selling_my_iphone_17_256gb_lavendar_color_8/) — Price not found (score 55)
+- [iPhone 13 Pro Max 128GB – US Variant – Mint Condition](https://reddit.com/r/HyderabadBuySell/comments/1x77tbr/wts_iphone_13_pro_max_128gb_us_variant_mint/) — Rs.40,000 (score 100)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Wolverine PS5 - 3800 Bangalore/Chennai](https://reddit.com/r/BangaloreMarketplace/comments/1x779gk/wts_wolverine_ps5_3800_bangalorechennai/) — Price not found (score 70)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
