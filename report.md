@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 16:03 UTC
 
 ## Mobiles
 
-- [[Sell] Flipkart ₹10,000 Google Pixel Coupon](https://reddit.com/r/BangaloreMarketplace/comments/1x7iyuz/sell_flipkart_10000_google_pixel_coupon/) — Rs.10,000 (score 70)
+- [Samsung Galaxy ZFold 6 - Posting again with reduced price](https://reddit.com/r/BangaloreMarketplace/comments/1x7jkje/samsung_galaxy_zfold_6_posting_again_with_reduced/) — Rs.6,000 (score 70)
+- [6 months old samsung Galaxy S26 Ultra 512 GB variant](https://reddit.com/r/BangaloreMarketplace/comments/1x7jit2/6_months_old_samsung_galaxy_s26_ultra_512_gb/) — Price not found (score 55)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Acer Aspire 3 A315-58 (Intel i5 11th Gen) – Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1x7jkz1/wts_acer_aspire_3_a31558_intel_i5_11th_gen/) — Rs.17,500 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
