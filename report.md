@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Motorola Edge 60 Fusion 8/128GB for Sale – Under Warranty](https://reddit.com/r/BangaloreMarketplace/comments/1x7fsed/motorola_edge_60_fusion_8128gb_for_sale_under/) — Rs.500 (score 100)
 
 
 ## Laptops
