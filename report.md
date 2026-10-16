@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 15:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[Sell] Flipkart ₹10,000 Google Pixel Coupon](https://reddit.com/r/BangaloreMarketplace/comments/1x7iyuz/sell_flipkart_10000_google_pixel_coupon/) — Rs.10,000 (score 70)
 
 
 ## Laptops
