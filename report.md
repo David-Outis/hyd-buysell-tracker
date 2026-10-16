@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 18:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Wolverine Ps5 for sale in brand new condition.](https://reddit.com/r/BangaloreMarketplace/comments/1x7nbfl/wolverine_ps5_for_sale_in_brand_new_condition/) — Price not found (score 50)
 
 
 ## Desktop PCs
 
-- [MSI MPG VELOX 100R Mid Tower Cabinet – ₹1,800 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1x7m46i/wts_msi_mpg_velox_100r_mid_tower_cabinet_1800/) — Rs.1,800 (score 90)
+_No new desktop PC listings found in this run._
