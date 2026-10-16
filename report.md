@@ -1,14 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-16 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-16 07:03 UTC
 
 ## Mobiles
 
-- [🚗 Volkswagen Polo Comfortline 1.0 TSI Automatic — Rare Find! A great opportunity for true Polo fans! 📅 July 2021 Registration 🛣️ Only 3,130 km driven ⚙️ 1.0 TSI Turbo Petrol 🚘 Automatic Transmission 📹 Dash Camera Installed 📋 Complete Service & Maintenance Records Available 📊 Cars24 Report W](https://reddit.com/r/BangaloreMarketplace/comments/1x78jpm/volkswagen_polo_comfortline_10_tsi_automatic_rare/) — Price not found (score 60)
-- [Sale : OnePlus 8T 8/128gb Cost : 17,500 Condition : Mint](https://reddit.com/r/BangaloreMarketplace/comments/1x78idm/sale_oneplus_8t_8128gb_cost_17500_condition_mint/) — Price not found (score 70)
+- [Exchange of Pixel 11 for an iPhone 17, preferably less than 2 months old](https://reddit.com/r/BangaloreMarketplace/comments/1x791n8/exchange_of_pixel_11_for_an_iphone_17_preferably/) — Price not found (score 55)
+- [iPhone 15 || Blue || 128 GB || In Warranty till June’27 || 100% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1x790w4/wts_iphone_15_blue_128_gb_in_warranty_till_june27/) — Rs.41,000 (score 105)
 
 
 ## Laptops
 
-- [MacBook Pro 16-inch (Intel i9/ 16GB Ram/ 1TB SSD/ 4GB Graphics) Chennai](https://reddit.com/r/BangaloreMarketplace/comments/1x78s6b/macbook_pro_16inch_intel_i9_16gb_ram_1tb_ssd_4gb/) — Price not found (score 60)
+- [MacBook Pro 16-inch (Intel i9/ 16GB Ram/ 1TB SSD/ 4GB Graphics) Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1x78qid/macbook_pro_16inch_intel_i9_16gb_ram_1tb_ssd_4gb/) — Rs.60,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
