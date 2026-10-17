@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 08:03 UTC
 
 ## Mobiles
 
-- [SEALED ONEPLUS NORD BUDS 4 (1 day old)](https://reddit.com/r/BangaloreMarketplace/comments/1x83xoz/selling_sealed_oneplus_nord_buds_4_1_day_old/) — Rs.2,800 (score 85)
+- [iPhone 17 Pro Max 115k Orange 256GB Flawless Chennai F2F](https://reddit.com/r/ChennaiBuyAndSell/comments/1x84j25/wts_iphone_17_pro_max_115k_orange_256gb_flawless/) — Rs.115,000 (score 105)
 
 
 ## Laptops
