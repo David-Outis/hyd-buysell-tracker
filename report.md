@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 16:33 UTC
 
 ## Mobiles
 
-- [Anyone bought Samsung SWA-9200S/ZA speaker](https://reddit.com/r/ChennaiBuyAndSell/comments/1x8djov/anyone_bought_samsung_swa9200sza_speaker/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 825GB Disc Edition with FIFA23 Disc in Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1x8dopz/wts_ps5_825gb_disc_edition_with_fifa23_disc_in/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
