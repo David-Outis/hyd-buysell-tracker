@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 15:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [FOR SALE Laptop: Lenovo IdeaPad Slim 5 – i5 13th Gen, 16GB RAM (Excellent Condition)](https://reddit.com/r/BangaloreMarketplace/comments/1x8bxir/for_sale_laptop_lenovo_ideapad_slim_5_i5_13th_gen/) — Rs.43,000 (score 120)
+- [[Laptop] [Lenovo] Legion 5 Pro | Ryzen 7 5800H, RTX 3060, 32GB RAM, 1.5TB SSD | Mohali/Chandigarh | ₹74000](https://reddit.com/r/BangaloreMarketplace/comments/1x8cjfl/selling_laptop_lenovo_legion_5_pro_ryzen_7_5800h/) — Rs.74,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
