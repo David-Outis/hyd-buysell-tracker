@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 15:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [FOR SALE Laptop: Lenovo IdeaPad Slim 5 – i5 13th Gen, 16GB RAM (Excellent Condition)](https://reddit.com/r/BangaloreMarketplace/comments/1x8bxir/for_sale_laptop_lenovo_ideapad_slim_5_i5_13th_gen/) — Rs.43,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
