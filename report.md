@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 05:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo legion 5050 16gb RAM Ryzen 7 260 -Brand New ( Not even switched on) received delivery today.](https://reddit.com/r/bangloremarketplace/comments/1x81u5y/lenovo_legion_5050_16gb_ram_ryzen_7_260_brand_new/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
