@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 14:03 UTC
 
 ## Mobiles
 
-- [Vivo X300 12+512GB Summit Red for Sale (under warranty)](https://reddit.com/r/bangloremarketplace/comments/1x89emf/vivo_x300_12512gb_summit_red_for_sale_under/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Macbook pro with touchbar for sale emergency,Dm if interested‼️](https://reddit.com/r/BangaloreMarketplace/comments/1x8agw8/macbook_pro_with_touchbar_for_sale_emergencydm_if/) — Rs.35,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
