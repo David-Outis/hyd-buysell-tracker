@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 18:03 UTC
 
 ## Mobiles
 
-- [Iphone 14 pro max (US variant) mint condition selling price 50K](https://reddit.com/r/BangaloreMarketplace/comments/1x8fh5z/selling_iphone_14_pro_max_us_variant_mint/) — Rs.50,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
