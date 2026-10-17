@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 06:33 UTC
 
 ## Mobiles
 
-- [Oppo find X9s 256 gb (45 days old) Sunset Orange](https://reddit.com/r/BangaloreMarketplace/comments/1x82k8b/oppo_find_x9s_256_gb_45_days_old_sunset_orange/) — Rs.60,000 (score 70)
+- [Samsung Galaxy Tab S10 Plus, Wi-Fi Only, 256GB variant.](https://reddit.com/r/HyderabadBuySell/comments/1x8240r/samsung_galaxy_tab_s10_plus_wifi_only_256gb/) — Price not found (score 75)
+- [Samsung 32Inch TV](https://reddit.com/r/HyderabadBuySell/comments/1x810ax/samsung_32inch_tv_for_sale/) — Rs.8,000 (score 90)
 
 
 ## Laptops
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Wolverine PS5 at 4000](https://reddit.com/r/ChennaiBuyAndSell/comments/1x81oxg/wolverine_ps5_at_4000/) — Rs.5,499 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
