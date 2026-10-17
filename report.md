@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 07:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Tab S10 Plus, Wi-Fi Only, 256GB variant.](https://reddit.com/r/HyderabadBuySell/comments/1x8240r/samsung_galaxy_tab_s10_plus_wifi_only_256gb/) — Price not found (score 75)
-- [Samsung 32Inch TV](https://reddit.com/r/HyderabadBuySell/comments/1x810ax/samsung_32inch_tv_for_sale/) — Rs.8,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -23,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Desktop PC](https://reddit.com/r/HyderabadBuySell/comments/1x82x0u/desktop_pc/) — Rs.10,000 (score 70)
