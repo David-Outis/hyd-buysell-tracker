@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oppo find X9s 256 gb (45 days old) Sunset Orange](https://reddit.com/r/BangaloreMarketplace/comments/1x82k8b/oppo_find_x9s_256_gb_45_days_old_sunset_orange/) — Rs.60,000 (score 70)
 
 
 ## Laptops
 
-- [Lenovo legion 5050 16gb RAM Ryzen 7 260 -Brand New ( Not even switched on) received delivery today.](https://reddit.com/r/bangloremarketplace/comments/1x81u5y/lenovo_legion_5050_16gb_ram_ryzen_7_260_brand_new/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Wolverine PS5 at 4000](https://reddit.com/r/ChennaiBuyAndSell/comments/1x81oxg/wolverine_ps5_at_4000/) — Rs.5,499 (score 65)
 
 
 ## Desktop PCs
