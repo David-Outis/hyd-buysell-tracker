@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 13:33 UTC
 
 ## Mobiles
 
-- [Vivo X300 12+512GB Summit Red for Sale (under warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1x89ehp/vivo_x300_12512gb_summit_red_for_sale_under/) — Rs.78,000 (score 100)
+- [Vivo X300 12+512GB Summit Red for Sale (under warranty)](https://reddit.com/r/bangloremarketplace/comments/1x89emf/vivo_x300_12512gb_summit_red_for_sale_under/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [barely used, Macbook pro M2 -14 inch, 16GB, 512 GB SSD for 90K](https://reddit.com/r/ChennaiBuyAndSell/comments/1x88irx/selling_barely_used_macbook_pro_m2_14_inch_16gb/) — Rs.90,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
