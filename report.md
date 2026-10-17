@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 14:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Macbook pro with touchbar for sale emergency,Dm if interested‼️](https://reddit.com/r/BangaloreMarketplace/comments/1x8agw8/macbook_pro_with_touchbar_for_sale_emergencydm_if/) — Rs.35,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
