@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-17 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-17 07:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [SEALED ONEPLUS NORD BUDS 4 (1 day old)](https://reddit.com/r/BangaloreMarketplace/comments/1x83xoz/selling_sealed_oneplus_nord_buds_4_1_day_old/) — Rs.2,800 (score 85)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Desktop PC](https://reddit.com/r/HyderabadBuySell/comments/1x82x0u/desktop_pc/) — Rs.10,000 (score 70)
+_No new desktop PC listings found in this run._
