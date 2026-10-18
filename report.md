@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 16:33 UTC
 
 ## Mobiles
 
-- [my dji mobile gimbal 7p. Condition: Mint](https://reddit.com/r/BangaloreMarketplace/comments/1x96nfc/selling_my_dji_mobile_gimbal_7p_condition_mint/) — Rs.9,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad 10th Gen 256GB (Cellular + Wi-Fi) + Apple Pencil (USB-C) | Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1x96bky/ipad_10th_gen_256gb_cellular_wifi_apple_pencil/) — Rs.40,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
