@@ -1,13 +1,15 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 12:33 UTC
 
 ## Mobiles
 
-- [Iphone 17 pro (orange) - Bill + Box - Oct 25](https://reddit.com/r/BangaloreMarketplace/comments/1x919i8/iphone_17_pro_orange_bill_box_oct_25/) — Rs.98,000 (score 105)
+- [Iphone 16+ for Sale (mint condition) - Scratchless](https://reddit.com/r/HyderabadBuySell/comments/1x90mei/iphone_16_for_sale_mint_condition_scratchless/) — Rs.65,000 (score 105)
+- [iphone 16 available , good as new](https://reddit.com/r/HyderabadBuySell/comments/1x909ai/iphone_16_available_good_as_new/) — Rs.2,000 (score 90)
+- [Any one has Dead Oppo Reno 8 Pro?](https://reddit.com/r/HyderabadBuySell/comments/1x8zh0o/any_one_has_dead_oppo_reno_8_pro/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [LAPTOP FOR SALE ❗](https://reddit.com/r/HyderabadUsedItems/comments/1x9158x/laptop_for_sale/) — Rs.53,000 (score 105)
+- [Small cylinder filled, Study chair+plank, bed table for laptop, normal matress+pillows for sale as I m vacating.](https://reddit.com/r/HyderabadBuySell/comments/1x911iz/small_cylinder_filled_study_chairplank_bed_table/) — Rs.1,300 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,8 +19,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Disc Edition in Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1x91ezc/wts_ps5_disc_edition_in_hyderabad/) — Price not found (score 55)
-- [Looking to buy a PS4 around 15k](https://reddit.com/r/HyderabadUsedItems/comments/1x90zrj/looking_to_buy_a_ps4_around_15k/) — Rs.15,000 (score 65)
+- [Looking to buy PS4 around 15000](https://reddit.com/r/HyderabadBuySell/comments/1x911c5/looking_to_buy_ps4_around_15000/) — Rs.15,000 (score 85)
 
 
 ## Desktop PCs
