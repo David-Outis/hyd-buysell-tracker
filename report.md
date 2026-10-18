@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 06:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 (256 GB) Blue – Mint (10/10) | 100% Battery Health | AppleCare+ till Aug 2027](https://reddit.com/r/ChennaiBuyAndSell/comments/1x8usn3/iphone_17_256_gb_blue_mint_1010_100_battery/) — Rs.83,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [PC Power Supplies For Sale - F2F - Balagere](https://reddit.com/r/BangaloreMarketplace/comments/1x8w11d/pc_power_supplies_for_sale_f2f_balagere/) — Rs.1,500 (score 90)
