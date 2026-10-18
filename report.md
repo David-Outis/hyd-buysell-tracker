@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 12:03 UTC
 
 ## Mobiles
 
-- [my Samsung Odyssey G3 monitor + Foldable table](https://reddit.com/r/BangaloreMarketplace/comments/1x90i5x/selling_my_samsung_odyssey_g3_monitor_foldable/) — Rs.9,000 (score 105)
+- [Iphone 17 pro (orange) - Bill + Box - Oct 25](https://reddit.com/r/BangaloreMarketplace/comments/1x919i8/iphone_17_pro_orange_bill_box_oct_25/) — Rs.98,000 (score 105)
 
 
 ## Laptops
 
-- [Office chair +laptop table](https://reddit.com/r/bangloremarketplace/comments/1x904l7/office_chair_laptop_table_for_sale/) — Rs.1,000 (score 90)
+- [LAPTOP FOR SALE ❗](https://reddit.com/r/HyderabadUsedItems/comments/1x9158x/laptop_for_sale/) — Rs.53,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Disc Edition in Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1x91ezc/wts_ps5_disc_edition_in_hyderabad/) — Price not found (score 55)
+- [Looking to buy a PS4 around 15k](https://reddit.com/r/HyderabadUsedItems/comments/1x90zrj/looking_to_buy_a_ps4_around_15k/) — Rs.15,000 (score 65)
 
 
 ## Desktop PCs
