@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 10:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Jailbroken PS4 slim 500GB + 10 PS4 game discs](https://reddit.com/r/BangaloreMarketplace/comments/1x8z571/wts_jailbroken_ps4_slim_500gb_10_ps4_game_discs/) — Rs.20,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
