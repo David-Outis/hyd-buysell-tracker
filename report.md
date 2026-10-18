@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 09:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [The Blood of Dawnwalker PS5 Disc Sealed.](https://reddit.com/r/BangaloreMarketplace/comments/1x8xqsb/the_blood_of_dawnwalker_ps5_disc_sealed/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
