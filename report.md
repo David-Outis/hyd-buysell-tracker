@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 02:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [🖥️PC Components For Sale| Chitlapakkam, Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1x8qskn/pc_components_for_sale_chitlapakkam_chennai/) — Rs.8,000 (score 90)
+_No new desktop PC listings found in this run._
