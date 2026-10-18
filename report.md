@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 07:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [PC Power Supplies For Sale - F2F - Balagere](https://reddit.com/r/BangaloreMarketplace/comments/1x8w11d/pc_power_supplies_for_sale_f2f_balagere/) — Rs.1,500 (score 90)
+_No new desktop PC listings found in this run._
