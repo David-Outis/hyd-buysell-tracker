@@ -1,15 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 11:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro Silver 256GB sealed Indian unit.](https://reddit.com/r/ChennaiBuyAndSell/comments/1x8zo4c/iphone_17_pro_silver_256gb_sealed_indian_unit/) — Rs.122,000 (score 85)
-- [Iphone 17e](https://reddit.com/r/ChennaiBuyAndSell/comments/1x8zhww/iphone_17e/) — Price not found (score 75)
-- [used iPhone 14 Pro 256 gb for 45k](https://reddit.com/r/BangaloreMarketplace/comments/1x901pb/selling_used_iphone_14_pro_256_gb_for_45k/) — Rs.45,000 (score 120)
+- [my Samsung Odyssey G3 monitor + Foldable table](https://reddit.com/r/BangaloreMarketplace/comments/1x90i5x/selling_my_samsung_odyssey_g3_monitor_foldable/) — Rs.9,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Office chair +laptop table](https://reddit.com/r/bangloremarketplace/comments/1x904l7/office_chair_laptop_table_for_sale/) — Rs.1,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -19,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 DISC EDITION WITH FIFA23 DISC IN HYD](https://reddit.com/r/HyderabadUsedItems/comments/1x90820/wts_ps5_disc_edition_with_fifa23_disc_in_hyd/) — Rs.60,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [PC](https://reddit.com/r/HyderabadUsedItems/comments/1x90dz4/pc_for_sale/) — Rs.30,000 (score 120)
+_No new desktop PC listings found in this run._
