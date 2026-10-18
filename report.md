@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 13:33 UTC
 
 ## Mobiles
 
-- [my Samsung Galaxy 3 earbuds. Very rarely used. (Mint conditon)](https://reddit.com/r/BangaloreMarketplace/comments/1x92pp1/wts_my_samsung_galaxy_3_earbuds_very_rarely_used/) — Price not found (score 55)
-- [Motorola pad 60 pro (8/128) Pantone bronze green](https://reddit.com/r/BangaloreMarketplace/comments/1x92esf/motorola_pad_60_pro_8128_pantone_bronze_green/) — Price not found (score 55)
+- [iphone 13 128Gb green colour near hoodi](https://reddit.com/r/BangaloreMarketplace/comments/1x92xo9/wts_iphone_13_128gb_green_colour_near_hoodi/) — Rs.23,500 (score 90)
 
 
 ## Laptops
