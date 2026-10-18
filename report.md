@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 08:03 UTC
 
 ## Mobiles
 
-- [Nothing Phone 4A 8GB 256 GB - selling it to buy pixel.](https://reddit.com/r/BangaloreMarketplace/comments/1x8wppa/nothing_phone_4a_8gb_256_gb_selling_it_to_buy/) — Rs.35,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Super Sale - New Shoes, Mattress, Laptop Bag and Some other Stuff (Brookfield)](https://reddit.com/r/BangaloreMarketplace/comments/1x8x8jp/super_sale_new_shoes_mattress_laptop_bag_and_some/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
