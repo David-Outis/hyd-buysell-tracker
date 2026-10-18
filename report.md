@@ -1,8 +1,11 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 15:33 UTC
 
 ## Mobiles
 
-- [📱 FOR SALE: iPhone 8 Plus (64GB) + Amazon Echo Dot iPhone 8 Plus – 64GB Well maintained and in good condition, with a clean front and back. Fully working. Price: ₹8,000 Amazon Echo Dot 5 (Alexa) Less than a month old, barely used. Comes with the original box and papers. Price: ₹4,500 📩 Serious buy](https://reddit.com/r/BangaloreMarketplace/comments/1x953ab/for_sale_iphone_8_plus_64gb_amazon_echo_dot/) — Rs.8,000 (score 85)
+- [iPhone 14pro 128 gb](https://reddit.com/r/HyderabadBuySell/comments/1x94pub/iphone_14pro_128_gb/) — Rs.47,000 (score 120)
+- [iPhone 17 Pro 256GB (UK Spec) location- Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1x92tv4/iphone_17_pro_256gb_uk_spec_location_hyderabad/) — Rs.112,000 (score 120)
+- [S6 lite Samsung Tablet 2023. Only bangalore.](https://reddit.com/r/BangaloreMarketplace/comments/1x95uw8/selling_s6_lite_samsung_tablet_2023_only_bangalore/) — Price not found (score 75)
+- [Samsung 24(Snapdragon) 8/256 GB with original 25 watt charger and 2 Spigen cases @38K](https://reddit.com/r/BangaloreMarketplace/comments/1x95lx8/wts_samsung_24snapdragon_8256_gb_with_original_25/) — Rs.38,000 (score 70)
 
 
 ## Laptops
@@ -22,4 +25,5 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [CPU + RAM [Ryzen 7 5600G] + [XPG 8 GB (3200 MHZ)]](https://reddit.com/r/HyderabadBuySell/comments/1x934zu/cpu_ram_ryzen_7_5600g_xpg_8_gb_3200_mhz/) — Rs.25,000 (score 100)
+- [PC , Desktop](https://reddit.com/r/HyderabadBuySell/comments/1x91rwp/wts_pc_desktop/) — Rs.63,000 (score 120)
