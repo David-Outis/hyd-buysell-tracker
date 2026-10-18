@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-18 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-18 14:03 UTC
 
 ## Mobiles
 
-- [iphone 13 128Gb green colour near hoodi](https://reddit.com/r/BangaloreMarketplace/comments/1x92xo9/wts_iphone_13_128gb_green_colour_near_hoodi/) — Rs.23,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Gaming Laptop](https://reddit.com/r/HyderabadUsedItems/comments/1x93e1w/gaming_laptop_for_sale/) — Rs.120,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
