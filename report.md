@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 07:35 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Apple Macbook Air M5 24/512 gb, 20 days old](https://reddit.com/r/BangaloreMarketplace/comments/1x9q5jv/apple_macbook_air_m5_24512_gb_20_days_old_for_sale/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
