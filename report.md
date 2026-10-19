@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 13:33 UTC
 
 ## Mobiles
 
-- [Any offline store in Bangalore where I can buy iPhone 15 pro?](https://reddit.com/r/BangaloreMarketplace/comments/1x9w5q8/any_offline_store_in_bangalore_where_i_can_buy/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo Ideapad Flex 5, 16/512gb, 4yrs old](https://reddit.com/r/BangaloreMarketplace/comments/1x9wzcs/lenovo_ideapad_flex_5_16512gb_4yrs_old_for_sale/) — Rs.35,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [my ps5 Digital version bought around 2025 feb](https://reddit.com/r/ChennaiBuyAndSell/comments/1x9vv5e/selling_my_ps5_digital_version_bought_around_2025/) — Rs.50,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
