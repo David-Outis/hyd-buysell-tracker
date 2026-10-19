@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 17:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [🎮 NITHO PS5 DualSense Controller Charging Station](https://reddit.com/r/ChennaiBuyAndSell/comments/1xa1tly/nitho_ps5_dualsense_controller_charging_station/) — Rs.1,100 (score 100)
 
 
 ## Desktop PCs
