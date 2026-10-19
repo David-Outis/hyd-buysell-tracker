@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 11:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[Sell] OnePlus 9 5G Excellent Condition 12/256 Price 22,000/- Rs](https://reddit.com/r/BangaloreMarketplace/comments/1x9td04/sell_oneplus_9_5g_excellent_condition_12256_price/) — Rs.22,000 (score 85)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 GAMES FOR SALE - (RDR2 and DRIVECLUB)](https://reddit.com/r/BangaloreMarketplace/comments/1x9t5ag/ps4_games_for_sale_rdr2_and_driveclub/) — Rs.2,099 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
