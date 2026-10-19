@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 07:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Want to sell ps4 games near Electronic City](https://reddit.com/r/BangaloreMarketplace/comments/1x9p29b/want_to_sell_ps4_games_near_electronic_city/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
