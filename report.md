@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 05:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Buying any desktop speakers under 3k](https://reddit.com/r/HyderabadBuySell/comments/1x9mkcu/buying_any_desktop_speakers_under_3k/) — Rs.3,000 (score 90)
