@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Any offline store in Bangalore where I can buy iPhone 15 pro?](https://reddit.com/r/BangaloreMarketplace/comments/1x9w5q8/any_offline_store_in_bangalore_where_i_can_buy/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [[Sell] [Laptop] [Dell] Inspiron 15 | 16gb ddr4 + 256ssd + 1TB hdd i5 11gen | Hyderabad | 40k negotiable*](https://reddit.com/r/BangaloreMarketplace/comments/1x9v88y/sell_laptop_dell_inspiron_15_16gb_ddr4_256ssd_1tb/) — Rs.40,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my ps5 Digital version bought around 2025 feb](https://reddit.com/r/ChennaiBuyAndSell/comments/1x9vv5e/selling_my_ps5_digital_version_bought_around_2025/) — Rs.50,000 (score 100)
 
 
 ## Desktop PCs
