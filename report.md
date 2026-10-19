@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 03:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 256g with AppleCare+](https://reddit.com/r/ChennaiBuyAndSell/comments/1x9lj5m/iphone_17_256g_with_applecare/) — Rs.78,000 (score 85)
+- [Looking to see my iphone 13 mini… want to know the price](https://reddit.com/r/BangaloreMarketplace/comments/1x9m69e/looking_to_see_my_iphone_13_mini_want_to_know_the/) — Rs.20,000 (score 70)
 
 
 ## Laptops
