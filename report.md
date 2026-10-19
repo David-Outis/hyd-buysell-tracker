@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 03:03 UTC
 
 ## Mobiles
 
-- [iPhone 17pro max 256gb with box 90% dual esim 109k](https://reddit.com/r/HyderabadUsedItems/comments/1x9l4bz/iphone_17pro_max_256gb_with_box_90_dual_esim_109k/) — Rs.109,000 (score 70)
+- [iPhone 17 256g with AppleCare+](https://reddit.com/r/ChennaiBuyAndSell/comments/1x9lj5m/iphone_17_256g_with_applecare/) — Rs.78,000 (score 85)
 
 
 ## Laptops
