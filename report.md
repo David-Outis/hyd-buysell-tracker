@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 17:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[SELL] 2 x 8gb Samsung DDR4-3200 SO-DIMM laptop RAM](https://reddit.com/r/BangaloreMarketplace/comments/1xa34s4/sell_2_x_8gb_samsung_ddr43200_sodimm_laptop_ram/) — Price not found (score 60)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [🎮 NITHO PS5 DualSense Controller Charging Station](https://reddit.com/r/ChennaiBuyAndSell/comments/1xa1tly/nitho_ps5_dualsense_controller_charging_station/) — Rs.1,100 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
