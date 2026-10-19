@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 11:33 UTC
 
 ## Mobiles
 
-- [[Sell] OnePlus 9 5G Excellent Condition 12/256 Price 22,000/- Rs](https://reddit.com/r/BangaloreMarketplace/comments/1x9td04/sell_oneplus_9_5g_excellent_condition_12256_price/) — Rs.22,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox Series S - 512 GB - White Console](https://reddit.com/r/BangaloreMarketplace/comments/1x9u6j2/wts_xbox_series_s_512_gb_white_console/) — Rs.30,000 (score 65)
 
 
 ## Desktop PCs
