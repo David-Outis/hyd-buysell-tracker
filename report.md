@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 04:33 UTC
 
 ## Mobiles
 
-- [Samsung 27” Odyssey G5 Monitor - want to sell](https://reddit.com/r/BangaloreMarketplace/comments/1x9mnsh/samsung_27_odyssey_g5_monitor_want_to_sell/) — Rs.11,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [[Bangalore] ASUS ROG Zephyrus G14 (2020) – Ryzen 9 4900HS, GTX 1660 Ti, 16GB, 512GB NVMe – 35,000](https://reddit.com/r/BangaloreMarketplace/comments/1x9mt9c/wts_bangalore_asus_rog_zephyrus_g14_2020_ryzen_9/) — Rs.35,000 (score 120)
+_No new desktop PC listings found in this run._
