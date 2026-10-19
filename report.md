@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-19 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-19 06:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Macbook Air M5 24/512 for sale, 20 days old](https://reddit.com/r/BangaloreMarketplace/comments/1x9oozb/macbook_air_m5_24512_for_sale_20_days_old/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Want to sell ps4 games near Electronic City](https://reddit.com/r/BangaloreMarketplace/comments/1x9p29b/want_to_sell_ps4_games_near_electronic_city/) — Price not found (score 55)
 
 
 ## Desktop PCs
