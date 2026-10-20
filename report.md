@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 08:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [⁠ [Bangalore] iPhone 16 Plus, 256GB (Box + Bill included) – ₹70,000 (Negotiable)⁠](https://reddit.com/r/ChennaiBuyAndSell/comments/1xam47w/wts_bangalore_iphone_16_plus_256gb_box_bill/) — Rs.70,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [⁠ Sony PlayStation VR2 (PSVR 2) + DOBE Dual Charging Dock | 1 Month Old | Bill, Box price 48,000](https://reddit.com/r/BangaloreMarketplace/comments/1xalmmq/sale_sony_playstation_vr2_psvr_2_dobe_dual/) — Rs.48,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
