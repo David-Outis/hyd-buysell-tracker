@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 15:33 UTC
 
 ## Mobiles
 
-- [Premium iPad & Samsung Accessories — NOMAD Leather Folio, MOFT Dynamic Folio & Samsung S25 Ultra Case](https://reddit.com/r/BangaloreMarketplace/comments/1xau83k/wts_premium_ipad_samsung_accessories_nomad/) — Rs.14,500 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Looking to buy a second hand pc around 60-70k](https://reddit.com/r/BangaloreMarketplace/comments/1xauqh6/looking_to_buy_a_second_hand_pc_around_6070k/) — Rs.60,000 (score 70)
