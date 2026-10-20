@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 16:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [this entire collection of Halo Xbox games](https://reddit.com/r/BangaloreMarketplace/comments/1xavptt/selling_this_entire_collection_of_halo_xbox_games/) — Price not found (score 55)
 
 
 ## Desktop PCs
 
-- [Looking to buy a second hand pc around 60-70k](https://reddit.com/r/BangaloreMarketplace/comments/1xauqh6/looking_to_buy_a_second_hand_pc_around_6070k/) — Rs.60,000 (score 70)
+_No new desktop PC listings found in this run._
