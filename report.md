@@ -1,9 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 09:03 UTC
 
 ## Mobiles
 
-- [[Bangalore] iPhone 16 Plus, 256GB (Box + Bill included) – ₹65,000 (Negotiable)⁠](https://reddit.com/r/ChennaiBuyAndSell/comments/1xamdj2/wts_bangalore_iphone_16_plus_256gb_box_bill/) — Rs.65,000 (score 105)
-- [⁠ [Bangalore] iPhone 16 Plus, 256GB (Box + Bill included) – ₹65,000 (Negotiable)⁠](https://reddit.com/r/BangaloreMarketplace/comments/1xamc2g/wts_bangalore_iphone_16_plus_256gb_box_bill/) — Rs.65,000 (score 105)
+- [Pixel 7 at 19k](https://reddit.com/r/HyderabadUsedItems/comments/1xamxpe/pixel_7_at_19k/) — Rs.19,000 (score 85)
+- [Samsung Galaxy Book4 – 16GB RAM / 512GB SSD – ₹40,000 (Slightly Negotiable)](https://reddit.com/r/HyderabadUsedItems/comments/1xamvpn/wts_samsung_galaxy_book4_16gb_ram_512gb_ssd_40000/) — Rs.40,000 (score 85)
+- [iPhone 6S 32GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xamxru/wts_iphone_6s_32gb/) — Price not found (score 75)
 
 
 ## Laptops
