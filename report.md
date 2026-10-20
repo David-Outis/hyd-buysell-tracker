@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Realme T310 earbuds, unused, bought a week ago, ₹1500](https://reddit.com/r/BangaloreMarketplace/comments/1xagsn7/realme_t310_earbuds_unused_bought_a_week_ago_1500/) — Rs.1,500 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook](https://reddit.com/r/ChennaiBuyAndSell/comments/1xagt61/macbook/) — Rs.44,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
