@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 07:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PS5 1TB + Original Controller | 1 Year Warranty | Bill & Box Available | Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xal1i7/sony_ps5_1tb_original_controller_1_year_warranty/) — Rs.65,000 (score 80)
+- [⁠ Sony PlayStation VR2 (PSVR 2) + DOBE Dual Charging Dock | 1 Month Old | Bill, Box price 48,000](https://reddit.com/r/BangaloreMarketplace/comments/1xalmmq/sale_sony_playstation_vr2_psvr_2_dobe_dual/) — Rs.48,000 (score 100)
 
 
 ## Desktop PCs
