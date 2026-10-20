@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 14:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my 10-day-old Samsung S25 Ultra – ₹81K](https://reddit.com/r/BangaloreMarketplace/comments/1xatdkq/selling_my_10dayold_samsung_s25_ultra_81k/) — Rs.81,000 (score 105)
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox Game Pass Ultimate @ ₹500/- per month](https://reddit.com/r/BangaloreMarketplace/comments/1xatjv0/sale_xbox_game_pass_ultimate_500_per_month/) — Rs.500 (score 85)
 
 
 ## Desktop PCs
 
-- [my old gaming pc 🫡 - includes intel I5 3rd Gen - GTX 1050TI 4GB - Asus Motherboard - Corsair Vs 450 - 4 GB ddr3 ram and Keyboard / Monitor - PRICE - 15k](https://reddit.com/r/BangaloreMarketplace/comments/1xashnf/selling_my_old_gaming_pc_includes_intel_i5_3rd/) — Rs.15,000 (score 70)
+_No new desktop PC listings found in this run._
