@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to buy old iphones 3,4,5,6 ain't got a high budget tho should be fully working with no issues](https://reddit.com/r/BangaloreMarketplace/comments/1xanr0q/looking_to_buy_old_iphones_3456_aint_got_a_high/) — Price not found (score 55)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [RTX 4070 Ti Gaming PC + Complete Setup](https://reddit.com/r/HyderabadUsedItems/comments/1xamwm5/rtx_4070_ti_gaming_pc_complete_setup/) — Rs.3,000 (score 85)
+_No new desktop PC listings found in this run._
