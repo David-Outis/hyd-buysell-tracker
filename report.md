@@ -1,10 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 09:33 UTC
 
 ## Mobiles
 
-- [Pixel 7 at 19k](https://reddit.com/r/HyderabadUsedItems/comments/1xamxpe/pixel_7_at_19k/) — Rs.19,000 (score 85)
-- [Samsung Galaxy Book4 – 16GB RAM / 512GB SSD – ₹40,000 (Slightly Negotiable)](https://reddit.com/r/HyderabadUsedItems/comments/1xamvpn/wts_samsung_galaxy_book4_16gb_ram_512gb_ssd_40000/) — Rs.40,000 (score 85)
-- [iPhone 6S 32GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xamxru/wts_iphone_6s_32gb/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -24,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [RTX 4070 Ti Gaming PC + Complete Setup](https://reddit.com/r/HyderabadUsedItems/comments/1xamwm5/rtx_4070_ti_gaming_pc_complete_setup/) — Rs.3,000 (score 85)
