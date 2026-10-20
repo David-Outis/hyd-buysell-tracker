@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 04:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Macbook neo (unused)](https://reddit.com/r/HyderabadUsedItems/comments/1xahtiw/macbook_neo_unused/) — Rs.68,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
