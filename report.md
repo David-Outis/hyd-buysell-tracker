@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 17:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Macbook Air M5 Midnight 16 GB 512 SSD Brand New](https://reddit.com/r/BangaloreMarketplace/comments/1xay622/macbook_air_m5_midnight_16_gb_512_ssd_brand_new/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
