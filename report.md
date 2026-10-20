@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Vivo v40e (8/128)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xaqov4/vivo_v40e_8128/) — Rs.20,000 (score 85)
 
 
 ## Laptops
