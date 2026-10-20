@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 16:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [this entire collection of Halo Xbox games](https://reddit.com/r/BangaloreMarketplace/comments/1xavptt/selling_this_entire_collection_of_halo_xbox_games/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
