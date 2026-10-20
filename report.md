@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-20 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-20 14:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [my old gaming pc 🫡 - includes intel I5 3rd Gen - GTX 1050TI 4GB - Asus Motherboard - Corsair Vs 450 - 4 GB ddr3 ram and Keyboard / Monitor - PRICE - 15k](https://reddit.com/r/BangaloreMarketplace/comments/1xashnf/selling_my_old_gaming_pc_includes_intel_i5_3rd/) — Rs.15,000 (score 70)
