@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 07:03 UTC
 
 ## Mobiles
 
-- [Redmi k50I](https://reddit.com/r/ChennaiBuyAndSell/comments/1xbfgws/redmi_k50i/) — Price not found (score 60)
-- [iPhone XR carefully used, no damage anywhere.](https://reddit.com/r/BangaloreMarketplace/comments/1xbfnpq/selling_iphone_xr_carefully_used_no_damage/) — Rs.19,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps4 pro new mint condition](https://reddit.com/r/HyderabadBuySell/comments/1xbezkp/ps4_pro_new_mint_condition/) — Rs.35,000 (score 115)
 
 
 ## Desktop PCs
