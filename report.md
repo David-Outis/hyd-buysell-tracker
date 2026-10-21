@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 14:03 UTC
 
 ## Mobiles
 
-- [SAMSUNG TAB S11 - 4M OLD, URGENT SALE - NEW CONDITION](https://reddit.com/r/BangaloreMarketplace/comments/1xbn8ud/samsung_tab_s11_4m_old_urgent_sale_new_condition/) — Rs.72,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
