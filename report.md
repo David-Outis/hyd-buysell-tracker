@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OPPO K14 Plus (6GB/128GB) – Like New – ₹29,000](https://reddit.com/r/HyderabadUsedItems/comments/1xbknss/oppo_k14_plus_6gb128gb_like_new_29000/) — Rs.29,000 (score 100)
+- [iPhone 16 Plus - 128GB - Teal - Mint Condition⁠](https://reddit.com/r/ChennaiBuyAndSell/comments/1xbl5qq/iphone_16_plus_128gb_teal_mint_condition/) — Rs.62,000 (score 120)
+- [iPhone 16 Plus - 128GB - Teal - Mint Condition⁠](https://reddit.com/r/BangaloreMarketplace/comments/1xbl63g/iphone_16_plus_128gb_teal_mint_condition/) — Price not found (score 55)
 
 
 ## Laptops
@@ -17,7 +19,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Want to sell kindle ,Magic Mouse, Mechanical Gaming Keyboard ps4 controller and Ipod](https://reddit.com/r/BangaloreMarketplace/comments/1xbkgpt/want_to_sell_kindle_magic_mouse_mechanical_gaming/) — Rs.1,200 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
