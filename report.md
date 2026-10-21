@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 07:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps4 pro new mint condition](https://reddit.com/r/HyderabadBuySell/comments/1xbezkp/ps4_pro_new_mint_condition/) — Rs.35,000 (score 115)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
