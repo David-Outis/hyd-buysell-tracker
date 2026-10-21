@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 03:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,10 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony PS5 Disc Edition 1TB + 6 Original Games | Bundle](https://reddit.com/r/HyderabadUsedItems/comments/1xbchj9/selling_sony_ps5_disc_edition_1tb_6_original/) — Price not found (score 50)
+- [XBOX CONTROLLER](https://reddit.com/r/HyderabadUsedItems/comments/1xbc9i0/xbox_controller_for_sale/) — Rs.5,000 (score 65)
 
 
 ## Desktop PCs
 
-- [Desktop PC for Sale – Intel Core i5 4440S | 8GB DDR3 RAM | Zotac GT 730 2GB GDDR5](https://reddit.com/r/HyderabadBuySell/comments/1xbbs9x/desktop_pc_for_sale_intel_core_i5_4440s_8gb_ddr3/) — Rs.7,000 (score 105)
+_No new desktop PC listings found in this run._
