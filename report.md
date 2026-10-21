@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 16:03 UTC
 
 ## Mobiles
 
-- [iPhone 15 Plus, 128 GB, Sky Blue, 77% Battery health](https://reddit.com/r/BangaloreMarketplace/comments/1xbptp1/wts_iphone_15_plus_128_gb_sky_blue_77_battery/) — Rs.40,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
