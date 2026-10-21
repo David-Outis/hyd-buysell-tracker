@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 06:33 UTC
 
 ## Mobiles
 
-- [OnePlus 11R 5G](https://reddit.com/r/HyderabadBuySell/comments/1xbdqsk/wts_oneplus_11r_5g_for_sale/) — Rs.21,000 (score 105)
+- [Redmi k50I](https://reddit.com/r/ChennaiBuyAndSell/comments/1xbfgws/redmi_k50i/) — Price not found (score 60)
+- [iPhone XR carefully used, no damage anywhere.](https://reddit.com/r/BangaloreMarketplace/comments/1xbfnpq/selling_iphone_xr_carefully_used_no_damage/) — Rs.19,000 (score 90)
 
 
 ## Laptops
