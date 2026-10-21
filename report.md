@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oppo Enco Air 3 Pro Buds Industry first Composite Bamboo Fiber, ANC, 30H Playtime, Fast Charge Bluetooth Headset](https://reddit.com/r/BangaloreMarketplace/comments/1xbmkg1/selling_oppo_enco_air_3_pro_buds_industry_first/) — Rs.5,000 (score 85)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Want to sell kindle ,Magic Mouse, Mechanical Gaming Keyboard , ps4 controller and Ipod](https://reddit.com/r/HyderabadUsedItems/comments/1xbl8kk/want_to_sell_kindle_magic_mouse_mechanical_gaming/) — Rs.2,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
