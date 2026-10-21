@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 02:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [RealMe GT Master Edition](https://reddit.com/r/HyderabadBuySell/comments/1xbaxbt/realme_gt_master_edition/) — Rs.8,000 (score 120)
 
 
 ## Laptops
