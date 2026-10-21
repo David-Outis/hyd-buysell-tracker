@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 03:03 UTC
 
 ## Mobiles
 
-- [RealMe GT Master Edition](https://reddit.com/r/HyderabadBuySell/comments/1xbaxbt/realme_gt_master_edition/) — Rs.8,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Desktop PC for Sale – Intel Core i5 4440S | 8GB DDR3 RAM | Zotac GT 730 2GB GDDR5](https://reddit.com/r/HyderabadBuySell/comments/1xbbs9x/desktop_pc_for_sale_intel_core_i5_4440s_8gb_ddr3/) — Rs.7,000 (score 105)
