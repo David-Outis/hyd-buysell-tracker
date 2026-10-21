@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 06:03 UTC
 
 ## Mobiles
 
-- [Spigen AlignMaster S Screen Protector for iPhone 17 – ₹250](https://reddit.com/r/BangaloreMarketplace/comments/1xbeogp/wts_spigen_alignmaster_s_screen_protector_for/) — Price not found (score 75)
+- [OnePlus 11R 5G](https://reddit.com/r/HyderabadBuySell/comments/1xbdqsk/wts_oneplus_11r_5g_for_sale/) — Rs.21,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Blood of Dawnwalker – PS5 (Sealed) 🔥](https://reddit.com/r/HyderabadUsedItems/comments/1xbehbj/wts_blood_of_dawnwalker_ps5_sealed/) — Rs.4,500 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
