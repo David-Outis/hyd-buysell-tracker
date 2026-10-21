@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-21 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-21 13:33 UTC
 
 ## Mobiles
 
-- [Oppo Enco Air 3 Pro Buds Industry first Composite Bamboo Fiber, ANC, 30H Playtime, Fast Charge Bluetooth Headset](https://reddit.com/r/BangaloreMarketplace/comments/1xbmkg1/selling_oppo_enco_air_3_pro_buds_industry_first/) — Rs.5,000 (score 85)
+- [SAMSUNG TAB S11 - 4M OLD, URGENT SALE - NEW CONDITION](https://reddit.com/r/BangaloreMarketplace/comments/1xbn8ud/samsung_tab_s11_4m_old_urgent_sale_new_condition/) — Rs.72,000 (score 105)
 
 
 ## Laptops
