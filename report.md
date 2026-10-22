@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 17:33 UTC
 
 ## Mobiles
 
-- [Looking to buy an used iPhone in the 40-50K range.](https://reddit.com/r/BangaloreMarketplace/comments/1xcnl0s/looking_to_buy_an_used_iphone_in_the_4050k_range/) — Rs.40,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
