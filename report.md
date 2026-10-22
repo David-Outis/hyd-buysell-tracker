@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 16:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony PS5 slim disc edition complete set good condition](https://reddit.com/r/BangaloreMarketplace/comments/1xcnc9l/sony_ps5_slim_disc_edition_complete_set_good/) — Rs.63,000 (score 85)
 
 
 ## Desktop PCs
 
-- [Dell 15 alien ware for 98k ryzen 7 4050](https://reddit.com/r/BangaloreMarketplace/comments/1xclufc/selling_dell_15_alien_ware_for_98k_ryzen_7_4050/) — Rs.98,000 (score 70)
+_No new desktop PC listings found in this run._
