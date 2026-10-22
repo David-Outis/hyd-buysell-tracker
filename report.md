@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 14:03 UTC
 
 ## Mobiles
 
-- [Vivo X200 Pro 16GB/512GB | ₹41,000 Negotiable | Extended Warranty Till Dec 2026](https://reddit.com/r/BangaloreMarketplace/comments/1xcikjx/wts_vivo_x200_pro_16gb512gb_41000_negotiable/) — Rs.41,000 (score 120)
+- [iPhone Air 256gb Cloud White](https://reddit.com/r/HyderabadBuySell/comments/1xcetk9/iphone_air_256gb_cloud_white/) — Rs.95,000 (score 105)
+- [Poco x8 pro max for sale or exchange !](https://reddit.com/r/ChennaiBuyAndSell/comments/1xci43i/poco_x8_pro_max_for_sale_or_exchange/) — Rs.44,000 (score 85)
+- [Nothing Phone (3a) 8GB/256GB (White) | Mint Condition | ₹21,000 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xciwfv/wts_nothing_phone_3a_8gb256gb_white_mint/) — Rs.21,000 (score 120)
 
 
 ## Laptops
