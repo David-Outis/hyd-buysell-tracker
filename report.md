@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 12:33 UTC
 
 ## Mobiles
 
@@ -7,19 +7,20 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [(New) Acer Aspire 15 (Ryzen 3 7330U, 8GB RAM, 512GB SSD) - Barely Used, With Bill & Box. 30,000 Rs.](https://reddit.com/r/BangaloreMarketplace/comments/1xcgpo5/wts_new_acer_aspire_15_ryzen_3_7330u_8gb_ram/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [IPad Pro M1 12.9 inch with Magic Keyboard and Apple Pencil](https://reddit.com/r/BangaloreMarketplace/comments/1xcg8fg/wts_ipad_pro_m1_129_inch_with_magic_keyboard_and/) — Rs.90,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my Nintendo switch in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1xcgzfc/selling_my_nintendo_switch_in_excellent_condition/) — Rs.18,000 (score 100)
+- [Crucial BX500 2TB SSD(x2)[4TB] for sale PC/PS4](https://reddit.com/r/BangaloreMarketplace/comments/1xcgtke/crucial_bx500_2tb_ssdx24tb_for_sale_pcps4/) — Rs.13,000 (score 65)
 
 
 ## Desktop PCs
 
-- [dozens of DDR4 Desktop RAM sticks [Individual, Not a Dealer] (2400 to 3200 MHz)](https://reddit.com/r/BangaloreMarketplace/comments/1xcg3in/selling_dozens_of_ddr4_desktop_ram_sticks/) — Rs.2,400 (score 120)
+_No new desktop PC listings found in this run._
