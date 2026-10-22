@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PlayStation®5 SA E Disc Edition Gaming Console](https://reddit.com/r/HyderabadUsedItems/comments/1xcc3wf/sony_playstation5_sa_e_disc_edition_gaming_console/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
