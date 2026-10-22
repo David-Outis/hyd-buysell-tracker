@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Vivo X200 Pro 16GB/512GB | ₹41,000 Negotiable | Extended Warranty Till Dec 2026](https://reddit.com/r/BangaloreMarketplace/comments/1xcikjx/wts_vivo_x200_pro_16gb512gb_41000_negotiable/) — Rs.41,000 (score 120)
 
 
 ## Laptops
