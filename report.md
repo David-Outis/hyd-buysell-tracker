@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 09:33 UTC
 
 ## Mobiles
 
-- [samsung galaxy s26 ultra (12/256 GB) 88k](https://reddit.com/r/BangaloreMarketplace/comments/1xcda2p/wts_samsung_galaxy_s26_ultra_12256_gb_88k/) — Rs.88,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [ASUS TUF F15 Gaming Laptop for Sale | NVIDIA 1650 4GB](https://reddit.com/r/BangaloreMarketplace/comments/1xcddg6/asus_tuf_f15_gaming_laptop_for_sale_nvidia_1650/) — Rs.40,000 (score 85)
+- [Lenovo laptop i3 10th gen, 8gb dual channel ram & 256gb nvme ssd](https://reddit.com/r/BangaloreMarketplace/comments/1xcdua9/lenovo_laptop_i3_10th_gen_8gb_dual_channel_ram/) — Rs.55,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
