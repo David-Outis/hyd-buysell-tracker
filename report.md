@@ -1,15 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 16:03 UTC
 
 ## Mobiles
 
-- [iPhone 15 128GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xclptv/iphone_15_128gb/) — Price not found (score 55)
-- [my iPhone 13 Pro with Addons- Japanese Variant, White, 128GB!](https://reddit.com/r/BangaloreMarketplace/comments/1xclgwx/selling_my_iphone_13_pro_with_addons_japanese/) — Rs.1,000 (score 105)
-- [iPhone 13 128GB selling at 25k - Face to face only](https://reddit.com/r/BangaloreMarketplace/comments/1xclfce/iphone_13_128gb_selling_at_25k_face_to_face_only/) — Rs.25,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Lenovo legion go s Z2GO steamos PC handheld](https://reddit.com/r/BangaloreMarketplace/comments/1xclea3/lenovo_legion_go_s_z2go_steamos_pc_handheld/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -24,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Dell 15 alien ware for 98k ryzen 7 4050](https://reddit.com/r/BangaloreMarketplace/comments/1xclufc/selling_dell_15_alien_ware_for_98k_ryzen_7_4050/) — Rs.98,000 (score 70)
