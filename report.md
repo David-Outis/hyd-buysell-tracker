@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 05:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [my old MacBook Air 2017 model (Space Grey)](https://reddit.com/r/BangaloreMarketplace/comments/1xc9f93/selling_my_old_macbook_air_2017_model_space_grey/) — Price not found (score 70)
+- [Lenovo IdeaPad 3 / Ryzen 3 4th generation / 1.2 tb hdd + ssd](https://reddit.com/r/BangaloreMarketplace/comments/1xca00c/lenovo_ideapad_3_ryzen_3_4th_generation_12_tb_hdd/) — Rs.12,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
