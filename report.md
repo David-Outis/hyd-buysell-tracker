@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to buy an used iPhone in the 40-50K range.](https://reddit.com/r/BangaloreMarketplace/comments/1xcnl0s/looking_to_buy_an_used_iphone_in_the_4050k_range/) — Rs.40,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PS5 slim disc edition complete set good condition](https://reddit.com/r/BangaloreMarketplace/comments/1xcnc9l/sony_ps5_slim_disc_edition_complete_set_good/) — Rs.63,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
