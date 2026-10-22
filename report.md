@@ -1,15 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-22 14:33 UTC
 
 ## Mobiles
 
-- [iPhone Air 256gb Cloud White](https://reddit.com/r/HyderabadBuySell/comments/1xcetk9/iphone_air_256gb_cloud_white/) — Rs.95,000 (score 105)
-- [Poco x8 pro max for sale or exchange !](https://reddit.com/r/ChennaiBuyAndSell/comments/1xci43i/poco_x8_pro_max_for_sale_or_exchange/) — Rs.44,000 (score 85)
-- [Nothing Phone (3a) 8GB/256GB (White) | Mint Condition | ₹21,000 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xciwfv/wts_nothing_phone_3a_8gb256gb_white_mint/) — Rs.21,000 (score 120)
+- [Samsung Galaxy S21 FE 5G (8GB RAM / 128GB Storage)](https://reddit.com/r/bangloremarketplace/comments/1xcjwtz/wts_samsung_galaxy_s21_fe_5g_8gb_ram_128gb_storage/) — Rs.11,000 (score 105)
+- [Samsung Galaxy S20 FE 5G (128GB) Cloud Navy](https://reddit.com/r/BangaloreMarketplace/comments/1xck42s/samsung_galaxy_s20_fe_5g_128gb_cloud_navy/) — Price not found (score 55)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Used DDR5 5600mhz 2x8=16gb SODIMM laptop RAM for sale, f2f.](https://reddit.com/r/HyderabadBuySell/comments/1xcj8dk/used_ddr5_5600mhz_2x816gb_sodimm_laptop_ram_for/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
