@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 16:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [XBOX CONTROLLER](https://reddit.com/r/HyderabadUsedItems/comments/1xdi2cv/xbox_controller_for_sale/) — Rs.3,500 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[Bengaluru,Nagawara] Selling vintage PC case and old PC components](https://reddit.com/r/BangaloreMarketplace/comments/1xdi6ge/bengalurunagawara_selling_vintage_pc_case_and_old/) — Rs.650 (score 90)
