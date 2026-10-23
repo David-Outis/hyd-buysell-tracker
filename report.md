@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 17:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony PS5 Onimusha Game Disc – Original Copy](https://reddit.com/r/ChennaiBuyAndSell/comments/1xdjcjw/sony_ps5_onimusha_game_disc_original_copy/) — Rs.4,500 (score 65)
 
 
 ## Desktop PCs
 
-- [[Bengaluru,Nagawara] Selling vintage PC case and old PC components](https://reddit.com/r/BangaloreMarketplace/comments/1xdi6ge/bengalurunagawara_selling_vintage_pc_case_and_old/) — Rs.650 (score 90)
+- [[Bengaluru,Nagawara] Selling vintage PC case and old PC components](https://reddit.com/r/bangloremarketplace/comments/1xdi7pc/bengalurunagawara_selling_vintage_pc_case_and_old/) — Price not found (score 60)
