@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-22 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 01:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [i5 2300 desktop vs i5 6200u laptop, which is better](https://reddit.com/r/BangaloreMarketplace/comments/1xcptb3/i5_2300_desktop_vs_i5_6200u_laptop_which_is_better/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
