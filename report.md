@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 10:33 UTC
 
 ## Mobiles
 
-- [Apple iPhone 16 Pro 128GB Black Titanium | 90% Battery Health | Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xd9nr7/apple_iphone_16_pro_128gb_black_titanium_90/) — Price not found (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PS5 Disc Edition 1TB – ₹64,000 | Little Negotiable](https://reddit.com/r/HyderabadUsedItems/comments/1xd9ldg/wts_sony_ps5_disc_edition_1tb_64000_little/) — Rs.64,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
