@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 17 pro 256g](https://reddit.com/r/ChennaiBuyAndSell/comments/1xd3jcm/wts_iphone_17_pro_256g/) — Rs.127,000 (score 100)
 
 
 ## Laptops
