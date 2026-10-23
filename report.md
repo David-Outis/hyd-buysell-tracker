@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 11:33 UTC
 
 ## Mobiles
 
@@ -7,8 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MacBook Neo 256GB / 8GB RAM – Bengaluru – ₹72,000 (Slightly Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1xdaxym/wts_macbook_neo_256gb_8gb_ram_bengaluru_72000/) — Rs.72,000 (score 105)
-- [Macbook Air M3 15 inch 8gb and 256gb](https://reddit.com/r/BangaloreMarketplace/comments/1xdapiy/wts_macbook_air_m3_15_inch_8gb_and_256gb/) — Rs.70,000 (score 85)
+- [(New) Acer Aspire 15 (Ryzen 3 7330U, 8GB RAM, 512GB SSD) - Barely Used, With Bill & Box](https://reddit.com/r/BangaloreMarketplace/comments/1xdb0il/wts_new_acer_aspire_15_ryzen_3_7330u_8gb_ram/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
