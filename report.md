@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 10:03 UTC
 
 ## Mobiles
 
-- [OnePlus Nord Buds 3r TWS | bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xd987b/selling_oneplus_nord_buds_3r_tws_bangalore/) — Rs.2,000 (score 105)
+- [Apple iPhone 16 Pro 128GB Black Titanium | 90% Battery Health | Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xd9nr7/apple_iphone_16_pro_128gb_black_titanium_90/) — Price not found (score 70)
 
 
 ## Laptops
 
-- [my ASUS ROG G16 RTX 4050 (Reason: Purchased Macbook)](https://reddit.com/r/BangaloreMarketplace/comments/1xd90xh/selling_my_asus_rog_g16_rtx_4050_reason_purchased/) — Rs.97,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony PS5 Disc Edition 1TB – ₹64,000 | Little Negotiable](https://reddit.com/r/HyderabadUsedItems/comments/1xd9ldg/wts_sony_ps5_disc_edition_1tb_64000_little/) — Rs.64,000 (score 80)
 
 
 ## Desktop PCs
