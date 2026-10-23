@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 13:33 UTC
 
 ## Mobiles
 
-- [Spigen Align Master S For iPhone 17 Screen Protector](https://reddit.com/r/BangaloreMarketplace/comments/1xdcz6i/wts_spigen_align_master_s_for_iphone_17_screen/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PlayStation 5 12.70 version Jailbroken and ready](https://reddit.com/r/BangaloreMarketplace/comments/1xddigc/playstation_5_1270_version_jailbroken_and_ready/) — Rs.60,000 (score 65)
 
 
 ## Desktop PCs
