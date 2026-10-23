@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 15 pro max](https://reddit.com/r/ChennaiBuyAndSell/comments/1xdfm9e/iphone_15_pro_max/) — Rs.70,000 (score 90)
+- [Title: Samsung Galaxy S26 Ultra 12GB/256GB – Cobalt Violet [CHENNAI]](https://reddit.com/r/ChennaiBuyAndSell/comments/1xdfd1x/title_samsung_galaxy_s26_ultra_12gb256gb_cobalt/) — Rs.115,000 (score 105)
 
 
 ## Laptops
@@ -12,14 +13,14 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple iPad Air M4 13-inch (Wi-Fi) 128 gb– ₹83,000 – Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xdf26x/for_sale_apple_ipad_air_m4_13inch_wifi_128_gb/) — Rs.83,000 (score 105)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [God Of War Ragnarok PS5 Disk (New) in BLR](https://reddit.com/r/BangaloreMarketplace/comments/1xdg83u/god_of_war_ragnarok_ps5_disk_new_in_blr/) — Rs.2,200 (score 100)
 
 
 ## Desktop PCs
 
-- [valo acc exhange for gpu ( need pc for studies )](https://reddit.com/r/BangaloreMarketplace/comments/1xdf1ad/valo_acc_exhange_for_gpu_need_pc_for_studies/) — Rs.30,000 (score 70)
+_No new desktop PC listings found in this run._
