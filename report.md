@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-23 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-23 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Realistic Selling price for Iphone 14 pro max](https://reddit.com/r/BangaloreMarketplace/comments/1xdbyxl/realistic_selling_price_for_iphone_14_pro_max/) — Price not found (score 70)
 
 
 ## Laptops
 
-- [(New) Acer Aspire 15 (Ryzen 3 7330U, 8GB RAM, 512GB SSD) - Barely Used, With Bill & Box](https://reddit.com/r/BangaloreMarketplace/comments/1xdb0il/wts_new_acer_aspire_15_ryzen_3_7330u_8gb_ram/) — Price not found (score 55)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
