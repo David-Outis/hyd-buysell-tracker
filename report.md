@@ -1,9 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 11:03 UTC
 
 ## Mobiles
 
-- [iPhone 18 pro max box peice -burgandy colour- 512gb](https://reddit.com/r/HyderabadBuySell/comments/1xe3adl/iphone_18_pro_max_box_peice_burgandy_colour_512gb/) — Price not found (score 60)
-- [iPhone 17pro 512gb with box 📦 99% under official warranty till February 2027 wts 125k](https://reddit.com/r/HyderabadBuySell/comments/1xe3840/iphone_17pro_512gb_with_box_99_under_official/) — Rs.125,000 (score 105)
+- [Iphone xs max 256 gb](https://reddit.com/r/HyderabadUsedItems/comments/1xe5kpv/iphone_xs_max_256_gb/) — Rs.16,000 (score 85)
+- [Damaged Moto X Play, Does not boot, 500 Rs](https://reddit.com/r/BangaloreMarketplace/comments/1xe5n8j/damaged_moto_x_play_does_not_boot_500_rs/) — Price not found (score 55)
 
 
 ## Laptops
@@ -13,7 +13,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [⁠ [IND] iPad 11th Gen (A16, 2025) Wi-Fi Only - (Under Warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1xe5rh0/sale_ind_wts_ipad_11th_gen_a16_2025_wifi_only/) — Price not found (score 55)
 
 
 ## Game Consoles
