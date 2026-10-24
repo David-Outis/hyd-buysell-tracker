@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 18 pro max box peice -burgandy colour- 512gb](https://reddit.com/r/HyderabadBuySell/comments/1xe3adl/iphone_18_pro_max_box_peice_burgandy_colour_512gb/) — Price not found (score 60)
+- [iPhone 17pro 512gb with box 📦 99% under official warranty till February 2027 wts 125k](https://reddit.com/r/HyderabadBuySell/comments/1xe3840/iphone_17pro_512gb_with_box_99_under_official/) — Rs.125,000 (score 105)
 
 
 ## Laptops
@@ -12,7 +13,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [⁠ [IND] iPad 11th Gen (A16, 2025) Wi-Fi Only - (Under Warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1xe4cdd/sale_ind_wts_ipad_11th_gen_a16_2025_wifi_only/) — Rs.41,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
