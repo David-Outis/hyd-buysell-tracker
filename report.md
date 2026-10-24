@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 14:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony PS5 Official DualSense Charging Station - Excellent Condition (BTM Layout)](https://reddit.com/r/BangaloreMarketplace/comments/1xea2r5/sony_ps5_official_dualsense_charging_station/) — Price not found (score 70)
 
 
 ## Desktop PCs
