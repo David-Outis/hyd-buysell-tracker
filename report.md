@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 15:33 UTC
 
 ## Mobiles
 
-- [Samsung s21 fe 5g (128/8) price : 8500rs (reason for selling - got new phone) (location- Rajajinagar)](https://reddit.com/r/BangaloreMarketplace/comments/1xealpz/selling_samsung_s21_fe_5g_1288_price_8500rs/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [[Bengaluru] Brand New Lenovo IdeaPad Slim 5 (14" OLED, Core Ultra 9 185H, 16GB/512GB) - just unboxed, unused](https://reddit.com/r/BangaloreMarketplace/comments/1xealvk/wts_bengaluru_brand_new_lenovo_ideapad_slim_5_14/) — Price not found (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
