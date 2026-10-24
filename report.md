@@ -1,19 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 11:33 UTC
 
 ## Mobiles
 
-- [Iphone xs max 256 gb](https://reddit.com/r/HyderabadUsedItems/comments/1xe5kpv/iphone_xs_max_256_gb/) — Rs.16,000 (score 85)
-- [Damaged Moto X Play, Does not boot, 500 Rs](https://reddit.com/r/BangaloreMarketplace/comments/1xe5n8j/damaged_moto_x_play_does_not_boot_500_rs/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Brnad New Gaming Laptop [Lenovo LOQ 2025]](https://reddit.com/r/BangaloreMarketplace/comments/1xe63ec/selling_brnad_new_gaming_laptop_lenovo_loq_2025/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [⁠ [IND] iPad 11th Gen (A16, 2025) Wi-Fi Only - (Under Warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1xe5rh0/sale_ind_wts_ipad_11th_gen_a16_2025_wifi_only/) — Price not found (score 55)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
