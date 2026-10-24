@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 05:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [GTA V (GTA 5) PS4 | ₹1,500](https://reddit.com/r/HyderabadUsedItems/comments/1xdzoqe/wts_gta_v_gta_5_ps4_1500/) — Rs.1,500 (score 65)
 
 
 ## Desktop PCs
