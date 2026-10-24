@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 02:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 7 and iPhone 7 Plus 128gb, 100% battery](https://reddit.com/r/BangaloreMarketplace/comments/1xdwj8j/selling_iphone_7_and_iphone_7_plus_128gb_100/) — Rs.10,000 (score 90)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [i5 7th gen CPU](https://reddit.com/r/ChennaiBuyAndSell/comments/1xdw57v/selling_i5_7th_gen_cpu/) — Rs.12,500 (score 70)
+_No new desktop PC listings found in this run._
