@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 04:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Playstation Portal 1.5yr old with box and case](https://reddit.com/r/bangloremarketplace/comments/1xdxund/playstation_portal_15yr_old_with_box_and_case/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [old PC with 350GB HDD and Core 2 Duo Processor 4GB RAM](https://reddit.com/r/BangaloreMarketplace/comments/1xdygpx/selling_old_pc_with_350gb_hdd_and_core_2_duo/) — Rs.3,000 (score 85)
