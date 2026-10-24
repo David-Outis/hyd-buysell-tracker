@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 03:03 UTC
 
 ## Mobiles
 
-- [iPhone 7 and iPhone 7 Plus 128gb, 100% battery](https://reddit.com/r/BangaloreMarketplace/comments/1xdwj8j/selling_iphone_7_and_iphone_7_plus_128gb_100/) — Rs.10,000 (score 90)
+- [Samsung Galaxy S11 Ultra](https://reddit.com/r/HyderabadUsedItems/comments/1xdx3hm/selling_samsung_galaxy_s11_ultra/) — Rs.85,000 (score 105)
 
 
 ## Laptops
