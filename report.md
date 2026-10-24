@@ -1,24 +1,25 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Sell OnePlus buds 3 Charging case and Left earbud.](https://reddit.com/r/HyderabadBuySell/comments/1xeemkv/sell_oneplus_buds_3_charging_case_and_left_earbud/) — Rs.2,500 (score 90)
+- [Galaxy S6 Lite book cover case](https://reddit.com/r/HyderabadBuySell/comments/1xe8nh3/galaxy_s6_lite_book_cover_case/) — Price not found (score 60)
+- [Oneplus nord buds 4 pro Open Box Unused](https://reddit.com/r/BangaloreMarketplace/comments/1xeeuio/selling_oneplus_nord_buds_4_pro_open_box_unused/) — Rs.3,650 (score 70)
 
 
 ## Laptops
 
-- [Looking to sell 2026 HP government laptop](https://reddit.com/r/ChennaiBuyAndSell/comments/1xeea99/wts_looking_to_sell_2026_hp_government_laptop/) — Price not found (score 55)
+- [hp pavilion ultra 7 laptop at 66k 1 year old](https://reddit.com/r/HyderabadBuySell/comments/1xe9d6s/hp_pavilion_ultra_7_laptop_at_66k_1_year_old/) — Rs.66,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [13 Inch M4 IPad Pro + Apple Pencil Pro](https://reddit.com/r/BangaloreMarketplace/comments/1xee25n/selling_13_inch_m4_ipad_pro_apple_pencil_pro/) — Rs.105,000 (score 85)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [Sony Ps5 Slim Disc Edition](https://reddit.com/r/ChennaiBuyAndSell/comments/1xeekau/sony_ps5_slim_disc_edition/) — Rs.67,000 (score 65)
-- [Ps5 1tb disc edition 1day old 65k selling because of emergency](https://reddit.com/r/BangaloreMarketplace/comments/1xee891/ps5_1tb_disc_edition_1day_old_65k_selling_because/) — Rs.65,000 (score 65)
+- [Ps5 1day old 1tb Disc edition 65k emergency sale](https://reddit.com/r/BangaloreMarketplace/comments/1xeesdb/ps5_1day_old_1tb_disc_edition_65k_emergency_sale/) — Rs.65,000 (score 65)
 
 
 ## Desktop PCs
