@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Apple iPhone SE (1st Generation) 64 GB Black](https://reddit.com/r/BangaloreMarketplace/comments/1xe6sj0/apple_iphone_se_1st_generation_64_gb_black/) — Rs.4,000 (score 90)
 
 
 ## Laptops
 
-- [Brnad New Gaming Laptop [Lenovo LOQ 2025]](https://reddit.com/r/BangaloreMarketplace/comments/1xe63ec/selling_brnad_new_gaming_laptop_lenovo_loq_2025/) — Price not found (score 55)
+- [Brand New M5 Macbook Air 16 GB and 24 GB](https://reddit.com/r/BangaloreMarketplace/comments/1xe6qw8/brand_new_m5_macbook_air_16_gb_and_24_gb/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
