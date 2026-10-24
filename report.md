@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [oneplus nord buds 4- black earbuds](https://reddit.com/r/BangaloreMarketplace/comments/1xe1pn7/selling_oneplus_nord_buds_4_black_earbuds/) — Rs.2,800 (score 70)
 
 
 ## Laptops
 
-- [MacBook Air M2 (2022) | 8GB RAM / 256GB SSD | Bengaluru | ₹40,000](https://reddit.com/r/bangloremarketplace/comments/1xe19n7/selling_macbook_air_m2_2022_8gb_ram_256gb_ssd/) — Rs.40,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [XBOX Series S 1TB Black version with 3 controllers](https://reddit.com/r/HyderabadUsedItems/comments/1xe1m7m/wts_xbox_series_s_1tb_black_version_with_3/) — Rs.45,000 (score 85)
 
 
 ## Desktop PCs
