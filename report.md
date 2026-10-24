@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 14:03 UTC
 
 ## Mobiles
 
-- [Update: Apple AirPods Pro 2 & DailyObjects iPhone 16 Pro Max Case Still Available](https://reddit.com/r/BangaloreMarketplace/comments/1xe8n0w/update_apple_airpods_pro_2_dailyobjects_iphone_16/) — Rs.1,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
