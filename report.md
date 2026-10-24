@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 03:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S11 Ultra](https://reddit.com/r/HyderabadUsedItems/comments/1xdx3hm/selling_samsung_galaxy_s11_ultra/) — Rs.85,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Playstation Portal 1.5yr old with box and case](https://reddit.com/r/bangloremarketplace/comments/1xdxund/playstation_portal_15yr_old_with_box_and_case/) — Price not found (score 55)
 
 
 ## Desktop PCs
