@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-24 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-24 02:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[📍Bangalore] #Selling Brand New HP OMEN Slim 16 (B81JZUA) Laptop | RTX 5070 8GB | Core Ultra 7 255H 240Hz | Only unboxed |](https://reddit.com/r/BangaloreMarketplace/comments/1xduapd/wtsbangalore_selling_brand_new_hp_omen_slim_16/) — Rs.191,111 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [i5 7th gen CPU](https://reddit.com/r/ChennaiBuyAndSell/comments/1xdw57v/selling_i5_7th_gen_cpu/) — Rs.12,500 (score 70)
