@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-25 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-25 04:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iphone 17 sealed @90k fixed](https://reddit.com/r/HyderabadUsedItems/comments/1xeshj4/selling_iphone_17_sealed_90k_fixed/) — Rs.90,000 (score 105)
 
 
 ## Laptops
