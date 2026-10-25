@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-25 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-25 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Buds4 Pro (Black). 15K, <1 month old](https://reddit.com/r/BangaloreMarketplace/comments/1xexcvl/samsung_galaxy_buds4_pro_black_15k_1_month_old/) — Rs.15,000 (score 70)
 
 
 ## Laptops
