@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-25 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-25 04:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC | Ready to Play](https://reddit.com/r/HyderabadBuySell/comments/1xenww4/gaming_pc_ready_to_play/) — Rs.45,000 (score 105)
+_No new desktop PC listings found in this run._
