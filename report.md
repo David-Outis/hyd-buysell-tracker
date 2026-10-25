@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-25 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-25 09:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Buds4 Pro (Black). 15K, <1 month old](https://reddit.com/r/BangaloreMarketplace/comments/1xexcvl/samsung_galaxy_buds4_pro_black_15k_1_month_old/) — Rs.15,000 (score 70)
+- [Oppo Find X9 (12/256gb) @ 58k(2months old)](https://reddit.com/r/BangaloreMarketplace/comments/1xexol0/wts_oppo_find_x9_12256gb_58k2months_old/) — Rs.58,000 (score 70)
 
 
 ## Laptops
