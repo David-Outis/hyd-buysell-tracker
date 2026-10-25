@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-25 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-25 03:03 UTC
 
 ## Mobiles
 
-- [Samsung fold 8 12/256 with box 2 months old 140k](https://reddit.com/r/HyderabadUsedItems/comments/1xeqlzv/samsung_fold_8_12256_with_box_2_months_old_140k/) — Rs.140,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
