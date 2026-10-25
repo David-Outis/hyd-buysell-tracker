@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-25 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-25 14:33 UTC
 
 ## Mobiles
 
-- [Unused Moto edge 70 fusion (8/128)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xf2ajm/unused_moto_edge_70_fusion_8128/) — Rs.28,000 (score 100)
-- [Apple iPhone 14 Plus (Purple / 128GB) – 85% Battery Health – Good Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xf2ybw/for_sale_apple_iphone_14_plus_purple_128gb_85/) — Rs.35,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -18,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Wolverine PS5 Disc [Rs.3500][Sell/Exchange]](https://reddit.com/r/ChennaiBuyAndSell/comments/1xf2nou/wolverine_ps5_disc_rs3500sellexchange/) — Rs.3,500 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC. Ryzen 5600 | AMD RX 9060XT | 16GB DDR4 | 1TB Nvme Gen4 SSD.](https://reddit.com/r/BangaloreMarketplace/comments/1xf3qwr/selling_gaming_pc_ryzen_5600_amd_rx_9060xt_16gb/) — Rs.87,000 (score 120)
