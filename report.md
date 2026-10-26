@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-25 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 01:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my iPhone XR, excellent working condition](https://reddit.com/r/BangaloreMarketplace/comments/1xfjbdt/selling_my_iphone_xr_excellent_working_condition/) — Price not found (score 55)
+- [Samsung Galaxy Z Fold8 Ultra 5G 256GB (Cream) | Just 1 Week Old | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xfhwi7/wts_samsung_galaxy_z_fold8_ultra_5g_256gb_cream/) — Price not found (score 90)
 
 
 ## Laptops
