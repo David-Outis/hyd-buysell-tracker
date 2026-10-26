@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 11:35 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Study Table/ Office Desk with Drawer and Cabinet. Barely Used Like NEW](https://reddit.com/r/bangloremarketplace/comments/1xfp4d4/study_table_office_desk_with_drawer_and_cabinet/) — Price not found (score 55)
