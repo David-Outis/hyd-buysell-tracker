@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 02:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Z Fold8 Ultra 5G 512GB (Cream) | Just 1 Week Old | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xfkos3/wts_samsung_galaxy_z_fold8_ultra_5g_512gb_cream/) — Price not found (score 90)
 
 
 ## Laptops
