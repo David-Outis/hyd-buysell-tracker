@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung fold 8 12/256gb with box bill 2 months old wts 145k](https://reddit.com/r/HyderabadUsedItems/comments/1xfpexg/samsung_fold_8_12256gb_with_box_bill_2_months_old/) — Rs.145,000 (score 70)
+- [​ Brand New OPPO Fast Charger – Bought yesterday for ₹4000, selling for ₹2500. (My OnePlus mistake is your gain)](https://reddit.com/r/BangaloreMarketplace/comments/1xfpdbh/wts_brand_new_oppo_fast_charger_bought_yesterday/) — Rs.4,000 (score 85)
 
 
 ## Laptops
@@ -17,9 +18,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox Series S 512GB + Original Controller & Play & Charge Battery – ₹35,000 (Slightly Negotiable)](https://reddit.com/r/HyderabadBuySell/comments/1xfowrd/xbox_series_s_512gb_original_controller_play/) — Rs.35,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [Study Table/ Office Desk with Drawer and Cabinet. Used Like NEW](https://reddit.com/r/BangaloreMarketplace/comments/1xfox3x/study_table_office_desk_with_drawer_and_cabinet/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
