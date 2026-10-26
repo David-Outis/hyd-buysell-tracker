@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 06:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox Series S 512GB + Original Controller & Play & Charge Battery – ₹35,000 (Slightly Negotiable)](https://reddit.com/r/HyderabadBuySell/comments/1xfowrd/xbox_series_s_512gb_original_controller_play/) — Rs.35,000 (score 85)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Study Table/ Office Desk with Drawer and Cabinet. Used Like NEW](https://reddit.com/r/BangaloreMarketplace/comments/1xfox3x/study_table_office_desk_with_drawer_and_cabinet/) — Price not found (score 55)
