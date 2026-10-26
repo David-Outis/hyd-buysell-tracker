@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 10:03 UTC
 
 ## Mobiles
 
-- [Melkco Handmade Leather Case for Samsung Galaxy S25 Ultra | Imported](https://reddit.com/r/BangaloreMarketplace/comments/1xfryzd/wts_melkco_handmade_leather_case_for_samsung/) — Rs.2,400 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 PRO 1tb](https://reddit.com/r/ChennaiBuyAndSell/comments/1xfse6a/wts_ps4_pro_1tb/) — Rs.25,000 (score 65)
 
 
 ## Desktop PCs
