@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 14:33 UTC
 
 ## Mobiles
 
-- [OnePlus 6T](https://reddit.com/r/HyderabadUsedItems/comments/1xfxdo5/oneplus_6t_for_sale/) — Rs.12,000 (score 105)
+- [Google Pixel 9 Pro](https://reddit.com/r/HyderabadBuySell/comments/1xfxk9k/wts_google_pixel_9_pro/) — Rs.50,000 (score 90)
 
 
 ## Laptops
