@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 07:33 UTC
 
 ## Mobiles
 
-- [Samsung fold 8 12/256gb with box bill 2 months old wts 145k](https://reddit.com/r/HyderabadUsedItems/comments/1xfpexg/samsung_fold_8_12256gb_with_box_bill_2_months_old/) — Rs.145,000 (score 70)
-- [​ Brand New OPPO Fast Charger – Bought yesterday for ₹4000, selling for ₹2500. (My OnePlus mistake is your gain)](https://reddit.com/r/BangaloreMarketplace/comments/1xfpdbh/wts_brand_new_oppo_fast_charger_bought_yesterday/) — Rs.4,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -18,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [ONIMUSHA PS5 DISC & ANIME TOYS - 5000](https://reddit.com/r/HyderabadBuySell/comments/1xfpta0/wtsonimusha_ps5_disc_anime_toys_5000/) — Price not found (score 55)
+- [Sony PS5 Disc Edition 1TB + 6 Games | Barely Used 20 Days | ₹70,000 | Exchange Possible](https://reddit.com/r/HyderabadUsedItems/comments/1xfq5iz/wts_sony_ps5_disc_edition_1tb_6_games_barely_used/) — Rs.70,000 (score 80)
 
 
 ## Desktop PCs
