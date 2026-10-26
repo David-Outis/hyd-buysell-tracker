@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 05:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Z Flip7 – 12GB RAM / 512GB model – Pristine condition](https://reddit.com/r/HyderabadBuySell/comments/1xfm6so/wts_samsung_galaxy_z_flip7_12gb_ram_512gb_model/) — Rs.75,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony PS5 Disc Edition 1TB + 6 Games | ₹70,000 | Exchange Possible](https://reddit.com/r/BangaloreMarketplace/comments/1xfnnaz/wts_sony_ps5_disc_edition_1tb_6_games_70000/) — Rs.70,000 (score 80)
+- [PS5 Disk edition ( 825 GB )in mint condition + joystick + barely used](https://reddit.com/r/BangaloreMarketplace/comments/1xfncnd/ps5_disk_edition_825_gb_in_mint_condition/) — Rs.54,999 (score 100)
 
 
 ## Desktop PCs
