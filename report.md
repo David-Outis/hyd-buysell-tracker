@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 15:03 UTC
 
 ## Mobiles
 
-- [Google Pixel 9 Pro](https://reddit.com/r/HyderabadBuySell/comments/1xfxk9k/wts_google_pixel_9_pro/) — Rs.50,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Amazon Basics MacBook Air Transparent Hard Case – ₹350](https://reddit.com/r/BangaloreMarketplace/comments/1xfz1yb/amazon_basics_macbook_air_transparent_hard_case/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
