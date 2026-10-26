@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 04:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Z Flip7 – 12GB RAM / 512GB model – Pristine condition](https://reddit.com/r/HyderabadBuySell/comments/1xfm6so/wts_samsung_galaxy_z_flip7_12gb_ram_512gb_model/) — Rs.75,000 (score 120)
 
 
 ## Laptops
