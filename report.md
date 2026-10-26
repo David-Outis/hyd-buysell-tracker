@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-26 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-26 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 18 Pro Max 256GB Burgundy | US eSIM Model | Non-Activated | ₹1,70,000](https://reddit.com/r/BangaloreMarketplace/comments/1xfrn38/iphone_18_pro_max_256gb_burgundy_us_esim_model/) — Rs.170,000 (score 85)
+- [Reasonable price to sell my Iphone 11 128gb](https://reddit.com/r/BangaloreMarketplace/comments/1xfr7km/reasonable_price_to_sell_my_iphone_11_128gb/) — Rs.6,000 (score 85)
 
 
 ## Laptops
