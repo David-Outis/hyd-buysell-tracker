@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 13:03 UTC
 
 ## Mobiles
 
-- [Iphone 15, 128GB, pink in good condition](https://reddit.com/r/BangaloreMarketplace/comments/1xgqrff/for_sale_iphone_15_128gb_pink_in_good_condition/) — Rs.38,500 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [For SALE MacBook Air M4, 15 Inch, July 2026 PRICE 1,10,000 INR | BTM Layout](https://reddit.com/r/BangaloreMarketplace/comments/1xgrcm8/for_sale_macbook_air_m4_15_inch_july_2026_price/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 digital editon with extra controller and additional accessories.](https://reddit.com/r/BangaloreMarketplace/comments/1xgr6qx/selling_ps5_digital_editon_with_extra_controller/) — Rs.55,000 (score 95)
+- [my Sony PS4 Slim 1TB – Good Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xgrrsg/selling_my_sony_ps4_slim_1tb_good_condition/) — Price not found (score 50)
 
 
 ## Desktop PCs
