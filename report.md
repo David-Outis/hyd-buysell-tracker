@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 07:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [ASUS PZ90 LGA 1700 motherboard DDR5, PCIE GEN 5.0](https://reddit.com/r/BangaloreMarketplace/comments/1xglhsb/asus_pz90_lga_1700_motherboard_ddr5_pcie_gen_50/) — Rs.21,000 (score 85)
+_No new desktop PC listings found in this run._
