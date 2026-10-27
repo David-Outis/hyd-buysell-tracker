@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [30 Days old iPhone 16 256gb with Apple care +](https://reddit.com/r/BangaloreMarketplace/comments/1xgzttj/30_days_old_iphone_16_256gb_with_apple_care_for/) — Rs.83,000 (score 70)
+- [iPhone 17 256GB Black – Brand New / Unused with AppleCare+](https://reddit.com/r/BangaloreMarketplace/comments/1xgzl8j/wts_iphone_17_256gb_black_brand_new_unused_with/) — Rs.82,000 (score 120)
 
 
 ## Laptops
@@ -12,8 +13,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [IPAD MINI 6TH GENERATION legit brand new 98.1% battery health and 50 charging cycles](https://reddit.com/r/BangaloreMarketplace/comments/1xgz0r6/ipad_mini_6th_generation_legit_brand_new_981/) — Rs.35,000 (score 100)
-- [my IPAD AIR M4 128 gb, 13 inch for 81k](https://reddit.com/r/BangaloreMarketplace/comments/1xgz0em/selling_my_ipad_air_m4_128_gb_13_inch_for_81k/) — Rs.81,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
