@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 11:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to buy mobiles under 3-4k 5g preferably](https://reddit.com/r/BangaloreMarketplace/comments/1xgp9j8/looking_to_buy_mobiles_under_34k_5g_preferably/) — Rs.3,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Brand New Elden Ring PS5 version](https://reddit.com/r/BangaloreMarketplace/comments/1xgow2p/selling_brand_new_elden_ring_ps5_version/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
