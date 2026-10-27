@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 05:33 UTC
 
 ## Mobiles
 
-- [MY GRANDPARENTS MOTOROLA TO GIFT THEM ANOTHER PHONE](https://reddit.com/r/BangaloreMarketplace/comments/1xgjg61/selling_my_grandparents_motorola_to_gift_them/) — Price not found (score 55)
-- [Need to buy iphone 6s / 6s plus . Or atleast the suggested place to get one](https://reddit.com/r/BangaloreMarketplace/comments/1xgjbcd/need_to_buy_iphone_6s_6s_plus_or_atleast_the/) — Rs.3,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
