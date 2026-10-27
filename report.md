@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 11:33 UTC
 
 ## Mobiles
 
-- [Looking to buy mobiles under 3-4k 5g preferably](https://reddit.com/r/BangaloreMarketplace/comments/1xgp9j8/looking_to_buy_mobiles_under_34k_5g_preferably/) — Rs.3,000 (score 70)
+- [iPhone X White 64Gb For Sale | Box Available](https://reddit.com/r/BangaloreMarketplace/comments/1xgpxbs/iphone_x_white_64gb_for_sale_box_available/) — Rs.9,000 (score 105)
+- [Iphone 16 128 gb, 91% bh for 46k...](https://reddit.com/r/BangaloreMarketplace/comments/1xgplnr/wts_iphone_16_128_gb_91_bh_for_46k/) — Rs.46,000 (score 70)
 
 
 ## Laptops
