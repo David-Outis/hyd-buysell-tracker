@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 17:03 UTC
 
 ## Mobiles
 
-- [Realme GT Neo 3 5G (8GB RAM / 128GB) — Hyderabad — ₹7,999](https://reddit.com/r/HyderabadUsedItems/comments/1xgwp7a/realme_gt_neo_3_5g_8gb_ram_128gb_hyderabad_7999/) — Rs.7,999 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
