@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Apple iPhone 17 – 256GB | Sage Green | Pristine Condition | ₹75,000 | Active AppleCare+ Monthly plan | In-warranty](https://reddit.com/r/ChennaiBuyAndSell/comments/1xgkawa/apple_iphone_17_256gb_sage_green_pristine/) — Rs.75,000 (score 120)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air 13” – M5 (2025 Model)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xgkcaa/macbook_air_13_m5_2025_model/) — Rs.140,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
