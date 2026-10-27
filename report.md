@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Redmi Note 10 PRO MAX 8Gb Ram/ 128 gb storage](https://reddit.com/r/BangaloreMarketplace/comments/1xguk89/wts_redmi_note_10_pro_max_8gb_ram_128_gb_storage/) — Rs.6,000 (score 70)
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple Ipad Air 4th Gen (64GB) with apple pencil pro and magic keyboard 42,000 INR](https://reddit.com/r/BangaloreMarketplace/comments/1xgtmy2/wts_apple_ipad_air_4th_gen_64gb_with_apple_pencil/) — Rs.42,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
