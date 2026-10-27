@@ -1,25 +1,26 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 13 128gb blue.](https://reddit.com/r/HyderabadUsedItems/comments/1xgsgs2/wts_iphone_13_128gb_blue/) — Rs.25,000 (score 70)
+- [iPhone 18 pro 256gb (NON ACTIVE) Bill available Price-1.58L Pick up Nri layout Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xgscrn/iphone_18_pro_256gb_non_active_bill_available/) — Price not found (score 75)
 
 
 ## Laptops
 
-- [For SALE MacBook Air M4, 15 Inch, July 2026 PRICE 1,10,000 INR | BTM Layout](https://reddit.com/r/BangaloreMarketplace/comments/1xgrcm8/for_sale_macbook_air_m4_15_inch_july_2026_price/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Typecase Keyboard Case for iPad pro 12.9in 1.5 Months Old.](https://reddit.com/r/BangaloreMarketplace/comments/1xgslr0/typecase_keyboard_case_for_ipad_pro_129in_15/) — Rs.5,000 (score 105)
 
 
 ## Game Consoles
 
-- [my Sony PS4 Slim 1TB – Good Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xgrrsg/selling_my_sony_ps4_slim_1tb_good_condition/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [my lenovo idepad gaming 3 Ryzen 7 5800H with RTX 3050, 16GB DDR4](https://reddit.com/r/BangaloreMarketplace/comments/1xgsawn/wts_my_lenovo_idepad_gaming_3_ryzen_7_5800h_with/) — Price not found (score 75)
