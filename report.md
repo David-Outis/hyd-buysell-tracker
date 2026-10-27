@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-27 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-27 10:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Brand New Elden Ring PS5 version](https://reddit.com/r/BangaloreMarketplace/comments/1xgow2p/selling_brand_new_elden_ring_ps5_version/) — Price not found (score 50)
 
 
 ## Desktop PCs
