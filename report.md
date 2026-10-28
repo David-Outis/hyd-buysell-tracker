@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 07:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [📱 iPhone 17 for Sale Bengaluru | f2f preferred](https://reddit.com/r/BangaloreMarketplace/comments/1xhhkt5/iphone_17_for_sale_bengaluru_f2f_preferred/) — Rs.78,000 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [macbook 256gb 16gb ram minor discoloration](https://reddit.com/r/BangaloreMarketplace/comments/1xhh6eq/selling_macbook_256gb_16gb_ram_minor_discoloration/) — Rs.65,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [1-Month-Old Intel Core i3-12100 (Non-F) + Stock Cooler | w/ Shop Bill, No Box [W] ₹10,500/](https://reddit.com/r/BangaloreMarketplace/comments/1xhh28g/wts1monthold_intel_core_i312100_nonf_stock_cooler/) — Rs.10,500 (score 120)
+- [pc rtx 3060 12gb 16gb ram crossair](https://reddit.com/r/BangaloreMarketplace/comments/1xhhibn/selling_pc_rtx_3060_12gb_16gb_ram_crossair/) — Rs.70,000 (score 105)
