@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 02:03 UTC
 
 ## Mobiles
 
-- [​ Realme Buds Air 6 Charging Case + Left Earbud Only ​Title: Realme Buds Air 6 (Charging Case + Left Earbud) - ₹1,200 Fixed](https://reddit.com/r/HyderabadBuySell/comments/1xh9tyv/wts_realme_buds_air_6_charging_case_left_earbud/) — Rs.1,200 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
