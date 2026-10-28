@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 05:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Call of Duty: Modern Warfare 4 (PS5) – Like New, Unused Bonus Code – ₹5,800 (Shipping Included)](https://reddit.com/r/BangaloreMarketplace/comments/1xhegn9/wts_call_of_duty_modern_warfare_4_ps5_like_new/) — Rs.5,800 (score 80)
+- [COD: Modern Warfare 4 (PS5) – Like New, Unused Bonus Code – ₹5,800 (Shipping Included)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xhf354/selling_cod_modern_warfare_4_ps5_like_new_unused/) — Rs.5,800 (score 80)
 
 
 ## Desktop PCs
