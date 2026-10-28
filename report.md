@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 11:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 17 black 256 GB 100% BH no scratches](https://reddit.com/r/BangaloreMarketplace/comments/1xhktzk/iphone_17_black_256_gb_100_bh_no_scratches/) — Price not found (score 55)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 1TB, around 2 months old, with original bill and box. Located in Bangalore. Please DM me if interested. I can share more details and photos.](https://reddit.com/r/BangaloreMarketplace/comments/1xhk3mw/ps5_1tb_around_2_months_old_with_original_bill/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
