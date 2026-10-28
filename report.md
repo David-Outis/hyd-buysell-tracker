@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 07:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [few old laptop and desktop equipment. Location Bangalore f2f only.](https://reddit.com/r/BangaloreMarketplace/comments/1xhgcsm/selling_few_old_laptop_and_desktop_equipment/) — Rs.4,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [1-Month-Old Intel Core i3-12100 (Non-F) + Stock Cooler | w/ Shop Bill, No Box [W] ₹10,500/](https://reddit.com/r/BangaloreMarketplace/comments/1xhh28g/wts1monthold_intel_core_i312100_nonf_stock_cooler/) — Rs.10,500 (score 120)
