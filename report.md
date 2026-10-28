@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 03:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Nothing Phone 2A plus 12/256 |₹16,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xhdfa4/wts_nothing_phone_2a_plus_12256_16000/) — Rs.16,000 (score 120)
 
 
 ## Laptops
