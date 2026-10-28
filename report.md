@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 08:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 18 Pro Max JEtech Case - new](https://reddit.com/r/BangaloreMarketplace/comments/1xhi70x/selling_iphone_18_pro_max_jetech_case_new/) — Rs.2,000 (score 85)
 
 
 ## Laptops
