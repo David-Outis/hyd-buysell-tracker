@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 18:03 UTC
 
 ## Mobiles
 
-- [Apple iPhone 17 (Black, 256GB) – 99% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1xhu4bv/selling_apple_iphone_17_black_256gb_99_battery/) — Rs.2,000 (score 120)
+- [Apple iPhone 13 | 128GB | Blue | 87% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1xhutyh/apple_iphone_13_128gb_blue_87_battery_health/) — Rs.28,500 (score 105)
 
 
 ## Laptops
 
-- [l MacBook Air 2018 l Magic Mouse l BTM](https://reddit.com/r/BangaloreMarketplace/comments/1xhu2to/wts_l_macbook_air_2018_l_magic_mouse_l_btm/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Games Available for Sale God of War and Mortal Kombat. And UFC 5](https://reddit.com/r/BangaloreMarketplace/comments/1xhv4f2/ps5_games_available_for_sale_god_of_war_and/) — Rs.2,300 (score 80)
 
 
 ## Desktop PCs
