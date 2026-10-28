@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 04:03 UTC
 
 ## Mobiles
 
-- [Nothing Phone 2A plus 12/256 |₹16,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xhdfa4/wts_nothing_phone_2a_plus_12256_16000/) — Rs.16,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Disc Edition 1TB + 6 Games | Barely Used | 20 Days Old | ₹70,000](https://reddit.com/r/BangaloreMarketplace/comments/1xhducv/wts_ps5_disc_edition_1tb_6_games_barely_used_20/) — Rs.70,000 (score 80)
 
 
 ## Desktop PCs
