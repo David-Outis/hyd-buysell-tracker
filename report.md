@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-28 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Moving Out Sale - Sofa, WFH Chair, Sealed Usha Fan, Ironing Board, Spigen iphone 11/XR screen guard | Urgent Clearance [Bommanahalli]](https://reddit.com/r/BangaloreMarketplace/comments/1xhmo0j/moving_out_sale_sofa_wfh_chair_sealed_usha_fan/) — Rs.4,500 (score 105)
 
 
 ## Laptops
