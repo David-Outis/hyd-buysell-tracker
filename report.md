@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 03:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps4 jb 1TB one controller two disc 23500 mint condition](https://reddit.com/r/ChennaiBuyAndSell/comments/1xi8pvq/wts_ps4_jb_1tb_one_controller_two_disc_23500_mint/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
