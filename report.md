@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Items for sale: logitec webc, hp keyboard, portronics wireless charger, free selfie stick and moto bluetooth headphones](https://reddit.com/r/BangaloreMarketplace/comments/1xijlh5/items_for_sale_logitec_webc_hp_keyboard/) — Rs.1,850 (score 70)
 
 
 ## Laptops
