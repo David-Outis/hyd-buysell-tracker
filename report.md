@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 16:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Pixel 11 pro 12/256gb for sale or exchange](https://reddit.com/r/HyderabadBuySell/comments/1xigzqi/pixel_11_pro_12256gb_for_sale_or_exchange/) — Rs.95,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Gaming laptop under 1lac](https://reddit.com/r/HyderabadBuySell/comments/1xik0lg/gaming_laptop_under_1lac/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
