@@ -1,15 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 06:03 UTC
 
 ## Mobiles
 
-- [iPhone 16 Pro Max 512 GB | Space Black |](https://reddit.com/r/HyderabadBuySell/comments/1xi64c2/iphone_16_pro_max_512_gb_space_black_for_sale/) — Price not found (score 75)
-- [Moving Out Sale - Sofa, WFH Chair, Sealed Usha Fan, Ironing Board, Spigen iphone 11/XR screen guard | Urgent Clearance [Bommanahalli]](https://reddit.com/r/bangloremarketplace/comments/1xi9g03/moving_out_sale_sofa_wfh_chair_sealed_usha_fan/) — Price not found (score 55)
-- [Apple iPhone 14 (128GB) | ₹32,000 | 78% Battery Health | Original Box, Bill & Cable | Spigen Case + Guard](https://reddit.com/r/BangaloreMarketplace/comments/1xib3cz/apple_iphone_14_128gb_32000_78_battery_health/) — Rs.32,000 (score 100)
+- [iphone 15 pro max 256 gb US version.](https://reddit.com/r/BangaloreMarketplace/comments/1xibosw/selling_iphone_15_pro_max_256_gb_us_version/) — Rs.75,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Classmate Pulse 6 Subject unruled Notebook - New condition](https://reddit.com/r/ChennaiBuyAndSell/comments/1xib26n/selling_classmate_pulse_6_subject_unruled/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -19,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [my jailbroken ps4 slim 500gb with 1 controller](https://reddit.com/r/BangaloreMarketplace/comments/1xibgjk/selling_my_jailbroken_ps4_slim_500gb_with_1/) — Rs.24,000 (score 65)
+- [PS5 SAROS disc](https://reddit.com/r/ChennaiBuyAndSell/comments/1xibnbt/wts_ps5_saros_disc/) — Rs.3,000 (score 65)
+- [my Nintendo switch V2 in great condition](https://reddit.com/r/BangaloreMarketplace/comments/1xibp51/selling_my_nintendo_switch_v2_in_great_condition/) — Rs.17,500 (score 100)
 
 
 ## Desktop PCs
