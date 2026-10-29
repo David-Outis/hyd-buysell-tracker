@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus 12R 8gb ram 256Gb storage Snapdragon 8 Gen 2 proccesor with 85W OG Fast Charger Selling price is 22.5K but Open for Exchange with iPhone.](https://reddit.com/r/ChennaiBuyAndSell/comments/1xir5vn/oneplus_12r_8gb_ram_256gb_storage_snapdragon_8/) — Rs.22,500 (score 105)
 
 
 ## Laptops
