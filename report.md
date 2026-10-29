@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 11:33 UTC
 
 ## Mobiles
 
-- [Iphone 16 pro max 512 Gb @85k](https://reddit.com/r/HyderabadUsedItems/comments/1xigtrj/selling_iphone_16_pro_max_512_gb_85k/) — Rs.85,000 (score 105)
+- [Motorola G86 Power 8GB / 128GB still in warranty.](https://reddit.com/r/BangaloreMarketplace/comments/1xihavk/motorola_g86_power_8gb_128gb_still_in_warranty/) — Rs.17,000 (score 85)
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [₹40 ipad pro with apple pencil 2nd gen](https://reddit.com/r/HyderabadUsedItems/comments/1xigmkw/40_ipad_pro_with_apple_pencil_2nd_gen/) — Rs.40,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
