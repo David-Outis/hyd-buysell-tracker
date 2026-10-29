@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 13:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox Series S 1TB in excellent condition Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xiio2c/wts_xbox_series_s_1tb_in_excellent_condition/) — Rs.40,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
