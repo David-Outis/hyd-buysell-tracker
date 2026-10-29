@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 04:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Trying to Sell/Exchange my Pixel 11. Used for 3 weeks](https://reddit.com/r/BangaloreMarketplace/comments/1xia174/trying_to_sellexchange_my_pixel_11_used_for_3/) — Rs.73,000 (score 70)
 
 
 ## Laptops
