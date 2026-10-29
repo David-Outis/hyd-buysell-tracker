@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 02:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 4s 8GB (no box no charger)](https://reddit.com/r/HyderabadUsedItems/comments/1xi81na/selling_iphone_4s_8gb_no_box_no_charger/) — Rs.2,500 (score 105)
 
 
 ## Laptops
