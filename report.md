@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 08:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Vivo X300 Ultra](https://reddit.com/r/HyderabadBuySell/comments/1xidtd7/wts_vivo_x300_ultra/) — Price not found (score 75)
+- [Apple iPhone 14 – Excellent Condition](https://reddit.com/r/HyderabadBuySell/comments/1xiciwo/apple_iphone_14_excellent_condition/) — Rs.25,000 (score 105)
 
 
 ## Laptops
