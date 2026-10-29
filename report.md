@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 06:33 UTC
 
 ## Mobiles
 
-- [iphone 15 pro max 256 gb US version.](https://reddit.com/r/BangaloreMarketplace/comments/1xibosw/selling_iphone_15_pro_max_256_gb_us_version/) — Rs.75,000 (score 105)
+- [Vivo Y16 for sale (Basic use ) in a good condition](https://reddit.com/r/BangaloreMarketplace/comments/1xic69d/vivo_y16_for_sale_basic_use_in_a_good_condition/) — Rs.5,000 (score 70)
 
 
 ## Laptops
 
-- [Classmate Pulse 6 Subject unruled Notebook - New condition](https://reddit.com/r/ChennaiBuyAndSell/comments/1xib26n/selling_classmate_pulse_6_subject_unruled/) — Price not found (score 75)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 SAROS disc](https://reddit.com/r/ChennaiBuyAndSell/comments/1xibnbt/wts_ps5_saros_disc/) — Rs.3,000 (score 65)
-- [my Nintendo switch V2 in great condition](https://reddit.com/r/BangaloreMarketplace/comments/1xibp51/selling_my_nintendo_switch_v2_in_great_condition/) — Rs.17,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
