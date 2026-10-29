@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 10:03 UTC
 
 ## Mobiles
 
-- [Brand New Oppo find x9 256GB red](https://reddit.com/r/BangaloreMarketplace/comments/1xif520/brand_new_oppo_find_x9_256gb_red_for_sale/) — Price not found (score 55)
-- [Exchanging my Ps4 Jailbreak With Iphone 14/15](https://reddit.com/r/BangaloreMarketplace/comments/1xif1k3/exchanging_my_ps4_jailbreak_with_iphone_1415/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my Xbox One 500GB Black with 2 Controllers](https://reddit.com/r/BangaloreMarketplace/comments/1xiffa0/selling_my_xbox_one_500gb_black_with_2_controllers/) — Rs.11,500 (score 85)
 
 
 ## Desktop PCs
