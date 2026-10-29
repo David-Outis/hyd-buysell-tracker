@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 07:03 UTC
 
 ## Mobiles
 
-- [Vivo Y16 for sale (Basic use ) in a good condition](https://reddit.com/r/BangaloreMarketplace/comments/1xic69d/vivo_y16_for_sale_basic_use_in_a_good_condition/) — Rs.5,000 (score 70)
+- [Apple iPhone 14 (128GB) | 78% Battery Health | Original Box, Bill & Cable | Spigen Case + Guard](https://reddit.com/r/BangaloreMarketplace/comments/1xicuq7/apple_iphone_14_128gb_78_battery_health_original/) — Rs.1,000 (score 100)
+- [BOBO Waterproof Bike Mobile Holder](https://reddit.com/r/BangaloreMarketplace/comments/1xicqwk/bobo_waterproof_bike_mobile_holder_for_sale/) — Rs.2,400 (score 105)
 
 
 ## Laptops
