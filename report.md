@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 03:03 UTC
 
 ## Mobiles
 
-- [iPhone 4s 8GB (no box no charger)](https://reddit.com/r/HyderabadUsedItems/comments/1xi81na/selling_iphone_4s_8gb_no_box_no_charger/) — Rs.2,500 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps4 jb 1TB one controller two disc 23500 mint condition](https://reddit.com/r/ChennaiBuyAndSell/comments/1xi8pvq/wts_ps4_jb_1tb_one_controller_two_disc_23500_mint/) — Price not found (score 50)
 
 
 ## Desktop PCs
