@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 10:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [my Xbox One 500GB Black with 2 Controllers](https://reddit.com/r/BangaloreMarketplace/comments/1xiffa0/selling_my_xbox_one_500gb_black_with_2_controllers/) — Rs.11,500 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
