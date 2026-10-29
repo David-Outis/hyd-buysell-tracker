@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-28 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-29 01:33 UTC
 
 ## Mobiles
 
-- [Apple iPhone 13 | 128GB | Blue | 87% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1xhutyh/apple_iphone_13_128gb_blue_87_battery_health/) — Rs.28,500 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Games Available for Sale God of War and Mortal Kombat. And UFC 5](https://reddit.com/r/BangaloreMarketplace/comments/1xhv4f2/ps5_games_available_for_sale_god_of_war_and/) — Rs.2,300 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
