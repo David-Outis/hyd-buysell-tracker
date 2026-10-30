@@ -1,20 +1,19 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 09:33 UTC
 
 ## Mobiles
 
-- [Few Smartwatches, Samsung Party Speaker & Elgato Key Lights](https://reddit.com/r/HyderabadBuySell/comments/1xj9zd0/selling_few_smartwatches_samsung_party_speaker/) — Rs.11,000 (score 120)
-- [Samsung M5 FHD Smart monitor 27 inch](https://reddit.com/r/BangaloreMarketplace/comments/1xja20c/wts_samsung_m5_fhd_smart_monitor_27_inch/) — Price not found (score 60)
-- [Few Smartwatches, Samsung Party Speaker & Elgato Key Lights – Hyderabad free shipping available!](https://reddit.com/r/BangaloreMarketplace/comments/1xja0ig/selling_few_smartwatches_samsung_party_speaker/) — Price not found (score 60)
+- [OPPO find X8 5G, 12GB/ 256GB, battery health 92%](https://reddit.com/r/BangaloreMarketplace/comments/1xjaooz/selling_oppo_find_x8_5g_12gb_256gb_battery_health/) — Rs.48,000 (score 120)
+- [Brand new, OPPO Pad SE Tablet (128 GB, Twilight Blue)](https://reddit.com/r/BangaloreMarketplace/comments/1xjadsp/selling_brand_new_oppo_pad_se_tablet_128_gb/) — Rs.13,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M5 24Gb 1Tb 13.6 Inch Midnight](https://reddit.com/r/BangaloreMarketplace/comments/1xjahva/macbook_air_m5_24gb_1tb_136_inch_midnight/) — Rs.165,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Pro 11' + Apple Pencil in Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xjaliu/ipad_pro_11_apple_pencil_in_mint_condition/) — Rs.30,000 (score 100)
 
 
 ## Game Consoles
