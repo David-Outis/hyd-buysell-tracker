@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 12:03 UTC
 
 ## Mobiles
 
-- [iPhone 15 Pro Max 512GB, US variant | ₹75,000 | Varthur, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xjcsfm/selling_iphone_15_pro_max_512gb_us_variant_75000/) — Rs.75,000 (score 105)
-- [LG 24Gn650 Ultragear Gaming 24 Inch (60 Cm) LCD 1920 x 1080 Pixels IPS Full Hd - 144Hz - 6000 Rs](https://reddit.com/r/BangaloreMarketplace/comments/1xjck6i/lg_24gn650_ultragear_gaming_24_inch_60_cm_lcd/) — Price not found (score 55)
+- [Motorola G86 Power 8GB / 128GB still in warranty.](https://reddit.com/r/BangaloreMarketplace/comments/1xjdgy9/motorola_g86_power_8gb_128gb_still_in_warranty/) — Rs.10,000 (score 85)
 
 
 ## Laptops
