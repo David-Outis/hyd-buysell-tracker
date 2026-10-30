@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 04:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ghost of yotei ps5](https://reddit.com/r/HyderabadUsedItems/comments/1xj4xzh/ghost_of_yotei_ps5/) — Price not found (score 55)
 
 
 ## Desktop PCs
