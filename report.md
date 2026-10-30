@@ -1,19 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 08:33 UTC
 
 ## Mobiles
 
-- [Apple iPhone 17 (256GB) – Mint / New Condition](https://reddit.com/r/HyderabadBuySell/comments/1xj8ins/apple_iphone_17_256gb_mint_new_condition/) — Rs.79,900 (score 120)
-- [iPhone 17](https://reddit.com/r/HyderabadBuySell/comments/1xj891d/selling_iphone_17/) — Rs.91,999 (score 120)
+- [OPPO Find X9 Ultra 512GB | Mint Condition | 1 Month Old | Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1xj6wc9/wts_oppo_find_x9_ultra_512gb_mint_condition_1/) — Rs.135,000 (score 120)
 
 
 ## Laptops
 
-- [My ASUS Zephyrus G14 (2024) laptop](https://reddit.com/r/HyderabadBuySell/comments/1xj8kzc/wts_selling_my_asus_zephyrus_g14_2024_laptop/) — Rs.106,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Apple iPad Air M3 128GB WiFi Starlight](https://reddit.com/r/HyderabadBuySell/comments/1xj41we/apple_ipad_air_m3_128gb_wifi_starlight/) — Rs.55,000 (score 120)
 
 
 ## Game Consoles
