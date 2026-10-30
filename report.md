@@ -1,24 +1,24 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 10:03 UTC
 
 ## Mobiles
 
-- [OPPO find X8 5G, 12GB/ 256GB, battery health 92%](https://reddit.com/r/BangaloreMarketplace/comments/1xjaooz/selling_oppo_find_x8_5g_12gb_256gb_battery_health/) — Rs.48,000 (score 120)
-- [Brand new, OPPO Pad SE Tablet (128 GB, Twilight Blue)](https://reddit.com/r/BangaloreMarketplace/comments/1xjadsp/selling_brand_new_oppo_pad_se_tablet_128_gb/) — Rs.13,000 (score 105)
+- [Pixel 9 pro 256GB (With Box) for sale. !](https://reddit.com/r/BangaloreMarketplace/comments/1xjb9q2/pixel_9_pro_256gb_with_box_for_sale/) — Rs.60,000 (score 85)
+- [iPhone 8 Plus in good condition…………………….](https://reddit.com/r/BangaloreMarketplace/comments/1xjb6h7/iphone_8_plus_in_good_condition/) — Rs.4,200 (score 70)
 
 
 ## Laptops
 
-- [MacBook Air M5 24Gb 1Tb 13.6 Inch Midnight](https://reddit.com/r/BangaloreMarketplace/comments/1xjahva/macbook_air_m5_24gb_1tb_136_inch_midnight/) — Rs.165,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Pro 11' + Apple Pencil in Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xjaliu/ipad_pro_11_apple_pencil_in_mint_condition/) — Rs.30,000 (score 100)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5, used, disc edition.](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjb0hv/ps5_used_disc_edition/) — Rs.50,000 (score 80)
 
 
 ## Desktop PCs
