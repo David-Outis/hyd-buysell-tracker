@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 07:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 14 pro max 256gb deep purple good condition](https://reddit.com/r/BangaloreMarketplace/comments/1xj859p/wts_iphone_14_pro_max_256gb_deep_purple_good/) — Rs.1,000 (score 85)
 
 
 ## Laptops
