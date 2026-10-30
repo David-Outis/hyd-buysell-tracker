@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 14:33 UTC
 
 ## Mobiles
 
-- [Iphone 18 pro max 256gb battery health -100](https://reddit.com/r/HyderabadUsedItems/comments/1xjg5uq/iphone_18_pro_max_256gb_battery_health_100/) — Price not found (score 90)
+- [My 3 yr old Pixel 7 camera still beats My new Moto signature phone](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjgkdn/sellingmy_3_yr_old_pixel_7_camera_still_beats_my/) — Rs.14,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PS4 Pro 1TB | Mint Condition (<200 Hours Usage) | Firmware 9.00 (GoldHEN / Jailbreakable) | 1 Controller](https://reddit.com/r/BangaloreMarketplace/comments/1xjg266/sony_ps4_pro_1tb_mint_condition_200_hours_usage/) — Price not found (score 50)
+- [Sony PS4 Pro 1TB | Mint Condition (<200 Hours Usage) | Firmware 9.00 (GoldHEN / Jailbreakable) | 1 Controller](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjfl1j/sony_ps4_pro_1tb_mint_condition_200_hours_usage/) — Rs.31,000 (score 100)
 
 
 ## Desktop PCs
