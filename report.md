@@ -1,23 +1,24 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 08:03 UTC
 
 ## Mobiles
 
-- [[Giveaway] Decluttering tech items as-is: Logitech G300s, ASUS MW203, Galaxy Buds, Jaybird earphones, Xbox battery covers (Pickup in AECS Layout)](https://reddit.com/r/BangaloreMarketplace/comments/1xj8n44/giveaway_decluttering_tech_items_asis_logitech/) — Price not found (score 55)
+- [Apple iPhone 17 (256GB) – Mint / New Condition](https://reddit.com/r/HyderabadBuySell/comments/1xj8ins/apple_iphone_17_256gb_mint_new_condition/) — Rs.79,900 (score 120)
+- [iPhone 17](https://reddit.com/r/HyderabadBuySell/comments/1xj891d/selling_iphone_17/) — Rs.91,999 (score 120)
 
 
 ## Laptops
 
-- [my personal ASUS Zephyrus G14 (2024) laptop in Space Grey color.](https://reddit.com/r/HyderabadUsedItems/comments/1xj8jc6/wts_selling_my_personal_asus_zephyrus_g14_2024/) — Rs.106,000 (score 120)
+- [My ASUS Zephyrus G14 (2024) laptop](https://reddit.com/r/HyderabadBuySell/comments/1xj8kzc/wts_selling_my_asus_zephyrus_g14_2024_laptop/) — Rs.106,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Pro M1 11 inch - Exceptional Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xj8oiq/selling_ipad_pro_m1_11_inch_exceptional_condition/) — Rs.2,000 (score 100)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [Wolverine PS5 Disc - Literally zero scratches](https://reddit.com/r/BangaloreMarketplace/comments/1xj8u6m/selling_wolverine_ps5_disc_literally_zero/) — Rs.3,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
