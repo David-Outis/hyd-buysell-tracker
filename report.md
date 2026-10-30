@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Sealed Samsung 45w charger](https://reddit.com/r/HyderabadUsedItems/comments/1xjlw2j/sealed_samsung_45w_charger/) — Price not found (score 75)
 
 
 ## Laptops
