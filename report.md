@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 02:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Lenovo LOQ Essential 15" Gaming Laptop (i7-12650HX, RTX 4050 6GB, 8GB RAM, 256GB SSD) - Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xj0opq/lenovo_loq_essential_15_gaming_laptop_i712650hx/) — Rs.72,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
