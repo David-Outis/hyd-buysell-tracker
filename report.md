@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 09:03 UTC
 
 ## Mobiles
 
-- [OPPO Find X9 Ultra 512GB | Mint Condition | 1 Month Old | Hyderabad](https://reddit.com/r/HyderabadBuySell/comments/1xj6wc9/wts_oppo_find_x9_ultra_512gb_mint_condition_1/) — Rs.135,000 (score 120)
+- [Few Smartwatches, Samsung Party Speaker & Elgato Key Lights](https://reddit.com/r/HyderabadBuySell/comments/1xj9zd0/selling_few_smartwatches_samsung_party_speaker/) — Rs.11,000 (score 120)
+- [Samsung M5 FHD Smart monitor 27 inch](https://reddit.com/r/BangaloreMarketplace/comments/1xja20c/wts_samsung_m5_fhd_smart_monitor_27_inch/) — Price not found (score 60)
+- [Few Smartwatches, Samsung Party Speaker & Elgato Key Lights – Hyderabad free shipping available!](https://reddit.com/r/BangaloreMarketplace/comments/1xja0ig/selling_few_smartwatches_samsung_party_speaker/) — Price not found (score 60)
 
 
 ## Laptops
@@ -12,7 +14,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple iPad Air M3 128GB WiFi Starlight](https://reddit.com/r/HyderabadBuySell/comments/1xj41we/apple_ipad_air_m3_128gb_wifi_starlight/) — Rs.55,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
