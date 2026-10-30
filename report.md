@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 15:03 UTC
 
 ## Mobiles
 
-- [My 3 yr old Pixel 7 camera still beats My new Moto signature phone](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjgkdn/sellingmy_3_yr_old_pixel_7_camera_still_beats_my/) — Rs.14,000 (score 105)
+- [Iphone duo sealed white for sale indian variant](https://reddit.com/r/BangaloreMarketplace/comments/1xjh1kr/iphone_duo_sealed_white_for_sale_indian_variant/) — Price not found (score 75)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PS4 Pro 1TB | Mint Condition (<200 Hours Usage) | Firmware 9.00 (GoldHEN / Jailbreakable) | 1 Controller](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjfl1j/sony_ps4_pro_1tb_mint_condition_200_hours_usage/) — Rs.31,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
