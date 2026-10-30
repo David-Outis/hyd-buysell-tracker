@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 15 Pro Max 512GB, US variant | ₹75,000 | Varthur, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xjcsfm/selling_iphone_15_pro_max_512gb_us_variant_75000/) — Rs.75,000 (score 105)
+- [LG 24Gn650 Ultragear Gaming 24 Inch (60 Cm) LCD 1920 x 1080 Pixels IPS Full Hd - 144Hz - 6000 Rs](https://reddit.com/r/BangaloreMarketplace/comments/1xjck6i/lg_24gn650_ultragear_gaming_24_inch_60_cm_lcd/) — Price not found (score 55)
 
 
 ## Laptops
@@ -12,12 +13,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Looking to buy an iPad 10th generation .](https://reddit.com/r/BangaloreMarketplace/comments/1xjbx6s/looking_to_buy_an_ipad_10th_generation/) — Rs.16,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [PS5 Disc Edition 1TB | 57 Days Old | Bill + Warranty | ₹62,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjbyn8/ps5_disc_edition_1tb_57_days_old_bill_warranty/) — Rs.62,000 (score 95)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
