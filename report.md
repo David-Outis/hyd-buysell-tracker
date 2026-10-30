@@ -1,14 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 16:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 brand new](https://reddit.com/r/ChennaiBuyAndSell/comments/1xji91m/iphone_17_brand_new_for_sale/) — Price not found (score 75)
-- [brand new iphone 17, 256gb, @81000](https://reddit.com/r/BangaloreMarketplace/comments/1xjig1b/selling_brand_new_iphone_17_256gb_81000/) — Price not found (score 75)
+- [Samsung S25 FE](https://reddit.com/r/HyderabadBuySell/comments/1xje763/samsung_s25_fe/) — Rs.40,000 (score 105)
+- [OPPO find X8 5G, 12GB/256GB , gently used](https://reddit.com/r/BangaloreMarketplace/comments/1xjj7u6/selling_oppo_find_x8_5g_12gb256gb_gently_used/) — Rs.47,000 (score 90)
 
 
 ## Laptops
 
-- [apple macbook 140w adapter for all silicon mac](https://reddit.com/r/BangaloreMarketplace/comments/1xjica7/apple_macbook_140w_adapter_for_all_silicon_mac/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -23,4 +23,5 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Gaming PC Cabinet + CPU Cooler](https://reddit.com/r/HyderabadBuySell/comments/1xjf654/gaming_pc_cabinet_cpu_cooler_for_sale/) — Rs.13,150 (score 90)
+- [7600xt 16gb sapphire graphics card 28000rs under warranty 1.5 years Location: peenya](https://reddit.com/r/BangaloreMarketplace/comments/1xjjboj/7600xt_16gb_sapphire_graphics_card_28000rs_under/) — Price not found (score 55)
