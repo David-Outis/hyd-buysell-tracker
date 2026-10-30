@@ -1,23 +1,23 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 14:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 18 pro max 256gb battery health -100](https://reddit.com/r/HyderabadUsedItems/comments/1xjg5uq/iphone_18_pro_max_256gb_battery_health_100/) — Price not found (score 90)
 
 
 ## Laptops
 
-- [Looking to trade or sell my silver coloured macbook m2 air 8/256 gb. Mint condition, used sparingly.](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjfbmv/looking_to_trade_or_sell_my_silver_coloured/) — Rs.60,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple Magic Keyboard for iPad Air / iPad Pro 11” – ₹16,000 (Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1xjfdis/apple_magic_keyboard_for_ipad_air_ipad_pro_11/) — Rs.16,000 (score 90)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-- [Xbox One S 1TB All-Digital with controller](https://reddit.com/r/HyderabadUsedItems/comments/1xjff8q/xbox_one_s_1tb_alldigital_with_controller/) — Rs.17,000 (score 100)
+- [Sony PS4 Pro 1TB | Mint Condition (<200 Hours Usage) | Firmware 9.00 (GoldHEN / Jailbreakable) | 1 Controller](https://reddit.com/r/BangaloreMarketplace/comments/1xjg266/sony_ps4_pro_1tb_mint_condition_200_hours_usage/) — Price not found (score 50)
 
 
 ## Desktop PCs
