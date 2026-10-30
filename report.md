@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-29 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 01:33 UTC
 
 ## Mobiles
 
-- [Oneplus 12R 8gb ram 256Gb storage Snapdragon 8 Gen 2 proccesor with 85W OG Fast Charger Selling price is 22.5K but Open for Exchange with iPhone.](https://reddit.com/r/ChennaiBuyAndSell/comments/1xir5vn/oneplus_12r_8gb_ram_256gb_storage_snapdragon_8/) — Rs.22,500 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo LOQ Essential 15" Gaming Laptop (i7-12650HX, RTX 4050 6GB, 8GB RAM, 256GB SSD) - Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xj0opq/lenovo_loq_essential_15_gaming_laptop_i712650hx/) — Rs.72,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
