@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 10:33 UTC
 
 ## Mobiles
 
-- [Pixel 9 pro 256GB (With Box) for sale. !](https://reddit.com/r/BangaloreMarketplace/comments/1xjb9q2/pixel_9_pro_256gb_with_box_for_sale/) — Rs.60,000 (score 85)
-- [iPhone 8 Plus in good condition…………………….](https://reddit.com/r/BangaloreMarketplace/comments/1xjb6h7/iphone_8_plus_in_good_condition/) — Rs.4,200 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [my laptop, Dell 7490 very less used.](https://reddit.com/r/BangaloreMarketplace/comments/1xjbrq2/selling_my_laptop_dell_7490_very_less_used/) — Rs.26,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5, used, disc edition.](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjb0hv/ps5_used_disc_edition/) — Rs.50,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
