@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 11:03 UTC
 
 ## Mobiles
 
@@ -7,17 +7,17 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [my laptop, Dell 7490 very less used.](https://reddit.com/r/BangaloreMarketplace/comments/1xjbrq2/selling_my_laptop_dell_7490_very_less_used/) — Rs.26,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Looking to buy an iPad 10th generation .](https://reddit.com/r/BangaloreMarketplace/comments/1xjbx6s/looking_to_buy_an_ipad_10th_generation/) — Rs.16,000 (score 70)
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Disc Edition 1TB | 57 Days Old | Bill + Warranty | ₹62,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xjbyn8/ps5_disc_edition_1tb_57_days_old_bill_warranty/) — Rs.62,000 (score 95)
 
 
 ## Desktop PCs
