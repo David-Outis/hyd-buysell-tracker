@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 18 pro 256gb 100 battery helath](https://reddit.com/r/HyderabadUsedItems/comments/1xjk9em/iphone_18_pro_256gb_100_battery_helath/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [Need of a 2nd Hand (Used) Laptop](https://reddit.com/r/HyderabadBuySell/comments/1xjil61/need_of_a_2nd_hand_used_laptop/) — Rs.65,000 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PS5 Disc Edition (1TB) – Brand New & Unused](https://reddit.com/r/BangaloreMarketplace/comments/1xjjsyh/sony_ps5_disc_edition_1tb_brand_new_unused/) — Rs.67,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
