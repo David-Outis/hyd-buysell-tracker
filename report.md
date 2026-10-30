@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 12:33 UTC
 
 ## Mobiles
 
-- [Motorola G86 Power 8GB / 128GB still in warranty.](https://reddit.com/r/BangaloreMarketplace/comments/1xjdgy9/motorola_g86_power_8gb_128gb_still_in_warranty/) — Rs.10,000 (score 85)
+- [Apple iPhone 17 (256GB) & Apple AirPods Pro 3](https://reddit.com/r/BangaloreMarketplace/comments/1xjdtfs/selling_apple_iphone_17_256gb_apple_airpods_pro_3/) — Rs.69,000 (score 120)
 
 
 ## Laptops
