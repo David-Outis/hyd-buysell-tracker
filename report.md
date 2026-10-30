@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-30 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-30 13:03 UTC
 
 ## Mobiles
 
-- [Apple iPhone 17 (256GB) & Apple AirPods Pro 3](https://reddit.com/r/BangaloreMarketplace/comments/1xjdtfs/selling_apple_iphone_17_256gb_apple_airpods_pro_3/) — Rs.69,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
