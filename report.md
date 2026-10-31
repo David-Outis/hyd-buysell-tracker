@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-31 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-31 17:33 UTC
 
 ## Mobiles
 
-- [iPhone 13 (128GB) – Excellent Physical Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xkfg86/iphone_13_128gb_excellent_physical_condition/) — Rs.26,000 (score 85)
-- [iPhone 17 256 GB Warranty till April 2027 + 3 Premium Cases](https://reddit.com/r/BangaloreMarketplace/comments/1xkezcb/iphone_17_256_gb_warranty_till_april_2027_3/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 007 First Light Deluxe edition](https://reddit.com/r/BangaloreMarketplace/comments/1xkfj2c/wts_ps5_007_first_light_deluxe_edition/) — Rs.3,800 (score 85)
 
 
 ## Desktop PCs
