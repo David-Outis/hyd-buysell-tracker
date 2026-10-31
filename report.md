@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-31 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-31 18:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 007 First Light Deluxe edition](https://reddit.com/r/BangaloreMarketplace/comments/1xkfj2c/wts_ps5_007_first_light_deluxe_edition/) — Rs.3,800 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
