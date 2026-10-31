@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-31 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-31 15:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [a bunch of macbook airs! (M1/M2)](https://reddit.com/r/BangaloreMarketplace/comments/1xkbmqp/selling_a_bunch_of_macbook_airs_m1m2/) — Rs.30,000 (score 105)
+- [Broke engineering student, completely stuck without a laptop for 3 months after my Victus died(f u hp) need advice/leads on a machine with 8GB+ VRAM under ₹1 Lakh](https://reddit.com/r/BangaloreMarketplace/comments/1xkcf2n/broke_engineering_student_completely_stuck/) — Rs.80,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Xbox controller- priced to sell quick at 2.5k](https://reddit.com/r/BangaloreMarketplace/comments/1xkb42o/xbox_controller_priced_to_sell_quick_at_25k/) — Rs.2,500 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[BUY] DDR3 Motherboard (4 RAM Slots) & Mid-Tower PC Case | Budget: ₹3,000 Total | Kalyan Nagar, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xkc2ge/buy_ddr3_motherboard_4_ram_slots_midtower_pc_case/) — Rs.3,000 (score 90)
