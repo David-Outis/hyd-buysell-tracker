@@ -1,9 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-10-31 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-31 17:03 UTC
 
 ## Mobiles
 
-- [Vivo X100 5G in 2026. How much would you pay for one?](https://reddit.com/r/BangaloreMarketplace/comments/1xkelk4/vivo_x100_5g_in_2026_how_much_would_you_pay_for/) — Price not found (score 75)
-- [Iphone 6s sale for 6k interested buyers dm me](https://reddit.com/r/BangaloreMarketplace/comments/1xkeify/iphone_6s_sale_for_6k_interested_buyers_dm_me/) — Rs.6,000 (score 70)
+- [iPhone 13 (128GB) – Excellent Physical Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xkfg86/iphone_13_128gb_excellent_physical_condition/) — Rs.26,000 (score 85)
+- [iPhone 17 256 GB Warranty till April 2027 + 3 Premium Cases](https://reddit.com/r/BangaloreMarketplace/comments/1xkezcb/iphone_17_256_gb_warranty_till_april_2027_3/) — Price not found (score 75)
 
 
 ## Laptops
