@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-31 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-31 08:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [PS4 jailbreak 13.52 (500gb) with 3 controllers.(Selling/exchange available with iphone) Face to Face Only No Shipping](https://reddit.com/r/ChennaiBuyAndSell/comments/1xk4fgb/ps4_jailbreak_1352_500gb_with_3/) — Rs.1,500 (score 85)
 
 
 ## Laptops
 
-- [lenovo legion go s Z2GO with SteamOS](https://reddit.com/r/BangaloreMarketplace/comments/1xk4cq9/selling_lenovo_legion_go_s_z2go_with_steamos/) — Price not found (score 55)
-- [old SONY Vaio laptop core i3 CPU M330 4Gb ram 128 gb SSD Adata SU800](https://reddit.com/r/BangaloreMarketplace/comments/1xk41fq/selling_old_sony_vaio_laptop_core_i3_cpu_m330_4gb/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -23,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [11 Graphics Card for sale | ZOTAC GT 710 ZONE Edition 2GB 64BIT DDR3| Bangalore, Electronic city RS:5000](https://reddit.com/r/BangaloreMarketplace/comments/1xk4tfu/11_graphics_card_for_sale_zotac_gt_710_zone/) — Price not found (score 60)
