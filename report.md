@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-10-31 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-31 14:33 UTC
 
 ## Mobiles
 
-- [Oneplus N6X - 4/128GB, Burgundy Red, 1 week old](https://reddit.com/r/BangaloreMarketplace/comments/1xkalg6/selling_oneplus_n6x_4128gb_burgundy_red_1_week_old/) — Rs.16,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [[Bengaluru, Benniganahalli] Move Out Sale — Laptop, Camera , Content Creator Kit , Electronics](https://reddit.com/r/BangaloreMarketplace/comments/1xkb0mv/bengaluru_benniganahalli_move_out_sale_laptop/) — Rs.32,000 (score 105)
+- [a bunch of macbook airs! (M1/M2)](https://reddit.com/r/BangaloreMarketplace/comments/1xkbmqp/selling_a_bunch_of_macbook_airs_m1m2/) — Rs.30,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Xbox controller- priced to sell quick at 2.5k](https://reddit.com/r/BangaloreMarketplace/comments/1xkb42o/xbox_controller_priced_to_sell_quick_at_25k/) — Rs.2,500 (score 65)
 
 
 ## Desktop PCs
