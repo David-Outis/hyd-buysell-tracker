@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-10-31 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-10-31 05:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Macbook Pro M1 Pro 16 inch Model](https://reddit.com/r/HyderabadUsedItems/comments/1xk1z86/selling_macbook_pro_m1_pro_16_inch_model/) — Rs.80,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
