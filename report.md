@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-10-31 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-10-31 12:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 15 — ₹43,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xk87wm/iphone_15_43000/) — Rs.43,000 (score 120)
 
 
 ## Laptops
