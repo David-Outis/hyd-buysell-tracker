@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 15:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Apple iphone 16 pro (128gb) with bill and box](https://reddit.com/r/BangaloreMarketplace/comments/1xl5ldk/apple_iphone_16_pro_128gb_with_bill_and_box/) — Rs.2,000 (score 85)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [007 FIRST LIGHT FOR SALE PS5 in very mint condition.](https://reddit.com/r/BangaloreMarketplace/comments/1xl4l2t/007_first_light_for_sale_ps5_in_very_mint/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
