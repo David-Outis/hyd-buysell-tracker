@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 12:33 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple Ipad Air M3 Bundle [42 Charge Cycles Rarely Used]](https://reddit.com/r/BangaloreMarketplace/comments/1xl0yle/apple_ipad_air_m3_bundle_42_charge_cycles_rarely/) — Rs.65,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
