@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 08:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [URGENT SALE MacBook Pro with M5 chip – Cashify Offering ₹1.60L | Direct Sale Until Tuesday | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xkwz4y/urgent_sale_macbook_pro_with_m5_chip_cashify/) — Rs.160,000 (score 105)
+- [Lenovo 230w charger for gaming laptop](https://reddit.com/r/BangaloreMarketplace/comments/1xkxavl/selling_lenovo_230w_charger_for_gaming_laptop/) — Rs.9,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
