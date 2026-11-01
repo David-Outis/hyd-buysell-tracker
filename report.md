@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 14:03 UTC
 
 ## Mobiles
 
-- [iPhone 17 256GB Black | 100% BH | 130 Battery Cycles | Bought July 2026 | ₹73,000 | Ready to Pickup – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xl32d4/iphone_17_256gb_black_100_bh_130_battery_cycles/) — Rs.73,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
