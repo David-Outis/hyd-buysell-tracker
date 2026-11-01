@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 10:03 UTC
 
 ## Mobiles
 
-- [my Samsung Galaxy Fit3, just 10 days old!](https://reddit.com/r/ChennaiBuyAndSell/comments/1xkyt8q/selling_my_samsung_galaxy_fit3_just_10_days_old/) — Rs.3,000 (score 105)
+- [Need GST invoice iphone 16 screen repair.](https://reddit.com/r/HyderabadUsedItems/comments/1xkza3p/need_gst_invoice_iphone_16_screen_repair/) — Price not found (score 60)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 & PS5 discs](https://reddit.com/r/HyderabadBuySell/comments/1xkwjpc/wts_ps4_ps5_discs/) — Price not found (score 55)
-- [PS5 PS5 F1 2025 zero scratches on disk](https://reddit.com/r/BangaloreMarketplace/comments/1xkygni/wts_ps5_ps5_f1_2025_zero_scratches_on_disk/) — Rs.4,600 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
