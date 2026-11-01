@@ -1,18 +1,19 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Any iPhone 16e sellers?](https://reddit.com/r/HyderabadBuySell/comments/1xkuw0k/any_iphone_16e_sellers/) — Price not found (score 60)
+- [Poco f6 5g 256gb exchange only..........](https://reddit.com/r/BangaloreMarketplace/comments/1xkviny/poco_f6_5g_256gb_exchange_only/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [MacBook Air M5 13-inch (2026) 16/512GB](https://reddit.com/r/BangaloreMarketplace/comments/1xkuowq/wts_macbook_air_m5_13inch_2026_16512gb/) — Rs.104,990 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple Magic Keyboard for iPad Air / iPad Pro 11 Original – ₹12,500](https://reddit.com/r/BangaloreMarketplace/comments/1xkuti5/apple_magic_keyboard_for_ipad_air_ipad_pro_11/) — Rs.12,500 (score 90)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
