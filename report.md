@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oneplus Buds 3 | Price Negotiable...](https://reddit.com/r/BangaloreMarketplace/comments/1xl2hz9/wts_oneplus_buds_3_price_negotiable/) — Rs.3,000 (score 85)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Wooden TV Cabinet /TV Stand with Storage](https://reddit.com/r/BangaloreMarketplace/comments/1xl2g7s/wooden_tv_cabinet_tv_stand_with_storage/) — Rs.2,200 (score 85)
