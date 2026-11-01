@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 13:33 UTC
 
 ## Mobiles
 
-- [Oneplus Buds 3 | Price Negotiable...](https://reddit.com/r/BangaloreMarketplace/comments/1xl2hz9/wts_oneplus_buds_3_price_negotiable/) — Rs.3,000 (score 85)
+- [iPhone 17 256GB Black | 100% BH | 130 Battery Cycles | Bought July 2026 | ₹73,000 | Ready to Pickup – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xl32d4/iphone_17_256gb_black_100_bh_130_battery_cycles/) — Rs.73,000 (score 105)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Wooden TV Cabinet /TV Stand with Storage](https://reddit.com/r/BangaloreMarketplace/comments/1xl2g7s/wooden_tv_cabinet_tv_stand_with_storage/) — Rs.2,200 (score 85)
+_No new desktop PC listings found in this run._
