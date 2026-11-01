@@ -1,14 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 16:33 UTC
 
 ## Mobiles
 
-- [Sell - Samsung S23 5G, 8GB RAM 256GB Storage](https://reddit.com/r/BangaloreMarketplace/comments/1xl6fta/sell_samsung_s23_5g_8gb_ram_256gb_storage/) — Rs.28,900 (score 90)
-- [Samsung Galaxy S26 256gb Silver Color with original box and bill!](https://reddit.com/r/BangaloreMarketplace/comments/1xl6anj/samsung_galaxy_s26_256gb_silver_color_with/) — Rs.65,000 (score 85)
+- [Redmi 15C 5G 4GB/128GB](https://reddit.com/r/HyderabadBuySell/comments/1xl6phg/redmi_15c_5g_4gb128gb/) — Rs.15,999 (score 105)
 
 
 ## Laptops
 
-- [Considering selling MacBook Air M1 (2020). What’s a reasonable price?](https://reddit.com/r/BangaloreMarketplace/comments/1xl656c/considering_selling_macbook_air_m1_2020_whats_a/) — Price not found (score 55)
+- [Lenovo ThinkPad L14 Gen 2 Used](https://reddit.com/r/HyderabadBuySell/comments/1xl4qb2/lenovo_thinkpad_l14_gen_2_used/) — Rs.26,000 (score 90)
+- [SK Hynix 16GB DDR5 5600MHz Laptop RAM (SODIMM)](https://reddit.com/r/BangaloreMarketplace/comments/1xl71u7/sk_hynix_16gb_ddr5_5600mhz_laptop_ram_sodimm/) — Rs.22,500 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -23,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [HIGH-END GAMING PC / WORKSTATION FOR SALE | i7 13TH GEN + RTX 4070 Ti | 64 GB RAM](https://reddit.com/r/HyderabadBuySell/comments/1xl4uoz/highend_gaming_pc_workstation_for_sale_i7_13th/) — Price not found (score 75)
