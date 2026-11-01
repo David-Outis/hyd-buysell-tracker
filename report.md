@@ -1,23 +1,23 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Pixel 10 (12GB RAM + 256 GB storage), UPS and Helmet](https://reddit.com/r/BangaloreMarketplace/comments/1xky2ep/selling_pixel_10_12gb_ram_256_gb_storage_ups_and/) — Rs.2,500 (score 120)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[Dead] Macbook pro A2141 intel for under INR 5000](https://reddit.com/r/BangaloreMarketplace/comments/1xky0ye/wts_dead_macbook_pro_a2141_intel_for_under_inr/) — Rs.5,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Ipad Air M4 , 13 inch, 128 gb, wifi, for sale 79000/- DM me](https://reddit.com/r/BangaloreMarketplace/comments/1xkxvsg/ipad_air_m4_13_inch_128_gb_wifi_for_sale_79000_dm/) — Rs.79,000 (score 100)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [my ps5 standard disk version with two controllers](https://reddit.com/r/BangaloreMarketplace/comments/1xky0gn/selling_my_ps5_standard_disk_version_with_two/) — Rs.49,000 (score 85)
 
 
 ## Desktop PCs
