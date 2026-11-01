@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 17:33 UTC
 
 ## Mobiles
 
-- [iPhone 14 (128gb Purple) - Near BTM](https://reddit.com/r/BangaloreMarketplace/comments/1xl8825/selling_iphone_14_128gb_purple_near_btm/) — Rs.32,000 (score 105)
+- [[Bangalore] Realme GT 6T (12GB RAM + 512GB) – Brand New Sealed Box – ₹35,000](https://reddit.com/r/BangaloreMarketplace/comments/1xl91lv/bangalore_selling_realme_gt_6t_12gb_ram_512gb/) — Rs.35,000 (score 120)
+- [Samsung Galaxy Z Flip 8 | Bangalore (Indiranagar)](https://reddit.com/r/BangaloreMarketplace/comments/1xl90i2/wts_samsung_galaxy_z_flip_8_bangalore_indiranagar/) — Rs.100,000 (score 120)
 
 
 ## Laptops
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Unused PS5 Digital with 1 year warranty | 61.5K | HSR](https://reddit.com/r/BangaloreMarketplace/comments/1xl7qtk/unused_ps5_digital_with_1_year_warranty_615k_hsr/) — Rs.61,500 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
