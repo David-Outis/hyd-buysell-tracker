@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 16:03 UTC
 
 ## Mobiles
 
-- [Apple iphone 16 pro (128gb) with bill and box](https://reddit.com/r/BangaloreMarketplace/comments/1xl5ldk/apple_iphone_16_pro_128gb_with_bill_and_box/) — Rs.2,000 (score 85)
+- [Sell - Samsung S23 5G, 8GB RAM 256GB Storage](https://reddit.com/r/BangaloreMarketplace/comments/1xl6fta/sell_samsung_s23_5g_8gb_ram_256gb_storage/) — Rs.28,900 (score 90)
+- [Samsung Galaxy S26 256gb Silver Color with original box and bill!](https://reddit.com/r/BangaloreMarketplace/comments/1xl6anj/samsung_galaxy_s26_256gb_silver_color_with/) — Rs.65,000 (score 85)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Considering selling MacBook Air M1 (2020). What’s a reasonable price?](https://reddit.com/r/BangaloreMarketplace/comments/1xl656c/considering_selling_macbook_air_m1_2020_whats_a/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
