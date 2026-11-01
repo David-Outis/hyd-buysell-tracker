@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-01 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-01 04:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Apple iPhone 17 (256 GB) Blue | AppleCare+ Valid Till Aug 2027](https://reddit.com/r/ChennaiBuyAndSell/comments/1xku1fp/apple_iphone_17_256_gb_blue_applecare_valid_till/) — Rs.78,000 (score 100)
+- [iPhone 17 256GB - Green (Box, Original Cable & Adapter Included)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xktzqa/wts_iphone_17_256gb_green_box_original_cable/) — Rs.73,000 (score 105)
 
 
 ## Laptops
