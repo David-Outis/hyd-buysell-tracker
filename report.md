@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 04:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Macbook Air M2 13’ 100% battery health.](https://reddit.com/r/BangaloreMarketplace/comments/1xlnmg8/wts_macbook_air_m2_13_100_battery_health/) — Rs.52,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
