@@ -1,15 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 13:33 UTC
 
 ## Mobiles
 
-- [Price Update, 71k if picked up today | iphone 17 | ₹71000 | BLR](https://reddit.com/r/bangloremarketplace/comments/1xlwi7x/price_update_71k_if_picked_up_today_iphone_17/) — Rs.71,000 (score 90)
-- [[Bangalore] Apple iPhone 17 Pro 256gb Silver — Mint Condition (30 Days Old, 100% Battery)](https://reddit.com/r/bangloremarketplace/comments/1xlullg/wts_bangalore_apple_iphone_17_pro_256gb_silver/) — Price not found (score 75)
-- [iPhone SE 1st Gen 64GB Space Gray](https://reddit.com/r/bangloremarketplace/comments/1xlueql/wts_iphone_se_1st_gen_64gb_space_gray/) — Rs.6,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [14" Laptop Sleeves – DailyObjects Basalt Pivot & Walnut Brown SnapOn | Bangalore | ₹1500 & ₹1000](https://reddit.com/r/BangaloreMarketplace/comments/1xlwkul/wts_14_laptop_sleeves_dailyobjects_basalt_pivot/) — Rs.1,500 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -19,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 along with games including worth 10k](https://reddit.com/r/BangaloreMarketplace/comments/1xlx708/selling_ps5_along_with_games_including_worth_10k/) — Rs.10,000 (score 65)
 
 
 ## Desktop PCs
