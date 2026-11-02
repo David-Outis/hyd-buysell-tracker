@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 07:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 pro max, 256GB, 93% BH (Whitefield)](https://reddit.com/r/BangaloreMarketplace/comments/1xlq20c/iphone_17_pro_max_256gb_93_bh_whitefield/) — Price not found (score 60)
+- [Complete Gaming PC Setup - Ryzen 5 3500 | GTX 1660 Ti 6GB | 16GB RAM | Samsung 144Hz Curved Display | RGB Keyboard & Mouse | Genuine Win 11](https://reddit.com/r/HyderabadBuySell/comments/1xlq79p/complete_gaming_pc_setup_ryzen_5_3500_gtx_1660_ti/) — Price not found (score 75)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M4 (16GB/256GB) bundled with Apple Magic Mouse](https://reddit.com/r/BangaloreMarketplace/comments/1xlqn3m/wts_macbook_air_m4_16gb256gb_bundled_with_apple/) — Rs.86,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [ASUS ROG Zephyrus G14 (2024) - GA403UV | Ryzen 9 8945HS | RTX 4060 | 16GB | 1TB SSD | OLED | Extended Warranty till Oct 2027](https://reddit.com/r/ChennaiBuyAndSell/comments/1xlq1bg/wts_asus_rog_zephyrus_g14_2024_ga403uv_ryzen_9/) — Rs.3,000 (score 120)
+_No new desktop PC listings found in this run._
