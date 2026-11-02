@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 15 Pro Max 512GB, US variant | ₹70,000 | Varthur, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xltgt6/selling_iphone_15_pro_max_512gb_us_variant_70000/) — Rs.70,000 (score 105)
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 controller [Black] for sale. Selling bcz I booked gta6 controller.](https://reddit.com/r/BangaloreMarketplace/comments/1xlt5ft/ps5_controller_black_for_sale_selling_bcz_i/) — Rs.4,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Asus X870-P CSM ATX Motherboard. Chennai, Rs 18500](https://reddit.com/r/ChennaiBuyAndSell/comments/1xlth5g/wts_asus_x870p_csm_atx_motherboard_chennai_rs/) — Rs.18,500 (score 105)
