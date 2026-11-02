@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 15 plus 128gb](https://reddit.com/r/HyderabadUsedItems/comments/1xlrxdl/iphone_15_plus_128gb/) — Rs.41,000 (score 105)
 
 
 ## Laptops
