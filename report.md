@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 09:33 UTC
 
 ## Mobiles
 
-- [iPhone 15 plus 128gb](https://reddit.com/r/HyderabadUsedItems/comments/1xlrxdl/iphone_15_plus_128gb/) — Rs.41,000 (score 105)
+- [my almost new Samsung Galaxy S26 12gb/256gb silver color variant. Original box and bill available!](https://reddit.com/r/BangaloreMarketplace/comments/1xlrgt9/selling_my_almost_new_samsung_galaxy_s26/) — Rs.75,000 (score 100)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Looking to Buy a cpu under 5k am4 (ryzen 5 3600 preferbly)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xlscog/looking_to_buy_a_cpu_under_5k_am4_ryzen_5_3600/) — Rs.5,000 (score 70)
