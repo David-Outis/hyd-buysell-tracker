@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 15:33 UTC
 
 ## Mobiles
 
-- [Interested in buying iPhone 13 or 13 mini ~20k.](https://reddit.com/r/BangaloreMarketplace/comments/1xlyyfa/interested_in_buying_iphone_13_or_13_mini_20k/) — Rs.20,000 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
