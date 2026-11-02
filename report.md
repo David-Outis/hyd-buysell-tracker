@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 11:03 UTC
 
 ## Mobiles
 
-- [iPhone 15 Pro Max 512GB, US variant | ₹70,000 | Varthur, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xltgt6/selling_iphone_15_pro_max_512gb_us_variant_70000/) — Rs.70,000 (score 105)
+- [iPhone SE 1st Generation 64GB Space Gray](https://reddit.com/r/BangaloreMarketplace/comments/1xlu91y/iphone_se_1st_generation_64gb_space_gray/) — Rs.6,000 (score 90)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Asus X870-P CSM ATX Motherboard. Chennai, Rs 18500](https://reddit.com/r/ChennaiBuyAndSell/comments/1xlth5g/wts_asus_x870p_csm_atx_motherboard_chennai_rs/) — Rs.18,500 (score 105)
+_No new desktop PC listings found in this run._
