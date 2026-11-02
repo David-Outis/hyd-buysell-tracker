@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-02 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-02 12:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MSI Thin A15 gaming laptop Rtx 3050](https://reddit.com/r/HyderabadBuySell/comments/1xlue71/msi_thin_a15_gaming_laptop_rtx_3050/) — Rs.55,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
