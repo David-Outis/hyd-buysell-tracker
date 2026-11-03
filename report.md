@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 07:33 UTC
 
 ## Mobiles
 
-- [SanDisk extreme pro and samsung evo plus sd card](https://reddit.com/r/BangaloreMarketplace/comments/1xmm04h/sandisk_extreme_pro_and_samsung_evo_plus_sd_card/) — Rs.8,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PlayStation 5 1 TB Storage with Bill and Box and all the original accessories.](https://reddit.com/r/BangaloreMarketplace/comments/1xmm05h/selling_playstation_5_1_tb_storage_with_bill_and/) — Rs.56,000 (score 95)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Want to sell this desk with drawer and cabinet](https://reddit.com/r/BangaloreMarketplace/comments/1xmmo3b/want_to_sell_this_desk_with_drawer_and_cabinet/) — Rs.3,000 (score 70)
