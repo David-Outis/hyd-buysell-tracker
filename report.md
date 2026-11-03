@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 11:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Modded Nintendo Switch Lite in Super Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xmq20f/modded_nintendo_switch_lite_in_super_mint/) — Price not found (score 50)
 
 
 ## Desktop PCs
 
-- [Gaming PC – Ryzen 5 3500, MSI GeForce RTX 3060 Ti, 16GB RAM, 1000W PSU](https://reddit.com/r/BangaloreMarketplace/comments/1xmp7xr/selling_gaming_pc_ryzen_5_3500_msi_geforce_rtx/) — Rs.65,000 (score 85)
+_No new desktop PC listings found in this run._
