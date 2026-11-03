@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 02:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 02:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Type-C Earphones (EO-IC100) – Sound by AKG](https://reddit.com/r/BangaloreMarketplace/comments/1xmgqlh/wts_samsung_typec_earphones_eoic100_sound_by_akg/) — Rs.1,200 (score 85)
 
 
 ## Laptops
