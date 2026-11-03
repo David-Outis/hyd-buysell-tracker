@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 18 pro 256gb just activated USA duel esim -1.4 lakh](https://reddit.com/r/HyderabadUsedItems/comments/1xml24v/iphone_18_pro_256gb_just_activated_usa_duel_esim/) — Price not found (score 75)
 
 
 ## Laptops
