@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my Samsung Galaxy Z flip 7 (512 )](https://reddit.com/r/BangaloreMarketplace/comments/1xmqaw8/selling_my_samsung_galaxy_z_flip_7_512/) — Rs.80,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [My ASUS Republic Of Gamers Laptop](https://reddit.com/r/HyderabadUsedItems/comments/1xmqban/wts_selling_my_asus_republic_of_gamers_laptop/) — Rs.175,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Modded Nintendo Switch Lite in Super Mint Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xmq20f/modded_nintendo_switch_lite_in_super_mint/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
