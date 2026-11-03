@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 04:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 (disc edition) with 2 dual sense controllers](https://reddit.com/r/BangaloreMarketplace/comments/1xmiog0/ps5_disc_edition_with_2_dual_sense_controllers/) — Rs.56,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
