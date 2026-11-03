@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 09:33 UTC
 
 ## Mobiles
 
-- [Looking to buy a pixel phone under 20k today](https://reddit.com/r/BangaloreMarketplace/comments/1xmo12a/looking_to_buy_a_pixel_phone_under_20k_today/) — Rs.20,000 (score 70)
+- [Samsung S25 Ultra 12/512](https://reddit.com/r/HyderabadBuySell/comments/1xmln4m/samsung_s25_ultra_12512/) — Rs.3,000 (score 90)
 
 
 ## Laptops
