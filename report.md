@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 08:33 UTC
 
 ## Mobiles
 
-- [iPhone 12 – Blue | 128GB](https://reddit.com/r/HyderabadUsedItems/comments/1xmn2l0/wts_iphone_12_blue_128gb/) — Rs.18,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC – Ryzen 5 3500, RTX 3070 Ti, 16GB RAM, 1000W PSU](https://reddit.com/r/BangaloreMarketplace/comments/1xmmruk/selling_gaming_pc_ryzen_5_3500_rtx_3070_ti_16gb/) — Rs.65,000 (score 85)
+_No new desktop PC listings found in this run._
