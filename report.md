@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Looking to buy a pixel phone under 20k today](https://reddit.com/r/BangaloreMarketplace/comments/1xmo12a/looking_to_buy_a_pixel_phone_under_20k_today/) — Rs.20,000 (score 70)
 
 
 ## Laptops
