@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 07:03 UTC
 
 ## Mobiles
 
-- [Iphone 17 512GB](https://reddit.com/r/HyderabadBuySell/comments/1xml860/iphone_17_512gb/) — Rs.120,000 (score 70)
-- [7-Day-Old MOTO EDGE 70 PRO | 12GB RAM | 256GB | TITAN](https://reddit.com/r/BangaloreMarketplace/comments/1xmljlx/selling_7dayold_moto_edge_70_pro_12gb_ram_256gb/) — Rs.42,999 (score 120)
+- [SanDisk extreme pro and samsung evo plus sd card](https://reddit.com/r/BangaloreMarketplace/comments/1xmm04h/sandisk_extreme_pro_and_samsung_evo_plus_sd_card/) — Rs.8,500 (score 90)
 
 
 ## Laptops
@@ -18,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sony PlayStation 5 Disc Edition (825 GB) + 2 DualSense Controllers](https://reddit.com/r/ChennaiBuyAndSell/comments/1xml7tl/wts_sony_playstation_5_disc_edition_825_gb_2/) — Rs.48,000 (score 85)
-- [[SALE or TRADE] Xbox Series X (F2F only)](https://reddit.com/r/BangaloreMarketplace/comments/1xmlmu3/sale_or_trade_xbox_series_x_f2f_only/) — Rs.49,000 (score 85)
+- [PlayStation 5 1 TB Storage with Bill and Box and all the original accessories.](https://reddit.com/r/BangaloreMarketplace/comments/1xmm05h/selling_playstation_5_1_tb_storage_with_bill_and/) — Rs.56,000 (score 95)
 
 
 ## Desktop PCs
