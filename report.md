@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [BOXED IPHONE 17, 256GB @88K. Looking to upgrade hence want to sell this gift i received](https://reddit.com/r/BangaloreMarketplace/comments/1xmr6d0/selling_boxed_iphone_17_256gb_88k_looking_to/) — Rs.88,000 (score 90)
 
 
 ## Laptops
