@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 03:33 UTC
 
 ## Mobiles
 
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [my iPad Air M4 13-inch Wi-Fi, 128GB– Excellent Condition | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xmi12u/selling_my_ipad_air_m4_13inch_wifi_128gb/) — Rs.79,000 (score 105)
 
 
 ## Game Consoles
 
-- [PS5 Dual sense sale . Both controllers](https://reddit.com/r/BangaloreMarketplace/comments/1xmhb0v/ps5_dual_sense_sale_both_controllers/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
