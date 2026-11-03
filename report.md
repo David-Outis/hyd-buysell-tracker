@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 17:34 UTC
+# Hyderabad Buy/Sell Report - 2026-11-03 18:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Looking to buy a used ps5 slim within a week](https://reddit.com/r/BangaloreMarketplace/comments/1xmyqw2/looking_to_buy_a_used_ps5_slim_within_a_week/) — Price not found (score 70)
+- [Buying ps4 pro,](https://reddit.com/r/bangloremarketplace/comments/1xmx45b/buying_ps4_pro/) — Rs.20,000 (score 65)
 
 
 ## Desktop PCs
