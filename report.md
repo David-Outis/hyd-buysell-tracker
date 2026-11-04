@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 18 pro 256gb duel esim varinent 🇺🇸](https://reddit.com/r/HyderabadUsedItems/comments/1xnkn9j/iphone_18_pro_256gb_duel_esim_varinent/) — Price not found (score 75)
 
 
 ## Laptops
