@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 17:33 UTC
 
 ## Mobiles
 
-- [iPhone SE(2020) black 128gb for sale in Bangalore](https://reddit.com/r/bangloremarketplace/comments/1xnlaxi/iphone_se2020_black_128gb_for_sale_in_bangalore/) — Price not found (score 60)
+- [Want to sell urgently Samsung A73 5g 256gb](https://reddit.com/r/BangaloreMarketplace/comments/1xntw7b/want_to_sell_urgently_samsung_a73_5g_256gb/) — Rs.6,500 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Brand New & Unused Sony PS5 Slim Disc Edition 1TB – ₹60,500 – Bengaluru (F2F Only)](https://reddit.com/r/BangaloreMarketplace/comments/1xnu3a9/wts_brand_new_unused_sony_ps5_slim_disc_edition/) — Rs.60,500 (score 115)
 
 
 ## Desktop PCs
