@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 14:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 15 PM 256GB Silver for sale near Whitefield](https://reddit.com/r/BangaloreMarketplace/comments/1xnpghp/iphone_15_pm_256gb_silver_for_sale_near_whitefield/) — Rs.5,000 (score 90)
 
 
 ## Laptops
 
-- [Gaming Laptop – RTX 5060 8GB | Intel Core 7 240H | 16GB DDR5 | ₹1,67,000](https://reddit.com/r/BangaloreMarketplace/comments/1xnob24/wts_gaming_laptop_rtx_5060_8gb_intel_core_7_240h/) — Rs.167,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
