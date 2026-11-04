@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-03 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 01:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Buying ps4 pro,](https://reddit.com/r/bangloremarketplace/comments/1xmx45b/buying_ps4_pro/) — Rs.20,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
