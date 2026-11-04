@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Ps5 gta 6 rental bangalore weekly or daily](https://reddit.com/r/BangaloreMarketplace/comments/1xnilzj/ps5_gta_6_rental_bangalore_weekly_or_daily/) — Price not found (score 55)
+- [PS5 DualSense Controller – White-4k](https://reddit.com/r/ChennaiBuyAndSell/comments/1xnitst/wts_ps5_dualsense_controller_white4k/) — Rs.4,000 (score 100)
 
 
 ## Desktop PCs
