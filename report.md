@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 17:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone SE(2020) black 128gb for sale in Bangalore](https://reddit.com/r/bangloremarketplace/comments/1xnlaxi/iphone_se2020_black_128gb_for_sale_in_bangalore/) — Price not found (score 60)
 
 
 ## Laptops
 
-- [Dell G15 laptop, parallel bars and mixer grinder](https://reddit.com/r/BangaloreMarketplace/comments/1xnsdq3/selling_dell_g15_laptop_parallel_bars_and_mixer/) — Rs.30,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
