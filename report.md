@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 18:03 UTC
 
 ## Mobiles
 
-- [Want to sell urgently Samsung A73 5g 256gb](https://reddit.com/r/BangaloreMarketplace/comments/1xntw7b/want_to_sell_urgently_samsung_a73_5g_256gb/) — Rs.6,500 (score 70)
+- [Vivo S2 FE 24 days Old](https://reddit.com/r/HyderabadUsedItems/comments/1xnumy6/vivo_s2_fe_24_days_old/) — Rs.42,000 (score 100)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Brand New & Unused Sony PS5 Slim Disc Edition 1TB – ₹60,500 – Bengaluru (F2F Only)](https://reddit.com/r/BangaloreMarketplace/comments/1xnu3a9/wts_brand_new_unused_sony_ps5_slim_disc_edition/) — Rs.60,500 (score 115)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
