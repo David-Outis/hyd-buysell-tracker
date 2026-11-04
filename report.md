@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 05:33 UTC
 
 ## Mobiles
 
-- [iphone 17 Pro cosmic orange mint condition 256gb under warranty BH-95% US variant ASK price : 1,10,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xnf6fc/wts_iphone_17_pro_cosmic_orange_mint_condition/) — Rs.110,000 (score 85)
+- [Samsung Essential Monitor S3 60.96 cm (24 inch) Full HD LED](https://reddit.com/r/HyderabadUsedItems/comments/1xnfw0w/samsung_essential_monitor_s3_6096_cm_24_inch_full/) — Price not found (score 75)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [[PS5] Call of Duty: Modern Warfare 4 (Pre-owned Disc) - Bangalore sell](https://reddit.com/r/BangaloreMarketplace/comments/1xnfqhz/ps5_call_of_duty_modern_warfare_4_preowned_disc/) — Price not found (score 55)
 
 
 ## Desktop PCs
