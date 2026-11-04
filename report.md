@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 14:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Gaming Laptop – RTX 5060 8GB | Intel Core 7 240H | 16GB DDR5 | ₹1,67,000](https://reddit.com/r/BangaloreMarketplace/comments/1xnob24/wts_gaming_laptop_rtx_5060_8gb_intel_core_7_240h/) — Rs.167,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
