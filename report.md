@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 04:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 256GB – Sage Green | 100% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1xne0vg/selling_iphone_17_256gb_sage_green_100_battery/) — Rs.2,000 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps5 1tb disc for sale with 2 controllers 55k price.](https://reddit.com/r/HyderabadBuySell/comments/1xndbmj/ps5_1tb_disc_for_sale_with_2_controllers_55k_price/) — Rs.55,000 (score 85)
+- [Ominusha PS5 Disk with Steelbook.](https://reddit.com/r/ChennaiBuyAndSell/comments/1xnexwb/ominusha_ps5_disk_with_steelbook/) — Price not found (score 70)
 
 
 ## Desktop PCs
