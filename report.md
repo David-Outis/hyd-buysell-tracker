@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 06:03 UTC
 
 ## Mobiles
 
-- [Samsung Essential Monitor S3 60.96 cm (24 inch) Full HD LED](https://reddit.com/r/HyderabadUsedItems/comments/1xnfw0w/samsung_essential_monitor_s3_6096_cm_24_inch_full/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Air M5 | 16GB RAM 512GB SSD | Chennai | ₹1,13,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xngc1x/wts_macbook_air_m5_16gb_ram_512gb_ssd_chennai/) — Rs.113,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [[PS5] Call of Duty: Modern Warfare 4 (Pre-owned Disc) - Bangalore sell](https://reddit.com/r/BangaloreMarketplace/comments/1xnfqhz/ps5_call_of_duty_modern_warfare_4_preowned_disc/) — Price not found (score 55)
+- [sealed Sony PS5 Slim Official Console Covers – Wolverine Yellow | ₹6,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xng6h9/wts_sealed_sony_ps5_slim_official_console_covers/) — Rs.6,000 (score 100)
 
 
 ## Desktop PCs
