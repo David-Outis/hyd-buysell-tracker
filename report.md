@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 04:03 UTC
 
 ## Mobiles
 
-- [Pixel 9 Porcelain (90% battery Health) 12/256GB](https://reddit.com/r/BangaloreMarketplace/comments/1xndjw6/pixel_9_porcelain_90_battery_health_12256gb/) — Rs.45,000 (score 85)
-- [Iphone 17, just 3months old and with 100%bh](https://reddit.com/r/BangaloreMarketplace/comments/1xndelp/selling_iphone_17_just_3months_old_and_with_100bh/) — Rs.80,000 (score 85)
+- [iPhone 17 256GB – Sage Green | 100% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1xne0vg/selling_iphone_17_256gb_sage_green_100_battery/) — Rs.2,000 (score 120)
 
 
 ## Laptops
