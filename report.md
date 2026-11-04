@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 03:33 UTC
 
 ## Mobiles
 
-- [[Mint Condition] Apple iPhone 17 Pro – 256GB (Silver) | Barely 3 Weeks Old!](https://reddit.com/r/BangaloreMarketplace/comments/1xnd7ym/mint_condition_apple_iphone_17_pro_256gb_silver/) — Rs.120,000 (score 100)
+- [Pixel 9 Porcelain (90% battery Health) 12/256GB](https://reddit.com/r/BangaloreMarketplace/comments/1xndjw6/pixel_9_porcelain_90_battery_health_12256gb/) — Rs.45,000 (score 85)
+- [Iphone 17, just 3months old and with 100%bh](https://reddit.com/r/BangaloreMarketplace/comments/1xndelp/selling_iphone_17_just_3months_old_and_with_100bh/) — Rs.80,000 (score 85)
 
 
 ## Laptops
