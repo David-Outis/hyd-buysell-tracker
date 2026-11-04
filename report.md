@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 15:03 UTC
 
 ## Mobiles
 
-- [iPhone 15 PM 256GB Silver for sale near Whitefield](https://reddit.com/r/BangaloreMarketplace/comments/1xnpghp/iphone_15_pm_256gb_silver_for_sale_near_whitefield/) — Rs.5,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
