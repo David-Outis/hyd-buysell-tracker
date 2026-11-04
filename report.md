@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-04 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-04 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [] iPhone SE 2020 – 100% Battery Health – Excellent Condition – Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xnj6bh/wts_iphone_se_2020_100_battery_health_excellent/) — Rs.15,000 (score 120)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 DualSense Controller – White-4k](https://reddit.com/r/ChennaiBuyAndSell/comments/1xnitst/wts_ps5_dualsense_controller_white4k/) — Rs.4,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
