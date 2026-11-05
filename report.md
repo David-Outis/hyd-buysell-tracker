@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 06:33 UTC
 
 ## Mobiles
 
-- [OnePlus Buds 4 - Mint Condition (Used only for 20 days)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xob1fn/oneplus_buds_4_mint_condition_used_only_for_20/) — Rs.5,000 (score 85)
+- [Samsung S25 Ultra](https://reddit.com/r/HyderabadBuySell/comments/1xo7rxj/samsung_s25_ultra/) — Rs.86,000 (score 70)
 
 
 ## Laptops
