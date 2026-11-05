@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 12:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Would like to know a fair price for tuf A15 3050 laptop.](https://reddit.com/r/BangaloreMarketplace/comments/1xogs6x/would_like_to_know_a_fair_price_for_tuf_a15_3050/) — Rs.65,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
