@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Guys can i buy iphone from a local retailer in Hyderabad in 30k budget](https://reddit.com/r/HyderabadUsedItems/comments/1xo7fgz/guys_can_i_buy_iphone_from_a_local_retailer_in/) — Rs.30,000 (score 90)
 
 
 ## Laptops
