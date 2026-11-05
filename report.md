@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 14:03 UTC
 
 ## Mobiles
 
-- [ONEPLUS 15 (16GB/512GB) 70K fixed price. URGENT SALE MAHADEVAPURA PICKUP](https://reddit.com/r/BangaloreMarketplace/comments/1xoiqw2/oneplus_15_16gb512gb_70k_fixed_price_urgent_sale/) — Rs.70,000 (score 85)
-- [these slightly negotiable 👍🤝 Samsung apple Logitech](https://reddit.com/r/BangaloreMarketplace/comments/1xoile5/selling_these_slightly_negotiable_samsung_apple/) — Rs.7,999 (score 85)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Safari Trolley bag with a locker and Laptop pouch](https://reddit.com/r/BangaloreMarketplace/comments/1xoj80y/selling_safari_trolley_bag_with_a_locker_and/) — Rs.2,500 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
