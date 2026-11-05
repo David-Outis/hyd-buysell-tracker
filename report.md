@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [ONEPLUS 15 (16GB/512GB) 70K fixed price. URGENT SALE MAHADEVAPURA PICKUP](https://reddit.com/r/BangaloreMarketplace/comments/1xoiqw2/oneplus_15_16gb512gb_70k_fixed_price_urgent_sale/) — Rs.70,000 (score 85)
+- [these slightly negotiable 👍🤝 Samsung apple Logitech](https://reddit.com/r/BangaloreMarketplace/comments/1xoile5/selling_these_slightly_negotiable_samsung_apple/) — Rs.7,999 (score 85)
 
 
 ## Laptops
