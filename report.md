@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 04:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Any PC building shops in Chennai with prices lower than online?](https://reddit.com/r/ChennaiBuyAndSell/comments/1xo8v2q/any_pc_building_shops_in_chennai_with_prices/) — Price not found (score 60)
+- [Book/Shoe Cabinet , Brown Colour, Engineered wood.](https://reddit.com/r/BangaloreMarketplace/comments/1xo9j7v/bookshoe_cabinet_brown_colour_engineered_wood/) — Rs.3,000 (score 90)
