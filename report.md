@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 15:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [ps4 pro 1tb excellent condition](https://reddit.com/r/HyderabadUsedItems/comments/1xol782/wts_ps4_pro_1tb_excellent_condition/) — Rs.27,000 (score 100)
 
 
 ## Desktop PCs
