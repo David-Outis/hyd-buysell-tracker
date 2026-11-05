@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 07:03 UTC
 
 ## Mobiles
 
-- [Samsung S25 Ultra](https://reddit.com/r/HyderabadBuySell/comments/1xo7rxj/samsung_s25_ultra/) — Rs.86,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PLAYSTATION DISCS](https://reddit.com/r/HyderabadBuySell/comments/1xoboyz/wts_playstation_discs/) — Rs.4,500 (score 85)
 
 
 ## Desktop PCs
