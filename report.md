@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 12:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Would like to know a fair price for tuf A15 3050 laptop.](https://reddit.com/r/BangaloreMarketplace/comments/1xogs6x/would_like_to_know_a_fair_price_for_tuf_a15_3050/) — Rs.65,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Wwe 2k23 ps5 physical disc selling](https://reddit.com/r/ChennaiBuyAndSell/comments/1xofxet/wwe_2k23_ps5_physical_disc_selling/) — Rs.1,600 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-- [PC Components, Gaming Hardware, Monitors & Mac minis – Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xogdf5/pc_components_gaming_hardware_monitors_mac_minis/) — Rs.59,845 (score 90)
+_No new desktop PC listings found in this run._
