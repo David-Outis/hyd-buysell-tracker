@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 11:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC – Ryzen 7 9700X | RTX 5060 Ti 16GB | 32GB DDR5 6000MHz | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xof432/wts_gaming_pc_ryzen_7_9700x_rtx_5060_ti_16gb_32gb/) — Rs.159,999 (score 120)
+_No new desktop PC listings found in this run._
