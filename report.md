@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus Buds 4 - Mint Condition (Used only for 20 days)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xob1fn/oneplus_buds_4_mint_condition_used_only_for_20/) — Rs.5,000 (score 85)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PlayStation Portal – ₹13,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xoa5yx/wts_playstation_portal_13000/) — Rs.13,000 (score 100)
-- [[Bangalore] 007 First Light (PS5) PreOwned– Mint – ₹4200](https://reddit.com/r/BangaloreMarketplace/comments/1xoabpa/wts_bangalore_007_first_light_ps5_preowned_mint/) — Rs.4,200 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
