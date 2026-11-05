@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 05:33 UTC
 
 ## Mobiles
 
@@ -17,8 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Need PS5 with firmware version less than 13.6](https://reddit.com/r/BangaloreMarketplace/comments/1xoa2zp/need_ps5_with_firmware_version_less_than_136/) — Price not found (score 55)
-- [Sony PS5 Slim Disc, min condition March 2025 bought.](https://reddit.com/r/BangaloreMarketplace/comments/1xo9rga/sony_ps5_slim_disc_min_condition_march_2025_bought/) — Rs.57,000 (score 85)
+- [PlayStation Portal – ₹13,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xoa5yx/wts_playstation_portal_13000/) — Rs.13,000 (score 100)
+- [[Bangalore] 007 First Light (PS5) PreOwned– Mint – ₹4200](https://reddit.com/r/BangaloreMarketplace/comments/1xoabpa/wts_bangalore_007_first_light_ps5_preowned_mint/) — Rs.4,200 (score 100)
 
 
 ## Desktop PCs
