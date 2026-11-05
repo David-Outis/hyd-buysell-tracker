@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-05 16:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [these Samsung Apple Logitech gadgets](https://reddit.com/r/HyderabadBuySell/comments/1xoioc9/selling_these_samsung_apple_logitech_gadgets/) — Rs.7,999 (score 105)
+- [iphone 18 pro, Fixed price 1,35,000](https://reddit.com/r/HyderabadBuySell/comments/1xof638/wts_iphone_18_pro_fixed_price_135000/) — Price not found (score 55)
 
 
 ## Laptops
@@ -17,9 +18,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ps4 pro 1tb excellent condition](https://reddit.com/r/HyderabadUsedItems/comments/1xol782/wts_ps4_pro_1tb_excellent_condition/) — Rs.27,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [PC components - Mobo, CPU, PSU and cabinets.](https://reddit.com/r/HyderabadBuySell/comments/1xof1ed/selling_pc_components_mobo_cpu_psu_and_cabinets/) — Rs.14,000 (score 90)
