@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-06 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 07:03 UTC
 
 ## Mobiles
 
-- [only 2 weeks used poco x8 pro max 12/512gb with bill box](https://reddit.com/r/BangaloreMarketplace/comments/1xp5rd7/selling_only_2_weeks_used_poco_x8_pro_max_12512gb/) — Rs.67,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
