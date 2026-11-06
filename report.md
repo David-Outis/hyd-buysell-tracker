@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-06 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 09:03 UTC
 
 ## Mobiles
 
-- [Looking to purchase a mobile phone under 15k ( please contact me even if mobiles's display changed , I'm waiting to buy](https://reddit.com/r/HyderabadUsedItems/comments/1xp7mmq/looking_to_purchase_a_mobile_phone_under_15k/) — Rs.15,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Dell Inspiron Laptop - 2023 Model](https://reddit.com/r/BangaloreMarketplace/comments/1xp7mjn/selling_dell_inspiron_laptop_2023_model/) — Rs.40,000 (score 85)
+- [[Laptop] [ASUS] ROG Strix SCAR 15 G533ZX | i9 12th Gen, RTX 3080 Ti 16GB, 32GB RAM, 1TB SSD | Hyderabad | ₹1,29,000](https://reddit.com/r/HyderabadBuySell/comments/1xp7p8g/laptop_asus_rog_strix_scar_15_g533zx_i9_12th_gen/) — Rs.129,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
