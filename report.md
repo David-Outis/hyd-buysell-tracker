@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-06 03:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 04:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Realme C11 (4GB RAM / 64GB Storage) – Motherboard Issue – Kotturpuram, Chennai](https://reddit.com/r/ChennaiBuyAndSell/comments/1xp37ip/for_sale_realme_c11_4gb_ram_64gb_storage/) — Rs.2,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [These PS5/PS4 Discs from Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xp36qd/selling_these_ps5ps4_discs_from_bangalore/) — Price not found (score 55)
 
 
 ## Desktop PCs
