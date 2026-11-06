@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-06 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 16:03 UTC
 
 ## Mobiles
 
-- [Want to sell 2022 model iphone 128GB for 30500/-, good condition, no damages](https://reddit.com/r/BangaloreMarketplace/comments/1xpfdwb/want_to_sell_2022_model_iphone_128gb_for_30500/) — Rs.30,500 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Marvel's Wolverine PS5 (Physical Disc) | Played & finished once | ₹2,500 | Kudlu Gate, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xpfnnn/wts_marvels_wolverine_ps5_physical_disc_played/) — Rs.2,500 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
