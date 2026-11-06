@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-06 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 14:03 UTC
 
 ## Mobiles
 
-- [Realistically how much can I expect for my IPhone 11?](https://reddit.com/r/BangaloreMarketplace/comments/1xpcp6l/realistically_how_much_can_i_expect_for_my_iphone/) — Rs.10,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [[Please help🥹] Suggest repair centres in bangalore for my A3403 (Macbook M4 pro 16”) motherboard water damage](https://reddit.com/r/BangaloreMarketplace/comments/1xpd1ku/please_help_suggest_repair_centres_in_bangalore/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
