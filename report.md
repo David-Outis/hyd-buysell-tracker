@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-06 17:04 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 17:33 UTC
 
 ## Mobiles
 
-- [Oneplus 15R - 12/256 GB, 4-5 Month rarely ued, more than 6 months under warraty. (Like new condition)](https://reddit.com/r/HyderabadUsedItems/comments/1xph7xr/oneplus_15r_12256_gb_45_month_rarely_ued_more/) — Rs.53,000 (score 120)
+- [Samsung 16GB DDR4 2666MHz SO-DIMM Laptop RAM | 2Rx8](https://reddit.com/r/BangaloreMarketplace/comments/1xpit3h/wts_samsung_16gb_ddr4_2666mhz_sodimm_laptop_ram/) — Rs.6,200 (score 90)
+- [wanna sell iphone13 128GB in good condition in BLR](https://reddit.com/r/BangaloreMarketplace/comments/1xpi6dq/wanna_sell_iphone13_128gb_in_good_condition_in_blr/) — Price not found (score 60)
 
 
 ## Laptops
