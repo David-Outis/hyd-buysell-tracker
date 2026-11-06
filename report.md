@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-06 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 07:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 12 64gb](https://reddit.com/r/HyderabadUsedItems/comments/1xp6qlz/iphone_12_64gb/) — Rs.18,000 (score 70)
 
 
 ## Laptops
