@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-06 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 10:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Gaming PC Tower | 4-5 Yrs old | No defects](https://reddit.com/r/BangaloreMarketplace/comments/1xp8b15/selling_gaming_pc_tower_45_yrs_old_no_defects/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
