@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-05 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-06 01:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Apple iPhone 16 Pro, 128GB, 1.5 Years used](https://reddit.com/r/ChennaiBuyAndSell/comments/1xoypj1/wts_apple_iphone_16_pro_128gb_15_years_used/) — Rs.2,000 (score 120)
 
 
 ## Laptops
