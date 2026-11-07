@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone X 64GB](https://reddit.com/r/HyderabadUsedItems/comments/1xqc85i/wts_iphone_x_64gb/) — Rs.8,500 (score 90)
 
 
 ## Laptops
