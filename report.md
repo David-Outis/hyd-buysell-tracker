@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 10:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S21 FE 5G (256GB, Exynos 2100) – HSR](https://reddit.com/r/BangaloreMarketplace/comments/1xq2r9l/samsung_galaxy_s21_fe_5g_256gb_exynos_2100_hsr/) — Rs.17,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Camping bagpack, laptop bags and covers and more](https://reddit.com/r/BangaloreMarketplace/comments/1xq3a90/selling_camping_bagpack_laptop_bags_and_covers/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
