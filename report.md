@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 15:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Buds FE(JUST BUDS) please help me out](https://reddit.com/r/BangaloreMarketplace/comments/1xq8enn/samsung_galaxy_buds_fejust_buds_please_help_me_out/) — Price not found (score 55)
+- [iPhone 17 Black 256gb](https://reddit.com/r/ChennaiBuyAndSell/comments/1xq92ks/iphone_17_black_256gb/) — Rs.66,000 (score 85)
 
 
 ## Laptops
@@ -22,4 +22,5 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Complete Desktop PC Setup – Ryzen 5 5600G + RX 580 8GB |](https://reddit.com/r/BangaloreMarketplace/comments/1xq7w5v/complete_desktop_pc_setup_ryzen_5_5600g_rx_580_8gb/) — Rs.35,000 (score 100)
+- [My Gaming PC ( Still in Warranty ) Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1xq8rj5/selling_my_gaming_pc_still_in_warranty_hyderabad/) — Rs.60,000 (score 120)
+- [Two gaming cpu’s in one price](https://reddit.com/r/HyderabadUsedItems/comments/1xq8g66/two_gaming_cpus_in_one_price/) — Rs.40,000 (score 105)
