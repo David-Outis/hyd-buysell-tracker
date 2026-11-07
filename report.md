@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [How much would you offer for a brand-new iPhone 17 Pro Max 256GB Silver?](https://reddit.com/r/BangaloreMarketplace/comments/1xpzjhb/how_much_would_you_offer_for_a_brandnew_iphone_17/) — Price not found (score 60)
 
 
 ## Laptops
