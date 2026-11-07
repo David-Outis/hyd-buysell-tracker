@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 15:03 UTC
 
 ## Mobiles
 
-- [Searching for an iPhone and the budget is around 25k](https://reddit.com/r/BangaloreMarketplace/comments/1xq7dvp/searching_for_an_iphone_and_the_budget_is_around/) — Rs.25,000 (score 70)
+- [Samsung Galaxy Buds FE(JUST BUDS) please help me out](https://reddit.com/r/BangaloreMarketplace/comments/1xq8enn/samsung_galaxy_buds_fejust_buds_please_help_me_out/) — Price not found (score 55)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Complete Desktop PC Setup – Ryzen 5 5600G + RX 580 8GB |](https://reddit.com/r/BangaloreMarketplace/comments/1xq7w5v/complete_desktop_pc_setup_ryzen_5_5600g_rx_580_8gb/) — Rs.35,000 (score 100)
