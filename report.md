@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 05:33 UTC
 
 ## Mobiles
 
-- [my Pixel 8 Pro in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1xpxm20/selling_my_pixel_8_pro_in_excellent_condition/) — Rs.97,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [16GB DDR4 3200mhz Laptop ram , 2 sticks available](https://reddit.com/r/BangaloreMarketplace/comments/1xpycql/selling_16gb_ddr4_3200mhz_laptop_ram_2_sticks/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
