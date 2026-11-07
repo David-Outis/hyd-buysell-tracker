@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 08:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [macbook air M3 16gb ram / 512 gb ssd](https://reddit.com/r/BangaloreMarketplace/comments/1xq0r2h/selling_macbook_air_m3_16gb_ram_512_gb_ssd/) — Rs.80,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Sealed PS5 disc edition + Wolverine disc sealed](https://reddit.com/r/ChennaiBuyAndSell/comments/1xq08b1/wts_sealed_ps5_disc_edition_wolverine_disc_sealed/) — Rs.66,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
