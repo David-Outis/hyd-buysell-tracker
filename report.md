@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 09:03 UTC
 
 ## Mobiles
 
-- [Samsung tab s10ultra 5g no spen 75k](https://reddit.com/r/HyderabadUsedItems/comments/1xq1ej9/samsung_tab_s10ultra_5g_no_spen_75k/) — Rs.75,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 DualSense Controller](https://reddit.com/r/ChennaiBuyAndSell/comments/1xq1w66/wts_ps5_dualsense_controller_for_sale/) — Price not found (score 50)
 
 
 ## Desktop PCs
