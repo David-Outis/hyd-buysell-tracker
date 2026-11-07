@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy S21 FE 5G (256GB, Exynos 2100) – HSR](https://reddit.com/r/BangaloreMarketplace/comments/1xq2r9l/samsung_galaxy_s21_fe_5g_256gb_exynos_2100_hsr/) — Rs.17,000 (score 70)
 
 
 ## Laptops
 
-- [MacBook Pro 14" M3 Pro (AppleCare+) - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xq21wk/macbook_pro_14_m3_pro_applecare_bangalore/) — Rs.149,999 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
