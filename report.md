@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 12:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Original PS3 & Xbox 360 Game Discs – Individual Sales / Lot Deals](https://reddit.com/r/ChennaiBuyAndSell/comments/1xq45xz/wts_original_ps3_xbox_360_game_discs_individual/) — Price not found (score 55)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Premium pc for sale, 2025 build barely used ( urgent )](https://reddit.com/r/BangaloreMarketplace/comments/1xq4ay4/premium_pc_for_sale_2025_build_barely_used_urgent/) — Price not found (score 55)
