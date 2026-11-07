@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 08:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung tab s10ultra 5g no spen 75k](https://reddit.com/r/HyderabadUsedItems/comments/1xq1ej9/samsung_tab_s10ultra_5g_no_spen_75k/) — Rs.75,000 (score 70)
 
 
 ## Laptops
 
-- [macbook air M3 16gb ram / 512 gb ssd](https://reddit.com/r/BangaloreMarketplace/comments/1xq0r2h/selling_macbook_air_m3_16gb_ram_512_gb_ssd/) — Rs.80,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
