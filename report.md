@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 13:33 UTC
 
 ## Mobiles
 
-- [Google Store Credits on (Pixel 11 series)](https://reddit.com/r/BangaloreMarketplace/comments/1xq5qap/google_store_credits_on_pixel_11_series/) — Rs.20,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
