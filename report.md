@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 12:33 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 9.00 jailbreak with 20-25 games 1 TB](https://reddit.com/r/BangaloreMarketplace/comments/1xq54wg/ps4_900_jailbreak_with_2025_games_1_tb/) — Rs.25,000 (score 65)
 
 
 ## Desktop PCs
 
-- [Premium pc for sale, 2025 build barely used ( urgent )](https://reddit.com/r/BangaloreMarketplace/comments/1xq4ay4/premium_pc_for_sale_2025_build_barely_used_urgent/) — Price not found (score 55)
+_No new desktop PC listings found in this run._
