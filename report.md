@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 14:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Searching for an iPhone and the budget is around 25k](https://reddit.com/r/BangaloreMarketplace/comments/1xq7dvp/searching_for_an_iphone_and_the_budget_is_around/) — Rs.25,000 (score 70)
 
 
 ## Laptops
