@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 06:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [16GB DDR4 3200mhz Laptop ram , 2 sticks available](https://reddit.com/r/BangaloreMarketplace/comments/1xpycql/selling_16gb_ddr4_3200mhz_laptop_ram_2_sticks/) — Price not found (score 60)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
