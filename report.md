@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 03:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 03:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [2 CPU](https://reddit.com/r/ChennaiBuyAndSell/comments/1xpwas8/selling_2_cpu/) — Rs.11,000 (score 85)
