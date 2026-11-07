@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Google Store Credits on (Pixel 11 series)](https://reddit.com/r/BangaloreMarketplace/comments/1xq5qap/google_store_credits_on_pixel_11_series/) — Rs.20,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 9.00 jailbreak with 20-25 games 1 TB](https://reddit.com/r/BangaloreMarketplace/comments/1xq54wg/ps4_900_jailbreak_with_2025_games_1_tb/) — Rs.25,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
