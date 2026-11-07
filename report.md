@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 07:03 UTC
 
 ## Mobiles
 
-- [How much would you offer for a brand-new iPhone 17 Pro Max 256GB Silver?](https://reddit.com/r/BangaloreMarketplace/comments/1xpzjhb/how_much_would_you_offer_for_a_brandnew_iphone_17/) — Price not found (score 60)
+- [Samsung Evo 970 Plus SSD 1TB hardly used (20hours)](https://reddit.com/r/BangaloreMarketplace/comments/1xpzrty/selling_samsung_evo_970_plus_ssd_1tb_hardly_used/) — Rs.15,000 (score 105)
 
 
 ## Laptops
