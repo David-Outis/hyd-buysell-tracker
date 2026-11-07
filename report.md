@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 11:33 UTC
 
 ## Mobiles
 
-- [For Sale : Iphone 14 plus 128gb Purple 85% battery in Good condition__ Not even a single scratch or dent](https://reddit.com/r/BangaloreMarketplace/comments/1xq3nik/for_sale_iphone_14_plus_128gb_purple_85_battery/) — Rs.33,500 (score 120)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Nintendo Switch The Legebd of Zelda Breath of the Wild for 4k near Tin Factory](https://reddit.com/r/BangaloreMarketplace/comments/1xq3out/selling_nintendo_switch_the_legebd_of_zelda/) — Rs.4,000 (score 85)
+- [Original PS3 & Xbox 360 Game Discs – Individual Sales / Lot Deals](https://reddit.com/r/ChennaiBuyAndSell/comments/1xq45xz/wts_original_ps3_xbox_360_game_discs_individual/) — Price not found (score 55)
 
 
 ## Desktop PCs
