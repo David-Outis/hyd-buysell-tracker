@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-07 07:33 UTC
 
 ## Mobiles
 
-- [Samsung Evo 970 Plus SSD 1TB hardly used (20hours)](https://reddit.com/r/BangaloreMarketplace/comments/1xpzrty/selling_samsung_evo_970_plus_ssd_1tb_hardly_used/) — Rs.15,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sealed PS5 disc edition + Wolverine disc sealed](https://reddit.com/r/ChennaiBuyAndSell/comments/1xq08b1/wts_sealed_ps5_disc_edition_wolverine_disc_sealed/) — Rs.66,000 (score 100)
 
 
 ## Desktop PCs
