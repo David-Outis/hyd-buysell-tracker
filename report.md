@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 15:33 UTC
 
 ## Mobiles
 
-- [iPhone X 64GB](https://reddit.com/r/HyderabadUsedItems/comments/1xqzwat/wts_iphone_x_64gb/) — Rs.7,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [NEED PS4 SLIM](https://reddit.com/r/HyderabadUsedItems/comments/1xr0w07/need_ps4_slim/) — Rs.18,000 (score 65)
 
 
 ## Desktop PCs
