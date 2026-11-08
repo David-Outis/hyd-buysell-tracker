@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 13:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Like new POCO F1 256GB 8GB for 6000 + new battery + new back panel](https://reddit.com/r/HyderabadUsedItems/comments/1xqy9q6/like_new_poco_f1_256gb_8gb_for_6000_new_battery/) — Rs.6,000 (score 120)
 
 
 ## Laptops
 
-- [Laptop][Dell] Latitude 3320| i5 11th gen| 16gb RAM| 512gb NVMe| 13.3inch FHD| ₹30000/-| Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xqxlm9/laptopdell_latitude_3320_i5_11th_gen_16gb_ram/) — Rs.30,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
