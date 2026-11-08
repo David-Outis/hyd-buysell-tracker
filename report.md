@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 06:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 (256GB) | Teal Colour -1 Year Old](https://reddit.com/r/BangaloreMarketplace/comments/1xqr7i7/selling_iphone_16_256gb_teal_colour_1_year_old/) — Rs.5,000 (score 105)
 
 
 ## Laptops
