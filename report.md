@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 05:33 UTC
 
 ## Mobiles
 
@@ -7,8 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Anyone from Hyderabad help me getting a better deal on MacBook Air M5 (16GB RAM, 512GB SSD)](https://reddit.com/r/HyderabadBuySell/comments/1xqoao1/anyone_from_hyderabad_help_me_getting_a_better/) — Rs.149,900 (score 90)
-- [DDR3 RAM from old laptops (two 4GB and one 8GB)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xqq3fp/ddr3_ram_from_old_laptops_two_4gb_and_one_8gb/) — Rs.800 (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
