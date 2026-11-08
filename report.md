@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 04:33 UTC
 
 ## Mobiles
 
@@ -22,5 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [some pc components](https://reddit.com/r/ChennaiBuyAndSell/comments/1xqp5xk/selling_some_pc_components/) — Rs.30,000 (score 85)
-- [Want to sell some pc components please DM your offers](https://reddit.com/r/BangaloreMarketplace/comments/1xqp6i8/want_to_sell_some_pc_components_please_dm_your/) — Rs.30,000 (score 85)
+- [Anybody selling PC with original bill amount before the hike. I have low budget. Can I pay upto 70 to 85K for the PC.](https://reddit.com/r/ChennaiBuyAndSell/comments/1xqpoj7/anybody_selling_pc_with_original_bill_amount/) — Rs.70,000 (score 70)
