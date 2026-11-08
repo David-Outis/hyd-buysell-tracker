@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-07 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 01:33 UTC
 
 ## Mobiles
 
-- [iPhone X 64GB](https://reddit.com/r/HyderabadUsedItems/comments/1xqc85i/wts_iphone_x_64gb/) — Rs.8,500 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [NEW ASUS ROG Strix X870E-E Gaming WiFi Motherboard – ₹50,000](https://reddit.com/r/BangaloreMarketplace/comments/1xqmhk2/sale_new_asus_rog_strix_x870ee_gaming_wifi/) — Rs.50,000 (score 120)
