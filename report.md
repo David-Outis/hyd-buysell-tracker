@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 16:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [NEED PS4 SLIM](https://reddit.com/r/HyderabadUsedItems/comments/1xr0w07/need_ps4_slim/) — Rs.18,000 (score 65)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
