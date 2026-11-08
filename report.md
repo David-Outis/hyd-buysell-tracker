@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 07:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 Pro Max(Japan E-sim only, 256GB)](https://reddit.com/r/BangaloreMarketplace/comments/1xqrxcr/iphone_17_pro_maxjapan_esim_only_256gb/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
