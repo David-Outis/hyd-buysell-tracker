@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 07:03 UTC
 
 ## Mobiles
 
-- [Looking to buy a Samsung S24ULTRA](https://reddit.com/r/HyderabadBuySell/comments/1xqrflj/looking_to_buy_a_samsung_s24ultra/) — Price not found (score 60)
+- [iPhone 17 Pro Max(Japan E-sim only, 256GB)](https://reddit.com/r/BangaloreMarketplace/comments/1xqrxcr/iphone_17_pro_maxjapan_esim_only_256gb/) — Price not found (score 75)
 
 
 ## Laptops
 
-- [Lenovo Legion 27" OLED 280Hz Monito, Gaming mouse Logitech G502 X Plus, Gaming keyboard LogitechG515 TKL, Gaming headphones Razer BlackShark V2 Pro, Wireless headphones JBL 770NC & Monitor Arms | Starting ₹400](https://reddit.com/r/BangaloreMarketplace/comments/1xqrirr/wts_lenovo_legion_27_oled_280hz_monito_gaming/) — Rs.40,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
