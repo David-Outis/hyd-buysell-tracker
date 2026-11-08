@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [an iPhone 17/18 Pro Max Nomad Traditional Horween Leather case for 9k - New](https://reddit.com/r/BangaloreMarketplace/comments/1xquvxd/selling_an_iphone_1718_pro_max_nomad_traditional/) — Rs.9,000 (score 70)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [High End Tiny Gaming PC with i9-11900KB and RX 9060 XT OC](https://reddit.com/r/BangaloreMarketplace/comments/1xquebl/high_end_tiny_gaming_pc_with_i911900kb_and_rx/) — Rs.75,000 (score 90)
+- [Pepperfy 5 drawer Kitchen cabinet | Engineered wood | ₹ 8000](https://reddit.com/r/BangaloreMarketplace/comments/1xquvdr/pepperfy_5_drawer_kitchen_cabinet_engineered_wood/) — Rs.8,000 (score 70)
