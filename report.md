@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 09:33 UTC
 
 ## Mobiles
 
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad mini a17 pro 128gb cellular but display is not working](https://reddit.com/r/HyderabadUsedItems/comments/1xqtv9l/ipad_mini_a17_pro_128gb_cellular_but_display_is/) — Rs.35,000 (score 90)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [High End Tiny Gaming PC with i9-11900KB and RX 9060 XT OC](https://reddit.com/r/BangaloreMarketplace/comments/1xquebl/high_end_tiny_gaming_pc_with_i911900kb_and_rx/) — Rs.75,000 (score 90)
