@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-08 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-08 02:03 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [NEW ASUS ROG Strix X870E-E Gaming WiFi Motherboard – ₹50,000](https://reddit.com/r/BangaloreMarketplace/comments/1xqmhk2/sale_new_asus_rog_strix_x870ee_gaming_wifi/) — Rs.50,000 (score 120)
+_No new desktop PC listings found in this run._
