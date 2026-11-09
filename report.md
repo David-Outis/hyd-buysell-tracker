@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 12:33 UTC
 
 ## Mobiles
 
-- [iPhone 17 - 256 GB - Under Warranty until June 2027](https://reddit.com/r/BangaloreMarketplace/comments/1xrpsba/selling_iphone_17_256_gb_under_warranty_until/) — Rs.80,000 (score 100)
+- [Im selling my iphone 14 plus 128gb with bill box](https://reddit.com/r/BangaloreMarketplace/comments/1xrpzwi/im_selling_my_iphone_14_plus_128gb_with_bill_box/) — Rs.35,000 (score 85)
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Xiaomi pad 8 - 1 week old (12,256gb)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xrpji0/xiaomi_pad_8_1_week_old_12256gb/) — Price not found (score 75)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Lenovo L24-4C| 24 Inch Ultraslim PC Monitor, IPS, FHD 1920x1080, 144Hz, 99% sRGB, 1ms, 2x3W Speakers, HDMI, Display Port, Audio Out Port, AMD FreeSync,Eyesafe, Bezel-Less, VESA Mount, Grey](https://reddit.com/r/BangaloreMarketplace/comments/1xrq6p5/lenovo_l244c_24_inch_ultraslim_pc_monitor_ips_fhd/) — Rs.11,000 (score 70)
