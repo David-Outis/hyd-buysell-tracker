@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 11:33 UTC
 
 ## Mobiles
 
-- [iPhone 16 128 94 battery health white color, in prime condition](https://reddit.com/r/ChennaiBuyAndSell/comments/1xrotag/iphone_16_128_94_battery_health_white_color_in/) — Rs.43,000 (score 70)
+- [iPhone XR, Nothing CMF Phone 1, Xbox One, and Chromecast](https://reddit.com/r/BangaloreMarketplace/comments/1xrp79s/selling_iphone_xr_nothing_cmf_phone_1_xbox_one/) — Rs.8,000 (score 90)
+- [IPHONE 17 sage green 8 months old battery at 96](https://reddit.com/r/BangaloreMarketplace/comments/1xrohjd/wts_iphone_17_sage_green_8_months_old_battery_at/) — Rs.72,000 (score 90)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [What would be a fair price for a used MacBook Air M1 (13-inch, 2020 model) with 8GB RAM?](https://reddit.com/r/BangaloreMarketplace/comments/1xrosaz/what_would_be_a_fair_price_for_a_used_macbook_air/) — Rs.45,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
