@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 05:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [[Price Check] iPhone 14 128GB Black – 83% Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1xrj130/price_check_iphone_14_128gb_black_83_battery/) — Price not found (score 90)
 
 
 ## Laptops
