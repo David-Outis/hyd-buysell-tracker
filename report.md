@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 03:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [OnePlus Nord 6 5G (8GB/256GB), 1 month old, barely used, with bill & full warranty](https://reddit.com/r/HyderabadUsedItems/comments/1xrgnkz/oneplus_nord_6_5g_8gb256gb_1_month_old_barely/) — Rs.45,000 (score 120)
 
 
 ## Laptops
