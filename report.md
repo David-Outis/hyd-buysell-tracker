@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 10:03 UTC
 
 ## Mobiles
 
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5 Slim Digital Edition – Firmware 14.22 – ₹49,000 (Chennai)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xrn0gs/ps5_slim_digital_edition_firmware_1422_49000/) — Rs.49,000 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [SK Hynix 4GB DDR4 2133MHz desktop RAM | Chennai, Tamil Nadu | ₹2,000](https://reddit.com/r/ChennaiBuyAndSell/comments/1xrnqfo/wts_sk_hynix_4gb_ddr4_2133mhz_desktop_ram_chennai/) — Rs.2,000 (score 120)
