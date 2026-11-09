@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 07:03 UTC
 
 ## Mobiles
 
-- [Oneplus Nord 2 128GB / 8GB (Mint Condition)](https://reddit.com/r/BangaloreMarketplace/comments/1xrkik1/oneplus_nord_2_128gb_8gb_mint_condition_for_sale/) — Rs.10,000 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Pro M4 Pro | 24GB RAM | 512GB SSD | 33 Battery Cycles |](https://reddit.com/r/BangaloreMarketplace/comments/1xrkn7e/macbook_pro_m4_pro_24gb_ram_512gb_ssd_33_battery/) — Rs.3,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [EvoFox Play 2 Controller (PS4/PS5) – ₹1,699 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xrkvc3/wts_evofox_play_2_controller_ps4ps5_1699_bangalore/) — Rs.1,699 (score 100)
 
 
 ## Desktop PCs
