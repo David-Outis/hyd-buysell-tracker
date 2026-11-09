@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 06:33 UTC
 
 ## Mobiles
 
-- [my Iphone 17, 256gb](https://reddit.com/r/ChennaiBuyAndSell/comments/1xrk025/selling_my_iphone_17_256gb/) — Rs.81,000 (score 120)
-- [Looking to buy an iPhone SE 2020 (2nd Gen)](https://reddit.com/r/BangaloreMarketplace/comments/1xrjxp7/looking_to_buy_an_iphone_se_2020_2nd_gen/) — Price not found (score 55)
+- [Oneplus Nord 2 128GB / 8GB (Mint Condition)](https://reddit.com/r/BangaloreMarketplace/comments/1xrkik1/oneplus_nord_2_128gb_8gb_mint_condition_for_sale/) — Rs.10,000 (score 100)
 
 
 ## Laptops
 
-- [Help a broke, unemployed engineering graduate with a laptop 🙏](https://reddit.com/r/BangaloreMarketplace/comments/1xrk0no/help_a_broke_unemployed_engineering_graduate_with/) — Rs.25,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
