@@ -1,19 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 12:03 UTC
 
 ## Mobiles
 
-- [iPhone XR, Nothing CMF Phone 1, Xbox One, and Chromecast](https://reddit.com/r/BangaloreMarketplace/comments/1xrp79s/selling_iphone_xr_nothing_cmf_phone_1_xbox_one/) — Rs.8,000 (score 90)
-- [IPHONE 17 sage green 8 months old battery at 96](https://reddit.com/r/BangaloreMarketplace/comments/1xrohjd/wts_iphone_17_sage_green_8_months_old_battery_at/) — Rs.72,000 (score 90)
+- [iPhone 17 - 256 GB - Under Warranty until June 2027](https://reddit.com/r/BangaloreMarketplace/comments/1xrpsba/selling_iphone_17_256_gb_under_warranty_until/) — Rs.80,000 (score 100)
 
 
 ## Laptops
 
-- [What would be a fair price for a used MacBook Air M1 (13-inch, 2020 model) with 8GB RAM?](https://reddit.com/r/BangaloreMarketplace/comments/1xrosaz/what_would_be_a_fair_price_for_a_used_macbook_air/) — Rs.45,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Xiaomi pad 8 - 1 week old (12,256gb)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xrpji0/xiaomi_pad_8_1_week_old_12256gb/) — Price not found (score 75)
 
 
 ## Game Consoles
