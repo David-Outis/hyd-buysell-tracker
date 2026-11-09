@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 18:03 UTC
 
 ## Mobiles
 
-- [Thinking of selling one month old iphone 17 if I get the right price.](https://reddit.com/r/HyderabadUsedItems/comments/1xrxtz1/thinking_of_selling_one_month_old_iphone_17_if_i/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Acer Nitro 5 Gaming Laptop + Keychron K8 Pro Mechanical Keyboard](https://reddit.com/r/BangaloreMarketplace/comments/1xryo3h/acer_nitro_5_gaming_laptop_keychron_k8_pro/) — Rs.60,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [my Nintendo Switch OLED.........](https://reddit.com/r/BangaloreMarketplace/comments/1xrxo0q/selling_my_nintendo_switch_oled/) — Rs.30,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
