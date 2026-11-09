@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 04:33 UTC
 
 ## Mobiles
 
-- [iPhone duo 256 gb non active](https://reddit.com/r/HyderabadUsedItems/comments/1xrhpm6/iphone_duo_256_gb_non_active/) — Rs.270,000 (score 90)
+_No new mobile listings found in this run._
 
 
 ## Laptops
