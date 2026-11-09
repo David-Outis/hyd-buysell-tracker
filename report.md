@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-09 07:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [MacBook Pro M4 Pro | 24GB RAM | 512GB SSD | 33 Battery Cycles |](https://reddit.com/r/BangaloreMarketplace/comments/1xrkn7e/macbook_pro_m4_pro_24gb_ram_512gb_ssd_33_battery/) — Rs.3,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [EvoFox Play 2 Controller (PS4/PS5) – ₹1,699 | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xrkvc3/wts_evofox_play_2_controller_ps4ps5_1699_bangalore/) — Rs.1,699 (score 100)
+- [Call of Duty Modern Warfare 4 PS5](https://reddit.com/r/HyderabadUsedItems/comments/1xrl5wg/call_of_duty_modern_warfare_4_ps5/) — Price not found (score 50)
+- [Looking to buy a used PS5. By budget is 50K](https://reddit.com/r/BangaloreMarketplace/comments/1xrlew0/looking_to_buy_a_used_ps5_by_budget_is_50k/) — Rs.50,000 (score 65)
+- [PS5 Slim Digital + Extra Controller | Software Version 13.60 (Jailbreak Able)](https://reddit.com/r/BangaloreMarketplace/comments/1xrlc5q/selling_ps5_slim_digital_extra_controller/) — Price not found (score 70)
 
 
 ## Desktop PCs
