@@ -1,18 +1,18 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my Vivo V60](https://reddit.com/r/ChennaiBuyAndSell/comments/1xsiuxg/selling_my_vivo_v60/) — Rs.28,000 (score 100)
 
 
 ## Laptops
 
-- [MACBOOK PRO M1 32GB 1TB Purchased in 2022](https://reddit.com/r/BangaloreMarketplace/comments/1xsijnx/macbook_pro_m1_32gb_1tb_purchased_in_2022/) — Rs.80,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [iPad Air M3 (11", Light Blue, Wi-Fi, 128GB)](https://reddit.com/r/BangaloreMarketplace/comments/1xsio64/wts_ipad_air_m3_11_light_blue_wifi_128gb/) — Rs.50,000 (score 85)
 
 
 ## Game Consoles
