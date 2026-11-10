@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 07:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 14 Blue 128 Gb 79% Battery Health For Sale- Good Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xsgfx7/iphone_14_blue_128_gb_79_battery_health_for_sale/) — Rs.33,000 (score 85)
 
 
 ## Laptops
