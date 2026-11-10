@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 17:03 UTC
 
 ## Mobiles
 
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Air M2 11" (128 GB, Wi-Fi) + Apple Pencil Pro + Case + Charger | ₹45,000](https://reddit.com/r/HyderabadUsedItems/comments/1xsqouc/ipad_air_m2_11_128_gb_wifi_apple_pencil_pro_case/) — Rs.45,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [SEALED PLAYSTATION GAMES](https://reddit.com/r/bangloremarketplace/comments/1xsqy7h/sealed_playstation_games/) — Price not found (score 50)
 
 
 ## Desktop PCs
