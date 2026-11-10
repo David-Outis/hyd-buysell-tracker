@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 07:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 08:03 UTC
 
 ## Mobiles
 
-- [Iphone 14 Blue 128 Gb 79% Battery Health For Sale- Good Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xsgfx7/iphone_14_blue_128_gb_79_battery_health_for_sale/) — Rs.33,000 (score 85)
+- [SAMSUNG 23 under 25k,(Need bill & box)..](https://reddit.com/r/BangaloreMarketplace/comments/1xsh7ud/samsung_23_under_25kneed_bill_box/) — Rs.25,000 (score 70)
+- [iPhone 15 Pro Max 256GB – Excellent Condition – US Variant](https://reddit.com/r/BangaloreMarketplace/comments/1xsh77j/iphone_15_pro_max_256gb_excellent_condition_us/) — Rs.125,000 (score 85)
+- [iphone 14 pro, deep purple, 256 gb- well maintained condition](https://reddit.com/r/BangaloreMarketplace/comments/1xsgxv0/wts_iphone_14_pro_deep_purple_256_gb_well/) — Rs.47,000 (score 105)
 
 
 ## Laptops
