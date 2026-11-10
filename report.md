@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 17:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [my new Samsung Galaxy S26 12gb/256gb Silver Color variant.](https://reddit.com/r/BangaloreMarketplace/comments/1xss4bq/selling_my_new_samsung_galaxy_s26_12gb256gb/) — Rs.70,000 (score 100)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [SEALED PLAYSTATION GAMES](https://reddit.com/r/bangloremarketplace/comments/1xsqy7h/sealed_playstation_games/) — Price not found (score 50)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
