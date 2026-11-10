@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Google Pixel 10a 256GB](https://reddit.com/r/HyderabadUsedItems/comments/1xsfdp5/google_pixel_10a_256gb_for_sale/) — Rs.51,999 (score 120)
 
 
 ## Laptops
