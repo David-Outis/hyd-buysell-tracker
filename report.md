@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-09 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 01:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Acer Nitro 5 Gaming Laptop + Keychron K8 Pro Mechanical Keyboard](https://reddit.com/r/BangaloreMarketplace/comments/1xryo3h/acer_nitro_5_gaming_laptop_keychron_k8_pro/) — Rs.60,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
