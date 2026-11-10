@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 15:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Title: [Bangalore, India] MacBook Pro M4 Pro | 24GB RAM | 512GB SSD | 33 Battery Cycles |](https://reddit.com/r/BangaloreMarketplace/comments/1xsnz3o/title_wts_bangalore_india_macbook_pro_m4_pro_24gb/) — Price not found (score 90)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
