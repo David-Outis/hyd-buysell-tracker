@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 13:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Iphone 18pro max(256gb)](https://reddit.com/r/ChennaiBuyAndSell/comments/1xslqvm/wts_iphone_18pro_max256gb/) — Price not found (score 60)
 
 
 ## Laptops
