@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 10:33 UTC
 
 ## Mobiles
 
-- [my Vivo V60](https://reddit.com/r/ChennaiBuyAndSell/comments/1xsiuxg/selling_my_vivo_v60/) — Rs.28,000 (score 100)
+- [OnePlus Pad 2 8Gb/128Gb - Grey + OnePlus Smart Keyboard with Bluetooth](https://reddit.com/r/BangaloreMarketplace/comments/1xsj6rc/wts_oneplus_pad_2_8gb128gb_grey_oneplus_smart/) — Rs.32,000 (score 120)
 
 
 ## Laptops
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Air M3 (11", Light Blue, Wi-Fi, 128GB)](https://reddit.com/r/BangaloreMarketplace/comments/1xsio64/wts_ipad_air_m3_11_light_blue_wifi_128gb/) — Rs.50,000 (score 85)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Sony PS4 DualShock 4 Controller with DOBE Dual Charging Stand](https://reddit.com/r/HyderabadUsedItems/comments/1xsjakj/sony_ps4_dualshock_4_controller_with_dobe_dual/) — Rs.1,999 (score 65)
 
 
 ## Desktop PCs
