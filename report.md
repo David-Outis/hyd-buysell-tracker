@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-10 05:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 18 pro 512 GB Glacier blue sealed pack](https://reddit.com/r/HyderabadBuySell/comments/1xsa5ct/iphone_18_pro_512_gb_glacier_blue_sealed_pack/) — Rs.7,000 (score 105)
 
 
 ## Laptops
