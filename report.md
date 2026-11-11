@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 07:03 UTC
 
 ## Mobiles
 
-- [Iphone 15 128GB](https://reddit.com/r/HyderabadUsedItems/comments/1xta4bo/iphone_15_128gb_for_sale/) — Rs.42,000 (score 105)
-- [iPhone XR - in a great condition](https://reddit.com/r/BangaloreMarketplace/comments/1xtagp5/selling_iphone_xr_in_a_great_condition/) — Rs.14,000 (score 100)
+- [Moto Razr 60 Ultra](https://reddit.com/r/ChennaiBuyAndSell/comments/1xtaseh/moto_razr_60_ultra/) — Rs.70,000 (score 90)
 
 
 ## Laptops
@@ -13,14 +12,14 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Apple iPad 11th Gen (A16) – Wi-Fi 128GB – Silver – AppleCare+](https://reddit.com/r/ChennaiBuyAndSell/comments/1xtb4n1/wts_apple_ipad_11th_gen_a16_wifi_128gb_silver/) — Rs.42,000 (score 70)
 
 
 ## Game Consoles
 
-- [PS4 pro jb for 26k](https://reddit.com/r/ChennaiBuyAndSell/comments/1xta4kh/selling_ps4_pro_jb_for_26k/) — Rs.26,000 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [High end PC (Without GPU) available for sell](https://reddit.com/r/BangaloreMarketplace/comments/1xtb31q/high_end_pc_without_gpu_available_for_sell/) — Price not found (score 55)
