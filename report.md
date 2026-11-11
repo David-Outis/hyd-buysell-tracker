@@ -1,8 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 13:03 UTC
 
 ## Mobiles
 
-- [iPhone 16 Pro Max 256GB Desert Titanium | 100% Battery | ₹90,000 | Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1xtgjg8/selling_iphone_16_pro_max_256gb_desert_titanium/) — Rs.90,000 (score 120)
+- [Is iphone 14 pro max 256 gb bh 79 .a known person selling for 40k hyderabad. is it good or not value for money](https://reddit.com/r/HyderabadUsedItems/comments/1xtd4sm/is_iphone_14_pro_max_256_gb_bh_79_a_known_person/) — Rs.40,000 (score 90)
+- [iPhone 17 256GB Blue and White USED](https://reddit.com/r/ChennaiBuyAndSell/comments/1xth4uq/iphone_17_256gb_blue_and_white_used/) — Rs.71,000 (score 85)
+- [iPhone 17 256GB used Blue and White 2 units](https://reddit.com/r/BangaloreMarketplace/comments/1xth5uc/iphone_17_256gb_used_blue_and_white_2_units/) — Rs.71,000 (score 85)
 
 
 ## Laptops
