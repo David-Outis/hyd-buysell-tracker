@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 17:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [two HP Laptops (HP Gaming & HP Business Laptop) together for ₹45,000 | Located in Nagasandra, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xtmpbr/selling_two_hp_laptops_hp_gaming_hp_business/) — Rs.45,000 (score 90)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
