@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 10:33 UTC
 
 ## Mobiles
 
-- [iPhone 14 US variant (e-sim only) (Blue) (256 GB)](https://reddit.com/r/BangaloreMarketplace/comments/1xtdk3j/wts_iphone_14_us_variant_esim_only_blue_256_gb/) — Rs.29,000 (score 105)
+- [Pixel 11 pro xl for sell. 512gb fog colour like new](https://reddit.com/r/BangaloreMarketplace/comments/1xteacf/pixel_11_pro_xl_for_sell_512gb_fog_colour_like_new/) — Price not found (score 75)
 
 
 ## Laptops
 
-- [Need advice for my Lenovo Legion 5 Pro RTX 3060 6GB + 32GB + 1TB](https://reddit.com/r/BangaloreMarketplace/comments/1xtdy0a/need_advice_for_my_lenovo_legion_5_pro_rtx_3060/) — Price not found (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 slim disk 1TB in Excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1xte01b/ps5_slim_disk_1tb_in_excellent_condition_for_sale/) — Rs.58,500 (score 80)
 
 
 ## Desktop PCs
