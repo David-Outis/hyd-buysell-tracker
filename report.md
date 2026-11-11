@@ -1,10 +1,10 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 13:33 UTC
 
 ## Mobiles
 
-- [Is iphone 14 pro max 256 gb bh 79 .a known person selling for 40k hyderabad. is it good or not value for money](https://reddit.com/r/HyderabadUsedItems/comments/1xtd4sm/is_iphone_14_pro_max_256_gb_bh_79_a_known_person/) — Rs.40,000 (score 90)
-- [iPhone 17 256GB Blue and White USED](https://reddit.com/r/ChennaiBuyAndSell/comments/1xth4uq/iphone_17_256gb_blue_and_white_used/) — Rs.71,000 (score 85)
-- [iPhone 17 256GB used Blue and White 2 units](https://reddit.com/r/BangaloreMarketplace/comments/1xth5uc/iphone_17_256gb_used_blue_and_white_2_units/) — Rs.71,000 (score 85)
+- [iPhone 17 Air 256GB black](https://reddit.com/r/ChennaiBuyAndSell/comments/1xth9m7/iphone_17_air_256gb_black/) — Rs.75,000 (score 85)
+- [Samsung Galaxy Fold 7 used](https://reddit.com/r/ChennaiBuyAndSell/comments/1xth7s1/samsung_galaxy_fold_7_used/) — Rs.82,000 (score 85)
+- [Samsung Galaxy Fold 7 256GB lite used Singapore unit](https://reddit.com/r/BangaloreMarketplace/comments/1xth8fy/samsung_galaxy_fold_7_256gb_lite_used_singapore/) — Rs.82,000 (score 85)
 
 
 ## Laptops
