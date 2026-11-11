@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-10 18:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 01:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Realme buds air 8 ( i don't need it anymore)](https://reddit.com/r/BangaloreMarketplace/comments/1xt462r/realme_buds_air_8_i_dont_need_it_anymore/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [(Rs 79,999) Selling my Acer Predator Helios 300 Intel Core i9 11th Gen 11900H (Gaming Laptop)[Rarely Used]](https://reddit.com/r/bangloremarketplace/comments/1xstvm3/rs_79999_selling_my_acer_predator_helios_300/) — Rs.79,999 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
