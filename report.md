@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 14:33 UTC
 
 ## Mobiles
 
-- [DJI Osmo Mobile 6 & Healbe GoBe3 smart band](https://reddit.com/r/HyderabadUsedItems/comments/1xti2ee/dji_osmo_mobile_6_healbe_gobe3_smart_band/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MacBook Pro 16" M1 Pro, 32GB RAM, 512GB, 88% Battery, Box & Charger - ₹80,000 - Mahadevapura](https://reddit.com/r/BangaloreMarketplace/comments/1xtisa3/selling_macbook_pro_16_m1_pro_32gb_ram_512gb_88/) — Rs.80,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
