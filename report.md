@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 08:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 09:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oppo Find X9 (12/256gb) @ 56k(2months old)](https://reddit.com/r/BangaloreMarketplace/comments/1xtcnuj/wts_oppo_find_x9_12256gb_56k2months_old/) — Rs.56,000 (score 70)
 
 
 ## Laptops
 
-- [HP Victus High end laptop](https://reddit.com/r/HyderabadUsedItems/comments/1xtc5c6/hp_victus_high_end_laptop/) — Rs.85,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Multiple Playstation 4 Games Discs](https://reddit.com/r/BangaloreMarketplace/comments/1xtcmuf/selling_multiple_playstation_4_games_discs/) — Rs.1,600 (score 65)
 
 
 ## Desktop PCs
