@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 10:03 UTC
 
 ## Mobiles
 
-- [Iphone duo non active 256 gb](https://reddit.com/r/HyderabadUsedItems/comments/1xtd51h/iphone_duo_non_active_256_gb/) — Rs.265,000 (score 90)
+- [iPhone 14 US variant (e-sim only) (Blue) (256 GB)](https://reddit.com/r/BangaloreMarketplace/comments/1xtdk3j/wts_iphone_14_us_variant_esim_only_blue_256_gb/) — Rs.29,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Need advice for my Lenovo Legion 5 Pro RTX 3060 6GB + 32GB + 1TB](https://reddit.com/r/BangaloreMarketplace/comments/1xtdy0a/need_advice_for_my_lenovo_legion_5_pro_rtx_3060/) — Price not found (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
