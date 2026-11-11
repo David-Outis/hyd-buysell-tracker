@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 Pro Max 256GB Desert Titanium | 100% Battery | ₹90,000 | Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1xtgjg8/selling_iphone_16_pro_max_256gb_desert_titanium/) — Rs.90,000 (score 120)
 
 
 ## Laptops
