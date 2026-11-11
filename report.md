@@ -1,24 +1,25 @@
-# Hyderabad Buy/Sell Report - 2026-11-11 11:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-11 11:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [DJI Osmo Mobile 3 (Gimble)](https://reddit.com/r/HyderabadBuySell/comments/1xtasnf/dji_osmo_mobile_3_gimble/) — Rs.5,000 (score 105)
+- [Iphone 15 128GB](https://reddit.com/r/HyderabadBuySell/comments/1xta9r5/iphone_15_128gb_for_sale/) — Rs.38,000 (score 105)
+- [iPhone 15 Pro](https://reddit.com/r/HyderabadBuySell/comments/1xt8p49/iphone_15_pro_for_sale/) — Rs.56,000 (score 105)
 
 
 ## Laptops
 
-- [Lenovo Legion 5. Need help with figuring out the right selling price](https://reddit.com/r/BangaloreMarketplace/comments/1xtena8/wts_lenovo_legion_5_need_help_with_figuring_out/) — Price not found (score 70)
-- [Laptop Ram near North Bangalore Hebbal region](https://reddit.com/r/BangaloreMarketplace/comments/1xtekuh/selling_laptop_ram_near_north_bangalore_hebbal/) — Price not found (score 60)
+- [Gaming laptop | Lenovo LOQ Essential | i7 12th gen HX | RTX 4050](https://reddit.com/r/BangaloreMarketplace/comments/1xtf9u2/wts_gaming_laptop_lenovo_loq_essential_i7_12th/) — Rs.85,000 (score 120)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [IPad Air M1](https://reddit.com/r/ChennaiBuyAndSell/comments/1xtf61d/ipad_air_m1_for_sale/) — Rs.32,000 (score 70)
 
 
 ## Game Consoles
 
-- [Original PS4 + 15 Games | Bengaluru (Domlur)](https://reddit.com/r/BangaloreMarketplace/comments/1xtetc3/original_ps4_15_games_bengaluru_domlur/) — Rs.40,000 (score 100)
+- [Asus xbox ally (z2 extreme cpu 24gb ram )](https://reddit.com/r/BangaloreMarketplace/comments/1xtf8fj/wts_asus_xbox_ally_z2_extreme_cpu_24gb_ram/) — Price not found (score 50)
 
 
 ## Desktop PCs
