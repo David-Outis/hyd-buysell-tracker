@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 07:33 UTC
 
 ## Mobiles
 
-- [Samsung partybox t50 for sale 12000/- dm](https://reddit.com/r/HyderabadUsedItems/comments/1xu5vfv/samsung_partybox_t50_for_sale_12000_dm/) — Rs.12,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Looking to buy used laptop under 20k](https://reddit.com/r/bangloremarketplace/comments/1xu4dnm/looking_to_buy_used_laptop_under_20k/) — Rs.20,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [GTA 6 Ultimate Edition Code – PS5 | ₹7,000](https://reddit.com/r/bangloremarketplace/comments/1xu45f5/gta_6_ultimate_edition_code_ps5_7000/) — Rs.7,000 (score 85)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [[Bangalore] 1080p Gaming PC – GTX 1080, Xeon E3-1241 v3, 16GB RAM, RGB Case (₹27,000)](https://reddit.com/r/bangloremarketplace/comments/1xu66pd/for_sale_bangalore_1080p_gaming_pc_gtx_1080_xeon/) — Rs.27,000 (score 90)
