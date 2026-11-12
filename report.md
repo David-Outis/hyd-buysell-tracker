@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 15:03 UTC
 
 ## Mobiles
 
-- [Iphone 18 PRO MAX SEALED](https://reddit.com/r/HyderabadUsedItems/comments/1xudys2/iphone_18_pro_max_sealed/) — Price not found (score 75)
+- [Apple iPhone 12 Pro Max 128GB – Excellent Condition](https://reddit.com/r/BangaloreMarketplace/comments/1xuer7i/wts_apple_iphone_12_pro_max_128gb_excellent/) — Price not found (score 70)
 
 
 ## Laptops
