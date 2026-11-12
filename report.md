@@ -1,15 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 06:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Buds4 Pro – Black | ₹12,500 | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xu50i4/wts_samsung_galaxy_buds4_pro_black_12500_bengaluru/) — Rs.12,500 (score 90)
-- [[WTS/WTT] Samsung S25 Ultra 256GB - Titanium White Silver (3 Months Used, Pristine) – ₹75k or Exchange with iPhone 17 Pro + cash. [Bangalore]](https://reddit.com/r/BangaloreMarketplace/comments/1xu4rno/wtswtt_samsung_s25_ultra_256gb_titanium_white/) — Rs.75,000 (score 120)
+- [Iphone Brand new 17 Sage Green (256 GB ) For Sale, Price -76 K](https://reddit.com/r/HyderabadUsedItems/comments/1xu5e6q/iphone_brand_new_17_sage_green_256_gb_for_sale/) — Rs.76,000 (score 85)
+- [OnePlus Buds Pro 3](https://reddit.com/r/ChennaiBuyAndSell/comments/1xu5iiu/selling_oneplus_buds_pro_3/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [Need TN govt Laptop](https://reddit.com/r/ChennaiBuyAndSell/comments/1xu4m3i/need_tn_govt_laptop/) — Price not found (score 75)
-- [MacBook Air M5 16GB/512GB – ₹1,00,000 (Negotiable) | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xu4nos/wts_macbook_air_m5_16gb512gb_100000_negotiable/) — Rs.100,000 (score 120)
+- [Lenovo gaming laptop for ₹25,000](https://reddit.com/r/BangaloreMarketplace/comments/1xu5ife/selling_lenovo_gaming_laptop_for_25000/) — Rs.25,000 (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
