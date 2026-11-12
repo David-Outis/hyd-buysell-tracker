@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 17:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Buds Core ANC Wireless Earbuds Lightly used, faint marks on lid. ANC, 35hr battery, touch controls. Comes with box and earpads](https://reddit.com/r/BangaloreMarketplace/comments/1xugrlc/samsung_galaxy_buds_core_anc_wireless_earbuds/) — Rs.3,500 (score 100)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [MacBook Air M2 8GB RAM 256GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1xuh20a/macbook_air_m2_8gb_ram_256gb_ssd_for_sale/) — Rs.65,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
