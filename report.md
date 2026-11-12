@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 09:33 UTC
 
 ## Mobiles
 
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Iron 4-drawer storage cabinet available for sale.](https://reddit.com/r/ChennaiBuyAndSell/comments/1xu81ck/iron_4drawer_storage_cabinet_available_for_sale/) — Rs.3,000 (score 90)
