@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 12:03 UTC
 
 ## Mobiles
 
-- [IPHONE 17 EXCELLENT CONDITION...URGENT SALE](https://reddit.com/r/BangaloreMarketplace/comments/1xuae71/iphone_17_excellent_conditionurgent_sale/) — Price not found (score 55)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [Lenovo Legion Go Z1 Extreme 512GB](https://reddit.com/r/BangaloreMarketplace/comments/1xua2es/selling_lenovo_legion_go_z1_extreme_512gb/) — Rs.48,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
