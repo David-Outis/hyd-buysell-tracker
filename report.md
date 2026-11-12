@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 08:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [WD_BLACK SN850 1TB NVMe Gen4 SSD (PS5 & PC Compatible)](https://reddit.com/r/HyderabadUsedItems/comments/1xu6w70/wts_wd_black_sn850_1tb_nvme_gen4_ssd_ps5_pc/) — Rs.16,913 (score 115)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
