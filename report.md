@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 07:03 UTC
 
 ## Mobiles
 
-- [Iphone Brand new 17 Sage Green (256 GB ) For Sale, Price -76 K](https://reddit.com/r/HyderabadUsedItems/comments/1xu5e6q/iphone_brand_new_17_sage_green_256_gb_for_sale/) — Rs.76,000 (score 85)
-- [OnePlus Buds Pro 3](https://reddit.com/r/ChennaiBuyAndSell/comments/1xu5iiu/selling_oneplus_buds_pro_3/) — Price not found (score 55)
+- [Samsung partybox t50 for sale 12000/- dm](https://reddit.com/r/HyderabadUsedItems/comments/1xu5vfv/samsung_partybox_t50_for_sale_12000_dm/) — Rs.12,000 (score 70)
 
 
 ## Laptops
 
-- [Lenovo gaming laptop for ₹25,000](https://reddit.com/r/BangaloreMarketplace/comments/1xu5ife/selling_lenovo_gaming_laptop_for_25000/) — Rs.25,000 (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
