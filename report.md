@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 11:03 UTC
 
 ## Mobiles
 
-- [Galaxy S10 Plus Tab](https://reddit.com/r/HyderabadBuySell/comments/1xu84d3/wts_galaxy_s10_plus_tab/) — Price not found (score 60)
-- [seal pack US purchased iphone 18 pro max silver 256gb with bill, Price 160k fixed, FTF in Bengaluru, not interested please ignore the ad, no unncessary comments please 🙏, Interested folks please dm, thanks ✌️](https://reddit.com/r/BangaloreMarketplace/comments/1xu99bw/selling_seal_pack_us_purchased_iphone_18_pro_max/) — Rs.160,000 (score 90)
+- [Sale- Samsung 4K smart monitor 32 inch 60hz refresh rate](https://reddit.com/r/BangaloreMarketplace/comments/1xu9tzb/sale_samsung_4k_smart_monitor_32_inch_60hz/) — Rs.4,000 (score 85)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Price check, need more RAM looking to upgrade Macbook pro M3 max 36Gb 1TB](https://reddit.com/r/BangaloreMarketplace/comments/1xu9ktj/price_check_need_more_ram_looking_to_upgrade/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
