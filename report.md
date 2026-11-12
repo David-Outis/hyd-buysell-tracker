@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 16:03 UTC
 
 ## Mobiles
 
-- [IPHONE 18 PRO MAX SEALED!!](https://reddit.com/r/HyderabadBuySell/comments/1xuduro/iphone_18_pro_max_sealed/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -12,7 +12,7 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-_No new matching tablet listings found in this run._
+- [Xiaomi pad 8](https://reddit.com/r/HyderabadBuySell/comments/1xubrxm/xiaomi_pad_8/) — Price not found (score 60)
 
 
 ## Game Consoles
