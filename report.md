@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-12 04:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-12 04:33 UTC
 
 ## Mobiles
 
-- [Oneplus 8T (8+4)GB 128GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xu2sn9/wts_selling_oneplus_8t_84gb_128gb/) — Rs.19,000 (score 70)
-- [[Free] Pixel 9a Cases (Spigen & UAG) - Nagawara, Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xu2qga/free_pixel_9a_cases_spigen_uag_nagawara_bangalore/) — Price not found (score 60)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [MACBOOK PRO M2 pro with original bill and charger](https://reddit.com/r/BangaloreMarketplace/comments/1xu2wip/macbook_pro_m2_pro_with_original_bill_and_charger/) — Rs.90,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 Games - Ashes Cricket, Plants vs Zombies Battle for Neighbourville](https://reddit.com/r/BangaloreMarketplace/comments/1xu2yfd/wts_ps4_games_ashes_cricket_plants_vs_zombies/) — Price not found (score 70)
 
 
 ## Desktop PCs
