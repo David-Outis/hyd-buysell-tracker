@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 17:03 UTC
 
 ## Mobiles
 
-- [ViVO X300 fe green colour](https://reddit.com/r/HyderabadUsedItems/comments/1xvbqy0/wts_vivo_x300_fe_green_colour/) — Rs.82,000 (score 70)
-- [iPhone 14 Pro 128gb 85%Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1xvbs1k/wts_iphone_14_pro_128gb_85battery_health/) — Rs.50,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -18,8 +17,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [[Rent] PS5 for GTA 6 launch: Nov 19 – Dec 25](https://reddit.com/r/BangaloreMarketplace/comments/1xvc0nf/rent_ps5_for_gta_6_launch_nov_19_dec_25/) — Rs.7,500 (score 85)
-- [PS5 Digital Edition (slim) Console 825 GB with disc drive included.Selling F2F only](https://reddit.com/r/BangaloreMarketplace/comments/1xvc09j/selling_ps5_digital_edition_slim_console_825_gb/) — Rs.60,000 (score 80)
+- [ROG Xbox Ally X20 – 20th Anniversary Limited Edition Bundle](https://reddit.com/r/BangaloreMarketplace/comments/1xvd9ss/rog_xbox_ally_x20_20th_anniversary_limited/) — Rs.85,000 (score 65)
+- [Xbox series s 512 gb for sale. Dm for queries](https://reddit.com/r/BangaloreMarketplace/comments/1xvclj6/wts_xbox_series_s_512_gb_for_sale_dm_for_queries/) — Rs.34,500 (score 85)
 
 
 ## Desktop PCs
