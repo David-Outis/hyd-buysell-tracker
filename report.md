@@ -1,25 +1,26 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 11:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone duo sealed white indian 256gb , for sale in Rajajinagar](https://reddit.com/r/BangaloreMarketplace/comments/1xv4yrj/iphone_duo_sealed_white_indian_256gb_for_sale_in/) — Rs.285,000 (score 105)
+- [samsung tab a11 plus wifi version](https://reddit.com/r/BangaloreMarketplace/comments/1xv4fgw/selling_samsung_tab_a11_plus_wifi_version/) — Rs.19,000 (score 105)
 
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo ThinkPad T470 business laptop / i7/16gb/256gn ssd](https://reddit.com/r/BangaloreMarketplace/comments/1xv4533/lenovo_thinkpad_t470_business_laptop_i716gb256gn/) — Price not found (score 55)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [[Tablet] Apple iPad Pro M4 | 11-inch, 256GB, 83% Battery Health | Chennai | ₹69,999](https://reddit.com/r/ChennaiBuyAndSell/comments/1xv4bxy/tablet_apple_ipad_pro_m4_11inch_256gb_83_battery/) — Rs.69,999 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [GOW Ragnarok Ps5 disc](https://reddit.com/r/HyderabadUsedItems/comments/1xv4286/gow_ragnarok_ps5_disc/) — Price not found (score 70)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [Budget Gaming PC Setup with 23.8" FHD Display (Core Parts Under Warranty)](https://reddit.com/r/HyderabadUsedItems/comments/1xv4sts/budget_gaming_pc_setup_with_238_fhd_display_core/) — Price not found (score 90)
