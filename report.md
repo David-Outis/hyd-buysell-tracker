@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 16:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 16:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Book6 Pro 16" (Intel Core Ultra X7, 32GB RAM, 1TB SSD) - Under Extended 3-Year Warranty](https://reddit.com/r/HyderabadBuySell/comments/1xv4r0r/wts_samsung_galaxy_book6_pro_16_intel_core_ultra/) — Rs.215,000 (score 100)
+- [ViVO X300 fe green colour](https://reddit.com/r/HyderabadUsedItems/comments/1xvbqy0/wts_vivo_x300_fe_green_colour/) — Rs.82,000 (score 70)
+- [iPhone 14 Pro 128gb 85%Battery Health](https://reddit.com/r/BangaloreMarketplace/comments/1xvbs1k/wts_iphone_14_pro_128gb_85battery_health/) — Rs.50,000 (score 105)
 
 
 ## Laptops
@@ -17,7 +18,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [GOW Ragnarok PS5.](https://reddit.com/r/HyderabadBuySell/comments/1xv41eb/gow_ragnarok_ps5/) — Price not found (score 70)
+- [[Rent] PS5 for GTA 6 launch: Nov 19 – Dec 25](https://reddit.com/r/BangaloreMarketplace/comments/1xvc0nf/rent_ps5_for_gta_6_launch_nov_19_dec_25/) — Rs.7,500 (score 85)
+- [PS5 Digital Edition (slim) Console 825 GB with disc drive included.Selling F2F only](https://reddit.com/r/BangaloreMarketplace/comments/1xvc09j/selling_ps5_digital_edition_slim_console_825_gb/) — Rs.60,000 (score 80)
 
 
 ## Desktop PCs
