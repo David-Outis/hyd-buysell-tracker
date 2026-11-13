@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 15:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Pixel 11 exchange](https://reddit.com/r/ChennaiBuyAndSell/comments/1xva1n0/pixel_11_exchange/) — Price not found (score 75)
 
 
 ## Laptops
@@ -22,4 +22,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [Need suggestions on the resale value of my Gaming PC + Dell Monitor (Bangalore)](https://reddit.com/r/BangaloreMarketplace/comments/1xv8rcv/need_suggestions_on_the_resale_value_of_my_gaming/) — Price not found (score 90)
+_No new desktop PC listings found in this run._
