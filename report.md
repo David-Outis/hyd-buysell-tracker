@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 08:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 08:33 UTC
 
 ## Mobiles
 
-- [Oneplus pad 3 | 12GB/256GB | Scratch less condition | 100% battery health | 3 charging cycles | with stylus, oneplus folio case & type c hub](https://reddit.com/r/HyderabadUsedItems/comments/1xv1qb3/oneplus_pad_3_12gb256gb_scratch_less_condition/) — Rs.5,000 (score 120)
+- [Moto G35 5G [WTS/SELLING]](https://reddit.com/r/HyderabadUsedItems/comments/1xv2b7g/moto_g35_5g_wtsselling/) — Rs.8,000 (score 85)
 
 
 ## Laptops
