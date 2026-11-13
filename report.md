@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 06:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [HP Laptop | 13th Gen Intel Core i5 | 8GB RAM | 512GB SSD | Hyderabad](https://reddit.com/r/HyderabadUsedItems/comments/1xuzc4b/for_sale_hp_laptop_13th_gen_intel_core_i5_8gb_ram/) — Rs.35,000 (score 120)
+- [URGENT SALE: Lenovo Legion Pro 5 Intel (16-inch) – RTX 5060 | ₹1,65,000](https://reddit.com/r/BangaloreMarketplace/comments/1xuzypw/urgent_sale_lenovo_legion_pro_5_intel_16inch_rtx/) — Rs.165,000 (score 100)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
