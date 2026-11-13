@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 02:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 03:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [ps5 digital less used in mint condition](https://reddit.com/r/BangaloreMarketplace/comments/1xuvzgu/selling_ps5_digital_less_used_in_mint_condition/) — Price not found (score 70)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
