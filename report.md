@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 15:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 16:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Book6 Pro 16" (Intel Core Ultra X7, 32GB RAM, 1TB SSD) - Under Extended 3-Year Warranty](https://reddit.com/r/HyderabadBuySell/comments/1xv4r0r/wts_samsung_galaxy_book6_pro_16_intel_core_ultra/) — Rs.215,000 (score 100)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [GOW Ragnarok PS5.](https://reddit.com/r/HyderabadBuySell/comments/1xv41eb/gow_ragnarok_ps5/) — Price not found (score 70)
 
 
 ## Desktop PCs
