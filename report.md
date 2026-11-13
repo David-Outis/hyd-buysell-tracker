@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 15:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 15:33 UTC
 
 ## Mobiles
 
-- [Pixel 11 exchange](https://reddit.com/r/ChennaiBuyAndSell/comments/1xva1n0/pixel_11_exchange/) — Price not found (score 75)
+_No new mobile listings found in this run._
 
 
 ## Laptops
