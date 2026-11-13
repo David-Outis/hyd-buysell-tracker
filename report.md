@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-13 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-13 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Brand new Oneplus Pad 4, 512GB Storage & 12GB Ram (WiFi)](https://reddit.com/r/BangaloreMarketplace/comments/1xv6h46/selling_brand_new_oneplus_pad_4_512gb_storage/) — Rs.65,000 (score 120)
 
 
 ## Laptops
@@ -12,12 +12,12 @@ _No new laptop listings found in this run._
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Pro 2018, 64GB WiFi-only version](https://reddit.com/r/BangaloreMarketplace/comments/1xv5z2k/selling_ipad_pro_2018_64gb_wifionly_version/) — Rs.26,000 (score 70)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 slim digital 1TB](https://reddit.com/r/HyderabadUsedItems/comments/1xv6cjv/ps5_slim_digital_1tb_for_sale/) — Rs.60,000 (score 80)
 
 
 ## Desktop PCs
