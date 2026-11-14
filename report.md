@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-14 06:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-14 06:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [iPhone 16 pro](https://reddit.com/r/HyderabadUsedItems/comments/1xvvbai/selling_iphone_16_pro/) — Rs.75,000 (score 105)
+- [Samsung HW-Q60T/XL](https://reddit.com/r/ChennaiBuyAndSell/comments/1xvv9mh/samsung_hwq60txl/) — Price not found (score 75)
 
 
 ## Laptops
