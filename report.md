@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-14 12:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-14 13:03 UTC
 
 ## Mobiles
 
-- [Lenovo ThinkPad P15 Gen 1 Mobile Workstation | i7 10th Gen | 64GB RAM | 1TB NVMe | Quadro RTX 3000 (6GB) | F2F](https://reddit.com/r/BangaloreMarketplace/comments/1xw12h5/wts_lenovo_thinkpad_p15_gen_1_mobile_workstation/) — Rs.65,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,10 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Crucial BX500 2TB SSD(x2)[4TB] for sale PC/PS4/PS5](https://reddit.com/r/BangaloreMarketplace/comments/1xw15so/crucial_bx500_2tb_ssdx24tb_for_sale_pcps4ps5/) — Rs.13,000 (score 65)
-- [I’m looking to buy a Ps5 that’s not overpriced.](https://reddit.com/r/BangaloreMarketplace/comments/1xw150g/im_looking_to_buy_a_ps5_thats_not_overpriced/) — Rs.45,000 (score 65)
+- [Xbox series s . Not from bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xw1s0n/selling_xbox_series_s_not_from_bangalore/) — Rs.35,000 (score 85)
 
 
 ## Desktop PCs
 
-- [PC accessories, gaming gear, Hot Wheels F1/Batman diecasts, LEGO F1 & RC car](https://reddit.com/r/BangaloreMarketplace/comments/1xw0ymv/wts_pc_accessories_gaming_gear_hot_wheels/) — Rs.1,600 (score 70)
+_No new desktop PC listings found in this run._
