@@ -1,14 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-14 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-14 10:33 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Z Fold 8 Ultra](https://reddit.com/r/HyderabadUsedItems/comments/1xvyfbb/samsung_galaxy_z_fold_8_ultra/) — Price not found (score 55)
-- [Vivo X300 exchange/sale - Samsung/iPhone/Pixel - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xvyokw/vivo_x300_exchangesale_samsungiphonepixel/) — Rs.63,000 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
 
-- [ASUS VivoBook Ryzen 5 5500U Laptop for Sale – 8GB RAM, 1TB Storage](https://reddit.com/r/BangaloreMarketplace/comments/1xvymrh/asus_vivobook_ryzen_5_5500u_laptop_for_sale_8gb/) — Price not found (score 75)
+- [[Laptop] [HP] Pavilion 14 | Ryzen 5 5625U, 8GB RAM, 512GB SSD](https://reddit.com/r/BangaloreMarketplace/comments/1xvz6w6/wts_laptop_hp_pavilion_14_ryzen_5_5625u_8gb_ram/) — Rs.28,500 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
