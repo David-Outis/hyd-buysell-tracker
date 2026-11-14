@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-14 14:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-14 14:33 UTC
 
 ## Mobiles
 
@@ -7,12 +7,12 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [my MacBook Pro 1Tb / 16gb ram / i9 intel](https://reddit.com/r/BangaloreMarketplace/comments/1xw3tce/selling_my_macbook_pro_1tb_16gb_ram_i9_intel/) — Price not found (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [Apple iPad Pro M4 11-inch (2024) | 256GB Wi-Fi + Apple Pencil Pro | ₹92,000 | Bengaluru](https://reddit.com/r/BangaloreMarketplace/comments/1xw2lqy/wts_apple_ipad_pro_m4_11inch_2024_256gb_wifi/) — Rs.92,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
