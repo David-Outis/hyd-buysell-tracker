@@ -1,9 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-14 06:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-14 07:03 UTC
 
 ## Mobiles
 
-- [iPhone 16 pro](https://reddit.com/r/HyderabadUsedItems/comments/1xvvbai/selling_iphone_16_pro/) — Rs.75,000 (score 105)
-- [Samsung HW-Q60T/XL](https://reddit.com/r/ChennaiBuyAndSell/comments/1xvv9mh/samsung_hwq60txl/) — Price not found (score 75)
+- [iPhone 16 Pro max for sale - 256GB - White](https://reddit.com/r/BangaloreMarketplace/comments/1xvvomn/iphone_16_pro_max_for_sale_256gb_white/) — Rs.85,000 (score 100)
 
 
 ## Laptops
@@ -18,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Ps5 digital standard edition single controller F2F](https://reddit.com/r/BangaloreMarketplace/comments/1xvvoq9/ps5_digital_standard_edition_single_controller_f2f/) — Rs.40,000 (score 80)
 
 
 ## Desktop PCs
