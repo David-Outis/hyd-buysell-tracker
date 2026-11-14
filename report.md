@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-14 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-14 12:33 UTC
 
 ## Mobiles
 
-- [Redmi 10 Snapdragon 680 4GB RAM, 64GB Storage](https://reddit.com/r/BangaloreMarketplace/comments/1xw0q2b/wtsredmi_10_snapdragon_680_4gb_ram_64gb_storage/) — Rs.4,000 (score 90)
+- [Lenovo ThinkPad P15 Gen 1 Mobile Workstation | i7 10th Gen | 64GB RAM | 1TB NVMe | Quadro RTX 3000 (6GB) | F2F](https://reddit.com/r/BangaloreMarketplace/comments/1xw12h5/wts_lenovo_thinkpad_p15_gen_1_mobile_workstation/) — Rs.65,000 (score 105)
 
 
 ## Laptops
@@ -17,9 +17,10 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Crucial BX500 2TB SSD(x2)[4TB] for sale PC/PS4/PS5](https://reddit.com/r/BangaloreMarketplace/comments/1xw15so/crucial_bx500_2tb_ssdx24tb_for_sale_pcps4ps5/) — Rs.13,000 (score 65)
+- [I’m looking to buy a Ps5 that’s not overpriced.](https://reddit.com/r/BangaloreMarketplace/comments/1xw150g/im_looking_to_buy_a_ps5_thats_not_overpriced/) — Rs.45,000 (score 65)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [PC accessories, gaming gear, Hot Wheels F1/Batman diecasts, LEGO F1 & RC car](https://reddit.com/r/BangaloreMarketplace/comments/1xw0ymv/wts_pc_accessories_gaming_gear_hot_wheels/) — Rs.1,600 (score 70)
