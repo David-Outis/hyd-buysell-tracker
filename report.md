@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-11-14 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-14 10:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung Galaxy Z Fold 8 Ultra](https://reddit.com/r/HyderabadUsedItems/comments/1xvyfbb/samsung_galaxy_z_fold_8_ultra/) — Price not found (score 55)
+- [Vivo X300 exchange/sale - Samsung/iPhone/Pixel - Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xvyokw/vivo_x300_exchangesale_samsungiphonepixel/) — Rs.63,000 (score 105)
 
 
 ## Laptops
 
-- [MacBook Air - 2017 13" | i5 | 8GB | 128GB | Bangalore](https://reddit.com/r/BangaloreMarketplace/comments/1xvy69r/wts_macbook_air_2017_13_i5_8gb_128gb_bangalore/) — Rs.14,000 (score 105)
+- [ASUS VivoBook Ryzen 5 5500U Laptop for Sale – 8GB RAM, 1TB Storage](https://reddit.com/r/BangaloreMarketplace/comments/1xvymrh/asus_vivobook_ryzen_5_5500u_laptop_for_sale_8gb/) — Price not found (score 75)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PlayStation duel sense controller](https://reddit.com/r/ChennaiBuyAndSell/comments/1xvxycs/playstation_duel_sense_controller/) — Rs.3,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
