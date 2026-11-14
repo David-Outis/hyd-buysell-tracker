@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-11-14 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-14 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Oppo Find X9 Ultra Aramid Fiber Case - Brand New](https://reddit.com/r/BangaloreMarketplace/comments/1xw8q4p/oppo_find_x9_ultra_aramid_fiber_case_brand_new/) — Rs.1,499 (score 105)
+- [nothing phone 3a and its adapter as well](https://reddit.com/r/BangaloreMarketplace/comments/1xw8ket/selling_nothing_phone_3a_and_its_adapter_as_well/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [Lenovo T470 i5 7th gen, 16gb ram, 256gb ssd Touchscreen Laptop for Sale - 25K](https://reddit.com/r/BangaloreMarketplace/comments/1xw7mmm/lenovo_t470_i5_7th_gen_16gb_ram_256gb_ssd/) — Rs.25,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -22,4 +23,4 @@ _No new game console listings found in this run._
 
 ## Desktop PCs
 
-- [7 inch FPV drone long range prebuilt](https://reddit.com/r/BangaloreMarketplace/comments/1xw7rw6/selling_7_inch_fpv_drone_long_range_prebuilt/) — Rs.24,500 (score 70)
+_No new desktop PC listings found in this run._
