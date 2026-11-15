@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-15 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-15 15:04 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S26 Ultra 256GB | Black | Full Box & Bill](https://reddit.com/r/BangaloreMarketplace/comments/1xwwx1d/samsung_galaxy_s26_ultra_256gb_black_full_box_bill/) — Rs.110,000 (score 100)
+- [these iPhone 4s | iPod Touch 4th gen | iPhone 5s (phones are activation locked)](https://reddit.com/r/HyderabadUsedItems/comments/1xwwznj/selling_these_iphone_4s_ipod_touch_4th_gen_iphone/) — Price not found (score 60)
+- [a brand-new Samsung Essential S3 24" monitor](https://reddit.com/r/bangloremarketplace/comments/1xwro4v/selling_a_brandnew_samsung_essential_s3_24_monitor/) — Rs.6,500 (score 70)
 
 
 ## Laptops
@@ -17,7 +18,8 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [a ps4 slim with two controller 800gb no dents it’s in good condition](https://reddit.com/r/bangloremarketplace/comments/1xwu23l/selling_a_ps4_slim_with_two_controller_800gb_no/) — Rs.23,000 (score 65)
+- [Brand new Ps5 slim 1tb digital edition in excellent condition](https://reddit.com/r/bangloremarketplace/comments/1xwozi6/brand_new_ps5_slim_1tb_digital_edition_in/) — Price not found (score 50)
 
 
 ## Desktop PCs
