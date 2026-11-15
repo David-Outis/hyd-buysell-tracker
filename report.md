@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-15 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-15 10:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Vivo X300 256gb immaculate condition (under warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1xws4et/vivo_x300_256gb_immaculate_condition_under/) — Rs.71,999 (score 100)
 
 
 ## Laptops
