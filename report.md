@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-15 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-15 11:03 UTC
 
 ## Mobiles
 
-- [Vivo X300 256gb immaculate condition (under warranty)](https://reddit.com/r/BangaloreMarketplace/comments/1xws4et/vivo_x300_256gb_immaculate_condition_under/) — Rs.71,999 (score 100)
+- [Samsung Galaxy S26 Ultra 5G – Brand New Condition | Bill & Box | Under Warranty](https://reddit.com/r/HyderabadBuySell/comments/1xwqyxm/samsung_galaxy_s26_ultra_5g_brand_new_condition/) — Rs.118,000 (score 120)
 
 
 ## Laptops
@@ -17,9 +17,9 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [Marvel's Wolverine PS5 Disc](https://reddit.com/r/HyderabadBuySell/comments/1xws7at/marvels_wolverine_ps5_disc/) — Rs.3,600 (score 65)
 
 
 ## Desktop PCs
 
-_No new desktop PC listings found in this run._
+- [PC components](https://reddit.com/r/HyderabadBuySell/comments/1xwqr6c/pc_components_for_sale/) — Rs.11,000 (score 90)
