@@ -1,8 +1,9 @@
-# Hyderabad Buy/Sell Report - 2026-11-15 05:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-15 05:33 UTC
 
 ## Mobiles
 
-- [pixel 9a (fingerprint not working)](https://reddit.com/r/HyderabadBuySell/comments/1xwmoxa/selling_pixel_9a_fingerprint_not_working/) — Rs.15,000 (score 90)
+- [Iphone 17 pro max 512 gb Orange Mint Condition With Box and Bill Price 1,25,000 Negotiable](https://reddit.com/r/HyderabadBuySell/comments/1xwmvs9/iphone_17_pro_max_512_gb_orange_mint_condition/) — Rs.25,000 (score 120)
+- [Samsung Galaxy Tab S9 FE+ 5G 12GB/256 GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xwn9ol/samsung_galaxy_tab_s9_fe_5g_12gb256_gb/) — Rs.55,000 (score 70)
 
 
 ## Laptops
@@ -17,7 +18,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS4 1TB](https://reddit.com/r/HyderabadUsedItems/comments/1xwmeib/selling_ps4_1tb/) — Rs.19,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
