@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-15 04:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-15 05:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [pixel 9a (fingerprint not working)](https://reddit.com/r/HyderabadBuySell/comments/1xwmoxa/selling_pixel_9a_fingerprint_not_working/) — Rs.15,000 (score 90)
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS4 1TB](https://reddit.com/r/HyderabadUsedItems/comments/1xwmeib/selling_ps4_1tb/) — Rs.19,000 (score 80)
 
 
 ## Desktop PCs
