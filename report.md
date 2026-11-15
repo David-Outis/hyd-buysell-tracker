@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-15 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-15 02:03 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [NINTENDO SWITCH OLED MODDED TOTALLY NEW](https://reddit.com/r/BangaloreMarketplace/comments/1xwhwpg/wts_nintendo_switch_oled_modded_totally_new/) — Price not found (score 70)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
