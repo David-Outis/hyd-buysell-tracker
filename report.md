@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-15 07:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-15 07:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Apple IPhone 12 - 128 GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xwp9wr/apple_iphone_12_128_gb_for_sale/) — Rs.18,000 (score 90)
 
 
 ## Laptops
@@ -17,8 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Nintendo Switch V2](https://reddit.com/r/HyderabadUsedItems/comments/1xwomqo/selling_nintendo_switch_v2/) — Rs.14,000 (score 115)
-- [Brand new Ps5 slim 1tb digital edition in excellent condition](https://reddit.com/r/BangaloreMarketplace/comments/1xwoze3/brand_new_ps5_slim_1tb_digital_edition_in/) — Rs.57,500 (score 100)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
