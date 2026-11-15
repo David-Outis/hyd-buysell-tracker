@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-15 17:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-15 17:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [Wolverine PS5 Game Disc for Sale (Price ₹3100 - Negotiable)](https://reddit.com/r/BangaloreMarketplace/comments/1xx0j3s/wolverine_ps5_game_disc_for_sale_price_3100/) — Rs.3,100 (score 85)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
