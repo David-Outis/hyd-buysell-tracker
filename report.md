@@ -1,13 +1,14 @@
-# Hyderabad Buy/Sell Report - 2026-11-16 17:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-16 18:03 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Samsung 5,000mAh Power Bank – Brand New, Unused | With Invoice](https://reddit.com/r/HyderabadUsedItems/comments/1xxvy4g/wts_samsung_5000mah_power_bank_brand_new_unused/) — Rs.2,650 (score 85)
+- [Samsung 5,000mAh Power Bank – Brand New, Unused | With Invoice](https://reddit.com/r/ChennaiBuyAndSell/comments/1xxvyx9/wts_samsung_5000mah_power_bank_brand_new_unused/) — Price not found (score 55)
 
 
 ## Laptops
 
-- [HP Pavilion Gaming 2022 | Ryzen 5 5600H | GTX 1650 | 16GB/512GB](https://reddit.com/r/BangaloreMarketplace/comments/1xxvez2/wts_hp_pavilion_gaming_2022_ryzen_5_5600h_gtx/) — Rs.38,000 (score 100)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
