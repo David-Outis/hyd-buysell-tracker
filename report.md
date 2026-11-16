@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-16 12:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-16 12:33 UTC
 
 ## Mobiles
 
-_No new mobile listings found in this run._
+- [Gamesir x2 pro: Literally unused, mobile handheld.](https://reddit.com/r/BangaloreMarketplace/comments/1xxnz4u/gamesir_x2_pro_literally_unused_mobile_handheld/) — Rs.2,500 (score 90)
 
 
 ## Laptops
 
-- [Lenovo IdeaPad S340 and some broken phones](https://reddit.com/r/BangaloreMarketplace/comments/1xxni0s/lenovo_ideapad_s340_and_some_broken_phones/) — Rs.11,000 (score 85)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PS5 Disc Edition (1 Yr Old) + 10 Games + New 15.6" Acer Portable Monitor | Bill & Box](https://reddit.com/r/BangaloreMarketplace/comments/1xxnqt1/ps5_disc_edition_1_yr_old_10_games_new_156_acer/) — Rs.20,000 (score 100)
 
 
 ## Desktop PCs
