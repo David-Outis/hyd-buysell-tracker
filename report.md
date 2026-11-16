@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-16 11:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-16 12:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Lenovo IdeaPad S340 and some broken phones](https://reddit.com/r/BangaloreMarketplace/comments/1xxni0s/lenovo_ideapad_s340_and_some_broken_phones/) — Rs.11,000 (score 85)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
