@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-16 10:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-16 11:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Apple MacBook Pro 16-inch (2019) | Core i7 | 16GB RAM | 4GB Dedicated GPU | Only 123 Battery Cycles](https://reddit.com/r/BangaloreMarketplace/comments/1xxm6p9/apple_macbook_pro_16inch_2019_core_i7_16gb_ram/) — Rs.42,000 (score 105)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PlayStation 5 slim 1024GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xxlv1p/playstation_5_slim_1024gb/) — Rs.46,000 (score 80)
+_No new game console listings found in this run._
 
 
 ## Desktop PCs
