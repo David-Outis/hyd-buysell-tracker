@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-16 10:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-16 10:33 UTC
 
 ## Mobiles
 
-- [Sell vivo v27,u can negotiate with me in dm .f2f also preferred](https://reddit.com/r/BangaloreMarketplace/comments/1xxlk1t/sell_vivo_v27u_can_negotiate_with_me_in_dm_f2f/) — Rs.18,000 (score 70)
+_No new mobile listings found in this run._
 
 
 ## Laptops
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [PlayStation 5 slim 1024GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xxlv1p/playstation_5_slim_1024gb/) — Rs.46,000 (score 80)
 
 
 ## Desktop PCs
