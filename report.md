@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-16 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-16 09:33 UTC
 
 ## Mobiles
 
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-- [PS5-COD MW4 (2026) South Bangalore ₹5900](https://reddit.com/r/BangaloreMarketplace/comments/1xxkf6a/ps5cod_mw4_2026_south_bangalore_5900/) — Rs.5,900 (score 85)
+- [my Ps5 standard disk edition with two games included](https://reddit.com/r/BangaloreMarketplace/comments/1xxkthh/selling_my_ps5_standard_disk_edition_with_two/) — Rs.50,000 (score 100)
 
 
 ## Desktop PCs
