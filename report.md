@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-16 13:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-16 13:33 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Free pc laptop cleaning done if you purchase our thermal paste for 399rs](https://reddit.com/r/BangaloreMarketplace/comments/1xxp4je/free_pc_laptop_cleaning_done_if_you_purchase_our/) — Price not found (score 60)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
