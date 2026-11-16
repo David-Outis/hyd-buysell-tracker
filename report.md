@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-16 01:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-16 02:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [[Laptop] [Apple] MacBook Pro 13-inch M1 | 8GB RAM, 256GB SSD | Bengaluru | ₹50,000 non negotiable](https://reddit.com/r/BangaloreMarketplace/comments/1xxc7tk/laptop_apple_macbook_pro_13inch_m1_8gb_ram_256gb/) — Rs.50,000 (score 120)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
