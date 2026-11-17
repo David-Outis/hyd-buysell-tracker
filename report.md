@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-17 16:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-17 17:03 UTC
 
 ## Mobiles
 
@@ -7,12 +7,12 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-_No new laptop listings found in this run._
+- [Query regarding laptop parts sale. Lenovo Loq 15iax9 rtx 4050](https://reddit.com/r/BangaloreMarketplace/comments/1xypktz/query_regarding_laptop_parts_sale_lenovo_loq/) — Price not found (score 70)
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
 
-- [iPad Pro 12.9" (2022, M2, 128GB, Wi-Fi) + Keyboard Case + Box – ₹85,000 (Negotiable) – BTM Layout 2nd Stage](https://reddit.com/r/BangaloreMarketplace/comments/1xyocva/selling_ipad_pro_129_2022_m2_128gb_wifi_keyboard/) — Rs.85,000 (score 120)
+_No new matching tablet listings found in this run._
 
 
 ## Game Consoles
