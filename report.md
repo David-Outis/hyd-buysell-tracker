@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-17 09:03 UTC
+# Hyderabad Buy/Sell Report - 2026-11-17 09:33 UTC
 
 ## Mobiles
 
-- [Samsung S26 Ultra,512gb Variant Urgent Selling](https://reddit.com/r/HyderabadUsedItems/comments/1xyf8um/samsung_s26_ultra512gb_variant_urgent_selling/) — Price not found (score 90)
+- [Google pixel 11 512GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xyfpeh/google_pixel_11_512gb/) — Rs.90,000 (score 85)
 
 
 ## Laptops
