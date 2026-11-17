@@ -1,13 +1,13 @@
-# Hyderabad Buy/Sell Report - 2026-11-17 13:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-17 14:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy S26 12gb/256gb Silver Color Variant.](https://reddit.com/r/BangaloreMarketplace/comments/1xykde0/selling_samsung_galaxy_s26_12gb256gb_silver_color/) — Price not found (score 70)
+- [Samsung Galaxy Buds 4 Pro original Sealed Pack with Bill](https://reddit.com/r/BangaloreMarketplace/comments/1xykxoj/samsung_galaxy_buds_4_pro_original_sealed_pack/) — Rs.16,000 (score 85)
 
 
 ## Laptops
 
-- [my Macbook Air M4 256 GB 2025](https://reddit.com/r/HyderabadBuySell/comments/1xyitk1/selling_my_macbook_air_m4_256_gb_2025/) — Price not found (score 70)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
@@ -17,7 +17,7 @@ _No new matching tablet listings found in this run._
 
 ## Game Consoles
 
-_No new game console listings found in this run._
+- [xbox series s with 2 controllers ( sparingly used)](https://reddit.com/r/BangaloreMarketplace/comments/1xykkyj/selling_xbox_series_s_with_2_controllers/) — Rs.30,000 (score 85)
 
 
 ## Desktop PCs
