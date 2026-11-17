@@ -1,4 +1,4 @@
-# Hyderabad Buy/Sell Report - 2026-11-17 05:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-17 06:03 UTC
 
 ## Mobiles
 
@@ -7,7 +7,7 @@ _No new mobile listings found in this run._
 
 ## Laptops
 
-- [Macbook air m2 with box 8/256gb 96% battery health mint condition 69k](https://reddit.com/r/HyderabadBuySell/comments/1xy880m/macbook_air_m2_with_box_8256gb_96_battery_health/) — Rs.69,000 (score 105)
+_No new laptop listings found in this run._
 
 
 ## Tablets (iPad 10th-gen+/Air/Pro/Mini, Mi Pad 6/7/8 only)
