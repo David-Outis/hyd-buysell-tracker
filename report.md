@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-17 14:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-17 15:03 UTC
 
 ## Mobiles
 
-- [Samsung Galaxy Buds 2 Pro (Graphite Colour) : ₹3,500](https://reddit.com/r/BangaloreMarketplace/comments/1xylb5c/samsung_galaxy_buds_2_pro_graphite_colour_3500/) — Rs.3,500 (score 105)
+_No new mobile listings found in this run._
 
 
 ## Laptops
