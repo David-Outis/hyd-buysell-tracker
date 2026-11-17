@@ -1,8 +1,8 @@
-# Hyderabad Buy/Sell Report - 2026-11-17 09:33 UTC
+# Hyderabad Buy/Sell Report - 2026-11-17 10:03 UTC
 
 ## Mobiles
 
-- [Google pixel 11 512GB](https://reddit.com/r/ChennaiBuyAndSell/comments/1xyfpeh/google_pixel_11_512gb/) — Rs.90,000 (score 85)
+- [Samsung A14 for sale (for sale phone Samsung)](https://reddit.com/r/BangaloreMarketplace/comments/1xyg8oy/samsung_a14_for_sale_for_sale_phone_samsung/) — Rs.8,000 (score 85)
 
 
 ## Laptops
